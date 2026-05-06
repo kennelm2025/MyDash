@@ -37,3 +37,10 @@ Edit freely — commit changes and the next run will pick them up.
 4. 🧭 Trips & VIP
 5. 🐆 Dogs — Greyhound Racing
 6. 🎯 Today's Action Items (numbered, max 5)
+7. 🪙 Crypto & digital assets
+
+# --- Crypto & digital assets ---
+https://cointelegraph.com/rss
+https://www.coindesk.com/arc/outboundfeeds/rss
+https://decrypt.co/feed
+https://www.theblock.co/rss.xml
