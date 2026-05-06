@@ -1,77 +1,85 @@
 # Personal Dashboard — Wednesday 06 May 2026
 
-*Last refreshed: Wednesday 06 May 2026, 15:57 UTC*
+*Last refreshed: Wednesday 06 May 2026, 16:20 UTC*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **Oil & markets:** Reports of a US-Iran deal sent oil prices down and stock markets up — worth watching for travel cost implications.
-- **Airlines squeezed:** 13,000 flights cut in May due to soaring jet fuel; nearly 2 million seats removed (Cirium data).
-- **UK banking:** TUC pushing to raise bank windfall tax from 3% back to 8% after Q1 profits hit £14bn for the big four.
-- **HSBC trouble:** $400m fraud-related charge linked to Apollo/MFS exposure, plus $300m Iran war provision — shares slid.
-- **TSB brand disappearing:** Santander to retire the 215-year-old TSB name after £2.65bn takeover completes.
+- **Iran deal signals emerging**: Oil prices dropped and markets rose on reports of a US-Iran memorandum; Trump still threatening bombing, so volatility likely continues.
+- **HSBC posts $400m fraud-related hit** via Apollo/MFS exposure; shares slid alongside a $300m Iran-war provision.
+- **Santander to retire TSB brand** after 215 years on UK high streets — major consolidation story.
+- **Global finance watchdog flags private credit/AI nexus** as potential systemic risk; worth watching for advisory work.
+- **Hantavirus cruise evacuations off Cape Verde** — ship now heading to Spain; if you're tracking luxury cruises, note the Silversea disruption chatter online.
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed:**
+**What's moved since last refresh:**
 
-- **Agentic AI governance goes native:** Google made agentic AI governance a built-in product feature at Cloud Next '26 — no longer a bolt-on. This shifts the burden from custom enterprise builds to vendor-supported tooling. Relevant for your cutover and model-risk advisory work.
-- **FSB flags private credit/AI risk:** The Financial Stability Board warned that private credit funding AI infrastructure could create "sizeable" losses if there's a sharp correction. Tech, healthcare and services are top borrowers. Worth tracking for bank exposure conversations.
-- **Anthropic launches Cowork:** A no-code agentic tool letting non-technical users run Claude in local files. Built in about a month — signals rapid iteration on desktop agents.
-- **Physical AI governance:** AI News reports rising concern over autonomous systems in robots and industrial equipment — testing and monitoring protocols lag behind capability.
+- **Anthropic ships Cowork** — a no-code desktop agent built on Claude Code that edits local files autonomously. Built in roughly a week internally, signalling rapid iteration on agentic tooling. Relevant if clients ask about "agents for business users."
+- **Google Home upgrades to Gemini 3.1** — multi-step, combined commands now supported. Less about banking, more about how agentic orchestration is going consumer-grade fast.
+- **Chrome silently downloading 4 GB Gemini Nano model** to some users' machines — governance red flag for enterprise fleets; raises questions about on-device model deployment policies.
+- **FSB warning on private credit funding AI boom** — the Financial Stability Board report notes tech/AI as top borrower segment; a sharp correction could create "sizeable" losses. Directly relevant to your regulated-sector readiness conversations.
 
-**Banking-specific:** SAP's new positioning frames enterprise AI governance as a profit-margin protection play, replacing "statistical guesses with deterministic control." Could resonate in model-risk discussions with UK lenders.
+**Agentic / coding agents round-up:**
+- Nous Research released **NousCoder-14B** (open-source, competitive benchmarks).
+- VentureBeat contrasts **Goose** (free) vs Claude Code ($200/mo) — useful if PwC clients baulk at Anthropic licensing.
+
+**No new FCA or UK regulator statements on AI model risk today.** If you need fresh material for DORA or model-risk governance, the FSB private-credit note is the closest hook.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK focus:**
+**UK Big Four — headlines this cycle:**
 
-- 🔥 **TUC windfall tax push:** Unions want the bank surcharge restored to 8% (from 3%) following the big four's combined £14bn Q1 profit. Expect political noise ahead of any Autumn Statement.
-- **HSBC:** Q1 profits hit by $1.3bn total drag — $400m fraud exposure via Apollo's MFS lending, plus $300m Iran-conflict provision. Shares fell on the news.
-- **NatWest:** £140m Iran-war provision, with almost half of its £283m impairment charge linked to macro reassessment (slower UK growth, rising inflation).
-- **TSB gone:** Santander completing £2.65bn acquisition; the TSB name — 215 years on British high streets — will be retired.
-- **Barclay family avoids bankruptcy:** 11th-hour settlement with HSBC over £143m debt; HSBC has withdrawn high court proceedings.
+| Bank | Update |
+|------|--------|
+| **HSBC** | Q1 profits down; $400m fraud charge (Apollo/MFS), plus $300m Iran-war provision. Shares fell. |
+| **NatWest** | Flagged £140m potential Iran-war hit; UK growth outlook softening; inflation rising. Profits still beat expectations. |
+| **Lloyds / Barclays** | No fresh earnings this cycle, but TUC calling for windfall-tax hike from 3% → 8% citing £14bn combined Q1 profit across big four. |
 
-**International:**
+**Other movers:**
+- **Santander acquiring TSB** — £2.65bn deal confirmed; TSB brand disappearing from high streets after 215 years.
+- **Barclay family settles with HSBC** — £143m debt dispute resolved; bankruptcy avoided.
+- **Morgan Stanley** launching spot crypto trading on E*Trade — notable as a mainstream-bank crypto play.
+- **UniCredit** posts record profit, still pursuing €35bn Commerzbank bid.
 
-- UniCredit posted record profit, helped by stakes in other banks; still pressing its €35bn Commerzbank bid.
-- Deutsche Bank denying market manipulation training claims in a £12m lawsuit from a former commodities trader.
+**Mortgage / rates:** Australian context only in today's feed (banks being squeezed to "edge-of-cliff" rates). UK swap rates and BoE direction quiet today — watch Thursday releases.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Air travel alert:**
+**Travel watch:**
+- 🔥 **Fuel-related flight cuts**: 13,000 flights trimmed globally in May; BBC urging passengers not to cancel pre-emptively. If you're booking Kenya or SA safaris soon, lock transfers and confirm domestic-leg operators.
+- **Next raising prices 8% outside Europe** due to Iran-war logistics costs — UK prices unchanged for now.
+- **Hantavirus outbreak on luxury cruise off Cape Verde** — two seriously ill evacuated; ship now heading to Spain. No operator named, but monitor if considering Atlantic itineraries.
 
-- 🔥 **Flight cuts:** 13,000 flights removed this month due to jet fuel prices — schedule changes possible on summer bookings. Check Kerry and London-Dublin connections if booked.
-- **Next price rises:** Up to 8% on non-Europe orders due to Iran war shipping/logistics costs. UK unaffected for now.
-- **Cruise caution:** A hantavirus outbreak stranded a luxury cruise off Cape Verde since Sunday; three evacuated (two serious). Ship now heading to Spain. No brand named in RTE coverage — worth checking Silversea/Regent/Crystal bulletins before any Med bookings.
+**Kerry short-break / Dublin luxury:** Nothing new flagged. Evergreen suggestion: Sheen Falls Lodge sometimes releases late-spring midweek availability around now — worth a quick check.
 
-**No fresh luxury cruise or safari deals in today's feed.** Evergreen suggestion: Silversea's 2027 East Africa itineraries typically open around Q2 — may be worth checking their site this week if Kenya/Tanzania is on the horizon.
+**AI events:** No new Dublin/London/Amsterdam conference announcements in this feed cycle.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-No fresh Tralee, Cork, or Limerick racing news in today's sources. 
+No fresh Tralee Kingdom Stadium, Cork, or Limerick results or fixtures in today's sources.
 
-**Suggestion:** Kingdom Stadium usually posts weekend card previews by Thursday — check their site or social tomorrow for any Saturday fixtures.
+**Standing suggestion:** Check the IGB website or Racing Post Greyhounds for tonight's Tralee card — Wednesday is typically an active night at Kingdom Stadium.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Check summer flight bookings** — confirm schedules for any Kerry or London-Dublin flights given the 13,000-flight May cuts.
-2. **Review HSBC/NatWest earnings notes** — useful colour for any upcoming client conversations on UK bank resilience.
-3. **Skim Google's agentic governance announcement** — potential talking point for agentic-AI-readiness advisory positioning.
-4. **Verify cruise line outbreak status** — quick check of Silversea/Regent/Crystal comms before any Med booking decisions.
-5. **Set reminder for Thursday** — check Tralee Kingdom Stadium for weekend race card.
+1. **Skim the FSB private-credit report** for AI-funding risk language — useful for your next agentic-AI governance deck.
+2. **Note HSBC and NatWest Iran-war provisions** — potential talking point if Lloyds or Barclays advisory conversations come up.
+3. **Confirm any upcoming safari or long-haul bookings** — fuel disruption and flight cuts may affect schedules; chase your travel agent for operator status.
+4. **Check Tralee Kingdom Stadium fixture list** for tonight's races.
+5. **Glance at Sheen Falls Lodge availability** for a spontaneous Kerry midweek break.
 
 ---
 
-*All sources scanned; nothing invented. Travel-light week — keep the powder dry for better weekend intel.*
+*Markets jittery, agents proliferating, greyhounds running — keep an eye on the Iran headlines overnight.*
