@@ -1,0 +1,17 @@
+# RSS feeds the dashboard pulls from before calling the AI models.
+# One URL per line. Lines starting with # are ignored.
+# You can edit this file directly in GitHub's web UI — next run picks it up.
+
+# --- UK / world business + banking ---
+https://feeds.bbci.co.uk/news/business/rss.xml
+https://www.theguardian.com/business/banking/rss
+https://www.ft.com/banks?format=rss
+
+# --- AI / tech ---
+https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+https://venturebeat.com/category/ai/feed/
+https://www.artificialintelligence-news.com/feed/
+
+# --- Ireland / Kerry ---
+https://www.rte.ie/news/rss/news-headlines.xml
+https://www.irishtimes.com/cmlink/news-1.1319192
