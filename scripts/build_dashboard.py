@@ -145,15 +145,18 @@ def claude_write_dashboard(profile: str, rss_block: str, grok_block: str) -> str
     london_now = datetime.now(ZoneInfo("Europe/London"))
     today_str = london_now.strftime("%A %d %B %Y")
     refresh_label = london_now.strftime("%H:%M %Z")
-    system = (
+   system = (
         "You are writing a personal daily dashboard in markdown. "
         "Follow the section order in the owner's profile exactly. "
         "Be specific, concrete, and grounded in the source material provided — "
         "do NOT invent stories. If a section has no fresh material, say so briefly "
         "and offer one evergreen suggestion. Use the tone described in the profile. "
-        "Output ONLY the markdown body — no preamble, no code fences."
+        "Output ONLY the markdown body — no preamble, no code fences. "
+        "CRITICAL: Use the exact date and refresh-time strings provided in the user "
+        "message verbatim — do not convert, reformat, or change the timezone. "
+        "If told the time is '18:06 BST', write '18:06 BST' — never UTC."
     )
-
+    
     user = f"""# Owner Profile
 {profile}
 
