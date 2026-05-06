@@ -1,76 +1,65 @@
 # Personal Dashboard — Wednesday 06 May 2026
 
-*Last refreshed: Wednesday 06 May 2026, 19:01 BST*
+*Last refreshed: Wednesday 06 May 2026, 20:54 BST*
 
 ## 📊 Today's Quick Snapshot (5 bullets)
 
-- **Iran talks shift markets:** Oil prices down and equities up on reports of a potential US-Iran deal framework — Next flagged no extra UK price rises but warned of up to 8% hikes outside Europe from shipping cost pressures
-- 🔥 **HSBC profits hit:** Q1 results show $400m fraud-related charge (via Apollo/MFS lending) plus $300m Middle East conflict provisions; shares slid
-- **NatWest Iran exposure:** Bank disclosed £140m potential hit amid slowing UK growth forecasts and rising inflation expectations
-- **TUC demands windfall tax rise:** Unions push for bank levy back to 8% (from 3%) after big-four UK lenders posted £14bn combined Q1 profit
-- **Santander absorbs TSB:** 215-year-old TSB brand disappearing from UK high streets after £2.65bn Santander takeover completes
+- 🔥 **Iran war de-escalation hopes lift markets** — Oil prices drop, stocks rise on reports of possible US-Iran deal after days of escalation (BBC)
+- **HSBC takes $1.3bn profit hit** — Includes $400m fraud-related charge via Apollo/MFS exposure plus $300m Middle East conflict provision (Guardian/FT)
+- **TSB brand disappearing** — Santander to remove the 215-year-old TSB name from UK high streets following £2.65bn takeover (FT)
+- **Mira Murati testifies Altman lied** — Former OpenAI CTO says under oath she couldn't trust CEO on safety standards; Musk v. Altman trial continues (The Verge)
+- **Bitcoin at $92k** — 8% surge driven by ETF inflows; Morgan Stanley launching spot crypto trading on E*Trade (CoinDesk/FT)
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed today:**
+**What's changed:**
+- **FSB flags private credit/AI risk** — Financial Stability Board warns the private credit industry fuelling AI infrastructure could trigger "sizeable losses" in a correction (Guardian) — relevant for client advisory on AI financing governance
+- **Anthropic launches Cowork** — New Claude Desktop agent works in local files without coding; built in ~a week, extending Claude Code to non-technical users — watch for enterprise adoption curve (VentureBeat)
+- **Google ships agentic governance tooling** — Native governance features for agentic AI now a product, not afterthought; enterprises still lagging (AI News)
+- **Physical AI governance emerging** — New questions surfacing around autonomous AI in robots/sensors; testing and monitoring frameworks remain immature (AI News)
 
-- **Financial Stability Board warning:** Global watchdog flagged that private credit's AI-boom lending could backfire — "sizeable losses" risk if there's a sharp correction. Direct relevance to your advisory work on governed AI rollouts
-- **Mira Murati's deposition bombshell:** OpenAI's former CTO testified under oath that Sam Altman lied about safety standards for a new model — governance credibility questions intensify as Musk v. Altman trial continues
-- **Google agentic AI governance:** Two weeks post-Cloud Next, Google made agentic AI governance a native product feature — sets a benchmark enterprise clients will expect; worth noting for DORA-adjacent conversations
-- **Anthropic launches Cowork:** New Claude Desktop agent lets non-technical users work in files directly — built in ~2 weeks, extends Claude Code to business users. Potential workflow tool for consultancy document handling
-- **Railway's $100m raise:** AI-native cloud infrastructure play positioning against AWS; 2m developers acquired organically — signals infrastructure shift worth tracking for bank cloud migrations
-
-**Evergreen note:** SAP published guidance on how enterprise AI governance protects margins through deterministic control vs statistical outputs — useful framing for client conversations on model risk.
+**Advisory angle:** Google making governance a product feature validates your "governed cutovers" positioning. The FSB warning on AI-linked private credit adds a new risk dimension for banking clients.
 
 ## 🏦 Banking Sector
 
-**UK banks — the week's picture:**
+**UK headlines:**
+- 🔥 **TUC demands windfall tax hike** — Unions want bank levy returned from 3% to 8% after Big Four post £14bn combined Q1 profit (Guardian)
+- **NatWest: £140m Iran war hit** — Almost half of £283m impairment charge tied to Middle East forecast reassessment; UK growth slowing, inflation rising (Guardian)
+- **HSBC fraud exposure** — $400m loss came via Apollo's lending to collapsed mortgage lender MFS; shares slid on announcement (FT/Guardian)
+- **Barclay family escapes bankruptcy** — 11th-hour HSBC settlement over £143m debt; Telegraph owners avoid court (Guardian)
 
-- 🔥 **HSBC under pressure:** Beyond the $400m fraud charge, the London-headquartered bank took a combined $1.3bn profit hit this quarter. Watch for FCA scrutiny on the Apollo lending exposure
-- **NatWest's dual headache:** £283m total impairment charge, with roughly half (£140m) attributed to Iran conflict economic fallout — inflation rising, growth slowing
-- **Barclay family settles:** Aidan and Howard Barclay avoided bankruptcy via 11th-hour HSBC deal over £143m debt — high court proceedings withdrawn
-- **Morgan Stanley crypto move:** E*Trade platform launching spot crypto trading — one of first major Wall Street lenders offering direct service; FCA watching for UK implications
-- **UniCredit profits surge:** Italian lender's record results driven partly by stakes in other banks; €35bn Commerzbank bid still live
-
-**Regulatory/structural:**
-
-- TUC windfall tax push unlikely to gain immediate traction but signals political pressure building
-- US SEC proposing semi-annual reporting option — if adopted, could influence UK listing rules eventually
+**Rates & mortgages:** No fresh rate move in today's sources, though NatWest flagged inflation pressures. Australian banks facing "edge of cliff" rate dynamics — interesting parallel for UK variable holders (Guardian).
 
 ## 🧭 Trips & VIP
 
-**Fresh material limited today — here's what's relevant:**
+**Fresh finds:**
+- No new Kerry or safari deals in today's feed — earlier Silversea Kerry-Dublin 2027 add-on and Abercrombie & Kent Maasai Mara offer from Grok briefing remain live if not yet booked.
 
-- **Fuel situation stable for now:** BBC reports airlines have cut 13,000 flights globally in May due to jet fuel costs, but authorities urging passengers not to cancel — worth monitoring before booking new long-haul
-- **Crystal Cruises / Silversea:** No new deals surfaced today. The flash sale mentioned in earlier briefings (Kenya, Oct departures) still worth pursuing if active
-
-**Evergreen suggestion:** With Iran tensions potentially easing (deal reports), this could be a window to lock in Kenya/SA safari pricing before any rebound in travel costs. Consider checking Abercrombie & Kent or Silversea for Q4 availability.
-
-**Kerry note:** Nothing new on Listowel-area luxury stays today. Shannon private transfers remain the smoothest route.
+**Evergreen suggestion:** With oil prices volatile and Next flagging 8% price rises outside Europe from Iran war logistics costs, locking in any pending travel soon could hedge against further increases.
 
 ## 🐆 Dogs — Greyhound Racing
 
-**No fresh fixture news in today's feeds for Tralee Kingdom Stadium, Cork, or Limerick.**
+**Tonight at Tralee:** Kingdom Stadium A3 525 Final, first race 7:40pm — card likely concluded by now given the 20:54 refresh time; check results on IGB.tv or GreyhoundRacing.ie.
 
-**Standing suggestion:** Check IGB.ie directly for tonight's Tralee card — Wednesday evenings typically feature mid-week racing. The Kingdom Stadium A2 525 finals are usually the highlight when scheduled.
+No fresh Cork or Limerick updates in tonight's sources. Thursday A2 entries at Limerick flagged earlier remain worth tracking.
 
 ## 🎯 Today's Action Items
 
-1. **Review HSBC fraud exposure details** — understand Apollo/MFS lending structure; relevant if advising on counterparty risk governance
-2. **Scan FSB private credit report** — direct implications for AI-boom lending discussions with banking clients
-3. **Check IGB.ie** for Tralee Wednesday card and streaming options
-4. **Monitor Iran deal progress** — if confirmed, reassess travel booking timing for Kenya/SA trips
-5. **Skim Google's agentic AI governance product docs** — useful reference for DORA-aligned client conversations
+1. **Review HSBC fraud exposure details** — Apollo/MFS angle could inform client discussions on counterparty AI-lending risk
+2. **Scan FSB private credit/AI report** — New governance dimension for advisory deck
+3. **Check Tralee results** — A3 525 Final outcomes now available (IGB.tv)
+4. **Monitor Musk v. Altman trial updates** — Murati testimony could shift OpenAI governance narrative; implications for enterprise AI partnerships
+5. **Confirm any pending travel bookings** — Next's price warning signals logistics cost pass-through accelerating
 
-## 🪙 Crypto & digital assets
+## 🪙 Crypto & Digital Assets
 
-**From today's feeds:**
+**What's moved:**
+- **Morgan Stanley enters spot crypto** — E*Trade platform to offer spot trading; one of first major Wall Street banks to do so (FT)
+- **Bitcoin at $92k** — ETF-driven rally continues; BlackRock Bitcoin ETF reportedly at $50bn AUM (Grok briefing/CoinDesk)
+- **Ethereum ETF momentum** — ETH reportedly at $4.2k on approval optimism; FCA watching retail access (Cointelegraph via Grok)
 
-- **Morgan Stanley's E*Trade crypto launch** (FT) — Wall Street legitimisation continues; spot trading for retail clients is a significant shift
-- **No major UK-specific regulatory news today** — FCA stablecoin and custody frameworks remain in consultation
-
-**Worth watching:** If Morgan Stanley's move prompts Barclays or HSBC to accelerate custody offerings, that's a direct UK banking angle for your advisory work.
+No fresh Irish CBDC updates in RSS feed tonight.
 
 ---
 
-*Quieter news day on travel and racing; banking and AI governance dominated. Iran developments worth tracking overnight.*
+*Markets hopeful on Iran; banks absorbing war costs; AI governance finally becoming product. Quiet night for Kerry travel — check those Tralee results.*
