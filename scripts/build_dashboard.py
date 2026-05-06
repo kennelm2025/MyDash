@@ -145,7 +145,7 @@ def claude_write_dashboard(profile: str, rss_block: str, grok_block: str) -> str
     london_now = datetime.now(ZoneInfo("Europe/London"))
     today_str = london_now.strftime("%A %d %B %Y")
     refresh_label = london_now.strftime("%H:%M %Z")
-   system = (
+    system = (
         "You are writing a personal daily dashboard in markdown. "
         "Follow the section order in the owner's profile exactly. "
         "Be specific, concrete, and grounded in the source material provided — "
