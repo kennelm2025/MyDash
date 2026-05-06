@@ -1,96 +1,74 @@
 # Personal Dashboard — Wednesday 06 May 2026
 
-*Last refreshed: Wednesday 06 May 2026, 18:44 BST*
+*Last refreshed: Wednesday 06 May 2026, 18:55 BST*
 
 ---
 
-## 📊 Today's Quick Snapshot
+## 📊 Today's Quick Snapshot (5 bullets)
 
-- **UK banks under political pressure**: TUC calling for windfall tax hike from 3% to 8% after big four post £14bn Q1 profits combined
-- **HSBC rattled**: $400m fraud charge (via Apollo/MFS exposure) plus $300m Middle East conflict provision hit profits; shares slid
-- **TSB brand disappearing**: Santander finalising £2.65bn takeover — 215 years of the TSB name ending on UK high streets
-- **Agentic AI governance now a product**: Google Cloud Next '26 made agent governance a native feature — enterprise laggards take note
-- **Iran deal hopes lift markets**: Oil prices dropping, stocks rising on reports of US-Iran memorandum progress; Next confirms no extra UK price hikes
+- 🔥 **Oil prices drop, markets rise** on reports of potential US-Iran deal framework; Next holding UK prices but hiking up to 8% outside Europe due to Iran war costs
+- **HSBC profits hit** by $400m fraud-related charge (via Apollo/MFS exposure) plus $300m additional provision for Middle East conflict — shares sliding
+- **NatWest £140m Iran war provision** disclosed; UK growth slowing and inflation rising per their outlook
+- **TUC calls for bank windfall tax hike** from 3% to 8% after Big Four post £14bn combined Q1 profits
+- **Santander removing TSB brand** from British high streets after 215-year presence following £2.65bn takeover
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed since last refresh:**
+**What's changed:**
+- **Financial Stability Board warning** on private credit fuelling the AI boom — flagging potential "sizeable losses" if corrections hit. Tech, healthcare, and services named as biggest borrowers. Relevant for your advisory work on AI infrastructure risk.
+- **Google made agentic AI governance a native product feature** at Cloud Next '26 — no longer just bolt-on. Enterprises now expected to catch up on governed agentic deployments (echoes your FAB/ABSA cutover experience).
+- **Anthropic launched Cowork** — Claude Desktop agent for non-technical users, working directly in files. Built in ~3 weeks. Significant for enterprise adoption without coding dependency.
+- **Physical AI governance** now front and centre as autonomous systems move into robotics/industrial equipment. Testing, monitoring, and stopping mechanisms under scrutiny.
 
-- **Google productised agentic governance** at Cloud Next '26 — native monitoring, testing, and control for autonomous AI agents. This is exactly the "governed cutovers" space you advise on; enterprises now have a vendor benchmark to measure against.
-
-- **Anthropic launched Cowork** — Claude Desktop agent that works directly in files without coding. Built the feature in weeks; signals how rapidly agentic tooling is moving from dev-only to business-user territory. Also relevant: their Claude Code now has open-source competition from **Nous Research's NousCoder-14B**, trained in weeks and matching larger proprietary systems.
-
-- **Physical AI governance emerging as a concern** — autonomous systems in robotics/industrial settings creating testing and accountability gaps. Worth flagging to banking clients considering AI in physical security or branch automation.
-
-- **FSB warning on private credit + AI**: Financial Stability Board report notes private credit funding the AI boom could lead to "sizeable" losses in a correction. Cross-cutting banking/AI risk story.
-
-**Enterprise/banking-specific:**
-- Salesforce rebuilt Slackbot as a full AI agent — searching, acting, not just notifying. Microsoft reshuffled leadership to put LinkedIn/Office chief over Teams, consolidating workplace AI strategy.
-- Google Home's Gemini 3.1 upgrade handles multi-step tasks — consumer signal for what enterprise assistants will soon do.
+**Production/banking angles:**
+- SAP positioning enterprise AI governance as margin protection — deterministic control over statistical guesses.
+- US government expanding AI defence supplier roster: Microsoft, Amazon, Nvidia, Reflection AI added. Anthropic's role reportedly being reconsidered.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK Big Four:**
+**UK Priority:**
+- 🔥 **HSBC** — $1.3bn total profit hit: $400m fraud charge (Apollo lending to collapsed MFS), plus $300m extra for Iran war provisions. London shares down.
+- **NatWest** — £140m Iran-related provision; almost half of £283m impairment charge follows forecast reassessment. Profits beat expectations despite this.
+- **TUC pressure** — unions want bank surcharge restored from 3% to 8% following strong Q1 across Big Four (£14bn combined).
+- **Barclay family** avoids bankruptcy — 11th-hour HSBC settlement over £143m debt; Telegraph ownership saga continues.
+- **Santander/TSB merger** — TSB brand disappearing from high streets; combined business to run as Santander UK.
 
-- 🔥 **HSBC**: Profits down materially — $1.3bn total hit comprising $400m fraud exposure (Apollo lending to collapsed MFS) plus $300m Iran war provisions. Shares fell. Watch for further impairment if Middle East conflict drags.
+**Mortgage rates:** No fresh UK rate cuts in today's feeds. Australian lenders guidance on "edge of cliff" rates may signal negotiation tactics worth watching if UK banks follow.
 
-- **NatWest**: £140m Iran war cost flagged in Q1 results (1 May); almost half of £283m impairment charge tied to revised UK growth/inflation forecasts.
-
-- **Big four profits trigger political response**: TUC demanding windfall tax restored to 8% (from 3%) after combined £14bn Q1 profits. Labour manifesto territory — may resurface in autumn budget discussions.
-
-- **Barclay family avoids bankruptcy**: 11th-hour HSBC deal over £143m debt; former Telegraph owners off the hook.
-
-**Other moves:**
-
-- **Santander/TSB**: Brand retirement confirmed post-£2.65bn acquisition. Combined entity runs as Santander UK. Branch rationalisation likely.
-
-- **Morgan Stanley** launching spot crypto trading on E*Trade — one of first major US banks to offer direct service.
-
-- **UniCredit** posted record profit, pressing €35bn bid for Commerzbank.
-
-**Regulatory/market:**
-- US SEC proposing semi-annual (not quarterly) earnings reporting — worth watching if UK FCA considers alignment.
+**Regulatory:** No new FCA announcements in today's batch. DORA and model risk remain standing items.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**No fresh Kerry or safari-specific content today.** Here's what's relevant:
+**No fresh luxury travel material today.** Standing suggestions:
 
-- **Cruise health alert**: Hantavirus outbreak on a cruise ship (two Irish nationals affected); Department of Health arranging quarantine on return. If you're eyeing any near-term sailings, confirm health protocols — particularly for expedition-style or smaller vessels.
-
-- **Flight disruption context**: BBC urging passengers not to cancel despite global fuel shortage worries (13,000 flights cut in May from jet fuel price spikes). Private transfers and fly-in safaris less exposed but worth confirming operator fuel surcharges.
-
-- **Ireland electricity costs**: Highest in EU per Eurostat — factor into any Kerry cottage bookings with electric heating.
-
-**Evergreen suggestion:** Silversea's 2027 Africa programme typically opens mid-year — might be worth a speculative call to your travel consultant on Cape Town-to-Kenya itineraries before the diaries fill.
+- **Kerry short break** — Listowel/Tralee area timing could align with tonight's greyhound card at Kingdom Stadium; consider Ballygarry House or Ballyseede Castle for a midweek couple escape.
+- **Silversea/Regent monitoring** — worth a quick check on their sites for any flash summer Mediterranean or repositioning deals; nothing surfaced in today's feeds.
+- **Dublin AI event watch** — keep an eye on AI & Big Data Expo (San Jose 18-19 May) for Europe follow-ons; HP briefings on enterprise AI/data at that event.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**No fresh Tralee, Cork, or Limerick racing headlines in today's feeds.**
+**No fresh Tralee/Cork/Limerick fixture news in today's feeds.** 
 
-**Standing tip:** Kingdom Stadium's Friday night meetings remain the anchor fixture. Check IGB website mid-week for any Derby trial updates or feature race cards. The summer open-race season ramps up from late May — good time to book a Listowel trip around a Tralee Saturday card if one aligns.
+Standing suggestion: Check Irish Greyhound Board site for this week's Kingdom Stadium card — typically Wednesday/Friday racing. Cork and Limerick fixtures usually Thursday/Saturday.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Read the FSB private credit report** — good ammunition for any banking client conversations about AI funding concentration risk.
-
-2. **Review Google's agentic governance announcement** — benchmark it against your current advisory framework for governed cutovers.
-
-3. **Check HSBC analyst notes** — fraud exposure details (Apollo/MFS) may surface model risk or counterparty due diligence angles useful for advisory.
-
-4. **Confirm any upcoming cruise bookings** have current health/quarantine protocols in light of hantavirus incident.
-
-5. **Ping IGB or Tralee track** for the weekend card — if anything interesting, could combine with a Friday Kerry overnight.
+1. **Review HSBC exposure** if relevant to any advisory clients — fraud charge and Iran provisions material for banking AI risk discussions
+2. **Scan FSB private credit/AI report** for client-ready talking points on governed AI infrastructure risk
+3. **Check Tralee Kingdom Stadium site** for tonight's race card and any A-grade finals worth attending
+4. **Bookmark Google agentic governance feature** — useful reference for legacy-to-AI integration pitches
+5. **Quick Silversea/Regent site check** for any unpublicised summer cruise deals (Kenya/SA or Dublin-London routes)
 
 ---
 
-*Markets cautiously optimistic on Iran; banks taking lumps. Keep powder dry.*
+*Quiet day for travel and dogs; banking and AI governance dominate. Keep eyes on Iran deal developments overnight.*
