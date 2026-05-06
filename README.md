@@ -1,83 +1,90 @@
 # Personal Dashboard — Wednesday 06 May 2026
 
-*Last refreshed: Wednesday 06 May 2026, 18:25 BST*
+*Last refreshed: Wednesday 06 May 2026, 18:34 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **Oil & markets:** Reports of a potential US-Iran deal have pushed oil prices down and lifted stock markets — travel costs may ease if confirmed.
-- **UK banking:** TUC calls for windfall tax increase on banks (3% → 8%) after big four posted £14bn Q1 profits; HSBC took a $1.3bn hit including $400m fraud-related charge; NatWest facing £140m Iran war provisions.
-- **Agentic AI push:** Anthropic launched "Cowork" — a file-based Claude Desktop agent for non-technical users; Google formalised agentic AI governance as a native product feature.
-- **TSB brand exit:** Santander to remove TSB from British high streets after 215-year run following £2.65bn takeover.
-- **Travel alert:** Hantavirus outbreak on luxury cruise near Cape Verde — ship heading to Spain, three evacuated (two serious).
+- **Oil prices drop** after reports of a potential US-Iran deal — easing some travel cost pressure but Mideast situation remains fluid
+- **HSBC profits hit** by $400m fraud-related charge via Apollo/MFS exposure, plus $300m Iran war provision — shares sliding
+- **NatWest flagged £140m Iran war impact** last week; TUC now calling for bank windfall tax hike from 3% back to 8%
+- **Santander to retire TSB brand** from UK high streets after 215 years following £2.65bn takeover
+- **Anthropic launches Cowork** — Claude Desktop agent for non-coders, built in weeks; Google also testing "Remy" personal agent internally
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**Agentic AI governance goes native**
-Google Cloud Next '26 made agentic governance a built-in product feature rather than an afterthought. This is directly relevant to your advisory work — enterprises now have a reference architecture for governed multi-agent workflows. Worth tracking how UK banks respond, given FCA expectations around model risk management.
+**Agentic AI — What Changed Today**
 
-**Anthropic's "Cowork" brings agentic AI to non-coders**
-Claude Desktop now includes file-based agent capabilities without requiring CLI skills. Built in ~2 weeks on top of Claude Code. Enterprise implications: lower barrier to agentic deployment, but also new governance gaps if business users spin up agents without IT oversight.
+- **Anthropic's Cowork** is the headline: a no-code Claude Desktop agent that operates directly in your files. Built by the Claude Code team in approximately one sprint. This is the first major push to bring agentic capabilities to business users without developer overhead — watch for enterprise licensing details.
+- **Google testing "Remy"** internally — a personal Gemini agent for work/daily tasks. Staff-only for now, but signals that the agent race has reached the productivity layer.
+- **Salesforce rebuilt Slackbot** as a full AI agent — search, summarise, act across workspace. Direct competitor to Microsoft Copilot + Teams integrations.
+- **Nous Research released NousCoder-14B** — open-source coding model claiming Claude Code-level performance. Trained in just seven days. Relevant for cost-sensitive enterprise deployments.
 
-**Financial Stability Board flags private credit/AI linkage**
-The FSB warned that private credit fuelling the AI infrastructure boom could see "sizeable losses" in a correction — tech, healthcare, and services most exposed. Relevant to bank risk committees assessing indirect AI exposures.
+**Governance & Enterprise Readiness**
 
-**Enterprise odds & ends:**
-- SAP positioning deterministic governance as margin protection (replacing statistical guesses with controlled outputs).
-- Physical AI governance flagged as underdeveloped — autonomous systems in robotics/industrial settings lack clear testing/monitoring frameworks.
-- Nous Research released NousCoder-14B, an open-source model competitive with larger proprietary systems — pressure on vendor lock-in narratives.
+- **Google made agentic AI governance a product feature** at Cloud Next — native controls, not bolt-ons. This sets a benchmark competitors will need to match.
+- **Physical AI governance concerns rising** — autonomous systems in industrial settings exposing gaps in testing/monitoring frameworks. Regulatory action likely on the 12-24 month horizon.
+- **SAP positioning** enterprise AI governance as margin protection, not compliance theatre — deterministic control over probabilistic outputs.
+
+**Banking-Adjacent**
+
+- Financial Stability Board warning that **private credit fuelling AI infrastructure** could backfire in a correction — "sizeable losses" flagged. Worth noting for risk committees.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK big four — Q1 earnings & pressures**
-- **HSBC:** Profits hit by $1.3bn charge — $400m fraud-related (via Apollo/MFS mortgage lender exposure), plus $300m Iran war provisions. Shares slid.
-- **NatWest:** £140m Iran-related provision; flagged UK growth slowdown and rising inflation. Profits beat expectations despite headwinds.
-- **TUC windfall tax push:** Unions want the bank surcharge raised from 3% back to 8% after combined £14bn Q1 profits.
+**UK Banks — Results & Exposures**
 
-**High street reshaping**
-- **Santander/TSB:** TSB brand disappearing after 215 years — Santander UK will run combined operations post-£2.65bn deal.
-- **Barclay family/HSBC:** Settlement reached, avoiding bankruptcy over £143m debt.
+- 🔥 **HSBC** took a $1.3bn profit hit: $400m fraud-related (Apollo lending to collapsed MFS), plus $300m provisioned for Iran conflict. Shares down sharply.
+- **NatWest's** £140m Iran exposure flagged last week — profits beat expectations but provisioning up significantly.
+- **TUC calling for windfall tax hike** — wants the bank surcharge restored from 3% to 8% after big four posted £14bn combined Q1 profit. Political pressure building ahead of any Budget.
 
-**Broader regulatory/FT watch**
-- UniCredit posted record profit, pressing on with €35bn Commerzbank bid — European consolidation continues.
-- Goldman expanded management committee (M&A and risk heads elevated).
-- Morgan Stanley launching spot crypto trading via E*Trade — one to watch for UK regulatory read-across.
+**Sector Moves**
+
+- **Santander retiring TSB brand** — 215-year-old name disappearing from UK high streets post-£2.65bn acquisition. Combined operation to run as Santander UK.
+- **Barclay family avoided bankruptcy** — 11th-hour HSBC settlement over £143m debt. High Court proceedings withdrawn.
+- **Morgan Stanley launching spot crypto trading** on E*Trade — notable as a big-bank first, though not UK-specific.
+- **UniCredit posted record profit** — €35bn Commerzbank bid proceeding. Watch for any UK subsidiary implications.
+
+**Rates & Mortgages**
+
+- No fresh UK mortgage rate news today. Australian piece on negotiating "cliff-edge" rates with lenders — same principles apply here: explicit ask, broker leverage, retention team escalation.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**🔥 Cruise health alert**
-Hantavirus outbreak on a luxury cruise ship stranded off Cape Verde since Sunday — two Irish nationals aboard will face quarantine protocols on return. Ship now heading to Spain. If you're considering any cruise bookings in the near term, worth confirming health protocols with operators.
+**Travel Watch**
 
-**Fuel situation — hold steady**
-Airlines have cut 13,000 flights globally in May due to jet fuel costs (Middle East-driven), but the potential US-Iran deal could ease prices. BBC advises against cancelling flights preemptively. For your Kenya/SA planning, monitor but no action needed yet.
+- 🔥 **Hantavirus cruise outbreak** — luxury ship off Cape Verde heading to Spain after evacuations. Two Irish nationals aboard; Department of Health arranging return quarantine. Cruise line not named in reports, but worth monitoring if you have upcoming bookings.
+- **Jet fuel pressure easing** — 13,000 flights cut globally in May due to Middle East conflict, but oil price drop today may help. Airlines urging passengers not to cancel.
+- **Next raising prices 8%** outside Europe on Iran war costs — UK unaffected for now.
+- **Michael O'Leary** calling for pre-10am airport alcohol ban to tackle disruptive passengers — unlikely to affect premium lounges but watch for rule changes.
 
-**No fresh luxury or Kerry-specific material today.** Evergreen suggestion: Crystal and Silversea typically release 2027 itineraries around now — worth checking for early booking perks if Africa or European repositioning cruises are of interest.
+**No new Kerry/Safari/Cruise deals** in today's sources. Evergreen suggestion: Silversea's 2027 World Cruise bookings should be open — worth a look if you haven't already.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-No fresh news from Tralee Kingdom Stadium, Cork, or Limerick in today's feeds. Typical mid-week lull.
+No fresh Tralee, Cork, or Limerick racing news in today's sources. Kingdom Stadium typically races Thursday and Saturday — tomorrow's card should publish by morning.
 
-**Standing suggestion:** Tralee usually runs Friday/Saturday cards — check @KingdomStadium or IGB closer to the weekend for any feature races.
+**Standing tip:** IGBG site or Racing Post Greyhounds app for live entries and trap draws.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Read the FSB private credit/AI report** — useful for any governance advisory conversations with banking clients.
-2. **Review Google's agentic governance features** (Cloud Next '26 materials) — benchmark for UK bank AI deployment frameworks.
-3. **Monitor US-Iran deal developments** — if confirmed, travel cost implications for 2026/27 trip planning.
-4. **Check Silversea/Crystal 2027 itinerary releases** — early bird rates often available in May.
-5. **Confirm cruise health protocols** if any bookings are pending — hantavirus situation may prompt broader operator reviews.
+1. **Review HSBC exposure** — if held directly or via UK bank ETF, note the fraud-related charge and Iran provisions before any rebalancing.
+2. **Test Anthropic Cowork** — download Claude Desktop, try a simple file-based task (summarise a folder of PDFs). Assess enterprise readiness.
+3. **Check Silversea 2027 World Cruise** — early cabins often include air credit and pre-cruise hotel. Worth a call to your agent.
+4. **Monitor cruise outbreak** — if any 2026 Cape Verde/Canaries itinerary is booked, confirm ship and sailing dates aren't affected.
+5. **Tomorrow AM:** Pull Tralee card from Kingdom Stadium site for Thursday's racing — best traps fill early.
 
 ---
 
-*Quiet day on greyhounds; banking earnings season winding down. Watch the Iran deal space overnight.*
+*Markets volatile, agents multiplying, cruise headlines grim. Keep powder dry and enjoy the evening.*
