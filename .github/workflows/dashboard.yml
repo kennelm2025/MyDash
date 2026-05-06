@@ -46,8 +46,3 @@ jobs:
             git commit -m "Dashboard refresh: $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           fi
-      - name: Trigger Pages rebuild
-        if: success()
-        run: gh workflow run jekyll-gh-pages.yml
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
