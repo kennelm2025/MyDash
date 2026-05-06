@@ -21,6 +21,9 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    concurrency:
+      group: dashboard-refresh
+      cancel-in-progress: false
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
