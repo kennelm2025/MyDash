@@ -45,8 +45,7 @@ README_PATH = ROOT / "README.md"
 ROLLING_WINDOW_DAYS = 5            # keep last 5 daily files; older ones deleted
 HEADLINES_PER_FEED = 6              # how many recent items to pull from each feed
 CLAUDE_MODEL = "claude-opus-4-5"    # final-writer model
-GROK_MODEL = "grok-4"               # live-news briefer
-
+GROK_MODEL = "grok-4-1-fast-reasoning"   # live-news briefer
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 XAI_API_KEY = os.environ.get("XAI_API_KEY")
 
