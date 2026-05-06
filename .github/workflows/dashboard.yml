@@ -13,11 +13,6 @@ on:
     - cron: '25 16 * * *'
     - cron: '30 16 * * *'
   workflow_dispatch:
-  schedule:
-    - cron: '30 6 * * *'
-    - cron: '30 16 * * *'
-  workflow_dispatch:
-
 permissions:
   contents: write
 
