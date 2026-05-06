@@ -138,13 +138,12 @@ def grok_briefing(profile: str) -> str:
 # ---------------------------------------------------------------------------
 # Step 4 — Claude writes the final dashboard
 # ---------------------------------------------------------------------------
-
-
 def claude_write_dashboard(profile: str, rss_block: str, grok_block: str) -> str:
     client = Anthropic(api_key=ANTHROPIC_API_KEY)
     london_now = datetime.now(ZoneInfo("Europe/London"))
     today_str = london_now.strftime("%A %d %B %Y")
     refresh_label = london_now.strftime("%H:%M %Z")
+
     system = (
         "You are writing a personal daily dashboard in markdown. "
         "Follow the section order in the owner's profile exactly. "
@@ -156,7 +155,7 @@ def claude_write_dashboard(profile: str, rss_block: str, grok_block: str) -> str
         "message verbatim — do not convert, reformat, or change the timezone. "
         "If told the time is '18:06 BST', write '18:06 BST' — never UTC."
     )
-    
+
     user = f"""# Owner Profile
 {profile}
 
