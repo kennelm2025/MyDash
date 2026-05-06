@@ -142,7 +142,7 @@ def grok_briefing(profile: str) -> str:
 
 def claude_write_dashboard(profile: str, rss_block: str, grok_block: str) -> str:
     client = Anthropic(api_key=ANTHROPIC_API_KEY)
-  london_now = datetime.now(ZoneInfo("Europe/London"))
+    london_now = datetime.now(ZoneInfo("Europe/London"))
     today_str = london_now.strftime("%A %d %B %Y")
     refresh_label = london_now.strftime("%H:%M %Z")
     system = (
