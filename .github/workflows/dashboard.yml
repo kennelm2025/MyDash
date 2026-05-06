@@ -2,15 +2,12 @@ name: Daily Dashboard Refresh
 
 on:
   schedule:
-    # Times are UTC. UK summer (BST) = UTC+1; UK winter (GMT) = UTC+0.
-    # 06:30 UTC ≈ 07:30 BST morning brief
-    # 16:30 UTC ≈ 17:30 BST evening brief
     - cron: '30 6 * * *'
     - cron: '30 16 * * *'
-  workflow_dispatch:   # lets you click "Run workflow" manually in the Actions tab
+  workflow_dispatch:
 
 permissions:
-  contents: write       # required so the workflow can commit dashboard files back
+  contents: write
 
 jobs:
   refresh:
@@ -44,6 +41,6 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Dashboard refresh: $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git pull --rebase
+            git pull --rebase origin main
             git push
           fi
