@@ -2,6 +2,18 @@ name: Daily Dashboard Refresh
 
 on:
   schedule:
+    # Times are UTC. UK summer (BST) = UTC+1; UK winter (GMT) = UTC+0.
+    # Multiple cron lines per slot to work around GitHub's unreliable scheduler.
+    # Morning slot — aim for 07:30 BST (06:30 UTC):
+    - cron: '20 6 * * *'
+    - cron: '25 6 * * *'
+    - cron: '30 6 * * *'
+    # Evening slot — aim for 17:30 BST (16:30 UTC):
+    - cron: '20 16 * * *'
+    - cron: '25 16 * * *'
+    - cron: '30 16 * * *'
+  workflow_dispatch:
+  schedule:
     - cron: '30 6 * * *'
     - cron: '30 16 * * *'
   workflow_dispatch:
