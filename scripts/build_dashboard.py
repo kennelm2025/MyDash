@@ -18,6 +18,7 @@ import os
 import sys
 import re
 from datetime import datetime, timezone, timedelta
+from zoneinfo import ZoneInfo
 from pathlib import Path
 from typing import List
 
@@ -137,11 +138,13 @@ def grok_briefing(profile: str) -> str:
 # ---------------------------------------------------------------------------
 # Step 4 — Claude writes the final dashboard
 # ---------------------------------------------------------------------------
+
+
 def claude_write_dashboard(profile: str, rss_block: str, grok_block: str) -> str:
     client = Anthropic(api_key=ANTHROPIC_API_KEY)
-    today_str = datetime.now(timezone.utc).strftime("%A %d %B %Y")
-    refresh_label = datetime.now(timezone.utc).strftime("%H:%M UTC")
-
+  london_now = datetime.now(ZoneInfo("Europe/London"))
+    today_str = london_now.strftime("%A %d %B %Y")
+    refresh_label = london_now.strftime("%H:%M %Z")
     system = (
         "You are writing a personal daily dashboard in markdown. "
         "Follow the section order in the owner's profile exactly. "
