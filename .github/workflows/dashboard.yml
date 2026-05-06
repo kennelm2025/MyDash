@@ -44,5 +44,6 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Dashboard refresh: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase
             git push
           fi
