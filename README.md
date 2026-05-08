@@ -4,90 +4,105 @@
 
 # Personal Dashboard — Friday 08 May 2026
 
-*Last refreshed: Friday 08 May 2026, 09:03 BST*
+*Last refreshed: Friday 08 May 2026, 09:05 BST*
 
 ---
 
-## 📊 Today's Quick Snapshot (5 bullets)
+## 📊 Today's Quick Snapshot
 
-- 🔥 **Iran-UAE overnight exchange** — US-UAE engaged Iranian missiles/drones over the Strait of Hormuz; oil prices spiking. Trump insists ceasefire "still in place," but markets jittery.
-- **TUC demands bank windfall tax hike** — Calls for rate to return from 3% to 8% after Big Four posted £14bn combined Q1 profit.
-- **HSBC Q1 hit: $1.3bn** — $400m fraud-related charge plus $300m Iran-war provision; shares slid on results.
-- **FCA DORA extension (Grok)** — Compliance deadline reportedly pushed to Q4 2026 for UK banks deploying agentic AI.
-- **Mortgage bright spot** — Barclays 2-yr fixed at 3.99%, HSBC 5-yr at 4.09%; best levels since March.
+- 🔥 **Iran-US tensions flare overnight**: UAE intercepted Iranian missiles/drones in Strait of Hormuz; Trump claims ceasefire still holds — oil prices rising, bank war-exposure provisions climbing
+- **HSBC takes $1.3bn hit**: $400m fraud-related charge plus $300m extra Iran conflict provision; shares sliding
+- **TUC demands 8% bank windfall tax** after big four UK lenders post £14bn combined Q1 profit
+- **IMF warns AI poses systemic cyber risk** to financial institutions — calls preparations for "inevitable" AI-enabled breaches
+- **Tralee Kingdom Stadium tonight**: Kerry Oaks qualifier at 8:30pm; Cork winner Coolavanny Benny entered
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-| What changed | Detail |
-|--------------|--------|
-| **IMF systemic-risk warning** | New IMF paper says advanced AI models risk "systemic" shock to finance; urges preps for "inevitable" AI-enabled cyber breaches (FT). Directly relevant to your governance advisory. |
-| **FSB flags private-credit AI exposure** | Financial Stability Board report notes AI-boom lending via private credit could backfire with "sizeable" losses — tech and healthcare the biggest borrowers (Guardian). |
-| **FT jury-still-out piece** | Opinion argues banks must recruit "digital natives with critical thinking"; AI benefits not yet clear-cut in finance production settings. |
-| **Anthropic Cowork launch** | Non-technical desktop agent — works on local files without coding. Could accelerate bank back-office pilots. |
-| **NousCoder-14B (open source)** | Nous Research claims competitive-programming parity with larger models; potential cost saver for PoC work. |
+**What changed overnight:**
 
-*Evergreen*: If the PwC agentic-AI governance report noted in the Grok briefing is live, worth circulating to FAB/ABSA contacts — the 65% laggard stat is a strong consulting hook.
+- **IMF systemic warning**: The Fund's new report flags that advanced AI models risk "systemic shock" to global finance — specifically citing AI-enabled cyber breaches as "inevitable" and urging immediate preparation. Directly relevant to your governance advisory work.
+
+- **FT: Jury still out on AI in finance**: Fresh piece emphasising that recruiting digital natives with critical thinking remains the bottleneck — not model capability. Worth noting for client conversations around agentic AI readiness versus talent readiness.
+
+- **Financial Stability Board caution on private credit/AI nexus**: The FSB warns that private credit fuelling the AI boom could backfire with "sizeable losses" if corrections hit. Tech, healthcare, and services are the biggest borrowers. Links to HSBC's private credit losses via the mortgage provider MFS collapse.
+
+- **Anthropic launches Cowork**: Claude Desktop agent now works directly in local files without coding — built in approximately a week. Signals acceleration in agentic tools reaching non-technical users.
+
+- **SpaceX/Musk $55bn Texas chip fab**: Terafab plant plans confirmed — worth monitoring as AI compute supply chain shifts.
+
+**Standing items**: FCA's agentic AI audit proposal (Q3 2026 deadline) remains live. PwC's 65% governance-gap finding still the key talking point for UK bank clients.
 
 ---
 
 ## 🏦 Banking Sector
 
-- 🔥 **HSBC** — $400m fraud hit plus $300m Middle-East provision drags profit; leverage in private-credit book flagged (FT deep-dive on "layer cake" losses).
-- **NatWest** — £140m Iran-war impairment charge; growth outlook trimmed, inflation forecast raised (Guardian).
-- **Barclay family / HSBC** — £143m debt dispute settled; Barclays avoid bankruptcy (Guardian).
-- **UniCredit Russia exit** — Selling parts of Russian business; up to €3.3bn profit hit expected (FT).
-- **Europe "friendshoring" banks** — FT notes EU lenders lobbying for inclusion in US ally-tier access amid geopolitical tensions.
-- **TUC windfall tax call** — Unions want levy back to 8%; political noise likely ahead of autumn budget.
+**Overnight moves:**
 
-*Mortgage watch*: Barclays 2-yr 3.99%, HSBC 5-yr 4.09% — both merit a quick quote if remortgage window approaching.
+- 🔥 **HSBC profits down sharply**: $400m fraud charge plus $300m incremental Iran war provision. The leverage layer cake behind private credit losses (MFS exposure) is the FT's focus — HSBC didn't lend directly but still took a $400m hit via structured exposure. Shares under pressure.
+
+- **NatWest Iran exposure quantified**: £140m hit forecast as UK growth slows and inflation ticks up. Almost half of £283m impairment charge relates to Middle East reassessment.
+
+- **TUC windfall tax push**: Calling for return from 3% to 8% after big four (Lloyds, Barclays, NatWest, HSBC) revealed £14bn total Q1 profit. Political heat rising.
+
+- **Barclay family settles with HSBC**: Avoided bankruptcy via 11th-hour deal on £143m debt — HSBC withdrew high court proceedings.
+
+- **Citi turnaround pitch**: Modest profitability targets initially disappointed; bank now trying to convince investors the hard restructuring work is done.
+
+- **UniCredit selling Russian assets**: Up to €3.3bn profit hit flagged — watch for contagion read-across to UK banks with residual exposures.
+
+**Regulatory watch**: De-banking 90-day notice rules remain in effect; DORA compliance timelines unchanged.
 
 ---
 
 ## 🧭 Trips & VIP
 
-| Opportunity | Notes |
-|-------------|-------|
-| **Kerry short break** | Listowel farmstay luxury flagged at €450/night with Shannon private transfer (per Grok). Ideal long-weekend before summer crowds. |
-| **Kenya fly-in safari** | 🔥 Silversea 20% flash sale; Abercrombie & Kent 25% off if booked by **10 May** — tight deadline. |
-| **Regent Seven Seas Med** | 15% off May departures from Dublin — all-suite, couples-friendly. |
-| **EES border note** | Portugal and Italy **will not** suspend biometric checks for Brits despite Greece pause (BBC). Factor in extra queue time for upcoming EU trips. |
+**Fresh material is thin this refresh** — no new luxury or safari deals in the feeds. Evergreen suggestions:
 
-*No fresh London/Dublin city-luxury deals this refresh — worth monitoring Corinthia and Merrion flash sales.*
+- **Kerry short break**: Listowel farm-country stays combining nicely with Tralee racing tonight. Check Ballygarry House or Ballyseede Castle for weekend availability.
+
+- **Silversea flash sale** (flagged yesterday): 20% off Kenya safaris departing June — if genuine interest, worth confirming before it closes.
+
+- **EES border update**: Portugal and Italy will NOT suspend digital biometric checks for Brits (contrary to earlier rumours) — Greece remains the exception. Factor this into any near-term Mediterranean planning; allow extra airport time.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-- **Tralee Kingdom Stadium tonight** — 12-race card; A2 525 final at 21:25; streaming from 19:45 on IGB.ie.
-- **Limerick Saturday** — Graded races; early form guides favour Droopys Kerry (Irish Greyhound).
-- **Facility news** — Kingdom Stadium VIP-suite upgrades confirmed for 2026 season (Kerry Eye).
+**Tonight at Tralee Kingdom Stadium:**
 
-*No fresh Cork card announced; check IGB closer to weekend.*
+- 🔥 Kerry Oaks qualifier at 8:30pm — Coolavanny Benny (recent Cork winner) entered in A3 480m. Strong form; worth watching closely.
+
+**Wider picture:**
+
+- Limerick hosts Kingdom Derby trial Sunday — key form guide for Tralee ante-post markets.
+- Cork finishes this week have been strong; watch for cross-track movers into Tralee.
+
+No other fresh racing news in feeds.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Book/stream Tralee tonight** — IGB.ie ticket or live link; A2 final is the headline.
-2. **Kenya safari decision** — Abercrombie & Kent 25%-off expires **Sunday 10 May**; confirm dates or pass.
-3. **Run Barclays mortgage quote** — 3.99% 2-yr worth locking if within offer window.
-4. **Read IMF AI-finance paper** — Good material for next PwC client deck on model risk.
-5. **Skim FT HSBC private-credit piece** — Useful case study for legacy-to-AI integration risk discussions.
+1. **Watch Tralee live stream from 8pm** (IGB.tv) — Coolavanny Benny A3 race at 8:30pm
+2. **Skim FT's IMF AI/cyber warning piece** — directly relevant to client governance conversations
+3. **Review HSBC private credit loss mechanics** (FT leverage layer cake article) for advisory colour on hidden risk exposures
+4. **Confirm Silversea Kenya flash sale** still open if safari trip is serious — book before expiry
+5. **Note EES border reality**: Portugal/Italy NOT suspending biometric checks — adjust travel expectations
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-| Item | Detail |
-|------|--------|
-| **Bitcoin ~$105K** | Post-ETF inflows sustaining highs; UK FCA reportedly eyeing tighter stablecoin rules (CoinDesk). |
-| **Ethereum DeFi yields** | ETF approval buzz pushing lending APYs toward 8% (Cointelegraph). |
-| 🔥 **FAB crypto custody** | UAE's First Abu Dhabi Bank launching AI-governed custody for institutional clients (The Block) — echoes your FAB merger work; potential advisory angle. |
+**From overnight feeds:**
 
-*No major UK regulatory news this cycle; FCA stablecoin consultation expected Q3.*
+- No major UK-specific regulatory moves this refresh.
+- **General market**: Bitcoin holding above $90k on sustained ETF inflows. Feeds quiet on fresh banking-crypto integration stories.
+- **Worth watching**: FCA's posture on crypto custody and agentic compliance tools — flagged earlier in the week but no new developments today.
+
+If nothing urgent, revisit Sunday when weekend trading volumes clarify direction.
 
 ---
 
-Have a productive Friday — keep an eye on Hormuz headlines and enjoy the dogs tonight.
+*Quiet refresh on travel and crypto; banking and AI sections carry the weight today. Enjoy Tralee tonight.*
