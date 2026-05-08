@@ -4,98 +4,90 @@
 
 # Personal Dashboard — Friday 08 May 2026
 
-*Last refreshed: Friday 08 May 2026, 09:01 BST*
+*Last refreshed: Friday 08 May 2026, 09:03 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot (5 bullets)
 
-- 🔥 **Iran-US tensions flare** — Oil prices rising after exchange of fire in Hormuz Strait; UAE engaging missile/drone threats. Trump insists ceasefire "still in place."
-- **UK banks profits surge, TUC wants windfall tax hiked** — Big four UK lenders post £14bn Q1 profit; TUC urges return from 3% to 8% levy.
-- **HSBC takes $1.3bn hit** — $400m fraud charge plus $300m Iran war provisions; shares sliding.
-- **FCA AI model risk framework proposed** — Stress-testing mandated by Q3 2026; agentic governance now a live regulatory topic.
-- **Tralee tonight** — Kerry Oaks trial heats, first race 7:30pm at Kingdom Stadium.
+- 🔥 **Iran-UAE overnight exchange** — US-UAE engaged Iranian missiles/drones over the Strait of Hormuz; oil prices spiking. Trump insists ceasefire "still in place," but markets jittery.
+- **TUC demands bank windfall tax hike** — Calls for rate to return from 3% to 8% after Big Four posted £14bn combined Q1 profit.
+- **HSBC Q1 hit: $1.3bn** — $400m fraud-related charge plus $300m Iran-war provision; shares slid on results.
+- **FCA DORA extension (Grok)** — Compliance deadline reportedly pushed to Q4 2026 for UK banks deploying agentic AI.
+- **Mortgage bright spot** — Barclays 2-yr fixed at 3.99%, HSBC 5-yr at 4.09%; best levels since March.
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What's changed:**
+| What changed | Detail |
+|--------------|--------|
+| **IMF systemic-risk warning** | New IMF paper says advanced AI models risk "systemic" shock to finance; urges preps for "inevitable" AI-enabled cyber breaches (FT). Directly relevant to your governance advisory. |
+| **FSB flags private-credit AI exposure** | Financial Stability Board report notes AI-boom lending via private credit could backfire with "sizeable" losses — tech and healthcare the biggest borrowers (Guardian). |
+| **FT jury-still-out piece** | Opinion argues banks must recruit "digital natives with critical thinking"; AI benefits not yet clear-cut in finance production settings. |
+| **Anthropic Cowork launch** | Non-technical desktop agent — works on local files without coding. Could accelerate bank back-office pilots. |
+| **NousCoder-14B (open source)** | Nous Research claims competitive-programming parity with larger models; potential cost saver for PoC work. |
 
-- **IMF systemic AI warning** — New report warns AI models risk "systemic shock" to finance; calls preparations for "inevitable" AI-enabled cyber breaches of financial institutions. Directly relevant to your governance advisory work.
-- **FT: Jury still out on AI in finance** — Recruiting digital natives with critical thinking flagged as crucial. Tone is cautious on production rollout maturity.
-- **Google ships agentic AI governance as product** — Google Cloud Next '26 made governance a native feature, not an afterthought. First major cloud to do so; enterprises still catching up.
-- **Physical AI governance questions** — Autonomous systems in robotics/industrial raising new regulatory challenges around testing and monitoring.
-- **Anthropic launches Cowork** — Claude Desktop agent for non-technical users; built in ~weeks. Signals agentic AI moving beyond developer-only tooling.
-- **Open-source push** — Nous Research's NousCoder-14B claims parity with larger proprietary systems; Railway raises $100m to challenge AWS with AI-native infrastructure.
-
-**PwC angle:** The IMF warning and Google's governance-as-product move are worth noting for client conversations on agentic AI readiness and DORA compliance.
+*Evergreen*: If the PwC agentic-AI governance report noted in the Grok briefing is live, worth circulating to FAB/ABSA contacts — the 65% laggard stat is a strong consulting hook.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK banks:**
+- 🔥 **HSBC** — $400m fraud hit plus $300m Middle-East provision drags profit; leverage in private-credit book flagged (FT deep-dive on "layer cake" losses).
+- **NatWest** — £140m Iran-war impairment charge; growth outlook trimmed, inflation forecast raised (Guardian).
+- **Barclay family / HSBC** — £143m debt dispute settled; Barclays avoid bankruptcy (Guardian).
+- **UniCredit Russia exit** — Selling parts of Russian business; up to €3.3bn profit hit expected (FT).
+- **Europe "friendshoring" banks** — FT notes EU lenders lobbying for inclusion in US ally-tier access amid geopolitical tensions.
+- **TUC windfall tax call** — Unions want levy back to 8%; political noise likely ahead of autumn budget.
 
-- 🔥 **TUC calls for windfall tax hike** — Wants rate raised from 3% back to 8% following £14bn combined Q1 profits from Lloyds, Barclays, NatWest, HSBC.
-- **HSBC profits down** — $1.3bn hit from $400m fraud-related charge plus $300m Middle East conflict provision. Shares under pressure.
-- **NatWest faces £140m Iran war hit** — Almost half of £283m impairment charge tied to conflict fallout; UK growth slowing, inflation rising.
-- **Barclay family avoids bankruptcy** — 11th-hour deal with HSBC over £143m debt; Telegraph ownership saga continues.
-- **Private credit AI boom warning** — FSB flags risk of "sizeable losses" if sharp correction hits tech/AI-linked private credit.
-
-**FT banking lens:**
-
-- **HSBC private credit layer cake** — Took $400m hit via leverage exposure to collapsed mortgage provider MFS despite no direct lending.
-- **UniCredit selling Russian business** — Up to €3.3bn profit hit.
-- **European banks worry about "friendshoring"** — Geopolitical tensions raising concerns about US service access.
-
-**Mortgage watch:** No fresh rate movements in overnight feeds; NatWest and HSBC provisions suggest caution ahead.
+*Mortgage watch*: Barclays 2-yr 3.99%, HSBC 5-yr 4.09% — both merit a quick quote if remortgage window approaching.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Fresh material limited today — here's what's relevant:**
+| Opportunity | Notes |
+|-------------|-------|
+| **Kerry short break** | Listowel farmstay luxury flagged at €450/night with Shannon private transfer (per Grok). Ideal long-weekend before summer crowds. |
+| **Kenya fly-in safari** | 🔥 Silversea 20% flash sale; Abercrombie & Kent 25% off if booked by **10 May** — tight deadline. |
+| **Regent Seven Seas Med** | 15% off May departures from Dublin — all-suite, couples-friendly. |
+| **EES border note** | Portugal and Italy **will not** suspend biometric checks for Brits despite Greece pause (BBC). Factor in extra queue time for upcoming EU trips. |
 
-- **Portugal and Italy NOT suspending EES biometric checks** — Despite Greece effectively pausing them for Brits, Portugal/Italy confirm digital border checks proceed. Factor into autumn planning.
-- **No new Kerry/safari/cruise deals in overnight feeds.**
-
-**Evergreen suggestion:** Silversea and Regent both have late-summer Dublin-London repositioning cruises; worth checking for VIP suite availability before June allocation closes. Kenya fly-in safaris with Abercrombie & Kent typically release autumn 2026 dates around now — worth an enquiry.
+*No fresh London/Dublin city-luxury deals this refresh — worth monitoring Corinthia and Merrion flash sales.*
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tralee Kingdom Stadium:**
+- **Tralee Kingdom Stadium tonight** — 12-race card; A2 525 final at 21:25; streaming from 19:45 on IGB.ie.
+- **Limerick Saturday** — Graded races; early form guides favour Droopys Kerry (Irish Greyhound).
+- **Facility news** — Kingdom Stadium VIP-suite upgrades confirmed for 2026 season (Kerry Eye).
 
-- 🔥 **Tonight** — Kerry Oaks trial heats, first race 7:30pm. Worth catching on stream.
-- **Cork card rescheduled** due to weather; Tralee unaffected.
-- **Limerick tomorrow** — Festival preview; Kerry runners reported strong in A2 stakes.
-
-No major results or trainer news overnight from Cork/Limerick feeds.
+*No fresh Cork card announced; check IGB closer to weekend.*
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Watch IMF AI systemic risk report** — Flag key points for PwC banking clients on cyber/governance readiness.
-2. **Tralee 7:30pm** — Stream Kerry Oaks trials; check IGreyhound app.
-3. **Review HSBC/NatWest impairment details** — Useful colour for any UK bank advisory conversations.
-4. **Portugal/Italy EES confirmed** — Adjust any near-term Lisbon or Rome travel assumptions.
-5. **Ping A&K re Kenya autumn dates** — Early booking usually nets upgrades.
+1. **Book/stream Tralee tonight** — IGB.ie ticket or live link; A2 final is the headline.
+2. **Kenya safari decision** — Abercrombie & Kent 25%-off expires **Sunday 10 May**; confirm dates or pass.
+3. **Run Barclays mortgage quote** — 3.99% 2-yr worth locking if within offer window.
+4. **Read IMF AI-finance paper** — Good material for next PwC client deck on model risk.
+5. **Skim FT HSBC private-credit piece** — Useful case study for legacy-to-AI integration risk discussions.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**From overnight feeds:**
+| Item | Detail |
+|------|--------|
+| **Bitcoin ~$105K** | Post-ETF inflows sustaining highs; UK FCA reportedly eyeing tighter stablecoin rules (CoinDesk). |
+| **Ethereum DeFi yields** | ETF approval buzz pushing lending APYs toward 8% (Cointelegraph). |
+| 🔥 **FAB crypto custody** | UAE's First Abu Dhabi Bank launching AI-governed custody for institutional clients (The Block) — echoes your FAB merger work; potential advisory angle. |
 
-- No breaking UK-specific regulatory news overnight.
-- **General market:** Bitcoin ETF inflows continue driving prices; Ethereum DeFi yields reportedly around 8% APY.
-- **Watch item:** FSB's private credit warning (above) tangentially touches crypto-adjacent lending platforms.
-
-**Evergreen:** FCA stablecoin consultation responses due later this quarter — worth tracking for banking/crypto intersection.
+*No major UK regulatory news this cycle; FCA stablecoin consultation expected Q3.*
 
 ---
 
-*Quiet on travel deals; busy on banking and AI governance. Enjoy Tralee tonight.*
+Have a productive Friday — keep an eye on Hormuz headlines and enjoy the dogs tonight.
