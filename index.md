@@ -4,76 +4,86 @@
 
 # Personal Dashboard — Saturday 09 May 2026
 
-*Last refreshed: Saturday 09 May 2026, 09:16 BST*
-
-## 📊 Today's Quick Snapshot (5 bullets)
-
-- 🔥 **IMF warns agentic AI models risk "systemic" shock to finance** — Fund says preparations needed for "inevitable" AI-enabled breaches of financial institutions' cyber defences (FT, overnight)
-- **TUC demands windfall tax on UK banks raised from 3% to 8%** after big four revealed £14bn combined Q1 profits; HSBC took $1.3bn hit from fraud charges and Iran war fallout
-- **Financial Stability Board flags private credit fuelling AI boom** — warns sharp correction could cause "sizeable" losses
-- **Tralee Kingdom Stadium tonight** — full Saturday card, gates open for Grade A action
-- **UK staycation demand surging** — Airbnb and Booking.com report interest in UK stays up on last year; relevant for Kerry short-break planning
-
-## 🤖 AI & ML (Production & Banking Lens)
-
-**What changed since last refresh:**
-
-- **IMF systemic risk warning** — The Fund explicitly called out new AI models as a source of potential systemic financial shock, with cyber defences flagged as an "inevitable" breach risk. This lands squarely in your governance and agentic AI readiness advisory work. (FT)
-- **FSB private credit/AI boom concern** — Tech sector cited as biggest borrower via private credit; regulators increasingly nervous about concentration risk in AI infrastructure financing. Worth flagging to PwC colleagues.
-- **FT analysis: "Humans still matter more than AI in finance"** — Piece argues recruiting digital natives with critical thinking skills remains crucial despite automation push. Useful counterpoint for client conversations about cutover timelines.
-- **Anthropic launches Cowork** — Claude Desktop agent now works in local files without coding; built in weeks. Demonstrates accelerating pace of agentic tool deployment.
-- **Railway raises $100m** for AI-native cloud infrastructure challenging AWS — signals enterprise infrastructure shifting beneath traditional banking IT stacks.
-
-**Evergreen note:** Imperial AI/ML alumni network often shares governance frameworks — worth a check if new DORA-aligned templates have dropped.
-
-## 🏦 Banking Sector
-
-**What changed since last refresh:**
-
-- **HSBC profits fall** — $1.3bn hit comprising $400m fraud-related charge plus $300m provision for Iran war effects. Shares slid. London HQ bank under pressure.
-- **NatWest £140m Iran war hit** — Almost half of £283m impairment charge tied to forecast reassessment amid slowing UK growth and rising inflation.
-- **TUC calls for 8% bank windfall tax** — Political pressure mounting after combined £14bn Q1 profits from Lloyds, Barclays, NatWest, HSBC.
-- **Barclay family avoids bankruptcy** — 11th-hour HSBC settlement over £143m debt; Telegraph ownership saga continues.
-- **UBS boss warns of European "over-regulation"** — Sergio Ermotti tells FT it would take "profound and painful crisis" to force political action.
-- **Commerzbank cutting 3,000 jobs** to fend off UniCredit's ~30% stake build.
-
-**FCA/regulatory:** No fresh DORA or de-banking rule updates in overnight feeds. Monitor next week.
-
-## 🧭 Trips & VIP
-
-**Fresh material:**
-
-- **UK staycation summer confirmed** — BBC reports seasoned staycationers sharing hidden gems as domestic bookings rise. Kerry well-positioned if you're planning a Listowel area break soon.
-- **No new safari or cruise flash sales** in overnight feeds. Silversea, Regent, Crystal sites worth a manual check if June/July Kenya or Med window appeals.
-
-**Evergreen suggestion:** Dublin AI & Big Data Expo runs 18-19 May in San Jose only this round — but London/Amsterdam AI events calendar for autumn worth reviewing for couple-trip combo planning.
-
-## 🐆 Dogs — Greyhound Racing
-
-**Tonight at Kingdom Stadium, Tralee:**
-- Saturday card confirmed. Check IGB.ie or Kingdom Stadium socials for full race times and any feature races.
-- No specific headline results from Cork or Limerick overnight, but Limerick's VIP suite upgrades noted previously may be relevant for Kingdom Derby qualifier hospitality.
-
-**Suggestion:** Confirm tonight's first race time and any streaming options via kingdomstadium.ie.
-
-## 🎯 Today's Action Items
-
-1. **Read IMF AI systemic risk warning** (FT link) — 10 mins; directly relevant to governance advisory positioning
-2. **Check Kingdom Stadium race card** for tonight's Tralee greyhounds — confirm times and book if attending
-3. **Skim FSB private credit report summary** — useful for banking/AI crossover client conversations
-4. **Review Silversea/Regent sites** for any Kenya or Med flash deals not yet in feeds
-5. **Note TUC windfall tax push** — potential talking point if UK bank advisory conversations arise next week
-
-## 🪙 Crypto & Digital Assets
-
-**Overnight feeds show no UK-banking-specific crypto developments.** General market context:
-
-- Bitcoin and major assets relatively stable; no dramatic ETF flow headlines overnight
-- Ethereum L2 activity continues scaling but no fresh UK regulatory or bank custody news
-- FCA crypto guidance unchanged from last update
-
-**If quiet persists:** Worth checking CoinDesk/Cointelegraph Monday for any weekend accumulation of UK-relevant stories.
+*Last refreshed: Saturday 09 May 2026, 18:14 BST*
 
 ---
 
-*Quiet Saturday morning. Tralee tonight; IMF warning worth a proper read before the week ahead.*
+## 📊 Today's Quick Snapshot
+
+- 🔥 **TUC calls for bank windfall tax hike** — urging rate back to 8% after UK big four post £14bn Q1 profits combined
+- **IMF warns AI poses "systemic" risk to finance** — calls cyber-breach from AI models "inevitable," urges preparations
+- **Commerzbank to cut 3,000 jobs** as it tries to fend off UniCredit's 30% stake ambitions
+- **NatWest takes £140m Iran-war hit** amid UK growth slowdown and rising inflation
+- **Tralee Kingdom Stadium tonight** — A3 525 final on the card, first race 7:45pm
+
+---
+
+## 🤖 AI & ML (Production & Banking Lens)
+
+**What changed:**
+
+- **IMF systemic-risk warning** — The Fund flagged new AI models as potential triggers for "systemic" financial shocks, specifically citing "inevitable" AI-enabled cyber breaches at financial institutions. This is fresh regulatory ammunition for agentic AI governance discussions with clients.
+- **Financial Stability Board on private credit/AI** — The FSB warns the private credit industry's heavy lending into the AI boom could cause "sizeable" losses if there's a sharp correction. Tech, healthcare, and services are the biggest borrowers.
+- **FT take: Humans still matter more than AI in finance** — Recruiting digital natives with critical thinking skills flagged as crucial; useful framing for advisory work on AI-human integration.
+- **Salesforce launches rebuilt Slackbot as full AI agent** — Now searches enterprise data, takes actions; part of Salesforce's battle against Microsoft and Google in workplace AI.
+- **Anthropic launches Cowork** — Claude Desktop agent for non-technical users, built in roughly a week. Demonstrates rapid agentic AI product cycles.
+
+**No fresh UK bank-specific AI production stories today** — Barclays and HSBC quiet over the weekend. Evergreen action: revisit the IMF paper for client talking points on AI model risk management.
+
+---
+
+## 🏦 Banking Sector
+
+**What changed:**
+
+- 🔥 **TUC demands windfall tax reinstatement** — Unions want the rate raised from 3% back to 8% following the big four's combined £14bn Q1 profits.
+- **HSBC profits down** — $400m fraud-related charge plus Iran-war fallout drove a $1.3bn hit. Shares slid.
+- **NatWest £140m impairment** — Almost half of £283m charge tied to Iran conflict; slowing UK growth and rising inflation cited.
+- **Barclay family avoids bankruptcy** — 11th-hour settlement with HSBC over £143m debt; Telegraph ownership saga continues.
+- **UBS boss warns of European decline** — Sergio Ermotti cites "over-regulation across the board," says only a "profound and painful crisis" would force political action.
+- **Goldman's management committee swells** — FT notes it's now far larger than competitors'.
+
+**Mortgage rates:** No fresh UK data today, but Australian coverage notes banks can be pushed to "edge of cliff" rates with negotiation — same principle applies with UK lenders.
+
+---
+
+## 🧭 Trips & VIP
+
+**What changed:**
+
+- **UK staycation surge confirmed** — BBC reports Airbnb and Booking.com seeing increased UK domestic interest; seasoned travellers sharing hidden gems. Could complement a Kerry trip if you're exploring alternatives.
+- **US jet fuel flexibility** — International air body suggests wider US-grade jet fuel acceptance could ease supply issues; relevant if booking long-haul.
+
+**No fresh safari, cruise, or AI-event travel deals in today's feeds.** Evergreen: Silversea and Regent typically release summer flash sales mid-May — worth a check early next week. Kerry farmstay packages remain available via local operators.
+
+---
+
+## 🐆 Dogs — Greyhound Racing
+
+**What changed:**
+
+- **Tralee Kingdom Stadium tonight** — A3 525 final headlines the card; first race 7:45pm. Live stream available via greyhoundracing.ie.
+
+**No fresh Cork or Limerick news in today's feeds.** Standard Saturday card at Tralee remains the main event for the weekend.
+
+---
+
+## 🎯 Today's Action Items
+
+1. 🔥 **Tune into Tralee 7:45pm** — A3 525 final; check ante-post prices before first race (greyhoundracing.ie)
+2. **Download the IMF AI systemic-risk paper** — useful for Monday client conversations on model risk governance
+3. **Scan TUC windfall tax coverage** — assess potential impact on UK bank margins for advisory notes
+4. **Check Silversea/Regent mid-May sale announcements** — Kenya fly-in safaris typically feature
+5. **Review HSBC fraud-charge details** — relevant to FAB/UAE legacy work and governance themes
+
+---
+
+## 🪙 Crypto & Digital Assets
+
+**No fresh stories from Cointelegraph, CoinDesk, Decrypt, or The Block in today's feed window.**
+
+Evergreen: FCA stablecoin regulatory framework consultation remains open — worth monitoring for UK banking clients with custody ambitions. Bitcoin ETF flows and Ethereum upgrade effects (previously noted) continue to shape market sentiment.
+
+---
+
+*Quiet Saturday overall — Tralee tonight is the live event. Back Monday with fresh banking and AI coverage.*
