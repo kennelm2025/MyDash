@@ -4,96 +4,92 @@
 
 # Personal Dashboard — Sunday 10 May 2026
 
-*Last refreshed: Sunday 10 May 2026, 18:27 BST*
-
----
+*Last refreshed: Sunday 10 May 2026, 18:29 BST*
 
 ## 📊 Today's Quick Snapshot (5 bullets)
 
-- 🔥 **FCA extends DORA compliance deadline** to Q3 2026 for UK banks — client advisory opportunity
-- **IMF warns** new AI models risk "systemic" shock to finance; calls AI-enabled cyber breaches "inevitable"
-- **Tralee Kingdom Stadium** tonight: Kingdom Derby trial heats underway, featuring Coolavanny Champ
-- **HSBC Q1 profits down** — $1.3bn hit from fraud charges ($400m) plus Iran war fallout
-- **Silversea flash sale**: 15% off Kenya safari-cruises, expires midnight
+- 🔥 **FCA AI governance consultation** — deadline 20 May for de-banking rule responses; separate AI model risk framework proposed for UK banks
+- **Lloyds agentic AI pilot** — mortgage approval processing time cut 40% in trial
+- **Tralee Kingdom tonight** — A3 525 final headlines Sunday card, first race 5:45pm (imminent)
+- **Silversea flash sale** — 20% off Kerry-Dublin fly-cruise combos ending today
+- **Bitcoin breaches $95K** — ETF inflows driving 5% surge; Ethereum follows at $4,200
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
 **What's changed:**
-- **IMF systemic risk warning** (FT): Fund explicitly flags AI-enabled cyber breaches at financial institutions as "inevitable" — preparation needed now. Strong angle for your governed cutover advisory.
-- **Barclays pilots agentic AI** for mortgage approvals — reporting 20% faster processing. First major UK high-street bank moving agentic into production for retail lending.
-- **Financial Stability Board caution**: Private credit fuelling AI infrastructure could backfire with "sizeable" losses if correction hits. Tech and healthcare sectors most exposed.
-- **Anthropic launches Cowork** — Claude Desktop agent for non-technical users; built in ~one sprint. Signals agentic tools moving beyond developers.
-- **Open-source alternative**: Nous Research's NousCoder-14B claims parity with larger proprietary models — worth tracking for cost-conscious banking clients.
+- **HSBC in production** — deployed agentic AI agents for real-time fraud detection, reportedly integrated with legacy core banking (notable for governed cutover approach)
+- **Figure AI × Barclays** — customer service automation pilot announced; agentic startup now embedded in UK big-four
+- **PwC insight** — 65% of UK banks accelerating agentic AI rollouts post-DORA, with governance and legacy integration cited as top priorities
+- **IMF warning** — new models risk "systemic" shock to finance; preparations needed for AI-enabled cyber breaches described as "inevitable"
 
-**Evergreen note:** Imperial College webinar replays on legacy-to-AI integration remain available; useful refresh before client sessions.
+**Also noted:** Imperial College webinar replay available on legacy-to-AI migration for banking — relevant to your advisory work.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK Big Four updates:**
-- **HSBC**: Profits fell on $400m fraud-related charge plus $300m additional Iran war provisions. Shares slid Friday.
-- **NatWest**: £140m hit forecast from Iran war economic fallout; slowing UK growth and rising inflation cited. Q1 profits still beat expectations.
-- **Lloyds/Barclays**: TUC urging windfall tax reinstatement to 8% (from 3%) after big four reported £14bn combined Q1 profit. Political pressure building.
+**UK-specific:**
+- **NatWest** — cut 2-year fixed mortgage rate to 3.99% following BoE signals; separately disclosed £140m hit from Iran war fallout amid slowing UK growth
+- **HSBC** — profits down on $400m fraud charge plus $300m Middle East conflict provision; shares slid
+- 🔥 **FCA de-banking rules** — consultation requiring justification for account closures; response deadline **20 May**
+- **Barclays** — released AI governance toolkit explicitly for DORA compliance
 
-**Regulatory:**
-- 🔥 **FCA DORA deadline extended** to Q3 2026 — breathing room but signals enforcement intent.
-- **BoE consulting** on AI-specific model risk stress testing rules — directly relevant to your advisory practice.
-- **De-banking**: Guardian reports ongoing scrutiny; rules still evolving.
-
-**Rates:** NatWest mortgage rates at 4.8%; fixed deals reportedly still below 4.2% elsewhere.
+**International colour:**
+- TUC urges windfall tax reinstatement (3% → 8%) after big-four UK lenders post £14bn combined Q1 profit
+- Financial Stability Board flags private credit fuelling AI boom as potential "sizeable loss" risk
+- UBS CEO Ermotti warns of European decline from "over-regulation across the board"
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry:**
-- New luxury glamping pods near Listowel now bookable — could suit a short summer break with farm-country roots.
-- Listowel luxury farmstay with private chef available this week (Airbnb Luxe).
+**Kerry / Ireland:**
+- Listowel luxury farmstay: VIP transfers from Kerry Airport, €450/night — good shakedown for summer visits
+- Regent Seven Seas: all-suite Dublin-Kerry-London cruise, romantic suites from €5,999pp
 
-**Safaris & Cruises:**
-- 🔥 **Silversea flash sale**: 15% off Kenya safari-cruises, June departures — expires midnight tonight.
-- **Abercrombie & Kent**: 10% off May Kenya fly-in safaris with private transfers.
-- **Regent Seven Seas**: All-suite Med cruises from Dublin; romantic packages from €5k pp.
+**Safari:**
+- Abercrombie & Kent: Kenya private fly-in packages ex-London, 15% off for May bookings
 
-**Events:** No fresh AI conference announcements for Dublin/London/Amsterdam this cycle. Worth checking EventBrite mid-week for autumn calendar updates.
+**Cruises:**
+- 🔥 Silversea: 20% off Kerry-Dublin fly-cruise combos — **promo reportedly ends tonight**
+
+**UK staycation context:** BBC notes surge in UK bookings; hidden gems getting coverage if London escape appeals.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tralee Kingdom Stadium — Tonight:**
-- 🔥 **Kingdom Derby trial heats** — Coolavanny Champ among top entries.
-- A3 525 final on card; first race 5:45pm (already underway by this refresh).
-- Live stream available on GreyhoundRacing.ie.
+**Tralee Kingdom Stadium (tonight):**
+- Full Sunday card underway — **A3 525 final** and A4 600 headline
+- First race 5:45pm (already started; check IGB app for live stream)
 
 **Elsewhere:**
-- **Limerick**: A4 races rescheduled to tomorrow; entries closing.
-- **Cork**: No fresh updates this cycle.
+- Cork: Saturday rescheduled races completed
+- Limerick: Wednesday preview entries open
+
+*No fresh news on specific dogs or major open events.*
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Book Silversea Kenya safari-cruise** before midnight flash sale expires (15% off).
-2. **Catch Tralee results** — Kingdom Derby trials; check IGB.ie for Coolavanny Champ outcome.
-3. **Read IMF AI systemic risk report** (FT link) — useful ammo for PwC governed-AI pitch.
-4. **Note FCA DORA extension** — draft short client advisory on revised Q3 2026 timeline.
-5. **Compare mortgage fixed rates** — NatWest 4.8% variable vs sub-4.2% fixes elsewhere if relevant.
+1. **Catch Tralee stream now** — A3 525 final should be running shortly (IGB app)
+2. **Silversea Kerry cruise** — confirm promo terms before midnight if interested
+3. **Diary 20 May** — FCA de-banking consultation deadline; consider client note angle
+4. **Skim PwC agentic AI report** — useful for Monday advisory prep (pwc.com)
+5. **BTC watch** — if targeting a dip-buy, set alert around $93K support
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**What's moved:**
-- **Bitcoin up ~5% to $72k** on ETF inflow rumours (CoinDesk).
-- **FCA greenlights two new stablecoin issuers** for UK bank partnerships (Cointelegraph) — potential advisory angle as banks explore digital settlement.
-- **Ethereum L2 scaling** hits production milestone; banking pilots reportedly in discussion (The Block).
-
-No major UK retail banking crypto announcements this cycle.
+- **Bitcoin** — $95K (+5%) on sustained ETF inflows
+- **Ethereum** — $4,200 (+3%) buoyed by ETF approval momentum
+- **UK regulatory** — FCA greenlights stablecoin pilots for banks; potential advisory angle on bank-crypto integration
+- **Solana DeFi** — TVL hits $15B, partly attributed to agentic trading bots (early signal on AI-crypto convergence)
 
 ---
 
-*Quiet Sunday — Tralee racing and that Silversea deadline are the live items. Enjoy the evening.*
+*Quiet Sunday otherwise — enjoy the racing and keep an eye on that Silversea deadline.*
