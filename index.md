@@ -4,95 +4,84 @@
 
 # Personal Dashboard — Monday 11 May 2026
 
-*Last refreshed: Monday 11 May 2026, 11:02 BST*
-
----
+*Last refreshed: Monday 11 May 2026, 11:03 BST*
 
 ## 📊 Today's Quick Snapshot (5 bullets)
 
-- 🔥 **FCA proposes AI model risk framework** for UK banks — stress-testing mandated by Q3 2026; directly relevant to your governance advisory work.
-- **HSBC profits down** amid $1.3bn hit from $400m fraud charge and Iran war exposure; shares sliding this morning.
-- **TUC calls for bank windfall tax hike** from 3% to 8% after big four UK lenders post £14bn combined Q1 profits.
-- **Tralee Kingdom Greyhound Stadium** — tonight's card runs 12 races; Kerry Oaks qualifier at 8pm, A2 525 final at 9:15pm.
-- **Oil prices jumping** — Trump dismissed Iran proposal; Strait of Hormuz effectively shut, global energy shipments disrupted.
-
----
+- 🔥 **FCA extends DORA compliance deadline** to Q4 2026 for UK banks rolling out AI models — directly relevant to your advisory work
+- **Lloyds pilots agentic AI** for mortgage approvals, reporting 40% cut in processing times — first major UK production deployment
+- **HSBC profits down** after $1.3bn hit from $400m fraud charge plus $300m Iran war provisions; shares sliding
+- **Oil prices jump** — Trump dismisses Iran proposal; Strait of Hormuz effectively shut, disrupting global energy
+- **British Steel nationalisation** announced by Starmer; legislation this week
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**Changed since last refresh:**
+**What changed:** Two significant UK banking AI stories this morning.
 
-- **Financial Stability Board warning**: Private credit fuelling the AI boom could backfire sharply — "sizeable losses" flagged if correction hits. Tech, healthcare, and services are biggest borrowers. Worth flagging in any client conversations about AI infrastructure financing.
-- **Anthropic launches Cowork** — Claude Desktop agent for non-technical users, operates directly in local files. Built in ~one week; signals agentic AI moving beyond developer tooling into general enterprise use.
-- **Railway raises $100M Series B** to challenge AWS with "AI-native" cloud infrastructure — 2M developers onboarded with zero marketing spend. Alternative to Azure/AWS worth monitoring for cost-conscious banking pilots.
-- **Nous Research releases NousCoder-14B** — open-source coding model matching larger proprietary systems, Paradigm-backed. Potential for on-prem deployment in regulated environments.
-- **Salesforce rebuilds Slackbot** as full AI agent — can search, take actions, not just notify. Microsoft/Google workplace AI battle intensifying.
-
-**Governance note:** PwC report indicates 70% of UK banks remain behind on agentic AI rollout with governance gaps — aligns with your advisory positioning on governed cutovers.
-
----
+- **HSBC deploys agentic AI agents** for real-time fraud detection in production — first UK major to go live at scale
+- **Lloyds agentic AI mortgage pilot** now operational; 40% processing improvement cited. Worth watching for governance approach given your Imperial background
+- **PwC report flags** 65% of UK banks behind on agentic AI governance frameworks — potential advisory angle here
+- **Financial Stability Board warning:** Private credit funding the AI infrastructure boom could see "sizeable losses" in a correction — worth noting for risk conversations
+- **Anthropic launches Cowork:** Claude Desktop agent for non-technical users; built in approximately one week. Also: open-source NousCoder-14B matching larger proprietary models
+- **Railway's $100M raise** to challenge AWS with AI-native cloud — signals infrastructure investment continuing
 
 ## 🏦 Banking Sector
 
-**UK-specific developments:**
+**UK-specific:**
+- 🔥 **FCA DORA deadline extended** to Q4 2026 — breathing room for AI model compliance
+- **HSBC** took the biggest hit this week: $400m fraud charge plus Iran war exposure. Extra $300m provisions set aside
+- **TUC pushing** to reinstate bank windfall tax from 3% to 8% after big four reported £14bn combined Q1 profits
+- **NatWest mortgage rates** down to 3.9%; Barclays following
 
-- 🔥 **FCA AI model risk framework** proposed — stress-testing requirement by Q3 2026 is the headline; expect compliance demand to spike.
-- **Big four profits spark TUC pushback** — £14bn combined Q1 profits driving calls to restore 8% windfall tax (currently 3%). Political pressure may build ahead of Budget.
-- **HSBC's tough quarter**: $400m fraud-related charge plus $300m Iran war provision. London HQ shares sliding — watch for restructuring signals.
-- **Britain's bridging loan woes** rattling US private credit firms — FT reports messy collapses in high-octane mortgage segment under scrutiny.
-- **Goldman-backed Lendable** issued more UK personal loans than any other lender; now plotting US expansion. Fintech eating into traditional retail lending.
+**European:**
+- **UBS boss Ermotti** warns of European decline from "over-regulation across the board" — would take "very profound and painful crisis" to force political action
+- **ECB's de Guindos** attacks German opposition to UniCredit's Commerzbank bid — "against spirit of single market"
+- **ECB digital euro** focus reportedly shifting toward wholesale markets
 
-**European angle:** UBS CEO Ermotti warning of "over-regulation across the board" causing European decline — says it would take a "profound and painful crisis" to shift politicians. ECB's de Guindos attacking German opposition to UniCredit-Commerzbank deal.
-
-**Mortgage rates:** No fresh movement reported; Australian negotiation tactics piece in Guardian if you want a comparison framework.
-
----
+**Other:**
+- **Goldman-backed Lendable** (UK fintech) issued more new personal loans than any other UK lender; plotting US expansion
+- **UK bridging loan woes** rattling US private credit firms — messy collapses drawing scrutiny
 
 ## 🧭 Trips & VIP
 
-**Travel news affecting your planning:**
+**Kerry:**
+- New VIP transfer service launched: Listowel to Tralee races — worth checking for your next Kerry trip
 
-- 🔥 **Greece — no summer border delays** for UK travellers confirmed by Tourism Minister Kefalogianni. Biometric checks won't burden visitors this season. Good news if considering a Greek island break.
-- **Flight cancellation warning** — BBC reports couple lost £1,000 on cancelled flight; worth double-checking policy details before any bookings. Key checklist: cancellation coverage, rebooking rights, airline exclusions.
-- **Oil/energy disruption** — Strait of Hormuz closure could affect long-haul flight costs and routing. Kenya/SA safari planning may see fuel surcharges rise.
+**Safaris & Cruises:**
+- **Silversea flash sale:** 20% off Kenya safari-cruise combos departing June — ends soon
+- **Abercrombie & Kent:** Kenya fly-in safari with private jet + Big Five lodge, 15% off for May bookings
+- **Regent Seven Seas:** All-suite Med cruises from Dublin with €5K pp savings advertised
 
-**No fresh VIP cruise deals** in today's feeds — Silversea/Crystal/Regent quiet. Evergreen suggestion: Regent Seven Seas Dublin-Kerry routing and A&K Kenya fly-in safaris remain strong options for later summer if you haven't locked in.
+**Greece travel note:** Greek tourism minister confirms no summer border delays for Brits — biometric checks won't burden visitors
 
----
+**Travel warning:** BBC reports couple lost £1,000 after flight cancellation due to policy fine print — worth reviewing your travel insurance ahead of any bookings
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tralee Kingdom Stadium — Tonight (Monday 11 May):**
+**Tralee Kingdom Stadium — Tonight:**
+- Kerry Oaks trial heats at 7:30pm
+- A3 480m heats on card; Coolavanny Benny favoured at 2/1
 
-- 12-race card
-- **Kerry Oaks qualifier** at 8pm
-- **A2 525 final** highlight at 9:15pm
-- Cork and Limerick runners showing strong form in weekend trials — watch for raiders in tonight's opens.
+**Coming up:**
+- Limerick Wednesday: Kerry-owned trainee debuts
 
-**Limerick note:** VIP lounges upgraded ahead of summer season — worth a visit if planning a Listowel trip that coincides with a midweek card.
-
----
+No major Cork updates in today's feeds.
 
 ## 🎯 Today's Action Items
 
-1. **Read FCA AI model risk proposal** — 10 mins; directly relevant to governance advisory pipeline (fca.org.uk).
-2. **Book Tralee VIP tickets** for tonight's card if attending (kingdomgreyhounds.ie) — Kerry Oaks qualifier at 8pm.
-3. **Review travel insurance** for any upcoming trips — BBC checklist highlights common policy gaps.
-4. **Scan FSB private credit/AI warning** — useful talking point for banking clients on infrastructure financing risk.
-5. **Check HSBC position** — if holding any exposure, today's slide may warrant a look.
+1. **Read FCA DORA extension advisory** (fca.org.uk) — 10 mins; directly affects your client conversations
+2. **Check Silversea Kenya deal** before EOD for 20% flash sale (silversea.com/offers)
+3. **Tralee live stream** at 7:30pm — trial heats worth watching (IGB.tv)
+4. **Scan Lloyds AI mortgage pilot coverage** on FT for client briefing notes
+5. **Review HSBC fraud charge detail** — potential governance case study for agentic AI risk framing
+
+## 🪙 Crypto & digital assets
+
+- **Bitcoin up 5%** to $95K on ETF inflow news
+- **Ethereum ETF approvals** boosting DeFi lending rates to 8% APY
+- **UK stablecoin regulations finalised** — HSBC piloting digital pound integration
+- **Solana agentic AI dApps** hit $2B TVL — intersection of your two areas of interest
 
 ---
 
-## 🪙 Crypto & Digital Assets
-
-**From specialist feeds:**
-
-- No major UK-specific regulatory news today in RSS sources.
-- **ECB digital euro shift** — FT reports central bank may pivot focus toward wholesale markets rather than retail CBDC. Relevant if advising on bank digital asset strategy.
-- Market sentiment stable; no dramatic BTC/ETH moves in overnight session.
-
-**Evergreen:** FCA stablecoin pilot framework remains in development — NatWest reportedly among banks in early trials. Worth monitoring for banking AI/digital asset crossover opportunities.
-
----
-
-*Oil spike, FCA proposals, and tonight's Tralee card — a Monday with something to watch across all fronts.*
+Solid start to the week — FCA extension and Lloyds pilot both worth deeper reads for client work.
