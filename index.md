@@ -1,72 +1,71 @@
-**Previous days:** [Mon 11 May](dashboards/2026-05-11.md) · [Sun 10 May](dashboards/2026-05-10.md) · [Sat 09 May](dashboards/2026-05-09.md) · [Fri 08 May](dashboards/2026-05-08.md)
+**Previous days:** [Tue 12 May](dashboards/2026-05-12.md) · [Mon 11 May](dashboards/2026-05-11.md) · [Sun 10 May](dashboards/2026-05-10.md) · [Sat 09 May](dashboards/2026-05-09.md)
 
 ---
 
-# Personal Dashboard — Tuesday 12 May 2026
+# Personal Dashboard — Wednesday 13 May 2026
 
-*Last refreshed: Tuesday 12 May 2026, 19:22 BST*
+*Last refreshed: Wednesday 13 May 2026, 10:21 BST*
 
 ## 📊 Today's Quick Snapshot (5 bullets)
 
-- 🔥 **UK borrowing costs spiking** — bond yields climbing on uncertainty over PM Starmer's future; Health Secretary Streeting meeting him tomorrow as cabinet pressure mounts.
-- **Barclays consumer data** — UK households cut spending at fastest rate in 16 months in April; travel hit hardest amid Iran war fallout.
-- **HSBC convenes UK banks on climate risk** — meeting to address flood/wildfire default exposure across household and corporate portfolios.
-- **Agentic AI momentum** — Anthropic launches "Cowork" desktop agent for non-technical users; Salesforce rebuilds Slackbot as full AI agent.
-- **Tralee tonight** — Kingdom Stadium card featuring A1 525 final, post time 8:15pm.
+- 🔥 UK gilt yields jumping as Westminster leadership uncertainty rattles investors — watch banking stocks today
+- JPMorgan finally rolling out Chase consumer bank across Europe, starting with Germany after UK launch; Jamie Dimon warns he could scrap £3bn London HQ if "hostile to banks" PM emerges
+- Elon Musk and Jensen Huang joining Trump on China trip — tech-trade implications unfolding
+- Barclays data: UK household spending dropped fastest in 16 months in April amid Middle East conflict jitters
+- Financial Stability Board flags private credit fuelling AI boom as potential systemic risk
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What's changed:**
-- **Anthropic Cowork launch** — Claude Desktop now has an agentic capability for non-coders, built in roughly a week. Potential use case: governed document workflows without engineering overhead. Worth tracking for legacy-to-AI integration playbooks.
-- **Salesforce Slackbot overhaul** — transformed from notification tool to "fully powered AI agent" capable of cross-system search and execution. Direct competition to Microsoft Copilot in workplace AI.
-- **Financial Stability Board warning** — private credit funding the AI boom could trigger "sizeable" losses if correction hits. Relevant for any AI vendor due diligence.
-- **Railway raises $100M** — positioning as AI-native cloud alternative to AWS; 2M developers onboard with zero marketing spend. Watch for enterprise banking uptake.
-- **Open-source coding models** — Nous Research's NousCoder-14B claims parity with larger proprietary systems. Reduces vendor lock-in risk for bank dev teams.
+**What changed overnight:**
+- **Anthropic's Cowork launch**: Claude Desktop now has an agent capability ("Cowork") that works in local files for non-technical users — built in one week. Extends Claude Code reach beyond developers into enterprise ops teams.
+- **Open-source coding push**: Nous Research released NousCoder-14B, an open-source model matching larger proprietary systems on competitive programming. Trained quickly; worth monitoring for cost-sensitive agentic deployments.
+- **Goose vs Claude Code pricing**: VentureBeat highlights that Block's open-source "Goose" replicates Claude Code functionality at zero cost vs. Anthropic's $200/month. Relevant for client conversations on governed agent economics.
+- **Malware risk on Hugging Face**: HiddenLayer found a malicious repo posing as an OpenAI release — 244,000 downloads before removal. Sharp reminder: AI model provenance governance is non-negotiable in production pipelines.
+- **Bain sizes agentic SaaS market**: New estimate of $100bn US market for SaaS companies automating coordination work with agentic AI. Useful framing for your advisory pitches on readiness assessments.
 
-**Evergreen note:** Imperial College webinar replays on governed AI cutovers remain a solid refresher if the news quiets down.
+**Banking-specific:** FSB report warns private credit industry's AI-boom exposure could generate "sizeable losses" in a correction. Worth flagging to risk committees.
 
 ## 🏦 Banking Sector
 
-**What's changed:**
-- 🔥 **Jamie Dimon warning** — JP Morgan could scrap £3bn Canary Wharf HQ if Starmer replaced by PM "hostile to banks." Political risk now priced into City planning.
-- **JP Morgan governance vote** — ISS and Glass Lewis urging investors to split Chair/CEO roles; AGM proxy fight underway.
-- **HSBC climate convening** — pulling UK banks together on flood, wildfire, and rising-sea default modelling. Central banks flagging household/corporate exposure.
-- **UK bridging loan stress** — FT reports messy collapses rattling US private credit firms with UK property exposure.
-- **City strategy critique** — FT argues current reform programme lacks ambition as market share slips; "urgent national mission" framing.
-- **Digital euro pivot** — ECB appears to be shifting focus from retail to wholesale CBDC markets.
+**UK focus:**
+- 🔥 **Bond yields spiking**: UK borrowing costs climbing as PM's future remains uncertain. Markets pricing in political risk — could affect mortgage pricing if sustained.
+- **JPMorgan's dual message**: Dimon preparing Germany consumer bank launch (Chase Europe expansion) while simultaneously threatening to scrap the £3bn Canary Wharf HQ if a future Labour leader targets lenders. Investor pressure mounting — proxy advisors ISS and Glass Lewis urging shareholders to split his chair/CEO roles.
+- **Household retrenchment**: Barclays credit card data shows April spending down sharply, especially travel. Iran conflict fallout creating consumer caution.
+- **FT editorial**: UK City strategy criticised as lacking ambition — "hyperactive reform programme" not enough to stem market share losses.
 
-**Mortgage watch:** No fresh rate cuts in today's feeds, but Barclays consumer spending data suggests households bracing for tougher conditions.
+**International:** Australian bank stocks under pressure (CBA down 10%) after budget targets property investors. MUFG seeking to offload $2bn private credit risk.
+
+No fresh FCA/DORA items this refresh. Standing advice: keep monitoring de-banking rules implementation.
 
 ## 🧭 Trips & VIP
 
-**What's changed:**
-- Nothing fresh on Kerry, Kenya safaris, or cruise lines in today's source material.
-
-**Evergreen suggestion:** Silversea often drops flash sales mid-week — worth a quick site check for autumn Kenya fly-in safaris or Med repositioning cruises.
+**Nothing blockbuster this morning**, but worth actioning:
+- **Kerry short breaks**: No fresh deals in today's feeds. Evergreen suggestion: Dingle Peninsula boutique stays via private transfer from Listowel remain well-priced midweek in late May.
+- **Safari/cruise**: No new Silversea or Regent offers surfaced. Consider checking Crystal's Kenya itineraries directly — competitor pricing often triggers flash sales.
+- **Dublin AI events**: Nothing new announced. Tech conferences typically finalise autumn programmes in June; worth setting a calendar reminder.
 
 ## 🐆 Dogs — Greyhound Racing
 
-**What's changed:**
-- **Tralee Kingdom Stadium tonight** — A1 525 final on the card, post time 8:15pm. Check IGB.ie for runners and live streaming options.
+**Tralee Kingdom Stadium**: No fresh card details in today's RSS pulls. Check IGB.ie directly for tonight's race times and trap draws — Wednesday evening cards typically available by midday.
 
-No fresh Cork or Limerick updates in today's feeds.
+**Standing tip**: Limerick and Cork fixtures often appear on weekend previews; worth a scan Thursday for Saturday/Sunday planning.
 
 ## 🎯 Today's Action Items
 
-1. **Monitor Starmer/Streeting meeting coverage** — potential policy shifts affecting banking regulation if leadership changes (ongoing through tomorrow).
-2. **Scan FT bridging-loan piece** — assess any exposure relevance for advisory clients with UK property-backed credit.
-3. **Book/confirm Tralee greyhounds** — A1 final streams at 8:15pm; IGB site for card and odds.
-4. **Check Silversea/Regent sites** — mid-week flash sales sometimes appear Tuesday evenings.
-5. **Review FSB private credit warning** — useful framing for any AI vendor due diligence conversations.
+1. **Monitor gilt yields** through the day — if 10-year breaches 4.8%, flag to any bank clients on funding costs
+2. **Read FSB private credit/AI warning** — useful intel for next advisory deck on model risk governance
+3. **Check Tralee IGB card** at lunch for tonight's racing; book VIP lounge if running
+4. **Skim Anthropic Cowork announcement** — assess relevance for non-developer enterprise agentic use cases
+5. **Watch JPMorgan AGM vote** on chair/CEO split — signals on governance pressure may inform UK bank board conversations
 
 ## 🪙 Crypto & Digital Assets
 
-**What's changed:**
-- No major breaking stories in today's Cointelegraph, CoinDesk, Decrypt, or The Block feeds.
-- **ECB digital euro** — as noted above, focus shifting toward wholesale markets rather than retail CBDC. Potentially relevant for UK bank correspondent relationships.
+**From the feeds:**
+- No major price moves or regulatory shifts in today's Cointelegraph/CoinDesk/Decrypt/Block pulls.
+- **Evergreen note**: UK FCA stablecoin consultation responses still being processed; final rules expected H2 2026. UAE continues leading on institutional crypto custody (your FAB experience relevant if clients ask about Middle East positioning).
 
-**Evergreen note:** FCA stablecoin issuer guidance expected later this quarter — worth tracking for banking integration implications.
+Light crypto day — check back at evening refresh if BTC or ETH moves materially.
 
 ---
 
-*Crisp evening — enjoy Tralee if you're tuning in.*
+*Quiet midweek on travel and racing; political uncertainty the story to watch. Back at it tomorrow.*
