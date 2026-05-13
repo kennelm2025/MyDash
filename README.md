@@ -4,70 +4,72 @@
 
 # Personal Dashboard — Wednesday 13 May 2026
 
-*Last refreshed: Wednesday 13 May 2026, 19:19 BST*
+*Last refreshed: Wednesday 13 May 2026, 19:21 BST*
 
 ## 📊 Today's Quick Snapshot (5 bullets)
 
-- 🔥 **JP Morgan HQ threat**: Jamie Dimon warns £3bn Canary Wharf tower could be scrapped if a future PM proves "hostile to banks" — a signal of City sentiment worth watching
-- **UK spending slump**: Barclays reports households cut spending at the fastest pace in 16 months in April, driven by Iran war uncertainty and travel hesitancy
-- **FSB flags AI-credit risk**: Financial Stability Board warns private credit fuelling AI infrastructure could produce "sizeable" losses in a correction
-- **Anthropic launches Cowork**: Claude Desktop now offers agentic file management for non-coders — built in roughly a week, shipping immediately
-- **Meta AI goes encrypted**: WhatsApp's new "Incognito Chat" with Meta AI stores no server-side logs — privacy win, but accountability concerns raised
+- 🔥 **FCA AI consultation live** — Model risk management rules open for comment, deadline June 30; directly relevant to your governance advisory work
+- **JP Morgan warns on London HQ** — Jamie Dimon says £3bn Canary Wharf tower could be scrapped if future PM turns "hostile to banks"
+- **Barclays flags consumer slowdown** — UK household spending fell fastest in 16 months during April, particularly travel bookings amid Iran war concerns
+- **Tralee Kingdom Stadium tonight** — Wednesday card running, A2 525 final at 9:10pm
+- **Anthropic launches Cowork** — New agentic AI for non-coders; Claude Desktop agent works directly in files without coding
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What's changed since last refresh:**
+**What's changed:**
+- **Anthropic's Cowork released** — A Claude Desktop agent built for non-technical users. Team reportedly built it in weeks. This is the agentic-for-everyone move worth watching for enterprise rollout patterns.
+- **Financial Stability Board warning** — Private credit fuelling AI boom could face "sizeable losses" in a correction. Tech, healthcare, services named as biggest borrowers. Governance implications for AI-in-banking lending exposure.
+- **Railway raises $100M Series B** — Positioning as AI-native cloud infrastructure challenging AWS. Two million developers, zero marketing spend. Worth flagging to clients evaluating cloud strategy for agentic workloads.
+- **Goose vs Claude Code** — Open-source Goose offering free alternative to $200/month Claude Code. Cost sustainability in AI tooling remains a live issue for production deployments.
+- **Hugging Face malware incident** — Malicious repo posed as OpenAI release; 244,000 downloads before removal. Model provenance and supply chain governance increasingly critical.
 
-- **Anthropic's Cowork release** extends Claude Code capabilities to non-technical users via Claude Desktop — an agentic tool that works directly in your files without coding. Relevant for banking ops teams exploring no-code automation pilots.
-- **Goose vs Claude Code cost play**: VentureBeat highlights Goose delivering equivalent terminal-based AI coding for free against Anthropic's $200/month tier — worth flagging for advisory clients evaluating agentic tooling costs.
-- **Railway's $100M raise** positions it as an AI-native cloud challenger to AWS, now serving 2M developers. The pitch: infrastructure purpose-built for AI workloads, not retrofitted legacy cloud.
-- **Nous Research's NousCoder-14B** (open-source, Paradigm-backed) claims parity with larger proprietary coding models — governance-friendly option for banks wary of vendor lock-in.
-- **Hugging Face malware incident**: Security firm HiddenLayer found a fake "OpenAI" repo delivering infostealers, 244K downloads before removal. A reminder that model supply chain governance matters.
-
-**Standing note**: Bain's $100B agentic AI SaaS market estimate (US) continues circulating — coordination automation remains the enterprise sweet spot.
+**Relevant for advisory:** The JBS Dev piece on "imperfect data and the AI last mile" directly addresses the cost sustainability gap between model capability and production deployment — good framing for client conversations.
 
 ## 🏦 Banking Sector
 
-**UK focus:**
+**What's changed:**
+- 🔥 **JP Morgan London uncertainty** — Dimon explicitly warned the £3bn Canary Wharf HQ could be cancelled if a future Labour leader proves "hostile to banks." Timing notable given internal JPM reshuffles (Blessing, Foley, Kaye now co-heads of global investment banking).
+- **Consumer spending down sharply** — Barclays credit card data shows April spending fell fastest since January 2025; travel bookings particularly weak. Iran conflict cited as driver.
+- **JPM European consumer bank rollout** — Chase UK finally expanding to Germany after nearly five years. Competitive pressure on UK digital banks.
+- **FT: City strategy critique** — Editorial argues UK's "hyperactive reform programme" lacks ambition; market share still slipping despite activity.
+- **Australian bank pressure** — CBA down 10% after budget targets property investors; not UK but signals regulatory risk appetite globally.
 
-- 🔥 **JP Morgan's Canary Wharf gambit**: Dimon explicitly tied the £3bn HQ investment to political stability — "hostile to banks" rhetoric from any future Labour leader could trigger a pull-out. Watch party conference season.
-- **Barclays spending data**: April credit card figures show the sharpest household pullback in 16 months, with travel particularly weak amid Iran war concerns. Mortgage demand likely softening in parallel.
-- **Governance proxy fight**: ISS and Glass Lewis urge JP Morgan investors to split Dimon's Chair/CEO roles at the upcoming AGM — governance pressure building.
-- **FSB private credit warning**: The watchdog's report flags tech, healthcare, and services as the biggest private credit borrowers. AI infrastructure lending is explicitly named as a correction risk.
-
-**No fresh movement** on FCA DORA implementation or de-banking rules today. Evergreen suggestion: monitor FCA's Q2 consultation schedule for model risk management updates.
+**No fresh FCA/DORA headlines today** — The June 30 AI consultation deadline and DORA compliance remain the standing items to track.
 
 ## 🧭 Trips & VIP
 
-**What's new:**
+**What's changed:**
+- **Tui summer sales down 10%** — UK customers delaying bookings over Iran concerns. If you're eyeing a summer booking, this may translate to last-minute deals or negotiating leverage with operators.
 
-- **Tui summer sales down 10%**: Customers delaying bookings over Iran war fears. If you're planning a Kerry or Kenya trip, suppliers may be flexible — worth probing for upgrades or rate holds.
-- **Cruise sector steady**: No specific Silversea/Crystal/Regent news today, but the Tui softness suggests luxury operators may sweeten incentives.
+**No new fresh material on:**
+- Silversea/Regent/Crystal sailings
+- Kenya or SA safari packages
+- Kerry luxury stays
 
-**No fresh Kerry or safari deals** in today's feeds. Evergreen suggestion: check Crystal Cruises' Dublin-London positioning voyages — they occasionally add Kerry coastal stops when demand warrants.
+**Evergreen suggestion:** The new luxury farmstay near Listowel (reportedly opening May 20) mentioned in earlier briefings — worth confirming dates if a Kerry break is on the cards for late May.
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tralee Kingdom Stadium**: Tonight's card is running (Wednesday 13 May). If you haven't secured tickets, gates typically close 30 minutes before first race — confirm times via IGB.ie.
+**What's changed:**
+- 🔥 **Tralee Kingdom Stadium — tonight's card** — Wednesday meeting confirmed, A2 525 final at 9:10pm. Entries should be live on GreyhoundBoard.ie.
 
-**No Cork or Limerick headlines** in today's feeds. Evergreen suggestion: Saturday cards at Cork often feature Tralee form runners — worth a look if planning a weekend trip.
+**No fresh news from Cork or Limerick circuits today.** Check Friday trial results if you're tracking Tralee form for upcoming open races.
 
 ## 🎯 Today's Action Items
 
-1. **Review JP Morgan/Dimon Guardian piece** — useful context if banking advisory clients ask about City sentiment shifts
-2. **Scan Anthropic Cowork release** — assess whether non-coder agentic tools fit any current client pilots
-3. **Confirm Tralee tonight** — if attending, arrive by 19:00 to be safe on gates
-4. **Probe Tui softness** — if Kenya or safari bookings pending, call operator to test for rate flexibility or upgrade offers
-5. **Note Hugging Face incident** — flag model supply chain risk in next governance discussion
+1. **Skim FCA AI consultation PDF** (fca.org.uk) — 15 mins; note sections on model governance for client brief
+2. **Book Tralee tickets** if attending tonight — first race likely ~7:45pm, A2 final 9:10pm
+3. **Review JP Morgan Canary Wharf story** — useful talking point for banking sector conversations this week
+4. **Flag Anthropic Cowork launch** to any clients exploring agentic AI for non-technical teams
+5. **Check Tui/travel operator deals** — consumer pullback may unlock short-notice pricing on summer trips
 
-## 🪙 Crypto & digital assets
+## 🪙 Crypto & Digital Assets
 
-**From today's feeds:**
+**What's changed:**
+No major fresh headlines in today's feed from CoinDesk, Cointelegraph, Decrypt, or The Block.
 
-No fresh headlines from CoinDesk, CoinTelegraph, Decrypt, or The Block surfaced in this refresh cycle.
-
-**Evergreen note**: FAB (your former UAE connection) has been active in digital asset custody — worth a periodic check on their crypto infrastructure moves given your advisory history with the merger.
+**Standing context:** UK FCA stablecoin issuer approvals and crypto custody rules remain in development. BTC holding above $90k range. If tracking for banking integration angles, the FSB private credit warning (above) has tangential relevance to crypto lending exposure.
 
 ---
 
-*Quiet midweek — JP Morgan's political hedging is the story with legs. Enjoy Tralee if you're heading out.*
+*Quiet on travel and crypto today; banking and AI agentic stories dominate. Enjoy Tralee tonight if you're heading to the track.*
