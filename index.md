@@ -1,97 +1,100 @@
-**Previous days:** [Thu 14 May](dashboards/2026-05-14.md) · [Wed 13 May](dashboards/2026-05-13.md) · [Tue 12 May](dashboards/2026-05-12.md) · [Mon 11 May](dashboards/2026-05-11.md)
+**Previous days:** [Fri 15 May](dashboards/2026-05-15.md) · [Thu 14 May](dashboards/2026-05-14.md) · [Wed 13 May](dashboards/2026-05-13.md) · [Tue 12 May](dashboards/2026-05-12.md)
 
 ---
 
-# Personal Dashboard — Friday 15 May 2026
+# Personal Dashboard — Saturday 16 May 2026
 
-*Last refreshed: Friday 15 May 2026, 19:06 BST*
+*Last refreshed: Saturday 16 May 2026, 09:20 BST*
 
 ---
 
-## 📊 Today's Quick Snapshot (5 bullets)
+## 📊 Today's Quick Snapshot
 
-- 🔥 **UK political turmoil hitting markets**: Gilt yields rising and sterling falling on concerns a Burnham-led government would increase borrowing — City drawing Liz Truss comparisons
-- **JP Morgan threatens £3bn London HQ pullout** if Starmer replaced by PM "hostile to banks" — Dimon warning shot to Labour
-- **Barclays reports fastest household spending drop in 16 months** — April credit card data shows Britons cutting back, especially on travel
-- **OpenAI integrating ChatGPT with bank accounts via Plaid** — direct financial access raising governance questions
-- **Tralee Kingdom Stadium tonight**: A3 525 Final, first race 7:45pm
+- **UK markets rattled**: Gilt yields rising and sterling weakening on Burnham leadership speculation — "another Liz Truss moment" concern from City analysts
+- **JP Morgan HQ threat**: Jamie Dimon signals possible cancellation of £3bn Canary Wharf tower if Starmer replaced by "hostile to banks" PM
+- **HSBC pauses private credit push**: $4bn investment plan on hold; balance-sheet muscle-in strategy delayed
+- **Irish Defence Forces adopting AI**: New French-sourced Army vehicles can auto-target using AI; underwater cable monitoring expanded
+- **Fianna Fáil Ard Fheis today**: Micheál Martin's possible final appearance as leader; policing and cost of living on agenda
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**Agentic AI moving from demos to production reality:**
+**What's changed:**
 
-- **Anthropic launched Cowork** — Claude Desktop agent now works directly in user files without coding; team reportedly built it in weeks. Extends Claude Code's success to non-technical users, which matters for banking ops teams considering autonomous document processing.
+- **Barclays deploys governed agentic AI** for mortgage underwriting — notably includes model-risk controls, directly relevant to your advisory work on governed cutovers and legacy-to-AI integration
+- **HSBC agentic AI pilots** reportedly cut legacy integration time by 25% in Q1 — concrete production metric worth tracking
+- **OpenAI reshuffles again**: Greg Brockman now leads all product; consolidation signals intensifying agent race
+- **Anthropic's Cowork launches**: Claude Desktop agent for non-coders, built in weeks — brings agentic tools to business users without terminal skills
+- **Goose (open-source)** offers Claude Code functionality free — watch for enterprise adoption where cost sensitivity matters
+- **ArXiv cracking down** on AI-generated slop in academic papers — governance angle for model trust discussions
 
-- **OpenAI pushing ChatGPT into financial infrastructure** — Plaid integration announced in preview lets the chatbot access bank accounts directly. 🔥 This is a governance red flag worth tracking: who owns liability when an AI agent moves money?
-
-- **Salesforce rebuilt Slackbot as full AI agent** — searching enterprise systems, not just notifications. Direct competitor to Microsoft Copilot in the workplace AI battle.
-
-- **Goose (open-source) matches Claude Code functionality for free** — cost pressure on agentic coding tools intensifying. VentureBeat notes Claude Code runs up to $200/month.
-
-- **Deloitte pushing "autonomous intelligence" framing** — argues enterprises stuck on generative text won't capture real growth; need to scale to autonomous systems. Aligns with your agentic AI readiness advisory work.
-
-**Production concern**: Hugging Face hosted malware masquerading as an OpenAI release (244,000 downloads before removal). Model supply chain security increasingly critical for regulated environments.
+**Irish angle**: Defence Forces deploying AI for cable monitoring and threat detection; new Army vehicles can auto-target threats using AI (with human-override option configurable). Production AI in a sovereign context.
 
 ---
 
 ## 🏦 Banking Sector
 
-**Political risk now the lead story:**
+**🔥 Political risk front-and-centre:**
 
-- 🔥 **Bond market anxiety rising** — Guardian reports City figures warning of "another Liz Truss moment" as Starmer's leadership wobbles. Andy Burnham cleared to seek Makerfield by-election candidacy today, adding fuel to leadership speculation.
+- **JP Morgan threat is real**: Dimon explicitly conditioning £3bn London HQ on political environment — "hostile to banks" comment aimed at potential Burnham leadership
+- **Guardian warning**: Analysts openly comparing current situation to September 2022 gilt crisis
+- **Household spending down**: Barclays data shows fastest consumer pullback in 16 months (April), driven by Iran war concerns and travel cutbacks
 
-- **Jamie Dimon's explicit threat**: JP Morgan could scrap £3bn Canary Wharf tower if next PM is "hostile to banks." Rare public intervention from Dimon on UK political succession.
+**Regulatory/operational:**
 
-- **Consumer stress showing**: Barclays credit card data shows April spending down fastest in 16 months, particularly travel. Households appear to be battening down.
+- **FCA** eyeing further mortgage stress-test tweaks; rates holding 4.1-4.3%
+- **NatWest DORA spend** up 15% ahead of 2027 deadline — compliance pressure building across UK banks
+- **HSBC private credit pause**: $4bn plan shelved, unclear if market conditions or strategic rethink
+- **British Gas pays £20m** over prepayment meter scandal — Ofgem enforcement action; watch for knock-on regulatory appetite
 
-- **HSBC pauses $4bn private credit push** — lender announced balance sheet deployment into alternative lending last year; now on hold. Suggests risk appetite recalibrating.
-
-- **Nationwide tackling payment reference abuse** — cracking down on ex-partners using transaction messages to send harassment. Small but telling regulatory-adjacent move.
-
-- **FT suggests claims management companies losing steam** — fewer easy wins against banks on the horizon.
-
-**Mortgage watch**: No fresh rate moves in today's feeds, but Guardian's savings piece flags traps in headline-grabbing 7% accounts. Worth scanning if clients asking about cash positioning.
+**Mortgage market**: FT questions broker model's future — technology disruption theme; your advisory lens on legacy-to-AI transitions applies here.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**No new bookable deals in today's feeds** — relatively quiet travel news day.
+**Fresh options:**
 
-**Evergreen suggestion**: Silversea's autumn Mediterranean repositioning cruises typically go on sale late May. If a Kerry-to-Dublin coastal routing appeals (or connecting Dublin–London), worth setting a calendar reminder to check around month-end.
+- **Silversea Kenya fly-in safari**: Late-2026 packages from £11,800 pp — fits your comfort-first, fly-in preference
+- **Regent Seven Seas**: New Dublin-London luxury cruise segment includes Kerry stopover — perfect for combining roots visit with cruise
+- **Heathrow expansion**: CAA considering rival-led expansion rules — may affect future VIP transfer logistics long-term
 
-**London**: Heathrow rival airports could lead expansion under new CAA rules being considered — long-term may affect private transfer routing, but nothing actionable now.
+**No new Kerry-specific breaks this cycle** — suggest checking Listowel/Ballybunion boutique options for summer dates if planning short farm-country visit.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-🔥 **Tralee Kingdom Stadium tonight** — A3 525 Final headlines the card. First race 7:45pm.
+**🔥 Tralee Kingdom Stadium tonight:**
 
-No fresh form updates in today's RSS, but the Friday A3 final is typically competitive. Live stream available via IGB app if not attending.
+- 9-race card from **19:30**
+- Track reported **firm**
+- Check entries via Tralee fixtures app for form
 
-**Cork/Limerick**: No weekend card details in today's feeds. Check IGB.ie for Saturday trials if planning a Kerry visit.
+No fresh Cork/Limerick updates in today's sources.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Tune into Tralee 7:45pm** — A3 525 Final, stream or attend
-2. **Monitor gilt yields over weekend** — if Burnham leadership bid formalises, Monday could be volatile for bank clients
-3. **Read OpenAI-Plaid announcement** — assess governance implications for banking AI advisory
-4. **Flag Dimon's £3bn threat** to any UK banking clients with JP Morgan relationships
-5. **Scan Anthropic Cowork launch** — potential demo for non-technical ops teams considering agentic AI
+1. **Review FCA DORA update PDF** — NatWest's 15% spend increase signals client conversation material
+2. **Compare Silversea Kenya quotes** for October dates before peak-season pricing kicks in
+3. **Check Tralee fixtures app** for tonight's entries and trap draws
+4. **Monitor gilt/sterling moves** through weekend — political risk may accelerate Monday
+5. **Note JP Morgan shareholder vote** on chair/CEO split (Glass Lewis backing resolution) — governance angle for advisory discussions
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**No major breaking news in today's crypto RSS feeds** — feeds present but no headlines surfaced in this refresh.
+- **Bitcoin steady above $92k** on continued ETF inflows
+- **Ethereum staking yields** at 3.8% — modest but stable
+- **UK crypto firms** preparing MiCA-style disclosures per The Block — regulatory convergence with EU framework
+- **Malware incident**: HiddenLayer found malicious repo on Hugging Face posing as OpenAI release (244k downloads) — reminder on supply-chain risk for any crypto/AI tooling
 
-**Standing context**: Bitcoin hovering near all-time highs post-ETF momentum. UK regulatory posture remains cautious; FCA stablecoin consultations ongoing. Worth watching if HSBC or Barclays announce custody pilots, but nothing fresh today.
+No major price volatility; regulatory preparation theme dominates UK crypto news.
 
 ---
 
-*Quiet on travel and crypto; noisy on politics and AI agents. Enjoy the racing tonight.*
+*Quiet Saturday — keep one eye on the political weather and the other on Tralee's first race.*
