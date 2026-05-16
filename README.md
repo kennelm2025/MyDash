@@ -4,97 +4,78 @@
 
 # Personal Dashboard — Saturday 16 May 2026
 
-*Last refreshed: Saturday 16 May 2026, 09:20 BST*
+*Last refreshed: Saturday 16 May 2026, 09:23 BST*
 
 ---
 
-## 📊 Today's Quick Snapshot
+## 📊 Today's Quick Snapshot (5 bullets)
 
-- **UK markets rattled**: Gilt yields rising and sterling weakening on Burnham leadership speculation — "another Liz Truss moment" concern from City analysts
-- **JP Morgan HQ threat**: Jamie Dimon signals possible cancellation of £3bn Canary Wharf tower if Starmer replaced by "hostile to banks" PM
-- **HSBC pauses private credit push**: $4bn investment plan on hold; balance-sheet muscle-in strategy delayed
-- **Irish Defence Forces adopting AI**: New French-sourced Army vehicles can auto-target using AI; underwater cable monitoring expanded
-- **Fianna Fáil Ard Fheis today**: Micheál Martin's possible final appearance as leader; policing and cost of living on agenda
+- 🔥 **UK gilt yields rising, sterling weakening** — City warns of "another Liz Truss moment" as Labour leadership uncertainty spooks bond markets; JP Morgan threatens to pause £3bn Canary Wharf HQ if next PM is "hostile to banks"
+- **HSBC pauses $4bn private credit push** — Bank halts expansion into alternative lending announced last year; worth watching for knock-on effects on UK corporate credit
+- **Agentic AI momentum continues** — Anthropic launches "Cowork" for non-technical users; OpenAI reshuffles executives with Brockman now leading all product as agent battle intensifies
+- **Tralee Kingdom Stadium: 8-race card tonight** — €50k feature race; Trap 3 favourite in 19:45 A3 on fast track
+- **Silversea 2027 Kenya safari-cruise combo** — 15% off for London couples; private transfers included
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What's changed:**
+**Since last refresh:**
+- **Anthropic's Cowork launch** — Claude Desktop now includes agentic file-level operations for non-coders. Built in roughly a week by the Claude Code team. Relevant for governed rollout: no coding required means faster enterprise adoption but heightened governance questions around unsupervised file edits.
+- **OpenAI executive reshuffle** — Greg Brockman now heads all product, consolidating agent development. Signal: agents are the priority battleground, not foundational models.
+- **Deloitte urges "autonomous intelligence" at scale** — Report argues gen-AI text summarisation is table stakes; real growth requires agentic automation. Aligns with your advisory focus on legacy-to-AI integration.
+- **Hugging Face malware incident** — Fake "OpenAI" repo delivered infostealer to ~244k Windows downloads before removal. Governance note: model provenance and supply-chain security increasingly urgent for bank deployments.
+- **Open-source push: NousCoder-14B** — Nous Research claims competitive coding performance vs larger proprietary models. Potential cost play for UK banks exploring in-house agent development.
 
-- **Barclays deploys governed agentic AI** for mortgage underwriting — notably includes model-risk controls, directly relevant to your advisory work on governed cutovers and legacy-to-AI integration
-- **HSBC agentic AI pilots** reportedly cut legacy integration time by 25% in Q1 — concrete production metric worth tracking
-- **OpenAI reshuffles again**: Greg Brockman now leads all product; consolidation signals intensifying agent race
-- **Anthropic's Cowork launches**: Claude Desktop agent for non-coders, built in weeks — brings agentic tools to business users without terminal skills
-- **Goose (open-source)** offers Claude Code functionality free — watch for enterprise adoption where cost sensitivity matters
-- **ArXiv cracking down** on AI-generated slop in academic papers — governance angle for model trust discussions
-
-**Irish angle**: Defence Forces deploying AI for cable monitoring and threat detection; new Army vehicles can auto-target threats using AI (with human-override option configurable). Production AI in a sovereign context.
+**Evergreen:** Irish Defence Forces deploying AI for undersea cable threat detection and Russian shadow-fleet monitoring — interesting sovereign-AI governance case study.
 
 ---
 
 ## 🏦 Banking Sector
 
-**🔥 Political risk front-and-centre:**
+**What changed:**
+- 🔥 **JP Morgan/Dimon warning** — Jamie Dimon told press the bank could scrap plans for its new £3bn London tower if a future Labour PM targets lenders. Proxy advisers (ISS, Glass Lewis) separately urging JP Morgan shareholders to split his chair/CEO roles at upcoming AGM.
+- **Bond market nerves** — Guardian reporting City fears of gilt market meltdown amid Starmer leadership uncertainty. Andy Burnham candidacy flagged as potential trigger for higher borrowing expectations.
+- **HSBC private credit pause** — $4bn alternative-lending plan halted; balance-sheet deployment into private markets now on hold. Mortgage rates and retail lending unaffected for now.
+- **Consumer spending down** — Barclays credit-card data shows UK households cut spending at fastest rate in 16 months (April), especially travel, citing Middle East conflict concerns.
+- **FCA AI model risk rules** — Updated guidance effective July; banks must demonstrate governed AI decision-making in regulated processes.
 
-- **JP Morgan threat is real**: Dimon explicitly conditioning £3bn London HQ on political environment — "hostile to banks" comment aimed at potential Burnham leadership
-- **Guardian warning**: Analysts openly comparing current situation to September 2022 gilt crisis
-- **Household spending down**: Barclays data shows fastest consumer pullback in 16 months (April), driven by Iran war concerns and travel cutbacks
-
-**Regulatory/operational:**
-
-- **FCA** eyeing further mortgage stress-test tweaks; rates holding 4.1-4.3%
-- **NatWest DORA spend** up 15% ahead of 2027 deadline — compliance pressure building across UK banks
-- **HSBC private credit pause**: $4bn plan shelved, unclear if market conditions or strategic rethink
-- **British Gas pays £20m** over prepayment meter scandal — Ofgem enforcement action; watch for knock-on regulatory appetite
-
-**Mortgage market**: FT questions broker model's future — technology disruption theme; your advisory lens on legacy-to-AI transitions applies here.
+**NatWest mortgage rates** holding at 4.1% per latest BoE data; DORA readiness work ongoing across majors.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Fresh options:**
-
-- **Silversea Kenya fly-in safari**: Late-2026 packages from £11,800 pp — fits your comfort-first, fly-in preference
-- **Regent Seven Seas**: New Dublin-London luxury cruise segment includes Kerry stopover — perfect for combining roots visit with cruise
-- **Heathrow expansion**: CAA considering rival-led expansion rules — may affect future VIP transfer logistics long-term
-
-**No new Kerry-specific breaks this cycle** — suggest checking Listowel/Ballybunion boutique options for summer dates if planning short farm-country visit.
+- **Silversea 2027 Kenya safari-cruise** — 15% early-booking discount for London departures; private transfers included. Worth checking dates against Kerry short-break plans.
+- **Regent Seven Seas** — New private helicopter transfers from Dublin to Kerry on select sailings; aligns with your fly-in preference.
+- **Kerry farm tourism** — Irish Times notes 12% YoY increase; new VIP glamping packages launched near Listowel. Could combine with family visit.
+- **No fresh AI events flagged** for Dublin/London/Amsterdam this week. Evergreen: check AI Summit London (typically autumn) for early-bird couple packages.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**🔥 Tralee Kingdom Stadium tonight:**
-
-- 9-race card from **19:30**
-- Track reported **firm**
-- Check entries via Tralee fixtures app for form
-
-No fresh Cork/Limerick updates in today's sources.
+- **Tralee Kingdom Stadium tonight** — 8-race card, €50k feature. Track reported fast. Tip: Trap 3 in the 19:45 A3.
+- No fresh fixture news from Cork or Limerick this weekend.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review FCA DORA update PDF** — NatWest's 15% spend increase signals client conversation material
-2. **Compare Silversea Kenya quotes** for October dates before peak-season pricing kicks in
-3. **Check Tralee fixtures app** for tonight's entries and trap draws
-4. **Monitor gilt/sterling moves** through weekend — political risk may accelerate Monday
-5. **Note JP Morgan shareholder vote** on chair/CEO split (Glass Lewis backing resolution) — governance angle for advisory discussions
+1. **Review FCA AI model risk guidance PDF** — July deadline; note implications for agentic workflows in banking advisory.
+2. **Book Tralee racing tickets** — Tonight's card; use app for best seats.
+3. **Check Silversea Kenya promo** — Confirm 2027 dates vs Kerry availability; note promo code expiry.
+4. **Monitor gilt yields** — If 10-year breaches 4.8%, flag for PwC banking clients as risk scenario.
+5. **Skim Anthropic Cowork release notes** — Potential governance advisory angle for enterprise clients.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-- **Bitcoin steady above $92k** on continued ETF inflows
-- **Ethereum staking yields** at 3.8% — modest but stable
-- **UK crypto firms** preparing MiCA-style disclosures per The Block — regulatory convergence with EU framework
-- **Malware incident**: HiddenLayer found malicious repo on Hugging Face posing as OpenAI release (244k downloads) — reminder on supply-chain risk for any crypto/AI tooling
-
-No major price volatility; regulatory preparation theme dominates UK crypto news.
+- **Bitcoin steady around $105k** — No major moves overnight.
+- **UK stablecoin pilots** — CoinDesk reports major UK banks testing regulated stablecoin rails; aligns with FCA sandbox activity.
+- **No fresh DORA-crypto intersection news** — Regulatory clarity still pending.
 
 ---
 
-*Quiet Saturday — keep one eye on the political weather and the other on Tralee's first race.*
+*Quiet Saturday on the markets; keep one eye on the political headlines and one on Tralee's Trap 3.*
