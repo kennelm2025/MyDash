@@ -1,104 +1,102 @@
-**Previous days:** [Fri 15 May](dashboards/2026-05-15.md) · [Thu 14 May](dashboards/2026-05-14.md) · [Wed 13 May](dashboards/2026-05-13.md) · [Tue 12 May](dashboards/2026-05-12.md)
+**Previous days:** [Sat 16 May](dashboards/2026-05-16.md) · [Fri 15 May](dashboards/2026-05-15.md) · [Thu 14 May](dashboards/2026-05-14.md) · [Wed 13 May](dashboards/2026-05-13.md)
 
 ---
 
-# Personal Dashboard — Saturday 16 May 2026
+# Personal Dashboard — Sunday 17 May 2026
 
-*Last refreshed: Saturday 16 May 2026, 18:30 BST*
+*Last refreshed: Sunday 17 May 2026, 09:35 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **UK political jitters hitting markets**: Gilt yields rising, pound weakening on Labour leadership uncertainty — City voices warn of "another Liz Truss moment" if fiscal discipline slips.
-- **JP Morgan HQ threat**: Jamie Dimon warns £3bn Canary Wharf tower could be scrapped if a future PM proves "hostile to banks."
-- **HSBC pauses private credit push**: $4bn investment plan on hold — watch for knock-on effects in alternative lending.
-- **Tonight at Tralee**: Kingdom Stadium running, including a €10k feature race and 20:30 A3 graded — good evening for a flutter.
-- **Silversea Africa deal**: 15% off 2027 safari cruises; Regent adds Kerry-to-Kenya combo from €8,900 — worth a look this weekend.
+- **UK gilt yields rising** — Markets jittery on Labour leadership speculation; Burnham fiscal stance spooking investors (echoes of 2022 mini-budget).
+- **JP Morgan HQ threat** — Dimon warns £3bn Canary Wharf build could be scrapped if next PM is "hostile to banks."
+- **🔥 FCA model risk guidance incoming** — Fresh AI tool rules targeting UK lenders by Q3 2026; June DORA deadline looms.
+- **NatWest agentic AI win** — Mortgage processing pilots showing 25% efficiency gains; Barclays testing governed agents for regulatory reporting.
+- **Tralee racing today** — Kingdom Stadium: 8 races from 19:30, strong local trainer card.
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What's changed:**
+**What changed since last refresh:**
 
-- **Barclays autonomous compliance agents** now in pilot — reportedly cutting audit cycle time by 40%. This is a meaningful production deployment of agentic AI in UK banking; worth tracking for PwC advisory conversations.
-- **Bank of England** published a new framework for governed AI cutovers in banking — directly relevant to your legacy-to-AI integration advisory work.
-- **FCA AI model risk consultation** open — deadline flagged as today (see action items).
-- **OpenAI reshuffles again**: Greg Brockman now leads all product as company races to dominate AI agents. Anthropic launched "Cowork," a no-code desktop agent for non-technical users — enterprise implications for workflow automation.
-- **ArXiv crackdown on AI slop**: Academic preprint platform will ban researchers uploading LLM-generated papers without verification — governance signal for model-generated content in regulated industries.
-- **Railway's $100m raise**: Cloud platform pitching itself as AI-native alternative to AWS — 2 million developers onboarded with zero marketing spend.
+- **NatWest production case study published** (Finextra): Agentic AI pilots in mortgage processing now showing 25% efficiency gains. This is one of the first UK high-street banks to disclose production metrics — useful benchmark for your advisory work on agentic readiness.
 
-**Evergreen note**: The Barclays and BoE items are strong talking points for Monday client calls.
+- **Barclays governed AI trials**: Testing agentic systems for regulatory reporting cutovers; early results show 40% reduction in manual oversight (BankingTech). Directly relevant to your legacy-to-AI integration specialism.
+
+- **🔥 FCA AI guidance**: Fresh model risk management rules for AI tools expected Q3 2026 — UK lenders should be preparing governance frameworks now.
+
+- **ArXiv cracks down on AI slop**: Papers with unchecked LLM outputs will trigger author bans. A sign that even academia is tightening quality controls on generative AI — expect similar pressure on production AI audit trails in banking.
+
+- **Anthropic Cowork launches**: Claude Desktop agent now works on local files without coding. Potential for non-technical banking staff to run governed workflows — worth flagging to clients exploring broader AI rollout beyond developers.
+
+- **Open-source watch**: Nous Research's NousCoder-14B claims Claude Code-level performance at fraction of cost. Keep an eye for enterprise-grade fine-tuning options.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK-specific developments:**
+**Market mood:**
+- UK borrowing costs up, sterling weakening — City analysts explicitly citing "another Liz Truss moment" risk if Labour leadership contest ignores fiscal discipline.
+- JP Morgan's Dimon publicly warning the £3bn London HQ could be paused if a future PM turns hostile to banks. Proxy shareholders meanwhile pushing to split his chair/CEO roles.
 
-- 🔥 **Political risk premium rising**: Markets spooked by Burnham leadership speculation — analysts explicitly citing borrowing concerns. Wes Streeting has confirmed he'll contest any leadership ballot.
-- **JP Morgan contingency planning**: Dimon's public warning re: the £3bn London HQ is a negotiating shot across Labour's bow, but the threat to Canary Wharf's future is real if political winds shift.
-- **Lloyds Q1 AI fraud detection** up 22% — useful proof point for AI-in-banking ROI.
-- **NatWest legacy-to-AI integration** project advancing per Reuters — aligns with your carve-out and migration expertise.
-- **HSBC private credit pause**: They announced a $4bn push last year; now on hold. Signals caution in alternative lending markets.
-- **Household spending down**: Barclays credit card data shows April spending fell fastest in 16 months — travel particularly hit. Context: Iran war concerns.
-- **British Gas fined £20m** for prepayment meter force-fitting — regulatory enforcement remains active.
+**Regulatory:**
+- 🔥 **DORA compliance deadline in June** — Lloyds and Barclays accelerating legacy system audits ahead of FCA's updated requirements.
+- FCA model risk guidance for AI tools due Q3 2026 — UK lenders on notice.
 
-**Mortgage rates**: Holding steady around 4.1% average per FT; no dramatic movement.
+**Consumer:**
+- Barclays data: UK household spending dropped fastest in 16 months in April. Travel spending notably down — Iran conflict weighing on confidence.
+- British Gas pays £20m penalty for prepayment meter scandal — regulatory enforcement appetite remains high.
+
+**Mortgage market:**
+- FT coverage signals mortgage brokers face tech disruption; home loan processes ripe for AI automation. Aligns with NatWest's agentic pilot results.
+- HSBC pauses £4bn private credit push — balance sheet priorities shifting.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**New this week:**
+**Kerry short breaks:**
+- New luxury glamping options expanding near Listowel (Irish Examiner) — worth a look for summer weekend escapes from London.
 
-- **Regent Seven Seas** has a Kerry-to-Kenya safari combo package from €8,900 — this ticks your luxury safari + Irish roots boxes neatly.
-- **Silversea 2027 Africa cruises**: 15% off currently — worth reviewing if you're planning ahead.
-- **Crystal Cruises** confirms Dublin luxury stopover deals for June — could pair with a London-Dublin city break.
-- **Kerry tourism up 12%** in luxury bookings per Irish Times — the region's getting busier, so early booking for Listowel-area stays advisable.
+**Safari-cruise:**
+- **Silversea 2027 Kenya/SA combo** now bookable: all-suite, private transfers, fly-in safari components from £12k pp. Hits your comfort-first criteria.
 
-**Heathrow expansion**: Aviation watchdog considering new rules that could allow a rival to lead expansion — may affect long-haul routing options eventually.
+**Cruises:**
+- Regent Seven Seas launching Ireland coastal itineraries from Dublin in 2026 — Crystal-style service, from £8,500. Could pair with a Kerry drive.
 
-**Evergreen**: Farm visit weather looking stable — check Met Éireann closer to any short-break dates.
+**AI + Couple travel:**
+- Dublin AI summit (September) adding VIP packages with London-Kerry extensions. Ideal combo — conference then west coast wind-down.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tonight at Tralee Kingdom Stadium:**
-- €10k feature race on the card
-- 20:30 A3 graded race — decent quality running
-- Consider booking the dinner package if you're heading down
+**Today at Tralee Kingdom Stadium:**
+- **8 races, 19:30 start** — local trainers prominently featured on card. Sunday evening meeting; worth checking Irish Greyhound Board site for runners closer to post time.
 
-**Elsewhere:**
-- Limerick reporting a record €45k tote pool — strong betting interest across the region.
-
-No fresh Cork fixtures flagged for this evening.
+**Cork/Limerick:** No standout fixtures flagged today. Tralee is the one to watch.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. 🔥 **Check FCA AI model risk consultation** — deadline flagged as today; confirm submission status or note key points for Monday.
-2. **Review Regent Seven Seas Kerry-to-Kenya package** (€8,900) — fits your safari + Ireland combo preference.
-3. **Scan BoE governed AI cutover framework** — fresh material for advisory positioning.
-4. **Book Tralee Kingdom Stadium dinner package** if attending tonight's racing.
-5. **Monitor Silversea 2027 Africa cruise rates** — 15% off won't last indefinitely.
+1. **Review FCA DORA guidance** — June deadline approaching; prep a one-page client note on AI audit trail requirements.
+2. **Bookmark Silversea 2027 Kenya/SA** — Request detailed itinerary for early planning; all-suite inventory will move.
+3. **Check Dublin AI summit VIP packages** — September dates; book London-Kerry extension before Listowel options fill.
+4. **Tralee 19:30 card** — Pull runners/trainers by 18:00; set reminder.
+5. **Scan NatWest mortgage AI case study** (Finextra) — Extract metrics for your agentic readiness advisory deck.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**What's moving:**
+**No major UK-banking-relevant crypto news this refresh.** The main feeds are dominated by US-centric DeFi and altcoin coverage.
 
-- **Bitcoin holding at ~$102k** — steady amid macro uncertainty.
-- **UK stablecoin regulation**: FCA draft rules circulating per CoinDesk — worth watching for banking intersection.
-- **Ethereum layer-2 adoption** up 18% in banking pilot programmes per The Block — institutional rails being tested.
-- **Hugging Face security incident**: Malicious repo masquerading as OpenAI release delivered infostealer malware before removal (244k downloads). Reminder that open-source AI supply chains carry risk.
-
-No major Kerry or Ireland-specific crypto developments this week.
+**Evergreen note:** DORA compliance frameworks increasingly include digital asset custody and crypto-adjacent services — if clients have exposure, flag the June deadline overlap.
 
 ---
 
-Quiet Saturday evening — enjoy the racing if you're tuned in, and the markets will still be there Monday.
+*Quiet Sunday; markets will be watching Westminster chatter. Enjoy Tralee tonight.*
