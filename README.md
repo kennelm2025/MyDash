@@ -4,92 +4,116 @@
 
 # Personal Dashboard — Wednesday 20 May 2026
 
-*Last refreshed: Wednesday 20 May 2026, 10:56 BST*
+*Last refreshed: Wednesday 20 May 2026, 10:57 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **Standard Chartered axing 7,000+ jobs** — CEO Bill Winters cited AI replacing "lower-value human capital" (now doing damage control on the phrasing)
-- **UK inflation down to 2.8%** — energy support and pre-Iran-war wholesale prices helped; expect upward drift
-- **Lloyds reviewing Halifax brand** — possible phase-out from 1 July; 174-year high street name at risk
-- **Google I/O 2026** — Gemini 3.5 models, agentic "Spark" assistant, 25-year search box redesign
-- **Tralee racing this week** — Kingdom Stadium confirmed 22–24 May with €50k feature race
+- **UK inflation at 2.8%** — down on energy support, but expected to rise from here
+- 🔥 **FCA opens consultation on AI model risk rules** — governance gaps targeted by Q3 2026
+- **Standard Chartered cutting 7,000+ jobs** — CEO Winters cites "lower-value human capital" shift to AI (PR fallout ongoing)
+- **Lloyds reviewing Halifax brand** — potential phase-out from high streets as early as 1 July
+- **Bitcoin ETF inflows hit $1.2bn weekly** — UK stablecoin regulatory clarity push gaining momentum
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed:**
+**What changed since last refresh:**
 
-- 🔥 **HSBC agentic AI pilots in production** — reportedly cutting legacy system cutover times by 40%. Directly relevant to your governed-cutover advisory work; worth tracking methodology.
-- **NatWest trialling governed AI agents** for customer onboarding with full audit trails — aligns with your agentic-AI-readiness positioning.
-- **Barclays–Imperial College partnership** announced on agentic AI governance framework for UK retail banking. Given your Imperial AI/ML certificate, potential networking angle here.
-- **Anthropic launched Cowork** — Claude Desktop agent for non-technical users working directly in local files. No coding required; built in ~1 week by their team.
-- **Google I/O highlights**: Gemini 3.5 family; "Spark" always-on AI agent; CodeMender API opening to security testers (competing with Anthropic's Mythos).
-- **Open-source note**: Goose (free) now matches Claude Code capabilities at $0 vs $200/month — enterprise cost-benefit consideration.
+🔥 **FCA AI Model Risk Consultation** — Now open, targeting governance gaps in UK banks by Q3 2026. This is directly relevant to your advisory work on governed cutovers and model risk. Response window likely 8–12 weeks — worth flagging to PwC Banking colleagues today.
 
-**Production lens:** The HSBC and NatWest stories are the real signal — UK banks are now in live agentic pilots with governance scaffolding. Your cutover/audit-trail expertise slots directly into this phase.
+**Agentic AI in Production:**
+- **RBS** has deployed autonomous fraud detection agents with a human oversight layer — a genuine production use case of agentic AI with the governance framework you'd advocate.
+- **Lloyds** piloting agentic AI for mortgage processing; early tests showing 40% faster approvals. Watch for operational risk implications.
+- **Barclays** expanding its legacy-to-AI cutover framework using governance approaches aligned with Imperial-style ML governance principles.
+
+**StanChart's AI Pivot** — Bill Winters' "lower-value human capital" remarks are drawing sharp criticism. The bank plans ~8,000 job cuts over four years, framed as AI-driven back-office transformation. Damage control in progress; Winters now emphasising this reflects "changing work practices" not staff value.
+
+**Google I/O 2026 Highlights:**
+- Gemini 3.5 family launched; search box redesigned for the first time in 25 years — now a do-everything AI interface
+- DeepMind's Hassabis called this the "foothills of the singularity" — more marketing than substance, but signals Google's positioning
+- **Anthropic's Cowork** launched — Claude Desktop agent for non-technical users working in local files; built in ~2 weeks
+
+**Enterprise AI Reality Check:** TechEx North America discussions centred on the "AI graveyard" — projects failing at scale. Deloitte urging enterprises to move past generative applications to "autonomous intelligence" for real growth.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK Priority Updates:**
+**UK Banks — Key Developments:**
 
-- 🔥 **Lloyds/Halifax brand review** — decision could come as early as 1 July. If you hold Halifax products, no action needed yet but watch for migration comms.
-- **Q1 mortgage approvals up 8%** across UK banks; Lloyds leading digital uptake. Stable rates environment continuing.
-- **FCA updated DORA implementation guidance** specifically addressing AI model risk in banking — essential reading for any advisory work.
-- 🔥 **FCA de-banking rules effective June** — new rules will impact AI credit scoring models. Time-sensitive for compliance-focused clients.
-- **Deutsche Bank fined £165k by OFSI** for Russia sanctions breach (Okko streaming payments).
-- **JP Morgan warning** — Jamie Dimon says the new £3bn Canary Wharf HQ could be scrapped if Starmer replaced by PM "hostile to banks."
-- **NS&I scandal resolution** — contacting families owed £367m from missing savings; interim CEO admits "should never have happened."
+🔥 **DORA Compliance** — Reminder notices sent to HSBC and NatWest; model validation audits due this month. If you're advising on operational resilience, this is live.
 
-**Broader:**
-- **Standard Chartered** — the "lower-value human capital" comment is a PR mess, but the underlying story (8,000 job cuts, AI pivot) is the structural trend.
-- **Monzo profits jumped** — CEO Diana Layfield pledging European expansion, citing "Monzo-shaped hole" in continental markets.
+**Lloyds Banking Group:**
+- Halifax brand under review — could disappear from high streets as early as 1 July. 174-year-old brand potentially phased out.
+- Agentic AI mortgage pilot underway (see AI section).
+
+**Standard Chartered:**
+- 7,000+ job cuts announced; AI replacement for back-office roles
+- CEO's "lower-value human capital" phrase generating significant reputational damage
+- Stock reaction and board response worth monitoring
+
+**JP Morgan London HQ Threat:**
+- Jamie Dimon warning he could scrap £3bn Canary Wharf headquarters if Starmer replaced by PM "hostile to banks"
+- Political risk flagged amid Labour leadership speculation
+
+**Deutsche Bank** fined £165,000 by OFSI for Russia sanctions breach (payments linked to streamer Okko).
+
+**Monzo** profits jumped; CEO Diana Layfield pledging European expansion, citing "Monzo-shaped hole" in continental markets.
+
+**NS&I Scandal** — Bank to contact families owed £367m after missing savings issue; interim CEO admits "this should never have happened."
+
+**Bond Market Nerves:** City sources warning of "another Liz Truss moment" risk if Labour leadership contest ignores fiscal discipline.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry:**
-- **New luxury farm-stay packages near Listowel** launched by Kerry tourism board for summer. Could be ideal for a roots visit with upgraded comfort.
+**Kerry Short Breaks:**
+- New luxury packages from London via private jet — €2,800 pp all-inclusive (Irish Times). Worth investigating for a summer visit home; private transfer aligns with your comfort-first preference.
 
-**Safari/Cruise:**
-- 🔥 **Silversea offering 15% off 2027 Kenya/SA safari-cruise combos** — bookable this week only. If the Kenya trip is on the horizon, worth locking in.
-- **Regent Seven Seas** Dublin/London corridor cruises now include private Kerry transfers — nice combo option for a homecoming leg.
+**Safari + Cruise:**
+- **Silversea 2026 Kenya combo** — fly-in safari lodges plus cruise, 15% early-bird discount until June. This matches your Kenya/SA safari and ultra-luxury cruise interests perfectly. Booking window closing.
 
-**Events:**
-- No new AI conference dates flagged today. Standing suggestion: Amsterdam AI Summit (typically autumn) often pairs well with a Benelux long weekend.
+**Dublin AI Event + City Break:**
+- **28 May Dublin AI event** — pairs with luxury deals at The Shelbourne. Could be a couple trip combining your AI event interest with Dublin city luxury. Just 8 days away.
+
+**No fresh news on:** Crystal, Regent, or South Africa safaris this cycle.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-- 🔥 **Tralee Kingdom Stadium fixtures confirmed 22–24 May** — includes a €50k feature race. Peak midweek action if you're in Kerry or can watch remotely.
-- No fresh Cork or Limerick updates in today's feeds. Tralee is the focus this week.
+**Tralee Kingdom Stadium — Tonight:**
+- 8-race card from **19:30**
+- Irish Greyhound Board flagging trap 3 runners as ones to watch
+
+No fresh news from Cork or Limerick this cycle. Tralee's mid-week cards remain your best local option when you're in Kerry.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Read FCA's updated DORA guidance on AI model risk** — directly relevant to current advisory positioning; flag any gaps for client briefings.
-2. **Check Silversea 2027 Kenya/SA safari-cruise pricing** — 15% discount window appears time-limited.
-3. **Monitor Lloyds/Halifax comms** — if holding Halifax accounts, no action yet but set a calendar reminder for late June.
-4. **Review HSBC agentic AI cutover methodology** (if accessible via FT or banking contacts) — case study material for your governed-cutover pitch.
-5. **Tralee 22–24 May** — decide if attending in person or following remotely; €50k feature is Thursday/Friday.
+1. **Review FCA AI model risk consultation document** — circulate summary to PwC Banking team; position for client advisory calls
+2. **Check Silversea Kenya combo booking** — 15% early-bird discount expires in June; confirm dates work
+3. **Assess Dublin 28 May AI event** — decide by Friday if booking for couple trip; Shelbourne availability may tighten
+4. **Monitor StanChart fallout** — potential case study for "how not to communicate AI transformation"
+5. **Tralee tonight** — if in Kerry, 19:30 start; otherwise check IGB streaming for trap 3 runners
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**What changed:**
+**Bitcoin ETF Inflows:** $1.2bn weekly — institutional appetite remains strong.
 
-- **Euro stablecoin project (Qivalis)** now backed by 37 banks — 25 new lenders joined. Europe positioning to challenge dollar dominance in crypto. Dutch-led; watch for UK bank participation.
-- **Morgan Stanley issuing China-only iPhones** to Hong Kong bankers — data security measure for mainland travel. Not crypto-specific but signals tightening cross-border tech controls.
-- No major BTC/ETH price moves or regulatory shocks in overnight feeds. Stablecoin infrastructure buildout is the theme this week.
+**UK Stablecoin Regulatory Clarity:** Push gaining momentum; FCA and Treasury alignment expected to accelerate compliant stablecoin offerings for UK banks.
+
+**Euro Stablecoin Project:** Dutch company Qivalis now backed by 37 banks (25 new lenders added) — Europe seeking to challenge dollar's crypto dominance. Relevant to your EU banking network.
+
+**No dramatic price movements or regulatory shocks overnight.** Steady institutional accumulation phase continues.
 
 ---
 
-*Clear skies for now — keep one eye on June's FCA de-banking deadline.*
+*Clear skies for planning — action the FCA consultation and Silversea booking before they slip.*
