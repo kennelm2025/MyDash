@@ -1,100 +1,101 @@
-**Previous days:** [Tue 19 May](dashboards/2026-05-19.md) · [Mon 18 May](dashboards/2026-05-18.md) · [Sun 17 May](dashboards/2026-05-17.md) · [Sat 16 May](dashboards/2026-05-16.md)
+**Previous days:** [Wed 20 May](dashboards/2026-05-20.md) · [Tue 19 May](dashboards/2026-05-19.md) · [Mon 18 May](dashboards/2026-05-18.md) · [Sun 17 May](dashboards/2026-05-17.md)
 
 ---
 
-# Personal Dashboard — Wednesday 20 May 2026
+# Personal Dashboard — Thursday 21 May 2026
 
-*Last refreshed: Wednesday 20 May 2026, 19:40 BST*
+*Last refreshed: Thursday 21 May 2026, 11:06 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **UK inflation eased to 2.8%** — energy support and lower wholesale prices cited, but BoE signals rises ahead due to Iran war fallout
-- **Standard Chartered cutting 7,000+ jobs** over four years as AI adoption accelerates; CEO Winters in damage-control mode after "lower-value human capital" remark
-- **Lloyds testing agentic AI** for autonomous mortgage decision-making; FCA issues new AI model risk guidance effective July 2026
-- **🔥 Meta layoffs hit Ireland** — ~350 roles under threat, notifications went out this morning
-- **Tralee Kingdom Stadium** confirms €50k feature race fixtures 22-24 May — your local racing weekend is on
+- **SpaceX files for IPO** — could raise up to $75bn, potentially making Musk the first trillionaire; ticker SPCX
+- **Standard Chartered cutting 7,000+ jobs** — Bill Winters citing AI adoption; damage control underway after "lower-value human capital" gaffe
+- **UK banks Q1 profits up 8% YoY** — Lloyds and NatWest leading on mortgage margins
+- **🔥 FCA de-banking rules** — new guidance on high-risk client practices from June; updated DORA implementation guidance also published (effective July)
+- **Nvidia Q1 beat** — $81.62bn revenue vs $78.86bn expected, but shares fell after-hours on growth sustainability concerns
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed:**
-- **Lloyds agentic AI pilot** — FT confirms the bank is testing autonomous decision agents specifically for mortgage processing. This is precisely the governed cutover territory you advise on; early production signals suggest risk frameworks are the gating factor, not tech capability.
-- **FCA updated AI model risk guidance** — effective July 2026. Banks now have ~6 weeks to map existing deployments against new requirements. Expect demand for legacy-to-AI integration consultants to spike.
-- **NatWest production AI results** — 18% efficiency gain in fraud detection reported, a concrete benchmark for enterprise rollout ROI conversations.
-- **Standard Chartered's AI acceleration** — the 7,000-job cut is explicitly framed around AI replacing back-office functions. Bill Winters' clumsy "lower-value human capital" phrasing aside, this is the clearest signal yet of UK banks pricing in agentic automation at scale.
-- **Anthropic launches Cowork** — a Claude Desktop agent for non-technical users working in local files, no coding required. Built atop their Claude Code success; positions Anthropic for enterprise knowledge-worker adoption.
-- **Google redesigns the search box** — first change in 25 years, replacing blue links with Gemini-powered AI responses plus shopping ads. The shift from retrieval to generation is now mainstream UI.
+**Banking AI in Production**
+- **Barclays** running agentic AI pilots in risk models — 22% reduction in false positives in production tests. This is concrete ROI evidence for governed agent deployment.
+- **HSBC** accelerating enterprise rollout of governed AI agents specifically for AML monitoring. Worth tracking as a reference case for legacy-to-AI integration.
 
-**Worth watching:**
-- Barclays exploring governed cutovers to agentic AI in retail banking (Banking Technology) — directly relevant to your advisory work.
-- Railway raised $100M Series B for AI-native cloud infrastructure — potential alternative to AWS for smaller bank innovation teams.
+**Enterprise Moves**
+- **Meta layoffs** — thousands let go to offset AI investment costs. The capex squeeze narrative continues.
+- **Anthropic launched Cowork** — Claude Desktop agent for non-technical users; file-level operations without coding. Relevant for agentic AI accessibility in advisory contexts.
+- **Railway raised $100m Series B** — positioning as AI-native cloud infrastructure challenger to AWS; 2m developers onboarded with zero marketing spend.
+- **Salesforce rebuilt Slackbot** — now a full AI agent with search, reasoning, and action capabilities. Direct competition with Microsoft Copilot.
+
+**Event Note**
+- Dublin AI governance roundtable confirmed for **28 May** — focus on legacy banking cutovers. Directly relevant to your advisory work.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK-specific:**
-- **🔥 Halifax brand under review** — Lloyds may phase out the 174-year-old brand from high streets as early as 1 July. If confirmed, this would be the most significant UK retail banking rebrand in years.
-- **JP Morgan HQ threat** — Jamie Dimon told press the £3bn Canary Wharf tower could be scrapped if a future PM is "hostile to banks." Political uncertainty priced into major infrastructure decisions.
-- **Deutsche Bank fined £165k** by OFSI for Russia sanctions breach (payments linked to Russian streamer Okko). Small fine, but regulatory scrutiny intensifying.
-- **Bond market jitters** — City sources warning of "another Liz Truss moment" if Labour leadership contest ignores fiscal realpolitik. Gilt volatility elevated.
+**UK Priority**
+- **Lloyds** may axe Halifax as standalone brand — review underway, potential phase-out from 1 July. Major high-street footprint decision.
+- **UK Q1 results** — Lloyds and NatWest profits up 8% YoY on mortgage margins. Sector in decent shape despite macro headwinds.
+- **🔥 FCA de-banking guidance** — new rules from June on high-risk client practices. DORA implementation guidance also updated, effective July 2026.
 
-**Regulatory:**
-- **DORA compliance pressure mounting** — HSBC published a readiness checklist; other UK banks reportedly scrambling. Deadline stress is real.
-- **NS&I scandal resolution** — the bank will contact families owed £367m from missing savings. Interim CEO admits "this should never have happened."
+**International**
+- **JP Morgan** — Dimon warns £3bn London HQ could be scrapped if future PM proves "hostile to banks." Also praised China for being "more consistent" — notable positioning.
+- **Standard Chartered** — 7,000 job cuts over four years, explicitly linked to AI. Winters' "lower-value human capital" comment caused PR scramble.
+- **Investec** pushing £30m into UK private banking — intensifying competition for wealthy clients.
+- **NS&I scandal** — contacting families owed £367m in missing savings. Interim chief admits "this should never have happened."
 
-**Broader:**
-- Euro stablecoin project now backed by 37 banks (up 25 lenders) — Qivalis positioning to challenge dollar dominance in crypto settlement.
-- Morgan Stanley issuing China-only iPhones to Hong Kong bankers over data security concerns.
+**Stablecoin Development**
+- Euro stablecoin project (Qivalis) now backed by 37 banks — Europe's push to challenge dollar dominance in crypto.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry:**
-- Kerry tourism board has launched new **luxury farm-stay packages near Listowel** for summer 2026. Given your roots, worth a look for a short break that combines comfort with familiar ground.
+**Kerry**
+- Kerry tourism board has launched summer luxury packages including **private Ring of Kerry transfers**. Worth checking for a short break if schedules align.
 
-**Safaris & Cruises:**
-- **Silversea** offering 15% early-bird on Kenya safari-cruise combos departing September — combines your fly-in safari preference with all-suite cruising.
-- **Crystal Cruises** added romantic all-suite Africa itineraries with private transfers included — aligns with your comfort-first, VIP travel style.
+**Safari & Cruise**
+- **Silversea** offering 15% off select 2026 Kenya safari-cruise combos for UK bookings. Combo format suits your preference for fly-in safari + ultra-luxury cruise.
 
-**AI Events + Couple Travel:**
-- **🔥 Dublin AI Summit (10-12 June)** now offers VIP couple packages with London extension. This ticks the professional + romantic combo box — worth booking if calendar allows.
+**Events**
+- **Dublin 28 May** — AI governance roundtable on legacy banking cutovers. Could combine with an overnight stay; the Merrion or Shelbourne would work well.
 
-**No fresh news** on Amsterdam AI events or ultra-luxury Dublin city stays this cycle.
+**UK Trade Note**
+- UK-Gulf trade deal signed (£3.7bn) — removes £580m in tariffs. May improve routes/pricing for future Gulf or safari stopovers via Dubai/Abu Dhabi.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tralee Kingdom Stadium:**
-- **🔥 Fixtures confirmed 22-24 May** with a **€50k feature race** — this is your weekend. Details via Irish Greyhound Board; expect strong local attendance.
+**Tonight — Tralee Kingdom Stadium**
+- **19:30 start**, 6-race card confirmed. Check early scratchings closer to post time.
 
-**No fresh material** on Cork or Limerick fixtures this refresh. Evergreen suggestion: IGB website typically posts cards 48 hours ahead if you want to plan a midweek trip.
+**Summer Schedule**
+- Limerick and Cork adding extra Thursday meetings through June for summer festival preparation. Good for planning if you're in Kerry.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review FCA AI model risk guidance** — effective July; flag to any active banking clients needing compliance mapping.
-2. **Check Dublin AI Summit (10-12 June) couple packages** — book before VIP allocations fill.
-3. **Silversea Kenya combo** — request September availability and early-bird pricing before 15% offer expires.
-4. **Tralee 22-24 May** — confirm travel/accommodation for the €50k feature race weekend.
-5. **Monitor Halifax brand decision** — if Lloyds confirms 1 July phase-out, expect advisory demand around customer migration and AI-assisted channel shifts.
+1. **Book Tralee tonight** — 19:30 start; confirm if attending in person or streaming
+2. **Review Silversea Kenya offer** — 15% off safari-cruise combos; check 2026 autumn dates
+3. **Calendar the Dublin AI roundtable** — 28 May; register if not already confirmed
+4. **Scan FCA de-banking guidance** — new rules from June; relevant for advisory clients
+5. **Note Lloyds/Halifax review** — potential brand axe from 1 July; watch for client impact
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**What moved:**
-- **Euro stablecoin project (Qivalis)** added 25 new banks, now 37 total backing the initiative. Europe's clearest attempt to reduce dollar dominance in crypto settlement — regulatory tailwinds from DORA compliance may accelerate adoption.
-- **HSBC DORA checklist** includes digital asset custody requirements — UK banks now formally treating crypto infrastructure as part of operational resilience.
+**Institutional Momentum**
+- **Euro stablecoin project (Qivalis)** — now has 37 bank backers (up 25 from prior count). Europe's clearest challenge to dollar-denominated crypto dominance. Dutch-led but pan-European scope.
 
-**No major price or regulatory drama** in BTC/ETH today. Market largely focused on macro (Iran, oil, gilts) rather than crypto-specific catalysts.
+**No major BTC/ETH price moves** flagged in sources today. Stablecoin infrastructure and banking integration remain the enterprise-relevant thread.
 
 ---
 
-*Quiet evening ahead — action items are concrete and calendar-sensitive. Back tomorrow.*
+*Quiet on greyhound form specifics — check IGB closer to post. Safe travels if heading west.*
