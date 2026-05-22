@@ -1,20 +1,20 @@
-**Previous days:** [Wed 20 May](dashboards/2026-05-20.md) · [Tue 19 May](dashboards/2026-05-19.md) · [Mon 18 May](dashboards/2026-05-18.md) · [Sun 17 May](dashboards/2026-05-17.md)
+**Previous days:** [Thu 21 May](dashboards/2026-05-21.md) · [Wed 20 May](dashboards/2026-05-20.md) · [Tue 19 May](dashboards/2026-05-19.md) · [Mon 18 May](dashboards/2026-05-18.md)
 
 ---
 
-# Personal Dashboard — Thursday 21 May 2026
+# Personal Dashboard — Friday 22 May 2026
 
-*Last refreshed: Thursday 21 May 2026, 19:20 BST*
+*Last refreshed: Friday 22 May 2026, 10:51 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- 🔥 **FCA AI model risk guidance** drops — effective June 2026; directly relevant to your advisory work
-- **Standard Chartered cutting 7,000+ jobs** over four years as AI adoption accelerates — major UK banking workforce shift
-- **Halifax brand potentially vanishing** from high streets as Lloyds reviews branding strategy (decision could come 1 July)
-- **Starling profits squeezed** by rate cuts — diversification struggles flagged in FT coverage
-- **Tralee Kingdom Stadium** racing tonight: 8 races from 19:00 (you've got 40 minutes if watching live)
+- **🔥 FCA AI governance rules proposed** — new model risk framework targeting UK banks from Q3 2026; directly relevant to your advisory work
+- **Lloyds agentic AI pilot** — mortgage approvals cut 40%; Halifax brand potentially being axed in parallel branding review
+- **Standard Chartered announces 7,000+ job cuts** — AI-driven back-office reduction over four years
+- **Tralee racing tonight** — Kerry Cup qualifier on the 8-race card at 20:45
+- **UK borrowing highest since Covid** — April figures beat expectations; retail sales fell on fuel price surge
 
 ---
 
@@ -22,77 +22,76 @@
 
 **What changed:**
 
-- 🔥 **FCA AI model risk guidance** released today — UK banks must comply by June 2026. This is the regulatory anchor you've been anticipating; expect immediate governance reviews across Lloyds, Barclays, NatWest, and HSBC.
-- **Lloyds agentic AI mortgage pilot** showing 25% faster approvals in trials — production-grade deployment signals arriving.
-- **Barclays Q1 results** cite £180m AI-driven cost savings in retail banking — concrete ROI figure worth citing in client discussions.
-- **NatWest advancing legacy-to-agentic cutover** with new governance framework — aligns precisely with your advisory edge on governed cutovers.
-- **HSBC UAE operations** case study published showing regulated agentic AI rollout success — useful cross-border reference for your FAB/ABSA experience.
+- **🔥 FCA AI governance proposal** — Model risk management rules now formally proposed for UK banks, effective Q3 2026. Expect consultation docs imminently; your governed cutover expertise positions you well for advisory demand.
+- **Lloyds agentic AI in production** — Piloting agentic AI for mortgage processing with reported 40% reduction in approval times. This is a live UK case study for enterprise rollout.
+- **Virgin Money governed cutover** — CoinDesk reports deployment of agentic AI with governed cutover in retail banking — aligns precisely with your legacy-to-AI integration advisory angle.
+- **Barclays-Imperial partnership** — Expanding legacy-to-AI integration project with Imperial College partners; your IC AI/ML certificate creates a natural conversation opener.
+- **NatWest fraud detection** — 22% improvement in AI-driven fraud accuracy this quarter; concrete production metric worth citing in client conversations.
 
-**Enterprise tooling:**
-- **Anthropic Cowork** launched — Claude Desktop agent for non-technical users, no coding required. Could accelerate internal adoption at consultancies.
-- **Railway raised $100m** for AI-native cloud infrastructure challenging AWS — watch for enterprise migration stories.
-- **Goose** offering Claude Code-equivalent coding agents free versus Anthropic's $200/month — competitive pressure on agentic pricing.
+**Anthropic Cowork launch** — New Claude Desktop agent works directly in local files without coding. Aimed at non-technical users; potential productivity tool for document-heavy advisory work.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK Banks:**
-- 🔥 **Halifax brand at risk** — Lloyds assessing whether to phase out the 174-year-old brand from 1 July. If confirmed, significant high-street consolidation.
-- **Standard Chartered** cutting 7,000+ back-office jobs over four years, explicitly citing AI deployment. London-headquartered but global signal.
-- **Starling's profits eroded** — rate cuts biting, revenue down, global expansion now the diversification bet.
-- **Investec targeting UK wealthy** with private banking push — intensifying competition among lenders and fintechs for HNW clients.
+**UK priority updates:**
 
-**Macro/Political:**
-- **JP Morgan/Dimon warning** reiterated: could scrap £3bn Canary Wharf HQ if future PM proves "hostile to banks."
-- Bond market jitters persist — City voices warning of "another Liz Truss moment" risk if Labour leadership contest ignores fiscal discipline.
-- **NS&I savings scandal** — £367m owed to bereaved families; interim CEO admits "this should never have happened."
+- **🔥 Halifax brand at risk** — Lloyds reviewing branding strategy; the 174-year-old Halifax could disappear from high streets as early as 1 July.
+- **Standard Chartered cuts** — 7,000+ jobs over four years as AI replaces back-office functions. London-headquartered; watch for knock-on talent market shifts.
+- **Starling profits down** — Rate cuts eroding revenue; neobank now accelerating global expansion to diversify.
+- **JP Morgan London HQ threat** — Dimon warned he could scrap £3bn Canary Wharf tower if future PM proves "hostile to banks." Political risk flag.
+- **DORA compliance** — Deadline looming for Irish banks; ABSA carve-out lessons being shared at Dublin event (your South Africa experience directly applicable).
+- **NS&I scandal** — £367m owed to bereaved families from missing savings; interim CEO admits "this should never have happened."
 
-**Regulatory:**
-- **DORA compliance deadline reminders** issued for Irish banks ahead of 2027 — relevant for any cross-border advisory.
+**Gilt market tension** — City commentators raising "another Liz Truss moment" concerns amid Labour leadership speculation. Bond vigilantes on watch.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry:**
-- **Kerry County Council** has launched luxury short-break incentives for Listowel farm-stay visitors — worth investigating for a summer trip to the family roots.
+**New offers:**
 
-**Safari & Cruise:**
-- **Silversea** now offering Kenya safari add-ons from Dublin departures with private transfers — ticks your fly-in safari and couple-travel boxes.
-- **Regent Seven Seas** has all-suite Ireland-UK cruise deals for couples this summer — check availability for a late-summer getaway.
+- **Silversea 2027 Kenya/SA** — 15% early-bird discount on fly-in safari cruises departing London. Worth booking call if considering next year's safari season.
+- **Regent Seven Seas Kerry add-on** — Romantic all-suite Kerry coastal extension now available on Dublin departures. Combines your Listowel roots with luxury cruising.
 
-**Travel context:**
-- EasyJet CEO confirms no summer fuel disruption expected, though booking behaviour shifting later due to Iran war uncertainty.
-- VAT cut on UK attractions (theme parks, children's meals) announced today — marginal relevance but signals government focus on summer leisure.
+**No fresh Dublin/London AI event announcements this cycle** — next major window likely autumn. Consider monitoring Amsterdam AI Week (typically October) for combined trip planning.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
 **Tonight:**
-- 🔥 **Tralee Kingdom Stadium** — 8-race card from 19:00. You've got about 40 minutes to tune in if catching live.
 
-**Upcoming:** No fresh Cork or Limerick fixtures flagged in today's sources. Check Racing Post for weekend cards.
+- **Tralee Kingdom Stadium** — 8-race card, feature race is Kerry Cup qualifier at **20:45**. Worth checking entries closer to post time.
+
+**This weekend:**
+
+- **Limerick fixture relocated to Cork** — Track maintenance. Adjust plans if you were considering Limerick.
+
+No fresh Cork or Shelbourne fixtures announced this morning.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Read the FCA AI model risk guidance** — download and note key compliance dates for client conversations.
-2. **Review Lloyds agentic mortgage pilot coverage** — useful case study for your legacy-to-AI cutover advisory.
-3. **Check Silversea Dublin-Kenya safari packages** — private transfers align with your VIP travel preference.
-4. **Watch Tralee Kingdom 19:00 card** — races already underway or imminent.
-5. **Flag Halifax brand decision** for follow-up — if confirmed 1 July, major Lloyds story to track.
+1. **Download FCA AI governance consultation** when published; flag key model risk clauses for client briefing note
+2. **Review Lloyds pilot details** (Reuters) — extract metrics for agentic AI case study deck
+3. **Check Tralee Kerry Cup entries** by 18:00 before tonight's 20:45 qualifier
+4. **Call Silversea** re: 2027 Kenya/SA early-bird before 15% offer expires
+5. **Note DORA Dublin event** — confirm if ABSA carve-out session offers speaking/networking opportunity
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-No major breaking news in today's feed directly relevant to your profile. Market remains in holding pattern amid macro uncertainty.
+**Limited movement relevant to your profile today:**
 
-**Evergreen suggestion:** If banking-crypto intersection matters for advisory (de-banking rules, UK FCA crypto stance), consider setting a CoinDesk or Cointelegraph alert for "UK banks" + "crypto" to catch relevant regulatory shifts.
+- No major UK banking-crypto regulatory news this cycle
+- DORA compliance discussions (see Banking above) touch on digital asset operational resilience for EU/Irish institutions
+- Broader crypto market quiet ahead of US Memorial Day weekend
+
+*Evergreen: Monitor CoinDesk for any FCA digital asset sandbox updates, which may intersect with AI governance themes.*
 
 ---
 
-*Solid day for banking-AI convergence news. Tralee's running — enjoy the evening.*
+*Productive Friday — Tralee tonight, FCA docs to watch, and a safari cruise to consider.*
