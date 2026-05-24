@@ -4,80 +4,85 @@
 
 # Personal Dashboard — Sunday 24 May 2026
 
-*Last refreshed: Sunday 24 May 2026, 09:45 BST*
+*Last refreshed: Sunday 24 May 2026, 10:03 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **Standard Chartered AI job cuts dominate headlines**: 7,000+ roles to go over four years; CEO Bill Winters apologised for calling affected staff "lower-value human capital"
-- **Lloyds reviewing Halifax brand**: 174-year-old name may vanish from high streets as early as 1 July
-- **Galway West count resumes this morning**: Noel Thomas (Independent Ireland) currently ahead of Seán Kyne (Fine Gael)
-- **Tralee Kingdom Stadium**: 8-race card confirmed tonight — 550m and 400m opens featured
-- **FCA DORA guidance**: Further implementation detail expected early June; no weekend updates
+- **Standard Chartered cuts 7,000+ jobs** citing AI rollout — CEO Winters apologised for calling affected staff "lower-value human capital" (Guardian, 22 May)
+- **Halifax brand under threat** — Lloyds reviewing whether to axe the 174-year-old name from high streets, possibly from 1 July (Guardian, 18 May)
+- **Google redesigns the search box** for the first time in 25 years, pivoting to AI-native interface (VentureBeat, this week)
+- **Nationwide faces boardroom challenge** — customer democracy test in the mutual sector gaining traction (Guardian, 17 May)
+- **Tralee Kingdom Stadium** — no fresh fixture announced for tonight; check Irish Greyhound Board for mid-week card updates
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**Standard Chartered's AI pivot is the week's clearest enterprise-AI deployment story.** The bank is cutting 7,000+ back-office roles over four years, explicitly citing AI automation. CEO Bill Winters' "lower-value human capital" remark drew sharp backlash and a subsequent apology — a reminder that governance includes communication, not just model risk.
+**Standard Chartered's AI pivot is the week's standout story.** The London-headquartered bank confirmed plans to cut more than 7,000 back-office roles over four years as it accelerates AI adoption. CEO Bill Winters' apology for the "lower-value human capital" remark underscores governance risks when leadership messaging on AI-driven workforce transitions goes wrong — a case study for your advisory work on governed cutovers.
 
-**Anthropic shipped Cowork**, a Claude Desktop agent that operates directly on local files without coding. Built atop Claude Code, it targets non-technical knowledge workers — worth watching for advisory teams wrestling with agentic-AI rollout in regulated settings.
+**Elsewhere:**
+- **Anthropic launched Cowork** — a Claude Desktop agent that works directly in local files without coding; potentially useful for non-technical colleagues exploring agentic workflows (VentureBeat)
+- **Salesforce rebuilt Slackbot** into a "fully powered AI agent" for workplace search and task execution — signals intensifying Microsoft/Google competition in enterprise AI assistants
+- **Alibaba's new Zhenwu M890 chip** is designed specifically around AI agents rather than generic training — worth watching as agentic hardware roadmaps crystallise
 
-**Google redesigned its search box** for the first time in 25 years, signalling a shift from ten blue links toward AI-generated answers. "AI Overviews" are stumbling badly (the system literally interpreted "disregard" as a chatbot command), underlining production-readiness gaps.
-
-**No fresh Barclays or Lloyds AI announcements** this weekend; the Barclays mortgage-processing pilot noted in Friday's Finextra piece remains the most concrete UK agentic-AI trial in banking.
+**UK lens:** No fresh material on Barclays, Lloyds, NatWest, or HSBC agentic pilots this cycle. The StanChart story dominates.
 
 ---
 
 ## 🏦 Banking Sector
 
-| Story | Why it matters |
-|-------|----------------|
-| **Standard Chartered job cuts** | 7,000 roles over four years; largest announced AI-driven headcount action at a UK-headquartered bank. Potential model-risk and DORA implications as automation scales. |
-| **Halifax brand under review** | Lloyds may phase out the Halifax name from 1 July. Locals in the Yorkshire town voice dismay; rebranding could affect mortgage and savings customer journeys. |
-| **NS&I missing-savings scandal** | Bank will contact families owed £367m. Interim CEO acknowledged the issue "should never have happened." Process may drag. |
-| **FCA / DORA** | No weekend publications; detailed implementation guidance expected early June. Worth diarising for banking-client updates. |
-| **US stress-test debate** | FT analysis flags risks to Barney Frank's legacy as a key stress-test feature is undermined — relevant context if UK regulators follow suit post-Basel finalisation. |
+**Lloyds / Halifax:** The Guardian reports Lloyds may phase out the Halifax brand entirely — decision potentially as early as 1 July. Halifax locals quoted as dismayed; the building society has carried the Yorkshire town's name since 1853. If you hold Halifax accounts or have views on mutual heritage, worth noting for any client conversations on brand consolidation.
+
+**NS&I scandal update:** The bank's interim CEO confirmed NS&I will begin contacting bereaved families owed £367m in missing savings — a reputational issue that "should never have happened."
+
+**UniCredit / Commerzbank:** At Commerzbank's AGM this week, shareholders rallied behind management's fight for independence from UniCredit's approach. German banking consolidation remains contested.
+
+**JPMorgan:** Looking to offload exposure to $4bn in PE-linked loans via risk transfer, reflecting the prolonged private equity slowdown.
+
+**FCA / Regulatory:** No fresh DORA or model-risk updates in today's sources — keep prior FCA guidance on radar for Monday review.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry short breaks**: No new operator deals overnight; Irish Times notes steady demand ahead of the June bank holiday. Book early if planning a Listowel-area visit.
+**No fresh luxury travel material in today's feeds.** Silversea, Regent, and Crystal haven't announced new itineraries this cycle.
 
-**Kenya fly-in safaris**: Abercrombie & Kent's new London-departure packages with private transfers remain live — ideal for a comfort-first couple trip.
+**Evergreen suggestion:** With summer approaching, consider locking in a Kerry short-break for late June/early July — Listowel Races (if running) or a Tralee weekend paired with a farm visit. Dublin-Kerry private transfers can be booked through Platinum Services Ireland for door-to-door comfort.
 
-**Silversea & Regent 2027 Africa sailings**: Travel Weekly confirms promotional pricing still active. Combining a cruise with a Kerry roots visit could work well if dates align around autumn 2027.
-
-**AI events**: Nothing new for Dublin, London or Amsterdam this weekend. Keep an eye on September schedules as autumn AI-summit announcements typically land in June.
+**AI event calendar:** London AI Summit dates for autumn 2026 not yet confirmed in sources — worth a quick check on eventbrite.co.uk mid-week.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tralee Kingdom Stadium tonight** — 8-race card featuring 550m and 400m opens. Racing Post confirms fixtures; check post times closer to evening.
+**Tralee Kingdom Stadium:** No live fixture confirmed for today (Sunday) in sources. The Grok briefing mentioned an 8-race card "tonight" dated to a prior refresh — verify on the Irish Greyhound Board site before travel.
 
-No notable Cork or Limerick cards today. Midweek fixtures at both tracks are expected; schedules should drop Monday.
+**Cork / Limerick:** No fresh weekend fixture details. Mid-week cards typically run Thursday–Saturday.
+
+**Evergreen:** Tralee's summer schedule usually intensifies from June — good time to plan a long-weekend trip combining racing with a Kerry coastal stay.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Watch Tralee card** — check Racing Post for post times and any late scratchings before tonight's 550m opens.
-2. **Diary FCA DORA update** — expect early-June publication; brief banking clients next week.
-3. **Review Silversea 2027 Africa itineraries** — promotional window may close; shortlist sailings that pair with Kerry travel.
-4. **Note Standard Chartered governance angle** — "lower-value human capital" fallout is a ready-made case study for agentic-AI comms in regulated firms.
-5. **Track Galway West result** — final count today; outcome may shift coalition arithmetic.
+1. **Read the Guardian's StanChart coverage** — useful governance/comms case study for agentic AI workforce messaging
+2. **Check Irish Greyhound Board** for confirmed Tralee fixtures this week (https://www.igb.ie)
+3. **Monitor Lloyds announcement** on Halifax brand — potential 1 July decision date
+4. **Review Anthropic Cowork launch** — test suitability for non-technical client demos
+5. **Shortlist Kerry June dates** — before summer availability tightens
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**UK Treasury stablecoin consultation advancing** — CoinDesk reports regulatory clarity is progressing, though no weekend documents published. Relevant for banking clients exploring tokenised deposits.
+**Quiet cycle for UK-relevant crypto news.** No fresh material on stablecoin regulation, FCA digital-asset consultations, or major exchange developments in today's feeds.
 
-No major Bitcoin or Ethereum price swings overnight; market largely range-bound. Fresh material thin — consider revisiting mid-week once US trading resumes.
+**Broader context:** Bitcoin and ETH trading ranges remain unremarkable this weekend. The Block and CoinDesk feeds carried no London-specific stories overnight.
+
+**Evergreen:** Keep half an eye on HM Treasury's ongoing stablecoin consultation — any movement will likely hit CoinDesk/The Block first.
 
 ---
 
-*Quiet Sunday; main action is the Tralee card and Galway count. Standard Chartered's AI job-cut story will dominate Monday's banking press.*
+*Quiet Sunday — good day to catch up on the StanChart story and plan the week ahead.*
