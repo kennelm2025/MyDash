@@ -4,84 +4,72 @@
 
 # Personal Dashboard — Monday 25 May 2026
 
-*Last refreshed: Monday 25 May 2026, 19:00 BST*
+*Last refreshed: Monday 25 May 2026, 19:03 BST*
 
----
+## 📊 Today's Quick Snapshot
 
-## 📊 Today's Quick Snapshot (5 bullets)
-
-- **UK bank lending hits 30-year low** — FT reports credit to SMEs at weakest since mid-1990s; weak growth and tighter regulation cited.
-- **ECB summons banks over AI model flaws** — hastily arranged meeting to address risks exposed by latest AI deployments in the financial system.
-- **Standard Chartered's AI cull deepens** — CEO Winters apologises for "lower-value human capital" remarks; 7,000+ jobs to go over four years.
-- **Record May heat in Ireland** — 28.4°C recorded in Co Carlow today, equalling the all-time May record; could be broken this week.
-- **Tralee Kingdom Stadium card tonight** — 8-race programme confirmed; first race 19:30.
-
----
+- **UK bank lending to businesses** at lowest level in nearly 30 years — weak growth and tighter regulation cited (FT)
+- 🔥 **ECB summons banks** for hastily-arranged meeting to address flaws exposed by latest AI models (FT)
+- **Standard Chartered** cutting 7,000+ jobs over four years as AI use expands; CEO apologises for "lower-value human capital" remarks (Guardian)
+- **Record May heat** — 28.4°C reached in Co Carlow today, potential for May record to fall this week (RTÉ)
+- **Tralee Kingdom Stadium** card tonight from 19:30 — 8 races scheduled (Racing Post via Grok)
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed:**
-- 🔥 **ECB emergency meeting** — European regulator calling in banks to address systemic risks exposed by recent AI model deployments. Suggests governance and model-risk controls remain patchy across the sector. Directly relevant to your DORA and model-risk advisory work.
-- **Standard Chartered's AI-driven restructure** — 7,000+ back-office roles to be cut over four years as AI takes over operations. CEO's apology for "lower-value human capital" phrasing underlines the reputational risk of poorly communicated AI transitions.
-- **Anthropic launches "Cowork"** — new Claude Desktop agent that lets non-technical users work directly in files; built in roughly a week. Positions agentic AI closer to everyday enterprise users.
-- **Google search box redesign** — first major UI change in 25 years signals shift toward AI-native interaction patterns.
-- **Railway raises $100M** — AI-native cloud infrastructure play challenging AWS; 2M developers onboarded without marketing spend.
+**ECB escalates AI oversight** — The ECB has called a hastily-arranged meeting with banks to stress the "seriousness of risks to the financial system" from flaws exposed by the latest AI models. This aligns with your DORA/model-risk advisory work — concrete governance gaps are now being called out at supervisor level.
 
-**Evergreen note:** The ECB's hastily convened meeting is a clear signal that regulators are catching up to agentic AI risk. Worth flagging to PwC contacts as a near-term advisory opportunity.
+**Pope Leo XIV weighs in** — First encyclical *Magnifica Humanitas* addresses AI and "unconstrained technological power," calling for being "profoundly human" in this era. Anthropic gets a mention. Interesting optics for enterprise AI ethics positioning.
 
----
+**Anthropic's Cowork** launches — Claude Desktop agent now works in local files without coding; built rapidly by the Claude Code team. Extends agentic AI beyond developers to business users. Worth monitoring for advisory use cases.
+
+**Google search box redesigned** — First major change in 25 years, retiring the traditional interface. Signals shift toward AI-native interaction patterns.
+
+**OpenAI Singapore lab** — First Applied AI Lab outside the US, coinciding with IMDA updating its agentic AI framework. Useful reference point for UK regulatory comparisons.
 
 ## 🏦 Banking Sector
 
-**What changed:**
-- **UK business lending lowest in nearly 30 years** — FT cites weak economic growth and tighter regulation squeezing SME credit. Direct headwind for any growth-focused banking AI projects.
-- **Metro Bank AGM pay revolt brewing** — proxy advisers urging investors to reject executive pay report; CEO bonus scheme could pay out £60m.
-- **Nationwide governance concerns** — Labour MP writes to chair ahead of AGM over quick-vote practices and board composition; broader building society sector implications.
-- **Lloyds–Halifax brand tension** — dismay in Halifax town over possible brand consolidation; locals want the 170-year-old name preserved.
-- **NS&I missing savings scandal** — bereaved families owed £367m to be contacted; interim CEO admits "this issue should never have happened."
+**UK lending crunch deepens** — Bank lending to UK businesses has fallen to its lowest level in nearly 30 years (FT). Small and medium-sized companies hit hardest. Tighter regulation and weak growth are the culprits — relevant context for any advisory work on credit transformation.
 
-**Rates/FCA:** No fresh mortgage-rate or FCA regulatory announcements since last refresh.
+**Standard Chartered AI job cuts** — 7,000+ back-office roles to go over four years as AI adoption accelerates. CEO Bill Winters apologised after backlash over "lower-value human capital" remarks. Clear case study in how *not* to communicate workforce transformation.
 
----
+**Metro Bank AGM pressure** — Proxy adviser urging investors to reject executive pay report; CEO bonus scheme potentially worth £60m described as "significantly out of line" with market.
+
+**Nationwide governance concerns** — Labour MP writes to chair ahead of AGM, citing "emerging governance issues" across building society sector regarding quick votes and member representation.
+
+**Lloyds/Halifax brand tension** — Dismay in Halifax town over Lloyds' potential threat to the historic brand name. Local sentiment strong — the building society has carried the name since 1853.
+
+**Financial reforms boost** — Government assessment projects £1.6bn boost to City of London from planned reforms; Reeves championing the district (FT).
 
 ## 🧭 Trips & VIP
 
-**What changed:**
-- **Record Kerry weather** — May temperature record equalled; ideal conditions for a short-break this week if you can move quickly.
-- **Silversea Kenya safari + cruise combo** — 15% off June departures still available per earlier report; worth confirming expiry.
+**Kerry short-break demand** reportedly up 12% for June with Listowel farm-stay packages selling well (per Grok briefing). Worth locking in dates soon if a June visit is on the cards.
 
-**No fresh luxury-cruise or Dublin/London event news today.** Evergreen suggestion: check Regent Seven Seas 2027 Mediterranean itineraries — early booking bonuses typically close end-May.
+**Silversea 2027 Kenya safari add-on** — Private fly-in option now bookable (Grok briefing). Fits your fly-in safari preference; worth reviewing for forward planning.
 
----
+**Record heat in Ireland** — If you're considering a Kerry trip this week, conditions are exceptional (28.4°C today). Pack accordingly.
+
+*No fresh ultra-luxury cruise announcements in today's feed. Evergreen suggestion: Crystal's 2027 itineraries typically open around Q3 — worth setting a calendar reminder.*
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tonight at Tralee Kingdom Stadium:**
-- 8-race card, first race 19:30.
-- Feature race: Kingdom Cup.
+**Tralee Kingdom Stadium tonight** — 8-race card from 19:30. Trap 3 reportedly favourite in the 20:15 A3 final (Irish Greyhound Board via Grok).
 
-No fresh Cork or Limerick fixture updates since last refresh.
-
----
+*No fresh news from Cork or Limerick tracks in today's sources.*
 
 ## 🎯 Today's Action Items
 
-1. **Read the FT ECB/AI piece** — understand which model-risk gaps regulators are targeting; relevant to PwC advisory pipeline.
-2. **Confirm Silversea safari deal expiry** — 15% June discount could lapse soon.
-3. **Book Tralee Kingdom Stadium table** — first race in 30 minutes if you're heading over.
-4. **Flag Standard Chartered comms misstep to PwC team** — good case study on AI-transition reputational risk.
-5. **Check Kerry weather midweek** — if record heat continues, consider a spontaneous Listowel break.
-
----
+1. **Review the FT piece on ECB's AI meeting** — identify specific model-risk gaps being flagged; relevant for DORA advisory positioning
+2. **Check Tralee racecard** for tonight's 20:15 A3 final before the card starts at 19:30
+3. **Skim the Standard Chartered coverage** — useful "what not to do" case study for AI workforce comms
+4. **Flag Silversea Kenya 2027 fly-in** for discussion if planning ahead
+5. **Monitor FCA AI guidance** (referenced in Grok briefing) for June-effective provisions
 
 ## 🪙 Crypto & Digital Assets
 
-**What changed:**
-- No major price swings or UK-specific news in today's feeds.
-- Bitcoin holding above $108k per earlier Cointelegraph reports; no fresh catalysts.
+**UK banks exploring stablecoin custody** — Pilots underway post-FCA sandbox (CoinDesk via Grok). Concrete UK banking application worth tracking.
 
-**Evergreen note:** Keep an eye on ECB's AI-risk stance — if it spills into DeFi or crypto custody guidance, could move the regulatory dial for UK digital-asset banks.
+*No major breaking news from Cointelegraph, Decrypt, or The Block in today's feed. Broader crypto markets remain quiet heading into the US Memorial Day holiday.*
 
 ---
 
-*Quiet bank-holiday Monday on markets; the ECB AI summons is the story to watch.*
+*Warm evening — 28°C in parts of Ireland. Tralee card kicks off shortly.*
