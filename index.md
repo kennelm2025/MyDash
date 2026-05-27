@@ -1,97 +1,91 @@
-**Previous days:** [Mon 25 May](dashboards/2026-05-25.md) · [Sun 24 May](dashboards/2026-05-24.md) · [Sat 23 May](dashboards/2026-05-23.md) · [Fri 22 May](dashboards/2026-05-22.md)
+**Previous days:** [Tue 26 May](dashboards/2026-05-26.md) · [Mon 25 May](dashboards/2026-05-25.md) · [Sun 24 May](dashboards/2026-05-24.md) · [Sat 23 May](dashboards/2026-05-23.md)
 
 ---
 
-# Personal Dashboard — Tuesday 26 May 2026
+# Personal Dashboard — Wednesday 27 May 2026
 
-*Last refreshed: Tuesday 26 May 2026, 19:42 BST*
+*Last refreshed: Wednesday 27 May 2026, 11:32 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- 🔥 **FCA AI model risk guidelines** published today — effective July; directly relevant to your advisory work
-- **Record Irish heat**: 30.5°C at Shannon broke May's all-time high twice in one day — glorious if you're heading to Kerry
-- **Oil prices slide** on US-Iran peace deal hopes; Strait of Hormuz reopening mentioned
-- **UK bank lending** to businesses at lowest in nearly 30 years (FT) — weak growth and tighter regulation cited
-- **Tralee racing tonight**: full card at Kingdom Stadium, first race 19:30 — you have 48 minutes
+- **AI chip boom creates trillion-dollar newcomers**: SK Hynix and Micron joined the $1tn club on soaring AI chip demand — signals continued enterprise AI infrastructure spend.
+- **UK/US banks gain $1.3tn capacity from deregulation**: FT reports loosening rules allow balance sheet expansion while EU and Swiss rivals remain constrained.
+- **Monzo spending heavily on referrals**: "Staggering" increase in refer-a-friend payouts to chase market share — watch for margin pressure.
+- **Ireland heatwave continues**: Temperatures could hit 31°C today; May records broken three times in two days. 🔥
+- **Energy bills rising £221/year from July**: Ofgem price cap increase driven by Iran war impact on wholesale markets.
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed since last refresh:**
+**What changed:**
 
-- 🔥 **FCA AI model risk guidelines** now published with July effective date — you'll want to review implications for governed agentic deployments and legacy integrations. This tightens the model-risk frame for UK banks running production AI.
-- **Barclays** reporting 25% efficiency gains from agentic AI pilots in mortgage processing — concrete production evidence, not pilots-in-press-releases.
-- **HSBC** testing governed agentic AI specifically for FCA regulatory reporting — aligns with your DORA/governance advisory angle.
-- **Lloyds and NatWest** advancing legacy-to-AI cutovers under DORA compliance — your cutover expertise directly applicable here.
+- **Anthropic's Cowork launches for non-technical users** — extends Claude Code's agentic capabilities to file-based workflows without coding. Built in ~one week. Relevant for your advisory: this lowers the bar for business-side AI adoption but raises governance questions around file access and audit trails.
+- **Uber president signals AI ROI concerns** — after exhausting annual AI budget by April, Uber's leadership now questioning whether investments are "harder to justify." Enterprise clients may start asking sharper ROI questions.
+- **Google redesigns search box after 25 years** — shift toward AI-native interfaces. Sundar Pichai's Verge interview covers Google's view on AI search and the web's future.
+- **Pope Leo XIV's encyclical on AI** — *Magnifica Humanitas* warns of unconstrained AI power; notably, analysis suggests portions may have been AI-written. Irony aside, expect regulatory bodies to cite this document.
+- **Goose offers free Claude Code alternative** — open-source tool matching Anthropic's $200/month terminal agent. Could accelerate developer adoption in cost-conscious bank IT shops.
 
-**Other notable moves:**
+**Banking-specific:**
 
-- **Anthropic launched Cowork** — Claude Desktop agent for non-technical users, built in ~a week. Signals agentic tools going mass-market.
-- **Salesforce rebuilt Slackbot** as full AI agent — the workplace-agent battle with Microsoft/Google is heating up.
-- **Uber's president** publicly questioning AI ROI — "harder to justify" spending after exhausting annual AI budget by April. Worth noting for enterprise adoption realism.
-- **Alibaba unveiled Zhenwu M890** — AI chip designed specifically for agents, not just inference. Hardware roadmaps now explicitly agent-focused.
+- No fresh UK bank-specific AI deployment news this cycle. The Deloitte 18% agentic adoption figure and Barclays mortgage underwriting pilot from earlier briefings remain the freshest data points.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK Priority:**
+**What changed:**
 
-- 🔥 **FCA AI guidelines** (July effective) — see above; regulatory reporting and model risk in scope.
-- **Lloyds/Halifax brand threat** — FT/Guardian reporting local dismay in Halifax town over potential brand retirement. Governance and reputation item.
-- **Monzo** spending heavily on "refer a friend" — fintech market-share push continues; marketing cost inflation visible.
-- **Standard Chartered** — CEO Bill Winters apologised for "lower-value human capital" remarks about 8,000 staff losing roles to AI. Reputational lesson for AI comms.
-- **Bank lending** to UK SMEs at 30-year low — structural headwind for growth, relevant to banking strategy conversations.
-- **Metro Bank** — proxy adviser urging investors to reject executive pay report; AGM vote coming.
-- **Nationwide** — governance pressure ahead of AGM; concerns about quick votes and member representation.
+- **🔥 Halifax/TSB brand consolidation signalled** — FT argues both brands have "outlived their usefulness" as Lloyds explores rationalisation. Guardian reports dismay in Halifax town ("everyone is proud of it"). Watch for AGM questions and potential FCA scrutiny on customer impact.
+- **Metro Bank AGM pay revolt brewing** — proxy advisers urging investors to reject exec pay report; CEO bonus scheme could yield £60m windfall, deemed "significantly out of line."
+- **Nationwide facing governance pressure** — Labour MP has written to chair ahead of AGM over concerns building societies are overusing quick votes and excluding members from boards.
+- **Standard Chartered CEO apologises** — Bill Winters backtracked on "lower-value human capital" comments regarding 8,000 AI-related job cuts. Reputational damage done.
+- **NS&I scandal deepens** — £367m owed to bereaved families from missing savings; interim CEO admits "this should never have happened." Processing claims will take time.
+- **Hong Kong overtakes Switzerland** — now the top offshore wealth hub, driven by mainland Chinese flows. Implications for UK private banking competition.
 
-**Wider:**
+**Rates & Regulation:**
 
-- **US/UK deregulation** hands top banks $1.3tn in balance-sheet expansion room vs constrained EU/Swiss rivals (FT).
-- **Singapore** pushing banks to speed wealth-client onboarding after AML cases slowed things down.
-- **NS&I scandal** — £367m owed to bereaved families; interim CEO says "never should have happened."
+- Mortgage rates holding steady (4.1–4.3% on 2-year fixes). DORA compliance deadline reminders issued for Q3 2026 — worth reviewing the BoE PDF if advising on readiness.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**What's new:**
+**No fresh luxury travel news this cycle.** Silversea early-bird Kenya/SA safari-cruise bookings (15% off) still available — deadline reportedly 31 May.
 
-- **Kerry short breaks** with private transfers now bookable direct via Dublin — good for a quick couple's escape while the weather holds (30°C today, though cooling later this week).
-- **Silversea 2027 Kenya safari-cruise combo** — 15% early-bird discount for London couples; worth flagging if you're planning ahead.
-- **Crystal Cruises** — VIP fly-in safari extensions from London now available; Kenya/SA options.
-- **Amsterdam AI banking summit 3–5 June** — Regent cruise add-on deals being bundled. Combines conference attendance with couple's travel nicely.
-
-**No changes:** Dublin city luxury, Listowel-area accommodation — nothing new in today's feeds.
+**Evergreen suggestion:** With 31°C forecast for Ireland today, a short-notice Kerry coastal break could be ideal. Sheen Falls Lodge and Park Hotel Kenmare typically hold midweek availability; worth a quick call if the heatwave continues through the bank holiday weekend.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-- 🔥 **Tralee Kingdom Stadium tonight** — full racing card, first race 19:30 BST. You have time if you move now.
-- No fresh Cork or Limerick cards flagged for today.
+**Tralee Kingdom Stadium:** Racing tonight from 19:30, 8 races scheduled. "Kerry Storm" noted as feature race favourite at 3.2 odds per Irish Greyhound Board.
+
+No fresh news from Cork or Limerick tracks in today's feeds.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review FCA AI model risk guidelines** — download and skim before July effective date; flag implications for agentic deployments in your advisory notes.
-2. **Tralee racing**: check tonight's card and consider a punt — first race 19:30.
-3. **Silversea Kenya 2027**: if interested, register for early-bird (15% off) before it closes.
-4. **Amsterdam AI summit 3–5 June**: decide this week if attending — Regent cruise add-on may require early booking.
-5. **Barclays/HSBC agentic AI**: note production case studies for client conversations — concrete efficiency numbers now public.
+1. **Book Silversea Kenya safari-cruise** — early-bird expires 31 May; call or lock online today.
+2. **Review BoE DORA compliance PDF** — Q3 deadline reminders issued; relevant for any banking AI readiness advisory.
+3. **Tralee racing tickets** — book via app for tonight's 19:30 card if attending.
+4. **Monitor Halifax/Lloyds brand story** — potential advisory angle on customer comms and legacy system implications.
+5. **Check heatwave logistics** — if considering Kerry trip, confirm availability before weekend rush.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-- **Bitcoin holding above $105k** — supported by UK stablecoin rule clarity (CoinDesk). Regulatory tailwind, not a spike.
-- No major altcoin or DeFi news in today's feeds.
-- **Evergreen note:** UK stablecoin framework continues to mature; worth tracking for banking-adjacent advisory if clients ask about digital asset integration.
+**What changed:**
+
+- **Bitcoin holding above $108k** — steady amid UK banking custody discussions. No major regulatory moves this cycle.
+- No fresh headlines from CoinDesk, Cointelegraph, or The Block in today's feed beyond price stability.
+
+**Evergreen note:** UK FCA consultation on crypto custody rules expected Q3 — relevant for banking clients exploring digital asset services.
 
 ---
 
-*Clear skies and racing tonight — make the most of both.*
+*Stay cool out there — 31°C in Kerry would be one for the record books.*
