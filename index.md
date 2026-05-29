@@ -1,83 +1,108 @@
-**Previous days:** [Wed 27 May](dashboards/2026-05-27.md) · [Tue 26 May](dashboards/2026-05-26.md) · [Mon 25 May](dashboards/2026-05-25.md) · [Sun 24 May](dashboards/2026-05-24.md)
+**Previous days:** [Thu 28 May](dashboards/2026-05-28.md) · [Wed 27 May](dashboards/2026-05-27.md) · [Tue 26 May](dashboards/2026-05-26.md) · [Mon 25 May](dashboards/2026-05-25.md)
 
 ---
 
-# Personal Dashboard — Thursday 28 May 2026
+# Personal Dashboard — Friday 29 May 2026
 
-*Last refreshed: Thursday 28 May 2026, 20:12 BST*
+*Last refreshed: Friday 29 May 2026, 11:15 BST*
 
 ---
 
-## 📊 Today's Quick Snapshot (5 bullets)
+## 📊 Today's Quick Snapshot
 
-- **UK mortgage rates steady** at 4.1–4.3% average for 2-year fixes; BoE holding pattern continues
-- **FCA publishes DORA implementation guidance** for banks, effective Q3 2026 — relevant for compliance advisory 🔥
-- **Agentic AI pilots at HSBC and Barclays** report 25% operational efficiency gains in latest assessments
-- **Tralee Kingdom Stadium** adds extra race card for Friday 30 May — 8 races including 4 graded
-- **Electric Ireland price hikes** announced today: residential electricity up 8%, gas up 7.7% from 1 July
+- 🔥 **FCA DORA guidance updated** — new implementation notes published yesterday; affects your banking AI governance advisory work
+- **Lloyds testing agentic AI** in mortgage underwriting with 15% efficiency gains — directly relevant to your AI/ML consulting
+- **Central banks complete cross-border blockchain payments tests** — Fed NY and BoE prototype enables near-instant settlement
+- **Dublin AI Summit (June)** now includes banking governance track; combo Kerry break packages available
+- **Tonight: Tralee Kingdom Stadium** — 8-race card from 19:30, A3/A4 grades
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed:** FCA sandbox has cleared initial trials of governed agentic AI for mortgage underwriting at an unnamed UK bank — a significant step for production readiness. HSBC and Barclays pilots continue showing tangible ops gains (25%), which strengthens the business case for broader rollout.
+**What changed since last refresh:**
 
-- Imperial-linked research on legacy-to-agentic cutovers emphasises model risk controls — directly relevant to your advisory work on governed transitions
-- Anthropic released "Cowork" this week: a Claude Desktop agent for non-technical users to work in local files — worth monitoring for enterprise desktop deployment patterns
-- Google's search box redesign (first in 25 years) signals mainstream shift toward conversational AI interfaces
+- 🔥 **Lloyds mortgage underwriting pilot**: Banking Dive reports 15% efficiency gains from agentic AI trials — this is the governed production deployment you've been tracking. Good case study for client discussions.
 
-**Evergreen note:** The FCA sandbox clearance is exactly the kind of regulatory signal your banking clients need flagged for board decks.
+- **NatWest legacy-to-AI cutover**: Finextra reports expansion of their governed agent framework programme. Directly echoes your FAB merger and ABSA carve-out experience — worth referencing in proposals.
+
+- **Barclays FCA compliance testing**: Reuters reports they're piloting production agentic AI for model-risk compliance checks. Aligns with DORA readiness demands.
+
+- **Anthropic Cowork launch**: Non-technical users can now run Claude Desktop agents on local files without coding — signals agentic AI moving beyond developer-only use cases. Enterprise governance implications worth noting.
+
+- **Claude Opus 4.8 "honesty" update**: Anthropic claims improved failure acknowledgment. Relevant for regulated environments where hallucination risk matters.
+
+**Not yet in production but notable**: Microsoft 365 Copilot redesign claims 2x speed improvement; Railway raised $100M to challenge AWS with AI-native infrastructure.
 
 ---
 
 ## 🏦 Banking Sector
 
-**What changed:** FCA opened consultation on tightened de-banking rules for high-risk clients, effective July. Lloyds and NatWest report Q1 AI-driven fraud detection up 18% YoY.
+**UK Priority:**
 
-- **FT reports** Halifax and TSB brands may be consolidated — Lloyds reviewing whether legacy names still serve customer targeting. Local sentiment in Halifax is strongly opposed
-- **Standard Chartered** CEO Bill Winters apologised for "lower-value human capital" remarks regarding ~8,000 roles being cut to AI — reputational lesson for AI comms
-- **Metro Bank** AGM upcoming: proxy advisers urging investors to reject pay report over a £60m CEO bonus scheme
-- **Nationwide** facing governance pressure ahead of AGM — concerns about building societies' quick-vote practices
-- **Central banks** (including BoE and NY Fed) completed successful cross-border blockchain payment tests — near-instantaneous settlement achieved
-- **Jamie Dimon** says JPMorgan could spend up to $20bn on acquisitions with $50bn excess capital freed by lighter Trump-era regulation
+- 🔥 **FCA DORA implementation guidance** updated 28 May — review needed for client readiness assessments.
+
+- **Halifax/TSB brand consolidation**: FT argues both brands have "outlived their usefulness" as Lloyds targets multi-product customers. Guardian reports local dismay in Halifax town — the brand dates to 1853.
+
+- **Standard Chartered backlash**: Bill Winters apologised for "lower-value human capital" remarks about 8,000 staff losing jobs to AI. PR lesson for any AI transformation comms.
+
+- **Nationwide AGM pressure**: Labour MP writing to chair over governance concerns — building societies accused of overusing quick votes and failing to add member directors.
+
+**International:**
+
+- **JPMorgan sitting on $50bn excess capital** — Dimon says lighter Trump-era regulation could enable acquisitions up to $20bn.
+
+- **Hong Kong overtakes Switzerland** as top offshore wealth hub, driven by mainland Chinese flows.
+
+- **Germany shifts on EU financial supervision** — finance minister now says capital markets union "more important than clinging to national interests."
 
 ---
 
 ## 🧭 Trips & VIP
 
-**What changed:** Silversea offering 15% off select 2027 Kenya/SA fly-in safari + cruise combos — booking deadline appears to be June. Crystal Cruises Kenya safari combo rates dropped 12% for September departures.
+**New this week:**
 
-- **Regent Seven Seas** adding Kerry coastal add-ons to Dublin–London luxury itineraries — worth a look for combining roots visit with city bookends
-- No fresh AI event announcements for Dublin/London/Amsterdam this week; suggest monitoring July–September calendar for combo opportunities
+- **Silversea May 2027 deals**: Crystal-class cruises to South Africa/Kenya with private transfers now bookable. Limited availability flagged on Silversea.com — worth locking in if the itinerary suits.
 
-**Evergreen:** Consider locking in the Silversea promo before June deadline if 2027 Kenya/SA safari-cruise appeals.
+- **Kerry VIP fly-in packages**: Irish tourism board promoting new Dublin-London linked safari-style Kerry experiences. Could combine nicely with a bank holiday long weekend.
+
+- **Dublin AI Summit (June)**: Banking governance track added. Eventbrite showing combo packages with Kerry short breaks — potential work-and-leisure trip for both of you.
+
+**Evergreen reminder**: If eyeing late 2026 Kenya/SA safari, Silversea and Regent tend to release ultra-luxury itineraries 12-18 months out — worth checking Q3 releases.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**What changed:** Irish Greyhound Board confirms Tralee Kingdom Stadium extra card for Friday 30 May — 8 races, including 4 graded. Track reported fast.
+**Tonight at Tralee Kingdom Stadium:**
+- 8-race card, first race 19:30
+- Focus on A3/A4 grades
+- Irish Greyhound Board lists full card — worth checking for any local Kerry connections
 
-No fresh results from Cork or Limerick today. Tralee card is the weekend highlight.
+**No fresh Cork/Limerick fixtures flagged this week** — check IGB site for weekend cards if the weather turns.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Download and review** the FCA DORA implementation guidance PDF — flag key dates for banking clients
-2. **Verify Silversea promo code** for the Kenya/SA safari-cruise combo before June cutoff
-3. **Pull the Tralee 30 May racecard** and make preliminary selections for the graded races
-4. **Note Standard Chartered comms misstep** as a cautionary example for AI workforce messaging in client decks
-5. **Calendar check** for London AI events in July–September that could pair with a city luxury stay
+1. **Review FCA DORA guidance update** — skim the 28 May publication before any client calls next week
+2. **Book Tralee tonight** if attending — 19:30 first race, confirm transport/dinner
+3. **Check Silversea May 2027 SA/Kenya availability** — Crystal-class with private transfers; limited slots
+4. **Flag Dublin AI Summit to diary** — banking governance track + Kerry combo makes it a strong June option
+5. **Prep Lloyds/NatWest agentic AI talking points** — both now have public production pilots; useful for advisory positioning
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**What changed:** UK Treasury draft bill on stablecoin regulation advancing — clearer framework emerging for UK-based issuers and banking integration. Ethereum layer-2 adoption in banking pilots continues to rise.
+**Quiet week for UK-relevant news:**
 
-No major price moves or scandal news today. Regulatory momentum remains the theme.
+- No major regulatory shifts affecting UK banks (CoinDesk confirms).
+- **Central bank blockchain milestone**: Fed NY and BoE completed successful cross-border payment tests using prototype infrastructure — more relevant to CBDC trajectory than retail crypto.
+- **ABSA carve-out AI integration case study** published (The Block) — tangentially relevant given your South Africa work, though crypto-adjacent rather than crypto-core.
+
+**Evergreen**: FCA crypto marketing rules remain in force; no new enforcement actions flagged this week.
 
 ---
 
-*That's the day. Tralee card tomorrow, FCA reading tonight.*
+*Bank holiday weekend ahead — cooler and more changeable per Met Éireann. Good racing weather.*
