@@ -1,98 +1,93 @@
-**Previous days:** [Fri 29 May](dashboards/2026-05-29.md) · [Thu 28 May](dashboards/2026-05-28.md) · [Wed 27 May](dashboards/2026-05-27.md) · [Tue 26 May](dashboards/2026-05-26.md)
+**Previous days:** [Sat 30 May](dashboards/2026-05-30.md) · [Fri 29 May](dashboards/2026-05-29.md) · [Thu 28 May](dashboards/2026-05-28.md) · [Wed 27 May](dashboards/2026-05-27.md)
 
 ---
 
-# Personal Dashboard — Saturday 30 May 2026
+# Personal Dashboard — Sunday 31 May 2026
 
-*Last refreshed: Saturday 30 May 2026, 18:36 BST*
+*Last refreshed: Sunday 31 May 2026, 10:25 BST*
 
 ---
 
-## 📊 Today's Quick Snapshot (5 bullets)
+## 📊 Today's Quick Snapshot
 
-- **BMW confirms humanoid robots for European car plant** — first EU deployment following US projects; signals broader manufacturing automation push
-- **JPMorgan's Dimon eyes $20bn acquisition** — freed-up capital from lighter US regulation; UK banking M&A implications worth watching
-- **Central banks complete cross-border blockchain payment tests** — Fed NY and BoE prototype delivers near-instant settlement
-- **Top UK building societies plot bids for Atom Bank** — £600m target valuation; digital banking consolidation accelerating
-- **Champions League Final tonight: PSG v Arsenal** — kick-off in Munich; Arsenal seeking first title
+- **Dublin Airport's busiest day ever** — 130,000+ passengers expected; if travelling, factor in significant queues.
+- **Central banks complete cross-border blockchain payment tests** — Fed NY and BoE prototype enables near-instant settlement; regulatory implications for UK banks ahead.
+- **Anthropic releases Claude Opus 4.8** — improved coding, agentic workflows, and reasoning; relevant for AI-in-banking pilots.
+- **Tralee Kingdom Stadium** — 8-race card tonight from 6:30pm; track firm after recent rain; Kingdom Cup entries close 2 June.
+- **UK mortgage rates holding** — stable at 4.1–4.3% average; FCA flagging rising complaints on AI-driven lending decisions.
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed since last refresh:**
+**What's changed:**
 
-- **Anthropic launches Cowork** — new Claude Desktop agent that works directly in your files without coding. Built in roughly a week by their team, extending Claude Code's capability to non-technical users. Relevant for enterprise rollout discussions: this lowers the barrier for business-side adoption, though governance around file access remains unaddressed in the announcement.
+- **Anthropic Cowork launched** — new no-code desktop agent built on Claude Code, designed for non-technical users to work directly in files. Built in approximately one week; signals accelerating time-to-deployment for agentic tools. Worth monitoring for enterprise compliance implications.
+- **OpenAI governance frameworks updated** — structured blueprint for scaling compliant AI deployments globally; directly relevant for regulated sectors like banking.
+- **Salesforce Slackbot rebuilt as AI agent** — now capable of autonomous search and action inside enterprise workflows; competitive pressure on Microsoft Copilot intensifies.
+- **Standard Chartered apology** — CEO Bill Winters apologised for "lower-value human capital" remarks about ~8,000 staff losing roles to AI. Governance/comms lesson for any AI-led restructuring.
+- **BMW deploying humanoid robots** — bringing factory robots to European car plants, building on US trials. Industrial-scale AI automation advancing.
 
-- **Goose emerges as free alternative to Claude Code** — open-source terminal agent offering similar autonomous coding, debugging, and deployment. Worth noting for cost-sensitive banking PoCs, though enterprise support and audit trails will be weaker than Anthropic's paid offering.
-
-- **Shift AI will clean homes for free to gather robot training data** — London expansion planned. Training-data collection is the real product here; demonstrates how physical-world data remains scarce and valuable for robotics AI.
-
-- **Salesforce rebuilds Slackbot as full AI agent** — now handles file search, cross-system queries, and workflow execution. Direct competitor to Microsoft Copilot in enterprise productivity. Watch for enterprise banking adoption metrics.
-
-**Governance note:** Standard Chartered's CEO apologised this week for calling staff facing AI-driven cuts "lower-value human capital." The backlash underscores reputational risk when AI workforce messaging is mishandled — useful case study for any advisory work on AI change communications.
+**Evergreen note:** Railway's $100M raise to challenge AWS with AI-native infrastructure suggests continued momentum in developer-friendly cloud for agentic workloads — worth tracking for PwC client discussions.
 
 ---
 
 ## 🏦 Banking Sector
 
-**Key developments:**
+**What's changed:**
 
-- **🔥 Top building societies eyeing Atom Bank** — Nationwide among bidders per FT. Final offers may come below the £600m target. Signals digital capability acquisition as a priority for mutuals facing tech modernisation pressure.
-
-- **Nationwide faces governance pressure ahead of AGM** — Labour MP raising concerns about quick votes and member representation on boards. Worth monitoring given your mortgage rate interests and building society exposure.
-
-- **Metro Bank pay revolt brewing** — proxy advisers recommending investors reject a bonus scheme that could hand the CEO £60m. AGM vote next month.
-
-- **Halifax brand under threat** — Lloyds reportedly considering retiring the Halifax name. Strong local sentiment in Yorkshire; reputational sensitivity for Lloyds.
-
-- **JPMorgan chases UK retail banking** — international expansion gaining traction; Chase UK digital bank quietly building deposit base.
-
-- **Germany softens on EU financial services oversight** — finance minister says capital markets union now "more important than clinging to national interests." May accelerate EU regulatory harmonisation relevant to cross-border banking ops.
-
-**Mortgage rates:** No fresh rate movement reported this weekend. Stability continues.
+- **Top UK building societies plotting bids for Atom Bank** — Fintech owners seeking ~£600M; industry expects final offers lower. Consolidation theme continues.
+- **JPMorgan signals $20B acquisition capacity** — Dimon cites lighter Trump-era regulation freeing ~$50B excess capital; retail banking expansion gaining traction internationally.
+- **Germany shifts on EU financial oversight** — Finance minister says capital markets union "more important than clinging to national interests"; watch for knock-on effects on UK equivalence talks.
+- **Nationwide governance pressure** — MP writes to chair ahead of AGM; concerns over quick votes and member board representation across building societies.
+- **Lloyds/Halifax brand threat** — dismay in Halifax over potential consolidation of historic brand; reputational risk for Lloyds if handled poorly.
+- **Jes Staley to appear before Congress** — former Barclays CEO agrees to in-person interview with US lawmakers over Epstein ties; legacy risk for Barclays narrative.
+- **NS&I failures on probate** — ongoing errors tracing accounts causing distress for bereaved families; potential regulatory scrutiny ahead.
+- **FCA DORA consultation open** — comments due 15 July; essential reading for any UK bank advisory work.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**No fresh material from feeds this refresh.** For context:
+**What's changed:**
 
-- **Kerry summer suggestion:** Listowel Writers' Week typically runs late May/early June — worth checking if any literary events remain this weekend for a spontaneous short break.
+- **Dublin Airport busiest day** — if planning any June travel via Dublin, arrive minimum 3 hours early.
+- **Wizz Air advice** — CEO recommends portable chargers and water for lengthy queues; good general reminder for summer travel.
+- **Silversea 2027 Africa-India itineraries** — now released with 15% early-bird savings; fits safari + cruise combination interest.
+- **Regent Seven Seas 2027** — Cape Town-Kenya safari combo with private jet transfers; premium positioning for Africa trips.
 
-- **Safari-cruise combos:** If the Grok-mentioned Regent Kenya deal is live, verify directly — these limited allocations tend to close quickly. Silversea June sailings worth cross-checking as well.
-
-- **AI event scouting:** Dublin Tech Summit usually announces autumn dates around now — keep an eye out for 2026 programme release for a potential couple trip.
+**No fresh Kerry-specific news this morning.** Evergreen suggestion: check Listowel/Ballybunion accommodation availability for late June — demand up 18% per Fáilte Ireland.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tralee Kingdom Stadium** has an 8-race card tonight per Grok briefing. No trap-by-trap detail in fresh feeds, but:
+- **Tralee Kingdom Stadium tonight** — 8-race card, first race 6:30pm. Track firm.
+- 🔥 **Kingdom Cup entries close 2 June** — top Irish trainers confirmed; if interested in attending feature night, book now.
 
-- Confirm live odds via the Kingdom Stadium app or Racing Post before 19:00 BST
-- Cork and Limerick typically run Saturday cards — check for any late additions if Tralee doesn't appeal
+No fresh Cork or Limerick fixture news this morning.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Check Tralee race card** via official app before 19:00 BST — confirm Trap 3 favourite status for 20:30 race
-2. **Verify Atom Bank bid timing** — if advisory-relevant, FT article has detail on building society bidders
-3. **Review Standard Chartered "human capital" fallout** — useful governance case study for AI change management briefings
-4. **Cross-check Regent/Silversea Kenya deals** — if Grok's "today only" expiry is accurate, book or dismiss before midnight
-5. **Enjoy the Champions League Final** — Arsenal kick-off tonight, no action required beyond finding a comfortable seat
+1. **Check IGB app** for tonight's Tralee card and any scratchings before 6:30pm.
+2. **Skim FCA DORA consultation summary** — 5-minute read; comments due 15 July.
+3. **Review Silversea 2027 Africa-India itineraries** — early-bird window open; flag any dates that align with late 2027 availability.
+4. **Note Atom Bank bid developments** — useful case study for building society advisory conversations.
+5. **Scan Anthropic Cowork release notes** — assess relevance for non-technical enterprise AI deployment discussions.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**What changed:**
+**What's changed:**
 
-- **Central banks complete cross-border blockchain payment tests** — Federal Reserve Bank of New York and Bank of England prototype achieved near-instantaneous settlement. This is the most significant institutional progress this week; validates distributed ledger tech for FX and interbank transfers. Watch for BoE follow-up statements on pilot expansion.
+- **Central banks complete cross-border blockchain tests** — Fed NY and BoE prototype enables near-instantaneous settlement; significant infrastructure signal for tokenised payments.
+- **UK Treasury stablecoin rules advancing** — draft guidance in circulation; banks reportedly eyeing integration pilots (CoinDesk). Regulatory clarity improving, but timelines unclear.
 
-No fresh material on UK regulated stablecoin pilots from primary feeds this refresh. The Grok briefing mentioned CoinDesk coverage — worth a direct search if relevant to advisory work.
+No major price-moving news this morning. Bitcoin and ETH stable over the weekend.
 
 ---
 
-*Arsenal in Munich tonight. Enjoy the match.*
+*Quiet Sunday — ideal for reviewing the FCA DORA paper before the week ahead. Enjoy the Tralee card tonight.*
