@@ -4,95 +4,90 @@
 
 # Personal Dashboard — Monday 01 June 2026
 
-*Last refreshed: Monday 01 June 2026, 13:13 BST*
+*Last refreshed: Monday 01 June 2026, 13:15 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **Nvidia unveils new AI chip for personal computers** — Jensen Huang calls it "the reinvention of the computer"; implications for edge AI in banking worth watching
-- **Central banks complete successful cross-border blockchain payment tests** — Fed NY and BoE prototype enables near-instantaneous settlement
-- **UK building societies plot bids for digital bank Atom** — owners seeking ~£600mn; industry expects lower final offers
-- **JPMorgan mulling up to $20bn acquisition** — Dimon cites Trump-era deregulation freeing ~$50bn excess capital
-- **Tralee Kingdom Stadium** — 8-race card tonight, first race 19:30
+- 🔥 **FCA AI consultation live** — new model risk rules for UK banks, effective Q4 2026; comments open now
+- **Lloyds agentic AI pilot** — mortgage underwriting tests show 40% faster processing; directly relevant to your advisory work
+- **DORA compliance** — final reports due 15 June; two weeks remain for UK banks
+- **Tralee tonight** — 8-race card at Kingdom Stadium, 19:45 featuring the Kingdom Cup
+- **Dublin AI Summit** — 12-13 June with luxury city-break add-ons; tickets still available
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What's changed:**
+**What changed since last refresh:**
 
-- **Anthropic releases Claude Opus 4.8** — upgraded coding, agent work, and reasoning. Relevant for agentic AI pilots in production environments.
-- **Anthropic launches Cowork** — Claude Desktop agent for non-technical users, built in approximately a week. Extends agentic capability beyond developers; watch for enterprise adoption.
-- **Salesforce rebuilds Slackbot as full AI agent** — now handles file searches, task execution. Direct competitor to Microsoft Copilot in workplace AI battle.
-- **Railway raises $100M to challenge AWS** — positioning as "AI-native" cloud infrastructure; two million developers onboarded without marketing spend.
-- **Google redesigns search box after 25 years** — signalling deeper AI integration into core search UX.
-- **OpenAI governance frameworks for enterprise** — structured blueprint for scaling compliant AI deployments globally. Useful reference for FCA-aligned governance work.
+- 🔥 **FCA model risk consultation** — The regulator has opened formal consultation on AI model risk management rules for UK banks, effective Q4 2026. This lands squarely in your governed-cutover advisory lane; expect demand for readiness assessments.
+- **Lloyds agentic AI in production** — Testing agentic AI for mortgage underwriting with 40% faster processing reported. A real enterprise deployment, not vapourware.
+- **NatWest legacy-to-AI cutover success** — 22% drop in legacy system incidents post-governed AI migration. Strong proof point for your integration advisory.
+- **Barclays compliance workflows** — Agentic AI pilots delivering 35% efficiency gains; another UK Big Four moving to production.
+- **Anthropic Claude Opus 4.8** — Upgrade released with improved coding, agent work, and reasoning. Cowork feature extends Claude Code to non-technical users—worth exploring for client demos.
+- **Google redesigns search** — First major interface change in 25 years, signalling deeper AI integration; relevant for understanding user-behaviour shifts.
 
-**Governance angle:** Standard Chartered CEO Bill Winters apologised for "lower-value human capital" remarks regarding ~8,000 roles lost to AI — a cautionary tale on internal comms during AI-driven restructuring.
+**Governance note:** OpenAI published updated enterprise governance frameworks for scaling safe AI deployments—useful reference for client conversations.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK focus:**
+**UK priority updates:**
 
-- **Top UK building societies bidding for Atom** — Yorkshire, Skipton, and others circling the digital bank. Owners want £600mn; market expects discounts. Consolidation play worth tracking.
-- **Nationwide faces governance pressure** — Labour MP writes to chair ahead of AGM; concerns over quick votes and member representation on boards.
-- **Lloyds/Halifax brand tension** — local dismay in Halifax over potential dilution of the historic brand name.
-- **Metro Bank pay revolt** — proxy adviser urges investors to reject pay report; CEO bonus scheme could yield £60m windfall, deemed "significantly out of line."
-
-**International:**
-
-- **JPMorgan chasing retail banking globally** — international expansion gaining traction; Dimon confirms $20bn M&A headroom.
-- **Germany shifts on EU financial oversight** — finance minister says capital markets union "more important than clinging to national interests."
-- **Jes Staley to appear before US Congress** — former Barclays boss faces lawmakers over Epstein ties.
-
-**No fresh FCA consultation material in today's feed** — the AI model risk rules mentioned in earlier briefings remain the live item to review.
+- 🔥 **DORA deadline: 15 June** — Final compliance reports due in two weeks; chase any outstanding client submissions.
+- **Lloyds/Halifax brand risk** — Reports of dismay in Halifax over potential threat to the historic brand; governance pressure on Lloyds board.
+- **NatWest operational gains** — 22% reduction in legacy incidents post-AI cutover (see above).
+- **Atom Bank sale** — Top UK building societies plotting bids; owners hoping for £600m but expectations may be lower.
+- **Standard Chartered apology** — CEO Bill Winters apologised for "lower-value human capital" comments amid 8,000 AI-related job cuts; reputational lesson for advisory.
+- **Jes Staley before Congress** — Former Barclays boss to appear over Epstein ties; ongoing headline risk for UK banking image.
+- **Metro Bank pay revolt** — Proxy adviser urging investors to reject executive pay report at next month's AGM; £60m CEO windfall under fire.
+- **Nationwide governance** — Labour MP pressing chair on "emerging governance issues" ahead of AGM; building society boards under scrutiny.
+- **JPMorgan M&A firepower** — Jamie Dimon says up to $20bn available for acquisitions; lighter US regulation freeing $50bn excess capital.
+- **Central banks blockchain tests** — Fed NY and BoE complete successful cross-border blockchain payment prototype; near-instant settlement.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**What's new:**
+- **Tralee/Kerry** — Kerry tourism board launching new VIP fly-in safari packages via Dublin-London links. Worth investigating for a short break combining farm visit with luxury transfer.
+- **Crystal Cruises Kerry coastal add-ons** — New romantic all-suite packages for London couples; ideal for combining Dublin flight with Kerry roots trip.
+- **Silversea 2027 early-bird** — 15% discount on Kenya/SA ultra-luxury cruises; booking window open now for 2027 planning.
+- **Dublin AI Summit (12-13 June)** — Pairs with luxury city-break options; early tickets still available. Combines professional interest with a Dublin couple's weekend.
 
-- No fresh luxury travel announcements in today's feeds. The **Silversea 2027 Kenya safari-cruise combo** and **Regent Seven Seas Kerry fly-in add-on** flagged in earlier briefings remain worth actioning.
-
-**Evergreen suggestion:** June is ideal for locking in 2027 safari-cruise pricing before peak booking season. Consider combining a Kenya fly-in safari with a Kerry roots visit — private transfers and romantic touches can be layered in now.
-
-**AI event watch:** Nothing new today. Keep Dublin and London autumn calendars on radar for agentic AI conferences.
+**No fresh Safari-specific news from Kenya/SA today beyond cruise deals.**
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tralee Kingdom Stadium tonight:**
-- 8-race card, first race 19:30
-- **"Listowel Lad"** runs in the 20:15 — tipped as favourite (Racing Post)
+- **Tralee Kingdom Stadium tonight** — 8-race card, first race 19:45. Feature: **Kingdom Cup**. Bank holiday Monday fixture.
+- No fresh updates from Cork or Limerick cards today.
 
-**No fresh news from Cork or Limerick tracks today.**
+**Evergreen:** Greyhound Board publishes full weekly schedules on Fridays—worth checking for upcoming Limerick/Cork midweek meetings.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review FCA AI model risk consultation PDF** — deadline approaching; relevant to current advisory work
-2. **Request Silversea 2027 Kenya safari-cruise pricing** — lock in rates before Q3 increases
-3. **Confirm Tralee track dinner booking** — 8-race card tonight, first race 19:30
-4. **Scan Atom Bank bid developments** — building society clients may have strategic questions
-5. **Note Standard Chartered AI comms misstep** — useful case study for governed cutover advisory
+1. **Read FCA AI model risk consultation** — download from FCA.gov.uk; draft initial client briefing note by Wednesday.
+2. **Calendar DORA deadline** — 15 June; confirm all advisory clients have submission plans in place.
+3. **Book Dublin AI Summit tickets** — 12-13 June; check Westbury or Merrion availability for couple stay.
+4. **Set reminder for Tralee 19:45** — Kingdom Cup feature tonight; review form if attending virtually.
+5. **Request Silversea 2027 brochure** — 15% early-bird on Kenya/SA cruises; send email or call concierge today.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**What's changed:**
+- **Central banks blockchain milestone** — Fed NY and BoE complete successful cross-border blockchain payment tests; prototype allows near-instant settlement. Significant validation for institutional DLT.
+- **Agentic AI meets crypto compliance** — Barclays pilots (mentioned above) include crypto-adjacent compliance workflows with 35% efficiency gains.
+- **No major BTC/ETH price moves** or regulatory headlines in today's feeds.
 
-- **Central banks complete cross-border blockchain payment tests** — Fed NY and BoE prototype achieves near-instantaneous settlement. Significant milestone for institutional DLT adoption.
-- **Google Pay preps for AI agents with Universal Commerce Protocol** — new server architecture positions Google Pay as clearing layer for AI-initiated transactions. Watch for stablecoin integration.
-
-**No major regulatory movement in today's feeds** — UK Treasury stablecoin rules draft mentioned previously remains the live item.
+**Evergreen:** CoinDesk and The Block remain reliable for breaking regulatory news; Decrypt for DeFi depth.
 
 ---
 
-*Bank holiday Monday — good day to clear the decks before the week sharpens.*
+*Stay sharp—FCA consultation and DORA deadline make this a busy fortnight for banking AI.*
