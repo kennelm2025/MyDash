@@ -1,101 +1,90 @@
-**Previous days:** [Sun 31 May](dashboards/2026-05-31.md) · [Sat 30 May](dashboards/2026-05-30.md) · [Fri 29 May](dashboards/2026-05-29.md) · [Thu 28 May](dashboards/2026-05-28.md)
+**Previous days:** [Mon 01 Jun](dashboards/2026-06-01.md) · [Sun 31 May](dashboards/2026-05-31.md) · [Sat 30 May](dashboards/2026-05-30.md) · [Fri 29 May](dashboards/2026-05-29.md)
 
 ---
 
-# Personal Dashboard — Monday 01 June 2026
+# Personal Dashboard — Tuesday 02 June 2026
 
-*Last refreshed: Monday 01 June 2026, 21:44 BST*
+*Last refreshed: Tuesday 02 June 2026, 11:57 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **Anthropic files for IPO** — Claude's parent has officially submitted SEC paperwork, setting up the first major AI company public listing this year
-- 🔥 **FCA AI model risk guidance** — new requirements for UK lenders take effect July 2026; Lloyds, Barclays, NatWest all in scope
-- **Lloyds agentic AI expands** — mortgage processing pilots showing 40% faster approvals; potential Halifax brand retirement still under fire locally
-- **Dublin AI summit 10-12 June** — new banking track added with London luxury combo packages available
-- **Tralee racing this week** — Kingdom Stadium running 8-race cards 2-4 June, feature event 20:45 nightly
+- 🔥 **Anthropic files for IPO** — The Claude maker has officially filed with the SEC, valuation approaching $1tn; shares may be available to the public later this year
+- **London Tube strikes today** — RMT action confirmed after talks failed; further disruption Thursday. Plan around Zone 1 if heading into the City
+- **UK building societies circling Atom Bank** — Yorkshire, Skipton and others plotting bids; expected price ~£600mn though final offers may come in lower
+- **Standard Chartered CEO apologises** — Bill Winters walked back "lower-value human capital" remarks amid 8,000 AI-related job cuts
+- **Leaving Cert starts this week** — Kerry students among thousands in final prep; exam season traffic around Tralee likely
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed:**
-- 🔥 **FCA model risk guidance finalised** — effective July 2026, this directly targets AI governance at UK banks. Expect compliance workstreams to accelerate now; your agentic AI readiness advisory is precisely timed.
-- **Anthropic IPO filing** — the SEC confidential filing sets stage for a public offering later this year. Valuation discussions will shape enterprise AI pricing and vendor strategy across banking clients.
-- **Anthropic releases Claude Opus 4.8** — improved coding, agent workflows, and reasoning. Claude Code alternative "Goose" now available free, which may pressure Anthropic's enterprise margins.
-- **Cowork launched** — Anthropic's new no-code desktop agent extends Claude Code capabilities to non-technical users; built in approximately a week, demonstrating rapid product iteration.
-- **OpenAI governance frameworks** — new enterprise blueprints for scaling compliant AI deployments globally; useful reference for client governed-cutover conversations.
-- **UK banks blocked from Anthropic's Mythos cyber tool** — OpenAI offering GPT 5.5 Cyber as alternative to nine banks; competitive positioning shifting in enterprise security AI.
+**What changed:** Anthropic's SEC filing is the headline — this puts Claude's parent on a clear IPO track ahead of OpenAI. For enterprise banking clients, this signals long-term viability and potentially better commercial terms as Anthropic seeks to demonstrate revenue growth to public markets.
 
-**Production lens:** NatWest reporting 15% efficiency gains from production AI governance in Q1. Barclays testing enterprise agentic AI specifically for FCA DORA compliance reporting — direct proof point for your legacy-to-AI integration pitch.
+**Production & governance angles:**
+- **OpenAI governance frameworks** — New structured blueprints released for scaling compliant enterprise deployments globally. Worth reviewing against current PwC advisory frameworks for governed cutovers
+- **Anthropic Cowork launched** — Claude Desktop now has a no-code agent ("Cowork") that operates directly on local files. Potential for non-technical compliance and ops teams to automate document workflows without developer support
+- **Google Pay + Universal Commerce Protocol** — Infrastructure redesign to handle AI agent transactions. Early signal that agentic commerce rails are being built; relevant for payments modernisation advisory
+
+**Enterprise adoption watch:** BBC reports firms are putting pressure on staff to use AI but rolling it out in a "confused" manner without proper planning — a governance gap PwC can address directly.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK Priority:**
-- 🔥 **Lloyds/Halifax brand tension** — Yorkshire locals expressing dismay at potential retirement of 173-year-old Halifax brand. PR risk worth monitoring if you have Lloyds exposure.
-- **NatWest AI efficiency** — Q1 results cite 15% gains from governed AI frameworks; validates the investment case for agentic infrastructure.
-- **Barclays DORA compliance** — testing agentic AI for regulatory reporting; DORA requirements biting across the sector.
-- **HSBC de-banking scrutiny** — regulatory attention on AI-driven customer scoring models feeding de-banking decisions.
-- **Top building societies eyeing Atom Bank** — Fintech owners hoping for ~£600m but bids may come in lower.
+**UK priority updates:**
 
-**Regulatory:**
-- FCA AI model risk guidance now confirmed for July 2026
-- HSBC facing questions on de-banking rules and algorithmic fairness
-- Germany signalling flexibility on EU financial services oversight — capital markets union potentially accelerating
+- 🔥 **Lloyds may retire Halifax brand** — FT and Guardian both reporting internal discussions. Halifax has carried the Yorkshire town's name since 1853; local dismay significant. Watch for customer attrition risk if handled poorly
+- **Atom Bank auction heating up** — Top UK building societies (Yorkshire, Skipton) preparing bids. Fintech's owners want £600mn; industry executives expect lower. Implications for digital banking consolidation
+- **Standard Chartered workforce cuts** — ~8,000 roles to go, explicitly linked to AI. CEO apology for tone, but direction of travel clear. Model for AI-driven headcount reduction conversations
+- **Jes Staley to appear before US Congress** — Former Barclays chief will face in-person questions on Epstein ties. Reputational overhang continues for UK banking leadership narratives
+- **Nationwide governance pressure** — Labour MP writing to chair ahead of AGM; concerns about building societies overusing quick votes and failing to add members to boards
 
-**Other notable:**
-- **Wise under investigation** — Brussels prosecutor examining money laundering controls; no findings shared yet
-- **Metro Bank AGM pay revolt** — proxy advisers urging vote against £60m bonus scheme for CEO
-- **Nationwide governance pressure** — MP writing to chair over building society governance concerns ahead of AGM
-- **Standard Chartered apology** — CEO Bill Winters walked back "lower-value human capital" comments regarding 8,000 AI-related job cuts
-
-**JPMorgan watch:** Dimon says lighter US regulation freed $50bn excess capital; could deploy up to $20bn on acquisitions.
+**European context:** Germany shifting stance on EU financial services oversight — finance minister says capital markets union "more important than clinging to national interests." Could accelerate regulatory harmonisation affecting UK equivalence discussions.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Fresh opportunities:**
-- **Kerry fly-in packages** — Kerry tourism board has launched new VIP fly-in safari combinations linking Dublin to Kenya via private charter. Worth investigating for a combined Kerry/Kenya trip.
-- **Silversea Crystal deal** — limited June 2026 all-suite cruise from London to South Africa with romantic add-ons. Aligns perfectly with your comfort-first preferences and SA connections.
-- **Dublin AI Summit 10-12 June** — new banking track makes this professionally relevant. Combo packages with London luxury stays now available through Eventbrite. Could dovetail nicely with a couple's city break.
+**Kerry roots:** No fresh luxury package news specific to Listowel/Tralee this refresh. *Evergreen:* The Rose Hotel in Tralee maintains its spa-and-racing packages — worth a look for a June weekend if the Leaving Cert traffic has cleared.
 
-**Evergreen suggestion:** If June dates don't work, Silversea typically refreshes South Africa itineraries quarterly — flag for September review.
+**Safari prospects:** No new Kenya/SA safari deals in today's feeds. *Evergreen:* Silversea's Africa expedition voyages typically release September departures in June — worth setting an alert if the safari-cruise combo from Grok's earlier briefing interests you.
+
+**Cruises:** Regent Seven Seas and Crystal quiet this cycle. Silversea's expedition programme remains the strongest option for Kenya coastal combinations.
+
+**City luxury:** London Tube strikes today and Thursday — if any West End plans, private transfers or buses only. Dublin quiet on the luxury hotel front this refresh.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tralee Kingdom Stadium:**
-- Racing confirmed **2-4 June**, 8 races nightly
-- Feature event at **20:45** each evening
-- No specific standout dogs flagged in today's material
+**Tralee Kingdom Stadium:** No specific card details in today's RSS feeds, but Grok's earlier briefing flagged an 8-race card tonight with trap 3 runners of interest. Check the IGB app or AtTheRaces closer to first race (typically 19:30).
 
-**Nearby:** Cork and Limerick fixtures not detailed today. Check Irish Greyhound Board for midweek cards if planning a Kerry short break around the 2-4 June racing.
+**Cork/Limerick:** No fresh fixtures flagged. *Evergreen:* Limerick's Friday night cards often feature strong Kerry-bred entries — worth monitoring if tonight's Tralee action whets the appetite.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review FCA AI model risk guidance** — download the July 2026 requirements and prepare a one-page client briefing note for PwC banking leads
-2. **Book Dublin AI Summit (10-12 June)** — banking track registration plus London luxury combo; check calendar with partner
-3. **Enquire re Silversea June cruise** — limited availability for London-to-SA all-suite; call or email today before allocation closes
-4. **Check Tralee racing for 2-4 June** — confirm feature event times and consider Kerry short break around the midweek card
-5. **Flag Anthropic IPO to banking clients** — enterprise AI vendor landscape shifting; worth a brief advisory note on pricing and contract implications
+1. **Check Tube strike routes** if any City meetings today — Northern/Victoria lines most affected
+2. **Skim Anthropic IPO coverage** — implications for Claude enterprise licensing terms worth flagging to PwC AI team
+3. **Review BBC "confused AI rollout" article** — potential case study material for governance advisory pitches
+4. **Monitor Atom Bank bid developments** — building society digital strategy angle for banking clients
+5. **Confirm Tralee racing card** via IGB app before 19:00
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**What changed:**
-- **Central banks complete cross-border blockchain tests** — Fed New York and Bank of England prototype enables near-instantaneous settlement; significant infrastructure signal for wholesale digital payments
-- **Google Pay Universal Commerce Protocol** — new server architecture preps payment rails for AI agent transactions; positions Google as clearing layer for agentic commerce
+**What changed:** Light UK-specific news this refresh. No fresh FCA sandbox announcements in today's feeds.
 
-No major token price movements or retail-facing news in today's source material. Cross-border blockchain progress is the substantive development — potentially relevant if PwC clients are exploring wholesale CBDC integration.
+**From the wires:**
+- General market coverage continues on stablecoin infrastructure and institutional adoption, but nothing concrete from Coindesk, Cointelegraph or The Block with direct UK banking relevance today
+- Google Pay's Universal Commerce Protocol (see AI section) has crypto-adjacent implications — positions Google as potential clearinghouse for AI agent transactions, which could eventually include tokenised payments
+
+*No urgent action — watch for FCA pronouncements as DORA deadlines approach.*
 
 ---
 
-*Quiet start to June. FCA guidance and the Dublin summit are the week's priorities.*
+*Quiet on the travel front; busy week ahead for AI and banking news. Avoid the Tube.*
