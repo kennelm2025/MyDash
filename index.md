@@ -1,92 +1,99 @@
-**Previous days:** [Mon 01 Jun](dashboards/2026-06-01.md) · [Sun 31 May](dashboards/2026-05-31.md) · [Sat 30 May](dashboards/2026-05-30.md) · [Fri 29 May](dashboards/2026-05-29.md)
+**Previous days:** [Tue 02 Jun](dashboards/2026-06-02.md) · [Mon 01 Jun](dashboards/2026-06-01.md) · [Sun 31 May](dashboards/2026-05-31.md) · [Sat 30 May](dashboards/2026-05-30.md)
 
 ---
 
-# Personal Dashboard — Tuesday 02 June 2026
+# Personal Dashboard — Wednesday 03 June 2026
 
-*Last refreshed: Tuesday 02 June 2026, 20:56 BST*
+*Last refreshed: Wednesday 03 June 2026, 12:24 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- 🔥 **Anthropic IPO filing imminent** — valuation nearing $1tn; public share offering planned later this year (BBC News)
-- **Microsoft Build 2026 keynote today** — new MAI-Thinking-1 reasoning model, Project Solara agent OS, and Scout personal assistant announced
-- **Trump signs AI executive order** — voluntary pre-release model review framework for frontier AI (The Verge)
-- **Standard Chartered CEO apologises** — Bill Winters backtracks on "lower-value human capital" remarks amid 8,000 AI-driven job cuts
-- **FCA AI consultation live** — model risk rules for UK banks now open for industry input
+- **UK CMA rules Google must let publishers opt out of AI Search features** — puts content owners in stronger negotiating position; signals regulatory momentum you'll want to track for banking AI implications.
+- **Microsoft Build 2026 dropped MAI-Thinking-1** — their first advanced reasoning model plus Scout (always-on assistant); competitive pressure on enterprise AI deployments.
+- **Leaving Cert exams started today in Ireland** — English Paper One at 9:30am; relevant if planning any Kerry travel around school calendar.
+- **Standard Chartered CEO apologised for "lower-value human capital" comments** — ~8,000 jobs to AI; ugly framing but illustrates AI-workforce governance gaps.
+- **Jes Staley to appear before US Congress over Epstein ties** — former Barclays boss; reputational ripple for UK banking sector.
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed:**
-- **Anthropic IPO signals enterprise maturity** — filing marks generative AI's shift from research-heavy venture phase to stabilised enterprise utility; relevant for banking AI deployment timelines
-- **Microsoft's MAI-Thinking-1** — first in-house "advanced reasoning" model announced at Build; positions Microsoft closer to competing with OpenAI on complex agentic tasks
-- **Cowork by Anthropic** — new Claude Desktop agent enabling non-technical users to work autonomously in local files; built in approximately a week, indicating rapid agentic capability expansion
-- **Project Solara** — Microsoft's new Android-based OS designed specifically for AI agent gadgets; early signal of dedicated agent hardware platforms emerging
-- **OpenAI governance frameworks released** — structured blueprint for scaling compliant AI deployments globally; directly applicable to your advisory work on governed cutovers
+**What's new:**
+
+- 🔥 **Trump signed executive order creating voluntary pre-release review framework for frontier AI models** — companies share models with federal government before launch. Watch for UK/EU alignment pressure on FCA approach to model risk.
+- **Anthropic launched Cowork** — Claude Desktop agent for non-technical users; file-level autonomy without coding. Built in ~one week internally. This is agentic AI reaching mainstream enterprise tooling.
+- **Microsoft's MAI-Thinking-1** — flagship in-house reasoning model announced at Build. Positions Microsoft to reduce OpenAI dependency in Copilot stack.
+- **BBC reports "confused" AI rollout hurting UK firms** — pressure on staff to use AI without coherent strategy. Direct relevance for your advisory work: governed rollout beats scrambled adoption.
+- **Walmart throttled internal AI assistant Code Puppy** — LLM compute costs exceeded projections. Real-world constraint on agentic AI scaling you can cite in client conversations.
+- **Railway raised $100M Series B** — AI-native cloud infrastructure challenging AWS; signals infrastructure layer maturing for agentic workloads.
 
 **Banking-specific:**
-- 🔥 **Instagram AI chatbot breach** — hackers tricked Meta's AI into granting account access; underscores model security risks in customer-facing deployments (BBC News)
-- **"Confused" AI rollout hurting firms** — BBC reports staff under pressure to use AI without coherent strategy; validates your agentic-readiness advisory positioning
-- **Standard Chartered's 8,000 AI job cuts** — CEO apology highlights reputational risks of poor AI transition communications; cautionary tale for legacy-to-AI integration work
+- Barclays reportedly expanding agentic AI for fraud detection in production (per Grok briefing) — worth verifying directly but aligns with sector trajectory.
 
 ---
 
 ## 🏦 Banking Sector
 
-**What changed:**
-- 🔥 **Wise under AML investigation** — probe hits at fintech's fundamental compliance model; comes at sensitive time following transatlantic listing move (FT)
-- **Jes Staley to appear before Congress** — former Barclays CEO agrees to in-person interview over Epstein ties; ongoing reputational overhang for Barclays
-- **Top building societies eyeing Atom Bank** — Nationwide and others plotting bids; £600m target but offers may come lower; signals digital banking M&A heating up
-- **Metro Bank pay revolt** — proxy advisers urging investors to reject executive pay report; CEO bonus scheme could yield £60m windfall
-- **Nationwide governance concerns** — Labour MP presses chair ahead of AGM over building society voting practices and board composition
-- **Halifax brand under threat** — Lloyds considering changes to historic Yorkshire brand; local dismay growing
-- **Deutsche Bank pivots to Europe** — scaling back US ambitions after decades of upheaval; refocus on home market
-- **Germany shifts on EU financial oversight** — finance minister says capital markets union "more important than clinging to national interests"
+**UK Focus:**
 
-**Mortgage/rates:** NatWest 0.15% rate cut effective today per earlier Grok briefing.
+- **Top UK building societies plotting bids for digital bank Atom** — owners hoping for ~£600M but industry execs expect lower offers. Nationwide, others circling. Consolidation play worth watching.
+- **Nationwide under pressure on governance** — Labour MP wrote to chair ahead of AGM; concerns about quick votes and weak member representation on boards. Governance theme across mutuals.
+- **Lloyds threatens Halifax brand** — locals in dismay; brand carried the Yorkshire town's name since 1853. Cost-cutting vs heritage tension.
+- **Metro Bank investors urged to reject pay report** — proxy adviser flags CEO bonus scheme potentially worth £60M as "significantly out of line."
+- **Jes Staley agrees to in-person Congress interview** over Epstein relationship — former Barclays CEO; expect media cycle.
+
+**Wider:**
+- **Deutsche Bank profile: "learned to stop chasing America"** — scaled back US ambitions, focusing on Europe. Risk management turnaround story.
+- **Wise money laundering probe** — investigation lands at bad time given recent transatlantic listing move. Fintech compliance pressure.
+- **Trading firms hit $114B revenues** — Jane Street, Citadel Securities pushing into bank territory.
+
+**No new FCA announcements today** beyond ongoing consultation flagged yesterday on AI model risk rules.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**What changed:**
-No fresh material in today's feeds on Kerry breaks, Kenya/SA safaris, or luxury cruise lines.
+**Fresh material limited today — no new Kerry/safari/cruise items in feeds.**
 
-**Evergreen suggestion:** The Silversea Kenya fly-in safari combo for 2027 (flagged earlier) pairs well with your preference for VIP safari travel — worth checking specific itinerary dates and suite availability this week.
+**Evergreen suggestion:**
+- Silversea 2027 Kenya safari-cruise combos were flagged as newly released — worth checking rates for Q1 2027 window when Kerry weather is typically poor. Combines your safari interest with cruise preference; private transfers can link Nairobi to embarkation.
 
-**AI events:** Microsoft Build 2026 running now (virtual access available); Google I/O 2026 materials still circulating — consider Dublin or Amsterdam satellite events later this month if scheduling a couple trip.
+**Dublin context:** Leaving Cert started today — expect Dublin hotels busier than usual mid-June as families celebrate. If planning any Dublin-London luxury break, late June or early July may offer better availability.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**What changed:**
-No fresh greyhound racing material in today's feeds.
+**Tralee Kingdom Stadium:**
+- 8-race card tonight per Irish Greyhound Board.
+- **Kingdom Cup final entries close tomorrow (4 June)** — if following any runner, check entry confirmations.
 
-**Standing note:** Tralee Kingdom Stadium's extra Tuesday card (02 June) should be underway now — 19:30 feature race was confirmed. Worth checking results or livestream if not already.
+**No Cork/Limerick fixtures flagged today.**
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Read FCA AI model risk consultation** — deadline will shape UK bank AI governance; directly relevant to your advisory work
-2. **Review Anthropic IPO coverage** — enterprise AI maturity signal worth noting for client conversations
-3. **Check Silversea Kenya 2027 availability** — fly-in safari combo for planning
-4. **Note Standard Chartered comms misstep** — useful case study for legacy-to-AI integration advisory
-5. **Catch Tralee results** — Tuesday card feature race outcome
+1. **Read the BBC piece on "confused" AI rollout** — ammunition for client conversations on governed deployment vs chaotic adoption.
+2. **Check Silversea 2027 Kenya safari-cruise pricing** — early booking often yields suite upgrades.
+3. **Monitor Kingdom Cup entries closing tomorrow** — note any fancied Tralee runners.
+4. **Review CMA Google ruling implications** — could inform FCA thinking on AI transparency requirements for banks.
+5. **Flag Standard Chartered "human capital" story for advisory notes** — example of what not to say during AI workforce transition.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**What changed:**
-No fresh material from Cointelegraph, CoinDesk, Decrypt, or The Block in today's feed batch.
+**From feeds:**
+- No major breaking news today in CoinDesk/Cointelegraph/Decrypt/The Block headlines provided.
 
-**Standing note:** UK Treasury stablecoin rules draft (flagged earlier) remains the key regulatory item to track — aligns with your FCA/banking focus.
+**Context from Grok briefing:**
+- UK banks reportedly exploring DORA-compliant crypto custody pilots — aligns with regulatory push for operational resilience. Worth monitoring for client exposure to digital asset infrastructure.
+
+**Evergreen note:** DORA enforcement date was January 2025; banks now in compliance-testing phase. Crypto custody sits at intersection of your DORA knowledge and banking AI advisory.
 
 ---
 
-*Tomorrow's Leaving Cert begins — exam papers arriving at schools today across Ireland.*
+*Quiet news day on travel and greyhounds; heavier on AI governance and banking M&A. Check back this evening for any Tralee results.*
