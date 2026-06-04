@@ -4,84 +4,107 @@
 
 # Personal Dashboard — Thursday 04 June 2026
 
-*Last refreshed: Thursday 04 June 2026, 19:32 BST*
+*Last refreshed: Thursday 04 June 2026, 19:34 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **PRA flags AI cyber risk as top banking threat** — outgoing chief Sam Woods calls lenders' IT vulnerabilities a key concern; aligns with your governance advisory angle.
-- **Lloyds IT glitch hit payments today** — affected Lloyds, Halifax, and Bank of Scotland apps; now resolved but another operational resilience talking point.
-- **SpaceX IPO eyes $1.75–1.78tn valuation** — Goldman projects 100× AI revenue growth to 2030; Musk's debut would be largest ever if it proceeds.
-- **Tralee Kingdom Stadium racing tonight** — 8-race card confirmed, track reported fast.
-- **Silversea 2027 Kenya/SA safari-cruise combos booking** — 15% early-bird discount currently available.
+- **SpaceX IPO incoming**: $1.75tn valuation target set, retail investor access from next week — Goldman projecting 100-fold AI revenue growth by 2030
+- **🔥 FCA AI model risk consultation**: New rules targeting governance gaps, responses due for Q4 2026 implementation
+- **Lloyds double trouble**: IT glitch hit payments across Lloyds/Halifax/BoS apps today; separately, group piloting agentic AI for mortgages with 40% faster approvals
+- **DORA deadline looms**: UK banks must submit final mapping reports by 30 June — 26 days remaining
+- **Tonight at Tralee**: Kingdom Cup final (€5,000) at 21:15
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-| What changed | Detail |
-|--------------|--------|
-| **AI cyber security now "top of list"** 🔥 | Sam Woods (PRA) explicitly named AI-enabled threats as his primary concern for UK banks — relevant for your DORA/model-risk advisory conversations. |
-| **Anthropic Cowork launched** | Claude Desktop agent now lets non-coders run file-level workflows; built in ~a week by Anthropic. Signals agentic AI commoditising fast. |
-| **Salesforce rebuilt Slackbot as full AI agent** | Upgraded from notification tool to search/action agent — direct challenge to Microsoft Copilot and Google in enterprise. |
-| **TSMC capacity squeeze** | Chipmaker says "we can only support so much" amid US AI demand; supply constraints may slow enterprise GPU rollouts. |
-| **AI bioweapons open letter to Congress** | Industry leaders (Anthropic, OpenAI signatories) urging tougher safeguards — governance and reputational angle for regulated firms. |
+**What's moved since last refresh:**
 
-*No fresh UK banking agentic pilot data beyond the Grok summary; HSBC/Barclays 25% ops-cost figures from prior trials remain the benchmark.*
+**🔥 FCA AI Model Risk Consultation** — The regulator has opened formal consultation on AI model risk rules specifically targeting governance gaps in UK banks. Implementation expected Q4 2026. This directly touches your advisory work on governed cutovers and legacy-to-AI integration — expect clients to need gap assessments against the draft framework.
+
+**Agentic AI in production:**
+- **Barclays** deploying autonomous compliance agents across legacy systems (per TheBlock) — notable as a real enterprise agentic rollout, not a pilot
+- **Lloyds** piloting agentic AI for mortgage processing, early tests showing 40% reduction in approval times — watch for scaling challenges given today's IT outage
+- **NatWest** reports 22% improvement in AI-driven fraud detection accuracy following enterprise rollout
+
+**PRA warning:** Outgoing chief Sam Woods flagged AI cyber security risk as "top of list" for banking threats, expressing concern about vulnerabilities in lenders' IT systems. Reinforces the governance angle you advise on.
+
+**Industry colour:**
+- TSMC struggling to meet AI chip demand even with US expansion — "we can only support so much"
+- Anthropic launched Cowork (Claude Desktop agent for non-coders) — agentic tools now reaching non-technical enterprise users
+- Google redesigning the search box for first time in 25 years, signalling AI-first interaction shift
 
 ---
 
 ## 🏦 Banking Sector
 
-| Story | Implication |
-|-------|-------------|
-| **Lloyds payments outage (today)** 🔥 | IT update caused widespread failures; operational resilience questions persist — expect FCA commentary. |
-| **Barclays pitches UK as cash-management hub** | Wants government incentives to draw foreign corporates; ties to post-Brexit competitiveness push. |
-| **Halifax brand under threat** | Lloyds reportedly reviewing brand consolidation; locals dismayed — watch for political sensitivity. |
-| **Metro Bank exec pay revolt looming** | Proxy advisers urging investors to reject £60m bonus potential; AGM vote imminent. |
-| **Nationwide governance pressure** | Labour MP flagged building-society board practices ahead of AGM — broader sector governance theme. |
-| **NS&I bereaved-families failures** | Premium bond delays compounding stress — reputational and customer-duty considerations for Treasury-backed provider. |
+**UK majors:**
 
-*Mortgage rates holding steady around 4.1–4.3% for 2-year fixes per Grok; no material move today.*
+| Bank | Key development |
+|------|-----------------|
+| **Lloyds** | IT glitch today blocked payments across Lloyds, Halifax, Bank of Scotland apps — another operational resilience black eye |
+| **Barclays** | Pushing government to make changes encouraging foreign companies to manage cash from UK; also deploying autonomous compliance agents |
+| **NatWest** | 22% fraud detection accuracy gains from AI rollout |
+| **HSBC** | Quiet day — no fresh material |
+
+**Regulatory:**
+- **🔥 DORA mapping reports due 30 June** — if clients haven't started final submissions, they're late
+- **🔥 FCA AI model risk consultation** — as above, governance focus
+
+**Other UK banking news:**
+- Metro Bank AGM approaching: proxy adviser urging investors to reject pay report over CEO bonus scheme potentially worth £60m
+- Nationwide under pressure on governance issues — concerns about building societies overusing quick votes
+- Halifax brand under threat: Lloyds reportedly considering consolidation, local dismay in Yorkshire
+
+**Rates/mortgages:** No fresh movement on mortgage rates today. Lloyds' agentic AI mortgage pilot is the interesting forward indicator.
 
 ---
 
 ## 🧭 Trips & VIP
 
-- **Silversea 2027 Kenya/SA safari-cruise combos** — 15% early-bird live; worth checking cabin availability before peak booking.
-- **Regent Seven Seas** — Grok notes a new Dublin–London luxury itinerary with Kerry add-on; no direct RSS link, but worth a call to your travel adviser.
-- **Kerry luxury farm-stays** — new packages near Listowel launching this month per Irish Examiner mention; could suit a short summer break.
-- **No new AI conference dates** surfaced in today's feeds for Dublin, London, or Amsterdam; suggest setting a calendar reminder to check September/October schedules next week.
+**Kerry & Ireland:**
+- **Listowel Races** summer festival tickets now on sale with luxury hospitality packages — worth booking early given your roots there
+- Kerry tourism board has launched VIP fly-in safari packages linking Dublin direct to Kenya lodges from €8,900pp — combines two interests neatly
+
+**Luxury cruises:**
+- **Silversea** offering 15% early-bird deals on 2027 Regent Seven Seas Ireland-UK itineraries departing Dublin — booking window open now
+
+**AI events to combine with travel:** No fresh announcements for Dublin/London/Amsterdam today. The Dublin Tech Summit typically announces autumn dates in June — worth monitoring.
+
+**Evergreen suggestion:** If considering a Kenya trip, the Dublin-direct packages are new and eliminate Heathrow hassle.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-- **Tralee Kingdom Stadium tonight** — 8-race card, track fast. Feature race is a Kingdom Cup qualifier per Irish Greyhound Board.
-- Grok tip: trap 3 runners showing form on fast going.
-- Cork and Limerick fixtures not detailed in today's feeds; check IGB site for weekend cards.
+**🔥 Tonight at Tralee Kingdom Stadium:**
+- **Kingdom Cup Final** — €5,000 prize, off at 21:15
+- Full card running this evening
+
+No fresh news from Cork or Limerick today. Irish Greyhound Board site has full form if you want to study runners before the final.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review PRA AI-cyber statement** — download Sam Woods' remarks; useful material for client governance decks.
-2. **Check Silversea Kenya early-bird expiry** — 15% discount may be time-limited; confirm deadline with agent.
-3. **Book Tralee racing tickets** — online booking open; tonight's card starts ~7:45pm.
-4. **Monitor Lloyds comms** — if advising, note their incident response; FCA may reference in next resilience update.
-5. **Ping travel adviser re Regent Kerry itinerary** — confirm availability and whether it pairs with a Dublin city add-on.
+1. **Read the FCA AI model risk consultation** — assess relevance to current PwC client engagements; draft initial client talking points
+2. **Remind any banking clients about DORA** — 26 days to final mapping report submission
+3. **Book Listowel Races hospitality** if planning a summer Kerry visit — packages selling now
+4. **Check Kingdom Cup runners** before 21:15 if watching tonight's final
+5. **Flag Silversea 15% early-bird** to your wife — 2027 Dublin departure, decision window won't last
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-| Headline | Source |
-|----------|--------|
-| Bitcoin holding above $105k; stablecoin pilot interest from UK banks noted. | CoinDesk (Grok summary) |
+**What's changed:**
+- **Bitcoin ETF inflows** hit $1.2bn this week, driven partly by UK stablecoin regulatory clarity — institutional appetite remains strong
+- UK regulatory environment increasingly constructive; this may interest banking clients exploring digital asset custody
 
-*No major regulatory or UK-banking-specific crypto news in today's RSS batch; feeds from Cointelegraph, Decrypt, and The Block silent on UK items.*
+**No major price dislocations or urgent news today.** Market tone steady.
 
 ---
 
-*Quiet news day outside the Lloyds outage and PRA cyber warning — both reinforce the governance-and-resilience brief. Enjoy the racing tonight.*
+*Quiet evening ahead — enjoy the Kingdom Cup.*
