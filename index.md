@@ -4,90 +4,84 @@
 
 # Personal Dashboard — Thursday 04 June 2026
 
-*Last refreshed: Thursday 04 June 2026, 19:30 BST*
+*Last refreshed: Thursday 04 June 2026, 19:32 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **Lloyds IT outage today** — payments and app access affected across Lloyds, Halifax, and Bank of Scotland; bank has apologised.
-- **PRA chief flags AI cyber risk** — outgoing regulator Sam Woods says AI security vulnerabilities are now "top of list" for UK banking threats.
-- **SpaceX IPO priced** — $1.75–1.78tn valuation; Goldman projects 100-fold AI revenue growth by 2030; retail access from next week.
-- **Tralee Kingdom Stadium** — 8-race card underway now (19:30 start); Kingdom Cup final entries close tomorrow.
-- **UK mortgage rates steady** — 4.1–4.3% average; no change since Monday's Bank of England data.
+- **PRA flags AI cyber risk as top banking threat** — outgoing chief Sam Woods calls lenders' IT vulnerabilities a key concern; aligns with your governance advisory angle.
+- **Lloyds IT glitch hit payments today** — affected Lloyds, Halifax, and Bank of Scotland apps; now resolved but another operational resilience talking point.
+- **SpaceX IPO eyes $1.75–1.78tn valuation** — Goldman projects 100× AI revenue growth to 2030; Musk's debut would be largest ever if it proceeds.
+- **Tralee Kingdom Stadium racing tonight** — 8-race card confirmed, track reported fast.
+- **Silversea 2027 Kenya/SA safari-cruise combos booking** — 15% early-bird discount currently available.
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed since last refresh:**
+| What changed | Detail |
+|--------------|--------|
+| **AI cyber security now "top of list"** 🔥 | Sam Woods (PRA) explicitly named AI-enabled threats as his primary concern for UK banks — relevant for your DORA/model-risk advisory conversations. |
+| **Anthropic Cowork launched** | Claude Desktop agent now lets non-coders run file-level workflows; built in ~a week by Anthropic. Signals agentic AI commoditising fast. |
+| **Salesforce rebuilt Slackbot as full AI agent** | Upgraded from notification tool to search/action agent — direct challenge to Microsoft Copilot and Google in enterprise. |
+| **TSMC capacity squeeze** | Chipmaker says "we can only support so much" amid US AI demand; supply constraints may slow enterprise GPU rollouts. |
+| **AI bioweapons open letter to Congress** | Industry leaders (Anthropic, OpenAI signatories) urging tougher safeguards — governance and reputational angle for regulated firms. |
 
-- 🔥 **PRA cyber warning on AI** — Sam Woods, in his valedictory remarks, singled out AI-related cyber risk as his top concern for UK lenders' IT systems. Direct relevance to your governance advisory work: expect FCA/PRA follow-up consultations on AI model risk and third-party AI vendor controls.
-- **Anthropic ships "Cowork"** — a no-code desktop agent for file-level work, built in roughly a week. Signals accelerating agentic tooling beyond developers; watch for enterprise pilots.
-- **TSMC capacity crunch** — chip-maker says it "can only support so much" AI demand even with US buildout. Potential bottleneck for on-prem inference deployments at banks seeking data sovereignty.
-- **Microsoft Autopilot "Scout"** — wider rollout of agentic Autopilot working across M365; relevant for back-office automation in banking ops.
-- **Walmart pulls back on "Code Puppy"** — internal AI assistant over-used; a cautionary tale for banks budgeting LLM inference costs at scale.
-
-**Evergreen note:** FCA AI consultation response window closes 28 June — keep diary clear for submission drafting.
+*No fresh UK banking agentic pilot data beyond the Grok summary; HSBC/Barclays 25% ops-cost figures from prior trials remain the benchmark.*
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK focus:**
+| Story | Implication |
+|-------|-------------|
+| **Lloyds payments outage (today)** 🔥 | IT update caused widespread failures; operational resilience questions persist — expect FCA commentary. |
+| **Barclays pitches UK as cash-management hub** | Wants government incentives to draw foreign corporates; ties to post-Brexit competitiveness push. |
+| **Halifax brand under threat** | Lloyds reportedly reviewing brand consolidation; locals dismayed — watch for political sensitivity. |
+| **Metro Bank exec pay revolt looming** | Proxy advisers urging investors to reject £60m bonus potential; AGM vote imminent. |
+| **Nationwide governance pressure** | Labour MP flagged building-society board practices ahead of AGM — broader sector governance theme. |
+| **NS&I bereaved-families failures** | Premium bond delays compounding stress — reputational and customer-duty considerations for Treasury-backed provider. |
 
-- 🔥 **Lloyds outage (today)** — IT update caused payment failures across Lloyds, Halifax, Bank of Scotland apps. Another operational resilience incident ahead of DORA alignment deadlines.
-- **Halifax brand under threat** — Lloyds reportedly considering retiring the Halifax name after 170+ years; local dismay in West Yorkshire.
-- **Metro Bank pay revolt** — proxy adviser urges investors to reject CEO bonus scheme (potential £60m windfall) at next month's AGM. Governance red flag.
-- **Nationwide AGM pressure** — Labour MP challenges chair on building society board governance and member representation.
-- **Barclays pitches UK cash management hub** — wants government changes to attract foreign corporates; enlightened self-interest framing.
-- **NS&I backlogs** — bereaved families still facing year-plus delays tracing Premium Bonds; reputational drag on trusted savings brand.
-
-**Regulatory:**
-
-- NatWest reportedly under DORA compliance pressure on legacy systems (Reuters). Relevant for your carve-out and cutover advisory.
+*Mortgage rates holding steady around 4.1–4.3% for 2-year fixes per Grok; no material move today.*
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Fresh leads:**
-
-- **Silversea 15% promo** — select 2027 Kenya/SA safari-cruise combinations; worth checking dates that align with your preferred shoulder-season travel.
-- **Regent Seven Seas Dublin-London** — new luxury itinerary with Kerry add-on option; could suit a short break combining both home bases.
-
-**No new AI conference announcements for Dublin, London, or Amsterdam this week.** Evergreen suggestion: hold late-September window for AI Summit London (typically announced June/July).
-
-**Kerry short break:** Tralee racing tonight plus potential Listowel visit — consider pairing with a Kenmare or Dingle one-night stay for a long weekend.
+- **Silversea 2027 Kenya/SA safari-cruise combos** — 15% early-bird live; worth checking cabin availability before peak booking.
+- **Regent Seven Seas** — Grok notes a new Dublin–London luxury itinerary with Kerry add-on; no direct RSS link, but worth a call to your travel adviser.
+- **Kerry luxury farm-stays** — new packages near Listowel launching this month per Irish Examiner mention; could suit a short summer break.
+- **No new AI conference dates** surfaced in today's feeds for Dublin, London, or Amsterdam; suggest setting a calendar reminder to check September/October schedules next week.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-- **Tralee Kingdom Stadium tonight** — 8-race card, 19:30 start (underway now). Good evening for remote follow via Racing Post or RPGTV.
-- 🔥 **Kingdom Cup final entries close tomorrow (5 June)** — if you're tracking any runners, confirm trainer submissions today.
-- No fresh Cork or Limerick fixture updates since Monday.
+- **Tralee Kingdom Stadium tonight** — 8-race card, track fast. Feature race is a Kingdom Cup qualifier per Irish Greyhound Board.
+- Grok tip: trap 3 runners showing form on fast going.
+- Cork and Limerick fixtures not detailed in today's feeds; check IGB site for weekend cards.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Monitor Lloyds app status** — check whether payments restored before end of evening (personal banking impact).
-2. **Book Tralee tickets or streaming** — race card live now; RPGTV coverage available.
-3. **Diary: FCA AI consultation deadline 28 June** — block time next week for response drafting.
-4. **Review Silversea 2027 safari promo** — check September/October availability for couple dates.
-5. **Kingdom Cup entries** — if tracking a dog, confirm with trainer before tomorrow's close.
+1. **Review PRA AI-cyber statement** — download Sam Woods' remarks; useful material for client governance decks.
+2. **Check Silversea Kenya early-bird expiry** — 15% discount may be time-limited; confirm deadline with agent.
+3. **Book Tralee racing tickets** — online booking open; tonight's card starts ~7:45pm.
+4. **Monitor Lloyds comms** — if advising, note their incident response; FCA may reference in next resilience update.
+5. **Ping travel adviser re Regent Kerry itinerary** — confirm availability and whether it pairs with a Dublin city add-on.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-- **Bitcoin steady above $105k** — UK stablecoin regulation update referenced but no major policy shift this week.
-- **SpaceX IPO crossover** — Goldman's AI revenue projections for SpaceX (100x by 2030) driving some crypto-adjacent tech sentiment; no direct digital asset exposure in the listing.
-- No fresh FCA crypto enforcement or licensing news today.
+| Headline | Source |
+|----------|--------|
+| Bitcoin holding above $105k; stablecoin pilot interest from UK banks noted. | CoinDesk (Grok summary) |
 
-**Evergreen:** UK Treasury consultation on stablecoin backing requirements expected Q3 — relevant for banking-sector digital asset custody plays.
+*No major regulatory or UK-banking-specific crypto news in today's RSS batch; feeds from Cointelegraph, Decrypt, and The Block silent on UK items.*
 
 ---
 
-*Clear evening in London; Tralee card running. Enjoy the racing.*
+*Quiet news day outside the Lloyds outage and PRA cyber warning — both reinforce the governance-and-resilience brief. Enjoy the racing tonight.*
