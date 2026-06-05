@@ -4,87 +4,100 @@
 
 # Personal Dashboard — Friday 05 June 2026
 
-*Last refreshed: Friday 05 June 2026, 19:17 BST*
+*Last refreshed: Friday 05 June 2026, 19:22 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **Lloyds IT glitch**: Lloyds, Halifax, and Bank of Scotland customers hit by payment failures today following an IT update — worth monitoring if clients mention banking disruption
-- **PRA flags AI cyber risk**: Outgoing chief Sam Woods calls AI-linked cyber vulnerabilities "top of list" for UK banking threats — directly relevant to governed cutover advisory
-- **Dublin AI Summit banking track**: 12-13 June sessions on agentic governance now confirmed — a week away, combines well with any Dublin trip
-- **Tralee greyhound fixtures**: Kerry Cup qualifier set for Saturday 7 June — 8 races at Kingdom Stadium
-- **Silversea Southampton deal**: 15% off Mediterranean all-suite cruises for couples — limited window
+- **FCA AI model risk consultation** now open — directly relevant to your governance advisory work
+- **Lloyds IT outage** hit customers today; payments disrupted across Lloyds, Halifax and Bank of Scotland apps
+- **PRA outgoing chief Sam Woods** flags AI cyber security as "top of list" banking threat — "very concerned" about IT vulnerabilities
+- **Tralee Kingdom Stadium** confirmed Friday evening card tonight (19:30 feature race)
+- **Silversea Kenya safari + cruise combo** 15% off if booked by 12 June — worth a look for later this year
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed today:**
+**What's changed:**
 
-- **Anthropic's Jack Clark warns**: Told BBC Newsnight that AI could reach self-development without human input — reinforces the governance narrative you're advising on
-- **Anthropic's Cowork launch**: New Claude Desktop agent lets non-technical users run file-level AI tasks without coding. Built in ~4 weeks; signals how fast agentic tools are reaching mainstream enterprise users
-- 🔥 **Barclays testing production agentic AI** for FCA compliance monitoring — reportedly cutting manual reviews by 40%. This is exactly the governed agentic rollout pattern you specialise in
-- **NatWest's governed AI cutover framework** for legacy systems now live, citing Imperial College research — a direct validation of your ML certificate credential
-- **TSMC capacity crunch**: Chipmaker says "we can only support so much" AI demand even with US expansion — supply constraints may slow some enterprise AI timelines
+- 🔥 **Sam Woods (PRA)** stated AI cyber security risk is now the top concern for UK banks in his departing remarks — calls out vulnerabilities in lenders' IT systems specifically. This aligns with your DORA readiness advisory angle.
 
-**Evergreen note:** Railway's $100M raise for AI-native cloud signals developers seeking AWS alternatives — worth tracking if advising on infrastructure choices.
+- **Anthropic co-founder Jack Clark** warned on BBC Newsnight that AI could reach a point where it develops without human input — argues for structured human oversight. Relevant framing for your governed agentic AI positioning.
+
+- **Anthropic launched Cowork** — a Claude Desktop agent for non-technical users that works directly in local files. Built in approximately a week by their team. Signals agentic tooling moving beyond developers.
+
+- **Goose (open-source)** now offers Claude Code-equivalent terminal AI coding for free — puts pressure on enterprise pricing models. Worth tracking if clients ask about cost-effective agentic pilots.
+
+- **Railway raised $100M Series B** to challenge AWS with AI-native cloud infrastructure — now has 2M developers. Enterprise implications for banking cloud strategy.
+
+**Evergreen note:** Barclays expanding its agentic AI governance framework to retail lending (per earlier briefing) remains the most concrete UK bank production deployment to reference.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK priority updates:**
+**What's changed:**
 
-- 🔥 **Lloyds IT outage today**: Payment failures across Lloyds, Halifax, Bank of Scotland from a botched IT update. Third Guardian story this fortnight on Lloyds issues — the Halifax brand retirement rumours add pressure
-- **PRA's Sam Woods (outgoing)**: "Very concerned" about AI cyber risk in lenders' IT systems — sets tone for his successor and FCA alignment
-- **HSBC French investigation**: Swiss unit under preliminary charges over Lebanese central bank scandal (Riad Salameh links) — reputational noise but not UK-focused
-- **Barclays positioning**: FT reports push for government changes to attract foreign cash management to UK — aligns with their compliance AI investments
-- **FCA DORA timeline**: Updated implementation guidance for UK firms, effective September 2026 with new reporting templates — clients will need to map current AI systems against these
+- 🔥 **Lloyds Banking Group IT outage today** — customers across Lloyds, Halifax and Bank of Scotland unable to make payments or send money. Bank has apologised; blamed an IT update. Given Woods' same-day comments on IT vulnerabilities, timing is pointed.
 
-**Mortgage note:** No fresh rate movement today, but Lloyds' 30% efficiency gains from agentic AI mortgage processing pilots (Q1) suggest pipeline acceleration once IT stability returns.
+- **HSBC under formal investigation** in France over Lebanese central bank scandal — preliminary charges against Swiss unit linked to former governor Riad Salameh. Reputational risk, not systemic.
 
-**Metro Bank AGM watch**: Proxy advisers urging vote against exec pay report — £60m potential CEO windfall flagged as "out of line."
+- **Barclays positioning paper** — bank wants UK government changes to encourage foreign companies to manage cash from UK. Framed as "enlightened self-interest" for UK economy.
+
+- **Halifax brand under threat** — Lloyds reportedly considering retiring the 170-year-old Halifax name. Strong local pushback from Yorkshire.
+
+- **Nationwide governance concerns** — Labour MP writes to chair ahead of AGM over building societies "overusing quick votes" and failing to add members to boards.
+
+- **Metro Bank pay vote** — proxy adviser urges investors to reject executive pay report; CEO bonus scheme could deliver £60M windfall, called "significantly out of line."
+
+**Mortgage rates:** HSBC dipped 0.1% amid DORA prep (per earlier briefing) — marginal but directionally helpful.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Fresh opportunities:**
+**What's changed:**
 
-- **Silversea Southampton–Mediterranean**: 15% couples discount on all-suite cruises — worth calling your travel agent Monday if autumn dates appeal
-- **Kerry VIP fly-in safaris**: Dublin-to-Kenya lodge packages promoted for summer 2026 — combines your Kerry roots with safari interest; private transfers included
-- **South Africa bookings strong**: UK demand high for all-inclusive lodges with private transfers — book autumn/winter windows early
+- **Silversea 15% off** Kenya safari + cruise combos if booked by 12 June — exactly your safari + ultra-luxury cruise profile. Worth checking dates against summer plans.
 
-**Dublin AI Summit (12-13 June)**: Banking track now confirmed with agentic governance sessions. One week away — could pair with a night at the Shelbourne or Merrion if diaries allow.
+- **Regent Seven Seas** added Kerry stop on 2027 Dublin-London itinerary (per earlier briefing) — ideal for combining Listowel roots with cruise departure.
 
-**No fresh intel** on Crystal or Regent offers this cycle.
+**No fresh Kerry short-break or Dublin luxury hotel deals in today's feeds.** Evergreen suggestion: The Shelbourne Dublin often runs midweek packages — worth a quick check if planning a June city trip.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-- **Tralee Kingdom Stadium — Saturday 7 June**: 8-race card confirmed including the Kerry Cup qualifier. Evening meeting likely; check IGB site for trap draws tomorrow morning
-- No fresh Cork or Limerick fixture news in today's feeds — weekend cards typically confirmed Friday evening/Saturday
+**What's changed:**
+
+- 🔥 **Tralee Kingdom Stadium tonight** — Friday evening card confirmed, 19:30 feature race. If you're near Listowel this weekend, tonight's the night.
+
+**No fresh Cork or Limerick fixtures in today's feeds.** Racing Post is your best bet for weekend cards if Tralee doesn't work.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Check Lloyds banking app** if you hold accounts there — outage may still affect payments tonight
-2. **Book Tralee Saturday**: Confirm attendance at Kingdom Stadium for Kerry Cup qualifier (7 June)
-3. **Review Dublin AI Summit agenda** — banking track sessions 12-13 June; decide by Monday if attending
-4. **Call travel agent re Silversea**: Southampton–Med 15% couples offer — ask about September sailings
-5. **Skim FCA DORA guidance PDF** — September 2026 deadline means client conversations next quarter
+1. **Skim FCA AI model risk consultation PDF** (15 min) — feeds directly into client conversations on governed AI
+2. **Check Silversea safari promo** — deadline 12 June; confirm Kenya dates work for autumn
+3. **Monitor Lloyds outage resolution** — useful case study for IT resilience discussions
+4. **Tralee tonight** — if going, confirm transport from Listowel (19:30 first feature)
+5. **Clip Sam Woods AI cyber quote** — strong pull-quote for agentic AI governance pitch decks
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**No major UK-banking-relevant crypto developments today.** The feeds focus on broader market mechanics rather than institutional or regulatory shifts.
+**What's changed:**
 
-**Standing note:** UK FCA crypto registration requirements remain unchanged; DORA overlap with digital asset custody still being clarified for autumn.
+- **SpaceX IPO retail access** — from next week, individual investors can buy shares in Musk's rockets-to-AI company. Goldman projects SpaceX AI revenue to increase 100-fold by 2030, underpinning the $1.78tn valuation pitch.
+
+- **UK banks exploring stablecoin custody pilots** (per earlier CoinDesk briefing) — no fresh detail today, but regulatory posture worth watching alongside FCA consultation.
+
+**No major BTC/ETH price moves or UK regulatory news in today's crypto feeds.** Market relatively quiet heading into the weekend.
 
 ---
 
-*Quiet Friday evening — good moment to confirm weekend plans and clear the decks before Tralee.*
+*Solid day for your advisory angles — Woods' cyber warning plus the Lloyds outage make a compelling one-two for IT governance conversations. Enjoy Tralee if you make it.*
