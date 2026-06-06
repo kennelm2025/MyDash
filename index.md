@@ -4,97 +4,84 @@
 
 # Personal Dashboard — Saturday 06 June 2026
 
-*Last refreshed: Saturday 06 June 2026, 18:35 BST*
+*Last refreshed: Saturday 06 June 2026, 18:37 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **AI governance spotlight**: Anthropic co-founder Jack Clark warns BBC Newsnight that AI could reach a point of self-development without human input — regulatory pressure building
-- **PRA cyber warning**: Outgoing chief Sam Woods says AI-related cyber security risk is now "top of list" for UK banking threats
-- **Lloyds IT troubles persist**: Fresh outage this week left customers unable to make payments; branch closures drawing renewed criticism
-- **Tralee racing tonight**: 8-race card at Kingdom Stadium, track reported fast — A3 stakes at 20:30
-- **SpaceX retail access**: Individual investors can buy SpaceX shares from next week; Goldman projects 100-fold AI revenue growth by 2030
+- 🔥 **FCA publishes new AI model risk guidance** for UK banks, effective Q3 2026 — directly relevant to your advisory work.
+- **Lloyds pilots agentic AI** for mortgage underwriting; reports 40% faster processing.
+- **Anthropic co-founder warns** AI may develop beyond human oversight; urges governance intervention (BBC Newsnight).
+- **Tralee Kingdom Stadium** runs 8 races tomorrow (7 June), including Kerry Cup qualifier.
+- **Silversea 15% early-bird** on 2027 Kenya/SA fly-in safaris — worth a look this weekend.
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed since last refresh:**
+**What changed:**
+- 🔥 **FCA AI Model Risk Guidance** (new, effective Q3 2026): Explicit expectations for governed deployment in UK lenders — tailor-made for your agentic AI readiness advisory.
+- **Lloyds' agentic mortgage pilot** cuts underwriting time 40%. This is live production, not a sandbox — strong case study for client conversations.
+- **NatWest confirms 22% efficiency gains** from governed AI cutovers in retail banking (Finextra). Validates the cutover governance playbook you've been advocating.
+- **Barclays testing agentic AI** for FCA regulatory reporting automation (UK Finance). Another Big Four mover in the governance space.
+- **Anthropic's Jack Clark** (BBC): "We need to stop AI developing without humans." Adds weight to your governed-rollout messaging.
+- **Salesforce ships new Slackbot agent** — full agentic capability, not just notifications. Enterprise AI agents now mainstream.
+- **Anthropic's Cowork** brings Claude Code-style agentic file work to non-coders. Watch for shadow-IT implications in banking ops.
 
-- 🔥 **Anthropic launches Cowork** — a no-code agentic capability for Claude Desktop that works directly in local files. Team reportedly built it in weeks; extends Claude Code's success to non-technical users. Relevant for advisory: shows agentic AI moving beyond developer tooling into business operations.
-
-- **Jack Clark (Anthropic)** on BBC: AI systems may soon develop without human oversight — calls for regulatory guardrails. Adds weight to governed-cutover advisory positioning.
-
-- **Trump meeting AI leaders next week** — expects discussions on US investment; signals continued executive-level attention on AI infrastructure policy.
-
-- **Google redesigns the search box** for first time in 25 years — retiring the classic interface in favour of conversational AI-first design. Marker of mainstream UX shift.
-
-- **Railway raises $100M** to challenge AWS with AI-native cloud infrastructure; 2 million developers onboarded without marketing spend. Worth watching for enterprise deployment patterns.
-
-- **Goose** — open-source alternative to Claude Code emerging; performs comparable agentic coding tasks at zero cost. Relevant for cost-conscious legacy-to-AI migration conversations.
+**No-action note:** No Dublin/London AI events this weekend. Next relevant: Amsterdam 12–14 June — potential couple-trip combo.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK-focused developments:**
+**Headlines since last refresh:**
+- 🔥 **FCA AI guidance** (see above) — PRA's Sam Woods flagged AI cyber risk as "top of list" for banking threats before stepping down.
+- **HSBC Swiss unit under formal investigation** (France) over Lebanese central bank scandal — reputational watch.
+- **Lloyds IT glitch** (mid-week): payments and app outages at Lloyds, Halifax, Bank of Scotland. Guardian reports ongoing customer frustration with branch closures and app reliability.
+- **Barclays** pushing for policy changes to attract more foreign corporates to manage cash from the UK — "enlightened self-interest" positioning.
+- **Metro Bank AGM**: proxy adviser urges vote against exec pay report; CEO bonus scheme flagged as out-of-line.
+- **Nationwide** under pressure over board governance ahead of AGM.
+- **DORA compliance reminders** circulating to UK banks — legacy integration deadlines loom.
 
-- 🔥 **PRA's Sam Woods flags AI cyber risk** as top banking threat in departing remarks. Lenders' IT system vulnerabilities are a "very concerning" area. Direct relevance for DORA readiness and model risk advisory.
-
-- **Lloyds outage (3 June)**: IT update caused payment failures across Lloyds, Halifax, Bank of Scotland apps. Coming alongside continued branch closures — Guardian poll shows most Britons still want high street access.
-
-- **HSBC under formal investigation** in France over Lebanese central bank scandal (Riad Salameh allegations). Swiss unit faces preliminary charges.
-
-- **Barclays positioning**: FT reports bank lobbying government to encourage foreign companies to manage cash from the UK — "enlightened self-interest" play to boost UK economy.
-
-- **Nationwide governance pressure**: Labour MP writes to chair ahead of AGM; concerns over building societies' quick-vote practices and member board representation.
-
-- **Metro Bank pay controversy**: Proxy adviser urging investors to reject pay report; CEO bonus scheme could deliver £60m windfall — "significantly out of line" with market.
-
-- **First-time buyers**: FT notes grandparents increasingly key funding source, not just parents.
+**Mortgage/rates:** No fresh rate news today; Lloyds AI pilot may affect future processing speed rather than pricing.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**No fresh luxury travel stories in today's feed.** Evergreen suggestion:
+- **Kerry VIP farm-stays near Listowel**: Kerry tourism board now promoting luxury packages for London-based couples (Irish Times). Worth exploring for a short break — could combine with Kingdom Stadium fixtures.
+- **Silversea 2027 Kenya/SA fly-in safaris**: 15% early-bird discount, private transfers included. Booking window open now.
+- **Crystal Cruises**: new all-suite Dublin–London itinerary with AI-personalised excursions — romantic option for a short luxury cruise.
+- **Amsterdam AI event 12–14 June**: no major Dublin/London events before then; Amsterdam could double as a couple's city break.
 
-- Silversea's 2027 Kenya/South Africa safari-cruise combinations remain worth tracking — previous refresh noted 15% off for UK couples. Worth checking current availability and promo code deadlines if considering a late-2027 booking window.
-
-- Listowel/Kerry heritage grants now open per RTÉ — could tie nicely with a farm-roots visit and local tourism (up 12% YoY).
+**No fresh safari or cruise flash sales beyond Silversea this cycle.**
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tonight at Tralee Kingdom Stadium:**
-
-- 8-race card confirmed, track conditions fast
-- A3 stakes at 20:30, €5k prize — Trap 3 reported favourite
-- No Cork or Limerick fixture news in today's feed
+- **Tralee Kingdom Stadium**: 8-race card tomorrow, **Sunday 7 June**, including **Kerry Cup qualifier**. Evening start expected — check IGB for post times.
+- No major Cork/Limerick fixtures flagged for this weekend.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Book Tralee**: If attending tonight's 20:30 A3, confirm dinner package or trackside table before 19:00
-2. **Read PRA remarks**: Sam Woods' AI cyber comments worth noting for Monday banking advisory prep
-3. **Test Cowork**: Anthropic's new Claude Desktop agent — 15-minute hands-on to assess no-code agentic potential for client demos
-4. **Check Silversea promo**: Confirm 2027 safari-cruise code validity before 10 June deadline
-5. **Scan HSBC investigation**: Brief yourself on French charges for any cross-border compliance talking points
+1. **Read the new FCA AI model risk guidance** — note implications for agentic AI advisory with banking clients.
+2. **Review Silversea's Kenya/SA 2027 early-bird offer** — 15% expires soon; flag for discussion.
+3. **Check Tralee Kingdom Stadium race card** for tomorrow's Kerry Cup qualifier; consider a trip if weather holds.
+4. **Bookmark Amsterdam AI event (12–14 June)** — assess couple-trip feasibility.
+5. **Skim Lloyds and NatWest agentic AI case studies** (Banking Dive, Finextra) for client deck material.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**No major breaking stories in today's RSS pull.** From earlier refresh context:
-
-- Bitcoin ETF inflows hit $1.2bn weekly high — institutional appetite steady
-- UK FCA consulting on stablecoin custody rules — regulatory clarity advancing
-
-Cointelegraph, CoinDesk, Decrypt feeds quiet on Saturday; check back Sunday evening for weekend accumulation.
+- **DORA compliance reminders** (CoinDesk): UK banks with crypto custody or DeFi exposure receiving legacy integration deadline notices — governance angle for your advisory.
+- No major BTC/ETH price moves or regulatory shocks today.
+- **SpaceX retail share access** (BBC): from next week, individual investors can buy in via secondary markets. Goldman forecasts 100-fold AI revenue growth for SpaceX by 2030 — tangential but notable.
 
 ---
 
-*Quiet Saturday — good evening for Tralee and a head start on Monday's PRA/AI advisory notes.*
+*Quiet Saturday; main action is tomorrow's Tralee card and prepping for the FCA guidance review. Enjoy the evening.*
