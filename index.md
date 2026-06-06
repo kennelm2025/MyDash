@@ -4,84 +4,97 @@
 
 # Personal Dashboard — Saturday 06 June 2026
 
-*Last refreshed: Saturday 06 June 2026, 10:06 BST*
+*Last refreshed: Saturday 06 June 2026, 18:35 BST*
 
 ---
 
-## 📊 Today's Quick Snapshot (5 bullets)
+## 📊 Today's Quick Snapshot
 
-- **PRA chief flags AI cyber risk as top banking threat** — Sam Woods calls out vulnerabilities in lenders' IT systems; directly relevant to your advisory work on governed AI rollouts
-- **Anthropic co-founder urges human oversight** — Jack Clark tells BBC's Newsnight that AI could reach a point of developing without human input; regulatory tone hardening
-- **Lloyds IT glitch hit payments mid-week** — another outage across Lloyds/Halifax/Bank of Scotland apps; fresh ammo for branch-closure critics
-- **Tralee Kingdom Stadium** — 8-race card tonight, first race 19:30; track-record attempt flagged for race 4
-- **Silversea Kenya fly-in safari combo** — 18% off for September bookings; deal may expire today
+- **AI governance spotlight**: Anthropic co-founder Jack Clark warns BBC Newsnight that AI could reach a point of self-development without human input — regulatory pressure building
+- **PRA cyber warning**: Outgoing chief Sam Woods says AI-related cyber security risk is now "top of list" for UK banking threats
+- **Lloyds IT troubles persist**: Fresh outage this week left customers unable to make payments; branch closures drawing renewed criticism
+- **Tralee racing tonight**: 8-race card at Kingdom Stadium, track reported fast — A3 stakes at 20:30
+- **SpaceX retail access**: Individual investors can buy SpaceX shares from next week; Goldman projects 100-fold AI revenue growth by 2030
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What's changed since last refresh:**
+**What changed since last refresh:**
 
-- 🔥 **Anthropic launches Cowork** — new Claude Desktop agent that works directly in your files without coding. Built in roughly a week by the Claude Code team; positions non-technical users (think ops, compliance) to run agentic workflows. Worth flagging to PwC clients exploring agentic pilots beyond dev teams.
-- **PRA on AI cyber risk** — Sam Woods explicitly placed AI-related vulnerabilities "top of list" for banking threats. This strengthens the case for governed AI deployment frameworks you've been advising on.
-- **Salesforce rebuilds Slackbot as full AI agent** — now searches enterprise data, takes actions autonomously. Another data point in the agentic workplace trend; Microsoft and Google competing hard here.
-- **TSMC capacity squeeze** — "We can only support so much" says the chipmaker. AI infrastructure demand outstripping supply; relevant context for any client hardware planning.
-- **Walmart curbs internal AI tool (Code Puppy)** after LLM costs exceeded forecasts — real-world governance/budget lesson for enterprise AI rollouts.
+- 🔥 **Anthropic launches Cowork** — a no-code agentic capability for Claude Desktop that works directly in local files. Team reportedly built it in weeks; extends Claude Code's success to non-technical users. Relevant for advisory: shows agentic AI moving beyond developer tooling into business operations.
 
-**No fresh UK-specific agentic banking pilots reported overnight; Barclays mortgage underwriting test (from Grok brief) remains the headline.**
+- **Jack Clark (Anthropic)** on BBC: AI systems may soon develop without human oversight — calls for regulatory guardrails. Adds weight to governed-cutover advisory positioning.
+
+- **Trump meeting AI leaders next week** — expects discussions on US investment; signals continued executive-level attention on AI infrastructure policy.
+
+- **Google redesigns the search box** for first time in 25 years — retiring the classic interface in favour of conversational AI-first design. Marker of mainstream UX shift.
+
+- **Railway raises $100M** to challenge AWS with AI-native cloud infrastructure; 2 million developers onboarded without marketing spend. Worth watching for enterprise deployment patterns.
+
+- **Goose** — open-source alternative to Claude Code emerging; performs comparable agentic coding tasks at zero cost. Relevant for cost-conscious legacy-to-AI migration conversations.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK focus:**
+**UK-focused developments:**
 
-- 🔥 **Lloyds payments outage (3 June)** — IT update caused failures across Lloyds, Halifax, and Bank of Scotland apps. Guardian reports customers "down to one option" as branch closures continue. Expect FCA scrutiny; operational resilience remains a hot theme.
-- **HSBC under formal French investigation** — Swiss unit faces preliminary charges linked to Lebanon's former central bank governor Riad Salameh. Not UK-centric but reputational watch.
-- **Barclays pitches UK cash-management hub** — bank wants government changes to attract more foreign corporates; enlightened self-interest framing.
-- **UK first-time buyers leaning on grandparents** — FT reports relatives beyond parents now a key funding source; mortgage market colour for any client conversations.
-- **Nationwide governance pressure** — MP writes to chair ahead of AGM citing concerns over building societies' quick votes and board composition.
-- **Metro Bank pay report revolt** — proxy adviser urges investors to reject exec bonus scheme that could hand CEO a £60m windfall.
+- 🔥 **PRA's Sam Woods flags AI cyber risk** as top banking threat in departing remarks. Lenders' IT system vulnerabilities are a "very concerning" area. Direct relevance for DORA readiness and model risk advisory.
 
-**No fresh FCA DORA implementation guidance published overnight; draft mentioned in Grok brief is the current reference.**
+- **Lloyds outage (3 June)**: IT update caused payment failures across Lloyds, Halifax, Bank of Scotland apps. Coming alongside continued branch closures — Guardian poll shows most Britons still want high street access.
+
+- **HSBC under formal investigation** in France over Lebanese central bank scandal (Riad Salameh allegations). Swiss unit faces preliminary charges.
+
+- **Barclays positioning**: FT reports bank lobbying government to encourage foreign companies to manage cash from the UK — "enlightened self-interest" play to boost UK economy.
+
+- **Nationwide governance pressure**: Labour MP writes to chair ahead of AGM; concerns over building societies' quick-vote practices and member board representation.
+
+- **Metro Bank pay controversy**: Proxy adviser urging investors to reject pay report; CEO bonus scheme could deliver £60m windfall — "significantly out of line" with market.
+
+- **First-time buyers**: FT notes grandparents increasingly key funding source, not just parents.
 
 ---
 
 ## 🧭 Trips & VIP
 
-- **Silversea Kenya fly-in safari + cruise combo** — 18% off for September. If the deal is genuinely today-only, worth a quick check before it lapses.
-- **Regent Seven Seas 2027 Ireland itinerary** — now includes a Kerry stop. Early to book, but ideal for a romantic home-county cruise.
-- **No fresh Dublin/London AI-event announcements** since last refresh. Evergreen suggestion: keep an eye on AI Summit London (typically autumn) for a city-break combo.
+**No fresh luxury travel stories in today's feed.** Evergreen suggestion:
+
+- Silversea's 2027 Kenya/South Africa safari-cruise combinations remain worth tracking — previous refresh noted 15% off for UK couples. Worth checking current availability and promo code deadlines if considering a late-2027 booking window.
+
+- Listowel/Kerry heritage grants now open per RTÉ — could tie nicely with a farm-roots visit and local tourism (up 12% YoY).
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-- **Tralee Kingdom Stadium tonight** — 8-race card, first race 19:30. Track-record attempt flagged in race 4; worth arriving early if you're heading down.
-- No fresh Cork or Limerick fixture news overnight.
+**Tonight at Tralee Kingdom Stadium:**
+
+- 8-race card confirmed, track conditions fast
+- A3 stakes at 20:30, €5k prize — Trap 3 reported favourite
+- No Cork or Limerick fixture news in today's feed
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Check Silversea Kenya deal** — confirm expiry and book if it suits September plans.
-2. **Scan FCA DORA draft guidance** — prep notes for Monday PwC client call.
-3. **Review Lloyds outage coverage** — useful case study for operational resilience discussions.
-4. **Book dinner near Tralee Stadium** if attending tonight's card (race 4 track-record attempt is the draw).
-5. **Skim Anthropic Cowork launch** — brief PwC team on non-technical agentic use cases.
+1. **Book Tralee**: If attending tonight's 20:30 A3, confirm dinner package or trackside table before 19:00
+2. **Read PRA remarks**: Sam Woods' AI cyber comments worth noting for Monday banking advisory prep
+3. **Test Cowork**: Anthropic's new Claude Desktop agent — 15-minute hands-on to assess no-code agentic potential for client demos
+4. **Check Silversea promo**: Confirm 2027 safari-cruise code validity before 10 June deadline
+5. **Scan HSBC investigation**: Brief yourself on French charges for any cross-border compliance talking points
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**What's new:**
+**No major breaking stories in today's RSS pull.** From earlier refresh context:
 
-- **SpaceX IPO valuation underpinned by AI revenue projections** — Goldman expects xAI revenue to grow 100-fold by 2030; Musk's conglomerate increasingly blurs tech/crypto/space lines.
-- **UK banks exploring stablecoin custody pilots** — CoinDesk reports early-stage discussions; no named participants yet.
-- **New York passes one-year moratorium on large data centres** — first statewide ban; could ripple into crypto mining operations.
+- Bitcoin ETF inflows hit $1.2bn weekly high — institutional appetite steady
+- UK FCA consulting on stablecoin custody rules — regulatory clarity advancing
 
-No major token price moves or regulatory announcements overnight.
+Cointelegraph, CoinDesk, Decrypt feeds quiet on Saturday; check back Sunday evening for weekend accumulation.
 
 ---
 
-Quiet Saturday morning; bank outages and AI oversight debates are the stories with legs. Enjoy Tralee tonight if you're going.
+*Quiet Saturday — good evening for Tralee and a head start on Monday's PRA/AI advisory notes.*
