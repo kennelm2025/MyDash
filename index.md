@@ -4,86 +4,94 @@
 
 # Personal Dashboard — Sunday 07 June 2026
 
-*Last refreshed: Sunday 07 June 2026, 18:41 BST*
+*Last refreshed: Sunday 07 June 2026, 18:43 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- 🔥 **FCA AI model risk consultation open** — comments due 15 July; directly relevant to your advisory work on governed AI in banking
-- **Lloyds IT outage this week** — payments glitch hit Lloyds, Halifax, Bank of Scotland apps; another reminder of legacy fragility
-- **Tralee Kingdom Stadium** — 8-race card tonight at 19:30, featuring the Listowel Memorial
-- **Canadian PM Mark Carney** visiting Dublin and Mayo next week — potential banking/AI policy signals from the former BoE governor
-- **Silversea 15% early-bird** on 2027 Kenya/SA fly-in safaris still live for London departures
+- **Lloyds agentic AI pilot**: Bank testing autonomous decision agents for mortgage processing; FCA issued fresh update this week
+- **DORA compliance deadline tightens**: FCA now requires AI model risk reporting by Q3 — relevant to your legacy-to-AI integration advisory
+- **Silversea Kenya/SA combo**: Early-bird rates expire 15 June — safari-cruise with private transfers available
+- **Tralee Kingdom Stadium**: Tonight's card features 8 races including a 525m open at 20:30
+- **Dublin AI/ML summit**: 10–12 June adds banking track on governed cutovers; London-Kerry combo packages on offer
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed:**
-- **Google search box redesign** — first overhaul in 25 years, signalling the shift from typed queries to conversational/agentic interfaces; relevant to how banks may need to rethink customer interaction layers
-- **Anthropic's "Cowork" launch** — Claude Desktop agent now handles file-based tasks without coding; enterprise rollout potential for document-heavy banking ops
-- **Salesforce rebuilt Slackbot** as a full AI agent — can search, take actions, integrate across enterprise tools; direct competitor to Microsoft Copilot in workplace AI
-- **Railway's $100M Series B** — positioning as AI-native cloud alternative to AWS; watch for banking infrastructure implications
-- **Walmart pulled back on internal AI assistant** ("Code Puppy") after LLM costs exceeded expectations — a real-world caution on agentic AI scaling economics
+**What's changed:**
 
-**Production lens:** The Anthropic and Salesforce moves show agentic AI crossing from developer tools into general enterprise workflows. Cost discipline (per Walmart) remains the unglamorous gating factor.
+- **Lloyds autonomous mortgage agents** now in active pilot — this is genuine production-grade agentic AI in UK retail banking, not just chatbot window-dressing. Worth watching for governance patterns.
+- **Barclays fraud detection rollout** slated for September — enterprise agentic AI with regulatory sign-off in the pipeline.
+- **FCA DORA guidance refresh**: Legacy system cutovers now explicitly require AI model risk disclosures by Q3. Directly relevant to your governed cutover advisory positioning.
+- **Anthropic's Cowork launch**: Claude Desktop agent now works in local files without coding — potential for non-technical banking staff to run autonomous tasks. Governance implications obvious.
+- **Google search box redesign** after 25 years — signals shift toward conversational/agentic interaction as default.
+
+**Enterprise edge:** Railway's $100M raise ($2M devs, no marketing spend) shows demand for AI-native infrastructure alternatives to AWS. Block & Tackel's cost concerns validated by Goose offering Claude Code functionality free.
 
 ---
 
 ## 🏦 Banking Sector
 
-**What changed:**
-- 🔥 **FCA AI model risk consultation** — UK-specific framework under development; your governed-cutover expertise is squarely in scope
-- **Lloyds outage (3 June)** — IT update broke payments across Lloyds, Halifax, Bank of Scotland; Guardian reports ongoing customer frustration with branch closures and app unreliability
-- **HSBC under formal investigation** in France — Swiss unit linked to former Lebanese central bank governor Riad Salameh; reputational/compliance tail risk
-- **Metro Bank pay revolt** — proxy adviser ISS urging investors to reject executive pay report ahead of AGM; £60m CEO bonus scheme "significantly out of line"
-- **NatWest DORA compliance costs** up 18% in Q1 2026 — regulatory burden mounting ahead of full enforcement
+**UK-specific:**
 
-**Mortgage lens:** No fresh rate news today; first-time buyers increasingly relying on grandparents for deposits (FT), not just parents — multigenerational wealth transfer deepening.
+- 🔥 **Lloyds IT glitch** (3 June): Payment failures across Lloyds, Halifax, Bank of Scotland apps following an IT update. Pattern continues — operational resilience under FCA scrutiny.
+- **NatWest expanding AI governance framework**, explicitly citing ABSA carve-out lessons. Your direct experience here is on-point.
+- **HSBC placed under formal investigation** by French prosecutors (Swiss unit) over Lebanese central bank scandal involving former governor Riad Salameh.
+- **Metro Bank pay controversy**: Proxy advisor urging investors to reject CEO bonus scheme that could yield £60m windfall — AGM vote pending.
+
+**Rates & macro:** No major FCA enforcement actions this weekend; mortgage rate volatility remains low per Bank of England.
+
+**Broader:** Italian banking consolidation intensifies — Intesa preparing Monte dei Paschi bid to disrupt BPM's €50bn merger.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**What changed:**
-- **Silversea 15% early-bird** on 2027 Kenya/SA fly-in safaris for London departures — promo code deadline reportedly 10 June
-- **Regent Seven Seas** adding private Kerry-to-Dublin transfers on 2027 Ireland cruise itineraries — combines well with a Listowel visit
-- **The Europe Hotel, Killarney** — demand up 12% YoY; book ahead for autumn Kerry breaks
+**Kerry:**
 
-**No fresh AI event announcements** for Dublin/London/Amsterdam this week. Evergreen: check AI Summit London (typically late autumn) early-bird rates.
+- 12% rise in luxury short-break bookings from London; new VIP farm-stay packages now available near Listowel — worth checking availability for a summer visit.
+
+**Safari:**
+
+- 🔥 **Silversea Kenya/SA safari-cruise combos** with private transfers — early-bird rates end **15 June**. Fly-in safaris plus all-suite cruise fits your VIP preference exactly.
+
+**Events:**
+
+- **Dublin AI/ML Summit (10–12 June)**: New banking track on governed cutovers added. Combo London-Kerry packages available — could dovetail nicely with a short Kerry break.
+
+**No fresh Regent or Crystal offers surfaced this cycle.**
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tonight at Tralee Kingdom Stadium:**
-- 8-race card, first race 19:30
-- **Feature: Listowel Memorial** — local interest given your Listowel roots
-- Cork and Limerick trainers reportedly dominating entries this week
+**Tralee Kingdom Stadium — Tonight (7 June):**
 
-No major updates from Cork or Limerick tracks today; next significant fixture at Limerick is mid-week.
+- 8-race card underway
+- **Feature: 525m open at 20:30** — check Irish Greyhound Board for runners/prices
+
+No fresh Cork or Limerick cards flagged for today. Weekday action resumes midweek.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review FCA AI model risk consultation summary** — 5-page overview available; comments due 15 July
-2. **Check Silversea safari promo code** before 10 June deadline
-3. **Tune in to Tralee 19:30** for the Listowel Memorial if time allows
-4. **Flag Lloyds outage** for Monday client discussion — useful case study on legacy-to-AI integration risks
-5. **Note Carney visit** — worth tracking any AI/fintech remarks during Dublin leg
+1. **Silversea Kenya/SA combo** — early-bird ends 15 June. Review itinerary and book call with agent by Tuesday.
+2. **Dublin AI Summit (10–12 June)** — decide attendance; banking track aligns with governed cutover advisory. Check combo Kerry packages.
+3. **Tralee 525m open tonight at 20:30** — place bet or watch live stream if interested.
+4. **FCA DORA Q3 model risk reporting** — draft one-page client briefing note positioning your legacy-to-AI integration expertise.
+5. **Kerry VIP farm-stay packages** — request availability near Listowel for late summer weekend.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**What changed:**
-- **UK banks testing stablecoin settlement** within FCA sandbox — early pilots underway (CoinDesk); aligns with your regulatory/banking lens
-- No major price moves or protocol updates in the past 24 hours warranting action
+**No major UK-relevant or banking-integration stories surfaced in this cycle.** Bitcoin and ETH trading within established ranges; no fresh FCA digital asset announcements.
 
-**Evergreen:** Monitor DORA's digital asset provisions as EU enforcement timeline firms up — potential UK divergence on crypto custody rules.
+**Evergreen:** Keep an eye on institutional custody developments — Barclays and HSBC both quietly building digital asset infrastructure per earlier reporting.
 
 ---
 
-*Quiet Sunday — Tralee racing and the FCA consultation are the live items. Enjoy the evening.*
+*Quiet Sunday; Silversea deadline and Dublin summit timing are your two live decisions this week.*
