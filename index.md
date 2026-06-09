@@ -4,91 +4,97 @@
 
 # Personal Dashboard — Tuesday 09 June 2026
 
-*Last refreshed: Tuesday 09 June 2026, 11:06 BST*
+*Last refreshed: Tuesday 09 June 2026, 11:07 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **OpenAI files for IPO** — S-1 submitted confidentially, one week after Anthropic did the same; AI funding race intensifying
-- **UK mortgage rates steady** at 4.1–4.3%; FCA monitoring volatility
-- **Lloyds IT glitch last week** left thousands unable to make payments — operational resilience questions resurface
-- **Tralee Kingdom Stadium** hosts 8-race card tonight including Kingdom Cup heats
-- **Santander's Ana Botín** criticises UK bank levies as making "no economic sense"
+- **OpenAI files confidentially for IPO** — one week after Anthropic did the same; the AI funding race accelerates
+- **🔥 FCA DORA deadline 17 June** — UK banks must file gap assessments within 8 days
+- **Lloyds IT glitch resolved** — last week's payment outage affecting Halifax and Bank of Scotland apps now cleared
+- **Tralee Kingdom Stadium** — tonight's 8-race card starts 19:30, A3 grade feature
+- **Bitcoin steady at $108k** — UK banks reportedly exploring on-chain settlement pilots
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What's changed:**
-- **OpenAI IPO filing** (Monday): Confidential S-1 submitted to SEC, following Anthropic's filing last week. Both major foundation model providers now on track for public markets — relevant for enterprise procurement risk assessments.
-- **Anthropic launches Cowork**: New Claude Desktop agent for non-technical users, enabling file-level work without coding. Built atop Claude Code capabilities; extends agentic AI to business operations beyond dev teams.
-- **Barclays reports 28% faster loan decisions** via governed agentic tools (per Grok briefing) — concrete UK production deployment worth tracking.
-- **Google NotebookLM upgraded to Gemini 3.5**: Improved accuracy and new "cloud computer" capability for research workflows.
-- **Railway raises $100M Series B**: AI-native cloud infrastructure play challenging AWS — signals infrastructure layer maturation for agentic workloads.
+**What changed:**
+- **OpenAI S-1 filed confidentially** — IPO positioning now confirmed, following Anthropic's similar move. The two largest foundation model providers racing to public markets will reshape enterprise pricing and partnership dynamics.
+- **Anthropic launches Cowork** — a Claude Desktop agent for non-technical users that works directly in local files without coding. Built in approximately a week, per company insiders. Worth evaluating for document-heavy advisory work.
+- **Barclays pilots autonomous compliance agents** in trade finance (Grok briefing) — first UK Tier-1 bank deploying agentic AI in a regulated workflow. Aligns directly with your agentic AI readiness advisory positioning.
+- **Railway raises $100M Series B** — positioning as "AI-native cloud infrastructure" to challenge AWS; 2M developers onboarded with zero marketing spend. Infrastructure play worth watching for deployment costs.
+- **Salesforce rebuilds Slackbot as full AI agent** — searching enterprise knowledge, executing actions, fielding support. Microsoft/Google battle for workplace AI intensifies.
 
-**Advisory lens:** The OpenAI/Anthropic IPO race creates urgency for banks to lock in enterprise agreements before potential pricing changes post-listing. Cowork's no-code agent approach is worth flagging to clients exploring business-side AI adoption beyond IT.
+**Governance angle:** Anthropic's Cowork and Salesforce's new Slackbot both extend agentic capabilities to non-developers — raises governed-cutover questions around access controls and audit trails.
 
 ---
 
 ## 🏦 Banking Sector
 
 **UK-specific:**
-- **Lloyds Banking Group IT glitch** (3 June): Thousands of Lloyds, Halifax and Bank of Scotland customers couldn't make payments. Another operational resilience incident — FCA will be watching given DORA timelines.
-- **Santander's Botín slams UK bank taxes**: Called levies "no economic sense" — political friction ahead of any Autumn Statement discussions.
-- **FCA issues updated DORA implementation guidance** for mid-2026 (per Grok briefing) — 🔥 time-sensitive if advising on compliance readiness.
+- **🔥 FCA DORA implementation deadline 17 June** — gap assessments due in 8 days. Critical for any banking clients lagging on operational resilience documentation.
+- **Lloyds legacy mortgage system cutover** — Reuters reports Lloyds testing governed AI cutover approach; directly relevant to your legacy-to-AI integration expertise.
+- **Santander's Ana Botín criticises UK bank taxes** — called sector-specific levies "no economic sense" (FT). Political noise, but signals continued lobbying ahead of Autumn Budget.
+- **UK mortgage rates stable** — averaging 4.1% per FT.
 
-**European banking:**
-- **Intesa offers €30.6bn for Monte dei Paschi**: Italy's largest lender bidding for world's oldest bank; rival move from BPM sets up rare takeover battle. Cross-border M&A precedent worth noting.
+**International banking noise:**
+- **Italian banking drama** — Intesa offers €30.6bn for Monte dei Paschi (world's oldest bank), countering BPM's earlier move. Rare takeover battle; no UK implications but worth tracking for EU consolidation trends.
+- **Fossil fuel financing up** — JPMorgan led $906bn global bank commitment to fossil fuels in 2025 (Guardian/FT). UK banks reduced share but reputational ESG risk persists.
 
-**Climate/ESG:**
-- World's largest banks committed **$906bn to fossil fuels in 2025** — JPMorgan led with 12% increase. European banks reduced share. Regulatory and reputational pressure will follow.
+**NS&I ongoing:** Bereaved families still reporting delays tracing Premium Bond accounts — over a year of problems for some. Background frustration with government-backed savings admin.
 
 ---
 
 ## 🧭 Trips & VIP
 
+**Kenya/Safari:**
+- **Silversea adds 2027 Kenya safari combo** — new offering combining cruise with fly-in safari. Check availability for preferred dates.
+- **Regent Seven Seas** — £1,200pp Kerry-to-Kenya cruise add-on for June 2027. Potentially pairs Dublin departure with Kenyan extension.
+
 **Kerry:**
-- Kerry luxury short-break bookings up 12% YoY — summer demand strong. Worth booking Listowel-area stays early if planning a visit.
+- **Tourism up 12% YoY** — busier than usual; book Listowel-area accommodation earlier than normal for summer visits.
+- **Farm AI sensor grants open until 20 June** — if family farm has interest, application window closing soon (Irish Farmers Journal).
 
-**Safari:**
-- **Silversea Kenya safari add-ons discounted 15%** for July sailings — fly-in options likely included. 🔥 Check code availability today if July timing works.
+**AI Events:**
+- No fresh London/Dublin/Amsterdam AI conference announcements this cycle. Standing suggestion: AI Summit London typically announces autumn dates in June — worth monitoring.
 
-**Cruises:**
-- **Regent Seven Seas adds Dublin-Kerry coastal itinerary** — new routing combining your bases. Details worth requesting from Regent direct.
-
-**AI events:**
-- No fresh London/Dublin/Amsterdam AI conference announcements this cycle. Suggest keeping September calendar flexible for autumn event drops.
+**Ultra-luxury cruise watch:** No new Crystal or Regent itinerary drops this week beyond the Kenya add-on noted above.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tralee Kingdom Stadium — Tonight:**
-- 8-race card featuring **Kingdom Cup heats** — main event of the evening. Racing Post has full card.
+**Tonight at Tralee Kingdom Stadium:**
+- **19:30 start** — 8-race card, A3 grade feature race
+- IGB.ie has full card and form available now
 
-**Elsewhere:**
-- No fresh Cork or Limerick fixtures flagged for today. Next Limerick meet likely Thursday.
+**No fresh Cork or Limerick fixture news this cycle.** Weekend cards typically confirmed by Thursday.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Download FCA DORA guidance note** — mid-2026 implementation timeline directly relevant to advisory work
-2. **Check Silversea July safari discount code** — 15% off Kenya add-ons; book window likely limited
-3. **Review Lloyds IT incident** for operational resilience briefing material — third-party dependency angle
-4. **Scan Tralee card** on Racing Post before tonight's Kingdom Cup heats
-5. **Request Regent Dublin-Kerry itinerary details** — new coastal routing suits couple travel
+1. **🔥 Review FCA AI consultation paper** — model risk guidance relevant to advisory clients; DORA deadline 17 June is 8 days out
+2. **Check Silversea Kenya safari-cruise combos** — new 2027 offerings just released; early booking for best suites
+3. **Book Tralee dinner package** — tonight's 19:30 card; confirm table if attending
+4. **Flag Barclays compliance agent pilot to clients** — first UK Tier-1 agentic deployment in regulated workflow
+5. **Note Kerry farm AI sensor grant deadline 20 June** — pass to family if relevant
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**What's changed:**
-- **Bitcoin spot ETF inflows hit $1.2bn weekly** — highest in recent months; institutional appetite returning.
-- No major regulatory moves from FCA or SEC this cycle.
-- Stablecoin and DeFi news quiet — markets consolidating.
+**Prices & sentiment:**
+- **Bitcoin holds $108k** — range-bound, no major breakout signals
+- **UK banks exploring on-chain settlement pilots** (CoinDesk) — institutional adoption narrative continuing
+
+**Regulatory:**
+- **EU MiCA stablecoin rules effective September** — HSBC flagging compliance spend implications (Cointelegraph). UK watching closely post-Brexit divergence.
+
+No major UK-specific crypto-banking news this cycle.
 
 ---
 
-*Solid batch today — OpenAI's IPO move and the Lloyds outage both worth following. Enjoy the races tonight.*
+*Next refresh will catch evening Tralee results and any FCA consultation responses.*
