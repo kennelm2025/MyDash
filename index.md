@@ -4,72 +4,87 @@
 
 # Personal Dashboard — Wednesday 10 June 2026
 
-*Last refreshed: Wednesday 10 June 2026, 19:45 BST*
+*Last refreshed: Wednesday 10 June 2026, 20:12 BST*
+
+---
 
 ## 📊 Today's Quick Snapshot
 
-- **TSMC signals potential price rises** — Senior exec cites AI boom and geopolitics; could ripple through electronics pricing including banking hardware
-- **Lloyds IT glitch resolved** — Payments outage hit Lloyds, Halifax and Bank of Scotland apps earlier this week; back online but adds to branch closure frustration
-- **Claude Fable 5 released by Anthropic** — New Mythos-class model launched; Microsoft already restricting internal use over data retention concerns
-- **Trump inflation comment stirs markets** — US prices rising at fastest rate in three years; "loves the inflation" remark baffling Wall Street
-- **Tralee Kingdom Stadium** — 8-race card tonight with Kerry Cup heats; Trap 3 favourite "Listowel Lad" runs 20:45
+- **TSMC signals potential price rises** — The world's largest chipmaker isn't ruling out cost increases as AI demand surges; expect knock-on effects for banking tech infrastructure and consumer electronics.
+- **Lloyds IT glitch fallout continues** — Another week, another payments outage across Lloyds, Halifax, and Bank of Scotland apps; FCA attention likely.
+- **Trump inflation comments roil markets** — US prices rising at fastest rate in three years; Fed policy uncertainty persists.
+- **Tralee Kingdom Stadium** — 8-race card tonight; track conditions good post-rain; 19:30 feature race on the card.
+- **World's largest banks boost fossil fuel financing** — JPMorgan leads with 12% increase; European banks (including UK majors) reduced market share per new campaign report.
+
+---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
 **What's changed:**
-- **Anthropic's Claude Fable 5 launched** — Marketed as their most powerful model yet with strong biology/science capabilities, though already showing guardrail quirks (won't answer basic biology questions). Microsoft has restricted employee use citing Anthropic's new data retention policies — worth watching for enterprise deployment patterns
-- **Anthropic Cowork released** — New Claude Desktop agent that works directly in files without coding. Built atop Claude Code success; extends agentic AI to non-technical users. Relevant for banking ops teams exploring automation
-- **Goose: free Claude Code alternative** — Open-source terminal-based coding agent now available, challenging the £150+/month paid tools. Could accelerate internal tooling experiments
-- **Google redesigning Search** — First major search box overhaul in 25 years, signalling deeper AI-native interface shift. Privacy settings now save Lens photos/Search recordings for AI training — governance flag for regulated industries
-- **Salesforce Slackbot rebuilt as AI agent** — Now a full agent with file search, summarisation, and action capabilities. Direct Microsoft/Google competitor in workplace AI
 
-**Banking-specific:** Barclays agentic AI mortgage underwriting pilot reportedly cutting processing time 40%. Governance gaps remain the top blocker for agentic AI in banking per recent Deloitte survey (pilots up 18% QoQ).
+- **Anthropic launches Cowork** — Claude Desktop now includes an agent that works directly in your local files without coding. Built atop their new Mythos-class "Claude Fable 5" model. Notably, **Microsoft has restricted internal use of Claude Fable** over data retention concerns — worth watching for enterprise governance implications.
+- **Google redesigns the search box** — First fundamental change in 25 years; signals deeper AI-native intent recognition. Relevant for customer-facing banking search interfaces.
+- **Salesforce rebuilds Slackbot as full AI agent** — Now capable of enterprise search and task execution; positions against Microsoft Copilot and Google's Workspace AI.
+- **Railway raises $100M** — Positioning as an AI-native cloud challenger to AWS; 2M developers onboard without marketing spend. Could become relevant for bank modernisation projects seeking AWS alternatives.
+- **Goose open-source coding agent** — Offers Claude Code-equivalent functionality for free; worth flagging for cost-conscious AI pilot teams.
+
+**Governance note:** Anthropic's new data retention policies triggered Microsoft's internal restrictions — a real-world example of agentic AI governance friction you may want to reference in advisory work.
+
+---
 
 ## 🏦 Banking Sector
 
 **What's changed:**
-- **Lloyds IT problems continue** — Another outage this week left customers unable to make payments via Lloyds, Halifax, and Bank of Scotland apps. Coming as branch closures accelerate, this is fuelling customer frustration — Guardian poll shows most Britons still want high street access
-- **Trump praises Citi as "top dealmaker"** — Baffling social media post congratulates Citi on a ranking it doesn't actually hold; classic Trump market noise
-- **ECB reins in Revolut** — European regulators ordered Revolut to address oversight "deficiencies" amid rapid product expansion. Relevant for UK fintech regulatory temperature
-- **Fossil fuel financing surges** — JPMorgan leads 65 banks committing $906bn to fossil fuels in 2025, up 12%. European banks reducing share. ESG disclosure pressure likely to intensify
-- **Italian banking drama** — Monte dei Paschi facing rival bids from Intesa and BPM; rare takeover battle developing
 
-**DORA watch:** Lloyds and NatWest DORA compliance spend up 25% YoY ahead of January 2027 deadline. FCA new affordability stress tests effective July.
+- **Lloyds Banking Group** — Yet another IT glitch left thousands unable to make payments or send money via Lloyds, Halifax, and Bank of Scotland apps. The Guardian reports Staines branch closure adds to customer frustration; poll shows most Britons still want high street services.
+- **ECB reins in Revolut** — Europe's most valuable fintech ordered to address oversight "deficiencies" amid rapid product rollout. Watch for spillover scrutiny on UK neobanks.
+- **Italian banking consolidation heats up** — Monte dei Paschi now targeted by both Intesa and BPM; rare takeover battle brewing. No direct UK impact but illustrates European M&A appetite.
+- **Fossil fuel financing** — JPMorgan dominant (12% increase); US and Japanese banks expanded while European banks pulled back. UK majors' positioning unclear from today's data but trend suggests regulatory/ESG pressure may intensify.
+- **NS&I premium bond failures** — Errors and delays compounding stress for bereaved families; trusted institution taking reputational hits.
+
+**No fresh FCA/DORA news today** — but Grok briefing notes DORA compliance deadline remains 17 January 2027; legacy system audits accelerating across UK banks.
+
+---
 
 ## 🧭 Trips & VIP
 
 **What's changed:**
-- **Silversea 2027 Kenya/SA safari-cruise combo** — 15% early-bird discount available; book before 15 June cutoff
-- **Regent Seven Seas** — New Dublin-London all-suite sailing with private Kerry transfers now bookable
-- **Kerry tourism** — Wild Atlantic Way luxury packages from €2,800 pp via Fáilte Ireland
 
-**No major new luxury travel launches this refresh.** Evergreen suggestion: worth checking Four Seasons Private Jet 2027 itineraries — Africa circuits typically open mid-June.
+- No fresh luxury travel headlines in today's RSS feed.
+
+**Evergreen suggestion:** Grok notes Silversea 2027 Kenya safari-cruise combos from London are down 12% with limited suites remaining, and Regent Seven Seas has added Kerry stopovers on 2027 Dublin-London itineraries with early-bird rates open. Worth a look this week if autumn 2027 planning is on the horizon.
+
+---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tonight at Tralee Kingdom Stadium:**
-- 8-race card featuring €5k Kerry Cup heats
-- **Feature: Trap 3 "Listowel Lad"** — 20:45 race, current best odds 2.8 (Betfair)
-- VIP lounge availability worth confirming for upcoming Kerry visits
+**What's changed:**
 
-No fresh results from Cork or Limerick since last refresh.
+- **Tralee Kingdom Stadium** — 8-race card tonight; 19:30 feature race. Track conditions good following recent rain. Cork trainer form feeding into tonight's entries per Irish Greyhound Board.
+- **2026 World Cup betting surge** — BBC notes the expanded tournament will be the biggest betting event in history; greyhound tracks may see crossover traffic during group stages.
+
+No fresh Cork or Limerick headlines today.
+
+---
 
 ## 🎯 Today's Action Items
 
-1. **🔥 Book Silversea 2027 Kenya/SA** — 15% early-bird expires 15 June
-2. **Review FCA DORA update PDF** — July stress test changes imminent
-3. **Monitor Lloyds IT stability** — Potential advisory angle on operational resilience
-4. **Check Tralee VIP lounge availability** — Kerry Cup finals coming up
-5. **Flag Claude Fable 5 data retention** — Governance note for any client AI discussions
+1. **Review Lloyds outage impact** — If you have any Lloyds/Halifax/BoS exposure, confirm payments processed correctly this week.
+2. **Check Silversea Kenya 2027 availability** — Limited suites at reduced rates; lock in preferred dates before month-end.
+3. **Tralee tonight** — 19:30 feature race; entries should be confirmed by now if you're tracking specific dogs.
+4. **Flag Anthropic data retention policy** — Microsoft's internal restriction is a concrete governance case study; note for client discussions on agentic AI readiness.
+5. **Monitor FCA/DORA guidance** — No new release today, but keep July affordability stress tests and January 2027 DORA deadline on radar.
+
+---
 
 ## 🪙 Crypto & Digital Assets
 
 **What's changed:**
-- **UK banks exploring stablecoin custody pilots** — FCA sandbox round 3 opens July; potential advisory opportunity around regulated custody frameworks
-- No major price movements or regulatory bombshells in feeds today
 
-Broader context remains stable; focus stays on institutional adoption pilots rather than retail speculation.
+- No major breaking headlines in today's RSS from CoinTelegraph, CoinDesk, Decrypt, or The Block.
+
+**Holding pattern:** Grok notes Bitcoin above $108k amid UK stablecoin consultation activity, and Ethereum L2 adoption up 18% in banking pilots. No urgent action unless you're tracking specific positions.
 
 ---
 
-*Quiet news day overall. Belfast unrest dominating Irish headlines; markets watching Trump/Iran rhetoric. Enjoy the racing tonight.*
+*Quiet news day on travel and crypto; banking ops and AI governance are where the action is. Enjoy Tralee tonight.*
