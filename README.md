@@ -4,93 +4,88 @@
 
 # Personal Dashboard — Thursday 11 June 2026
 
-*Last refreshed: Thursday 11 June 2026, 20:13 BST*
+*Last refreshed: Thursday 11 June 2026, 20:16 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **Lloyds DORA pilot underway**: Testing AI model-risk monitoring; results expected Q3 — directly relevant to your governance advisory work.
-- **Agentic AI in banking up 18% YoY**: Deloitte survey confirms UK banks leading Europe on pilot deployments.
-- **Tralee Kingdom Stadium tonight**: 8 races, feature is the Kingdom Cup (trap 3 favourite).
-- **Silversea 2027 Africa cruises released**: 15% early-bird saving now live — worth a look given your safari interests.
-- **UK mortgage rates stable**: FCA data shows 4.1% average; no major regulatory enforcement shifts this week.
+- **Lloyds IT issues**: Fresh outage earlier this week affected payments across Lloyds, Halifax and Bank of Scotland apps — worth monitoring if clients raise resilience concerns.
+- **ECB reins in Revolut**: European regulators ordered Revolut to address oversight "deficiencies" amid rapid product expansion — relevant for UK fintech governance comparisons.
+- **UK fossil fuel banking**: Major banks (JPMorgan leading) committed $906bn to fossil fuels in 2025, a sharp increase; UK lenders reduced share — ESG angle for advisory work.
+- **World Cup kicks off**: Mexico v South Africa underway in Mexico City — travel/hospitality sector activity boost.
+- **Tralee racing**: 8-race card confirmed for 13 June with €5k feature stake.
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed:**
+**What's changed:**
+- **Anthropic's Cowork launch**: Claude Desktop now offers a no-code agent ("Cowork") that works directly in local files — significant for non-technical enterprise adoption; built in roughly a week by the Claude Code team.
+- **Anthropic guardrail apology**: Company reversed hidden throttling ("distillation guardrails") on Claude Fable 5 after backlash from researchers — governance transparency lesson for regulated sectors.
+- **Salesforce Slackbot overhaul**: Rebuilt as a full AI agent capable of enterprise search and action — signals intensifying Microsoft/Google/Salesforce workplace-AI competition.
+- **Google redesigns search box**: First major interface change in 25 years, shifting toward AI-native interaction — watch for downstream effects on enterprise search tools.
+- **Railway raises $100m**: Cloud platform pitching "AI-native infrastructure" to challenge AWS — relevant if clients explore agentic AI deployment on newer stacks.
 
-- **Anthropic Claude 4 agentic tools** launched for enterprise compliance workflows (Anthropic blog). This is production-grade tooling aimed squarely at regulated industries — flags nicely with your agentic AI readiness advisory.
-- **Claude Fable 5 controversy**: Anthropic apologised for hidden guardrails ("distillation throttling") that hampered researchers and competitors. They're reversing course. Worth noting for governance conversations — transparency in model behaviour matters.
-- **Salesforce rebuilt Slackbot** into a full AI agent: can now search, act across workspace data. Another signal that agentic assistants are going mainstream in enterprise.
-- **Goose open-source coding agent** highlighted as a free alternative to Claude Code ($200/month). Useful benchmark if clients ask about cost-effective agentic options.
-- **Google redesigned the search box** for the first time in 25 years — moving toward AI-native interaction. Symbolic shift.
-
-**Banking-specific:**
-- Lloyds piloting AI model-risk monitoring under DORA framework (Banking Dive) — pilot results due Q3. 🔥 This is a live UK example for your advisory deck.
-- No new FCA sandbox announcements this week, but worth checking your inbox for updates.
+**Banking-specific:** Barclays agentic AI mortgage underwriting pilot continues (per Grok briefing); model-risk controls and governed cutovers remain the production focus.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK Banks:**
-- **Lloyds IT glitch last week** (3 June) caused payment failures across Lloyds, Halifax, and Bank of Scotland apps — IT update was the culprit. Another operational resilience case study.
-- Branch closures continue to frustrate customers; Guardian reports most Britons still want high street access despite app-first strategy.
-- No fresh enforcement or rate changes from FCA this week; mortgage rates holding at 4.1% average.
+**UK headlines:**
+- 🔥 **Lloyds IT glitch** (3 June): Payments and transfers failed across Lloyds, Halifax, Bank of Scotland apps following an IT update — another operational resilience data point for FCA discussions.
+- **FCA de-banking rules**: Lloyds and NatWest under review; AI governance templates due July — keep on radar for advisory.
+- **Branch closures frustration**: Guardian poll shows most Britons still want high-street access; Lloyds Staines branch now shuttered — tension between digital-first and customer sentiment.
 
-**Wider:**
-- **ECB moved to rein in Revolut** over "self-guided missiles" — ordered to address oversight deficiencies amid rapid product expansion. Regulatory friction in Europe's most valuable fintech.
-- **Trump praised Citi** on social media for a dealmaker ranking it doesn't actually hold — Wall Street baffled.
-- **Fossil fuel financing**: JPMorgan led with a 12% increase; global banks committed $906bn in 2025 (up sharply). ESG disclosure pressure likely to intensify.
+**International:**
+- **Trump/Citi confusion**: President praised Citi for a dealmaker ranking it doesn't hold — Wall Street baffled.
+- **Italian banking drama**: Monte dei Paschi targeted by rival bids from Intesa and BPM — rare consolidation battle.
+- **Fossil fuel financing**: US and Japanese banks increased commitments; European banks pulled back market share.
+
+**Rates:** UK mortgage rates stable at 4.1–4.3% average.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Safari & Cruises:**
-- 🔥 **Silversea 2027 Africa cruise itineraries released** — 15% early-bird saving available now. Worth reviewing for a Kerry-to-Kenya combo trip.
-- **Kenya fly-in safaris**: Aberdare NP private packages from €8,200 pp via Abercrombie & Kent. Lodge rates holding steady.
+**Fresh material:**
+- **Silversea Kenya safari-cruise**: 15% early-bird discount for 2027 departures — deadline likely within weeks.
+- **Regent Seven Seas**: 2027 South Africa safari add-on now bookable with private transfers included.
+- **Kerry demand strong**: Listowel farm-stay and short-break luxury packages up 12% vs May.
 
-**Kerry & Dublin:**
-- **The Shelbourne, Dublin**: 2-night luxury packages from €890 — marketed to Kerry couples. Could be a nice city break before or after a Tralee race night.
-- No new Kerry-specific luxury deals flagged this week.
+**No new AI event announcements** for Dublin/London/Amsterdam this cycle — suggest checking AI Summit London autumn schedule for combined trip planning.
 
-**AI Events:**
-- No fresh London/Dublin/Amsterdam AI conference announcements since last refresh. Suggest checking the AI Summit London (typically autumn) calendar for 2026 dates.
+**Evergreen:** Crystal and Regent 2027 brochures typically release mid-summer; worth requesting once available.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tonight — Tralee Kingdom Stadium:**
-- 8 races on the card.
-- **Feature: Kingdom Cup** — trap 3 is the favourite. Good evening for it.
-
-**Elsewhere:**
-- 🔥 **Cork**: €50k Easter Cup qualifier entries close tomorrow (Friday 12 June). If you're tracking any runners, act tonight.
-- No fresh Limerick news.
+- **Tralee Kingdom Stadium**: 8-race card confirmed for **Friday 13 June**, feature race €5,000 stake.
+- **Tip to watch**: Trap 3 favourite in the 21:15 — check latest form via Irish Greyhound Board app before betting.
+- **Cork/Limerick**: No fresh fixture news; standard weekend cards expected.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Check FCA sandbox update email** — confirm no actions required before weekend.
-2. **Book Tralee dinner reservation** — race night tonight; confirm table near the finish line.
-3. **Review Silversea 2027 Africa itineraries** — early-bird discount live; shortlist preferred dates.
-4. **Note Cork Easter Cup qualifier deadline** — entries close tomorrow; decide if any dogs warrant a punt.
-5. **File Lloyds DORA pilot reference** — add to your agentic AI governance case-study folder for client calls.
+1. **Review FCA DORA update PDF** — Q3 2026 compliance deadline approaching.
+2. **Book Tralee tickets** for Friday 13 June online (Kingdom Stadium site).
+3. **Request Silversea 2027 Kenya rates** — early-bird likely expires ~20 June.
+4. **Note Lloyds IT outage** for client resilience discussions; FCA templates due July.
+5. **Scan Anthropic Cowork release** — potential angle for non-technical agentic AI adoption in banking ops.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-- **Bitcoin ETF inflows**: $1.2bn this week — institutional appetite remains strong.
-- **Ethereum staking yields**: 3.8% (CoinDesk). Modest but steady.
-- No major regulatory headlines from FCA on crypto this week. Quiet period.
+**What's fresh:**
+- No major headlines in today's RSS pulls from CoinTelegraph, CoinDesk, Decrypt, or The Block.
+- **Per Grok briefing**: UK banks exploring stablecoin custody pilots; FCA sandbox round 3 opens July — worth tracking if PwC clients raise digital asset custody questions.
+
+**Evergreen:** Monitor CoinDesk and The Block for FCA sandbox announcements closer to July opening.
 
 ---
 
-*Tralee under lights tonight — enjoy the Kingdom Cup. Back tomorrow.*
+*Short week ahead — Tralee Friday, then keep an eye on FCA July deadlines.*
