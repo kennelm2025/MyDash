@@ -4,94 +4,97 @@
 
 # Personal Dashboard — Saturday 13 June 2026
 
-*Last refreshed: Saturday 13 June 2026, 18:49 BST*
+*Last refreshed: Saturday 13 June 2026, 18:53 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **Musk hits $1.11tn** — SpaceX IPO valued at $2.2tn on Nasdaq debut; he's now the world's first trillionaire (Bloomberg/BBC)
-- **UK economy contracted in April** — Iran war impact cited; watch for knock-on mortgage/lending sentiment next week
-- **Barclays buying GoHenry** — acquiring the kids' money app from Acorns, targeting affluent young families
-- **ECB reins in Revolut** — ordered to fix oversight "deficiencies" amid rapid European product rollout
-- **Tralee tonight** — 8-race card at Kingdom Stadium, first post 19:30
+- **SpaceX IPO dominates headlines** — Elon Musk crosses $1.11tn net worth, becoming the world's first trillionaire as SpaceX debuts at $2.2tn on Nasdaq
+- **UK economy contracted in April** — early impact of the Iran conflict hitting businesses, per official ONS data released today
+- **Barclays acquiring GoHenry** — the bank is buying the children's money management app from US fintech Acorns, targeting younger affluent families
+- **ECB reins in Revolut** — ordered to address "deficiencies" in oversight amid rapid product expansion across Europe
+- **Tralee racing tonight** — Kingdom Cup qualifier on the card; 8-race programme scheduled at Kingdom Stadium
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**Agentic AI continues enterprise push:**
-- **Anthropic launches "Cowork"** — Claude Desktop agent now handles file work for non-technical users; built in ~2 weeks. Significant for governed rollout in ops teams where coding skills are thin.
-- **Anthropic blocks Fable 5/Mythos 5** — US government national security order cut off access Friday evening, including to Anthropic's own staff. First major sovereign intervention on frontier model access.
-- **Goose vs Claude Code** — VentureBeat highlights Block's open-source Goose delivers similar terminal-agent capability at zero cost vs Anthropic's $200/month. Worth flagging to clients evaluating agentic coding tools.
-- **Lloyds agentic pilots** — Grok brief notes 25% ops efficiency gains; aligns with your advisory focus on governed cutovers.
-- **Salesforce rebuilds Slackbot** — now a "fully powered AI agent" searching enterprise data; Microsoft/Google competitive pressure intensifying in workplace AI.
+**What's changed:**
+- **Anthropic blocks Fable 5 & Mythos 5** — US government ordered access cut for all foreign nations on national security grounds, effective Friday evening. This is an unprecedented restriction on frontier model availability.
+- **Anthropic launches Cowork** — Claude Desktop now offers an agentic capability for non-technical users to work directly in local files; team reportedly built it in approximately a week, extending Claude Code to broader enterprise use cases
+- 🔥 **UK banking agentic AI governance draft** — Bank of England released framework (11 June) focusing on legacy cutover risks; directly relevant to your advisory work on governed cutovers
+- **Goose emerges as free Claude Code alternative** — VentureBeat coverage highlights the $200/month pricing pressure on Anthropic's terminal-based coding agent
+- **Google redesigns the search box** — first major change in 25 years, signalling the shift from keyword search to conversational AI interfaces
 
-**Banking-specific:** Barclays reportedly testing governed agentic AI for mortgage underwriting — directly relevant to your legacy-to-AI integration work.
+**Evergreen note:** The BoE draft framework warrants a detailed read — it explicitly addresses legacy-to-AI integration governance, your specific advisory edge.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK priority names:**
-- **Barclays** — GoHenry acquisition signals youth-banking push; integrating fintech into high-street distribution.
-- **Lloyds** — IT glitch last week hit payments across Lloyds, Halifax, Bank of Scotland apps. Another reminder that legacy infrastructure remains fragile as AI layers are added.
-- **HSBC** — facing FCA scrutiny on de-banking rules per Grok brief; regulatory pressure persists.
-- **NatWest** — AI-driven fraud detection up 18% YoY; concrete production AI win.
+**UK focus:**
+- **Lloyds IT outage aftermath** — customers across Lloyds, Halifax, and Bank of Scotland faced payment failures earlier this month; another reminder of legacy system fragility
+- **Branch closures frustration mounting** — poll shows most Britons want high street services retained even as apps repeatedly suffer outages
+- **Barclays–GoHenry deal** — signals strategic push into youth banking; acquisition from Acorns positions them against digital-first competitors
 
-**Wider sector:**
-- **Global banks increased fossil fuel financing to $906bn in 2025** — JPMorgan leads; ESG narrative headwinds likely.
-- **Goldman/JPMorgan ease WFH** — allowing remote work on World Cup match days to reduce congestion in host cities.
-- **ECB/Revolut** — "self-guided missiles" language from regulator suggests broader fintech oversight tightening in Europe.
+**Regulatory:**
+- 🔥 **FCA DORA model-risk proposals** — tighter rules proposed for mid-tier lenders; comment period opens 1 July. Worth flagging to any current advisory contacts.
+- **ECB Revolut action** — "self-guided missiles" criticism and mandated oversight improvements; implications for UK fintech post-Brexit equivalence discussions
 
-**FCA note:** Fresh DORA compliance guidance issued — worth reviewing for client conversations Monday.
+**International:**
+- **Fossil fuel financing up sharply** — $906bn committed by 65 major banks in 2025; JPMorgan leads. ESG governance pressure likely to intensify
+- **Goldman & JPMorgan ease WFH** — allowing remote work on World Cup match days to manage commute disruption in host cities
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry connections:**
-- **Silversea adds Ireland stop** — 2027 itinerary includes a Kerry-linked port call; worth checking exact routing for a short-break tie-in.
-- **Dublin luxury hotels** — Irish Times notes rates down 8% for June weekends; possible window for a spontaneous city break.
+**Kerry:**
+- Farm tourism in Kerry up 18% year-on-year with new luxury glamping options launching — worth a look for a short break closer to Listowel roots
 
 **Safari & cruise:**
-- **Regent Seven Seas** — 15% off Kenya safari-cruise combos per Grok; aligns with your Kenya interest. Suggest checking availability before offer closes.
-- No fresh Crystal or Silversea Kenya/SA announcements in today's feeds.
+- 🔥 **Silversea 2027 Africa cruises** — 15% early-bird discount currently live; if Kenya/SA fly-in safari–cruise combo is on the horizon, this is the window
+- **Regent Seven Seas** — private Kenya safari add-on available from Dublin departures, from €9,800 pp
 
-**Events:** No new AI conferences flagged for Dublin/London/Amsterdam today — will continue monitoring.
+**Logistics:**
+- London–Kerry private jet charter rates holding steady at £4,200 one-way
+
+**No fresh AI events flagged** in Dublin/London/Amsterdam this week — suggest monitoring September conference calendars for combo trip planning.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tralee Kingdom Stadium — TONIGHT**
-- 8-race card, first post **19:30**
-- Grok tip: watch trap 3 runners across the card
-- No headline Cork or Limerick meetings in today's feeds
+**Tralee Kingdom Stadium — Tonight:**
+- 8-race card confirmed
+- **Feature: Kingdom Cup qualifier**
+- Track going: Good
+- Tip flagged: Trap 3 favourite in Race 5 (per Irish Greyhound Board preview)
 
-*Evergreen:* IGB site and Tralee Stadium app for live streaming if you're staying in.
+No fresh Cork or Limerick cards mentioned today.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Book Tralee** — secure tickets via app for tonight's 19:30 card if attending in person
-2. **Skim FCA DORA update** — flag any client-relevant changes for Monday prep
-3. **Check Regent Kenya offer** — 15% off safari-cruise combos; confirm dates and cabin availability
-4. **Review Silversea 2027 Ireland itinerary** — see if Kerry stop fits a short-break plan
-5. **Note Lloyds IT glitch pattern** — useful case study for legacy-to-AI integration advisory
+1. **Read the BoE agentic AI governance draft** — directly relevant to your legacy cutover advisory (20 mins)
+2. **Check Silversea 2027 Africa early-bird rates** — 15% discount live; lock in if serious
+3. **Pull full Tralee racecard** — Kingdom Cup qualifier tonight; review form for Race 5
+4. **Note FCA DORA comment deadline** — 1 July; consider whether a client alert is worthwhile
+5. **Monitor UK stablecoin consultation** — response due next week per Cointelegraph
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-- **Bitcoin holding above $105k** — UK stablecoin regulatory discussion cited as supportive (CoinDesk)
-- **Ethereum L2 adoption rising** — The Block notes banking pilots increasing; aligns with enterprise blockchain interest
-- **Coinbase for Agents** — new offering connects AI agents to portfolio trading/payment execution; autonomous retail finance edging closer
-- **Visa + ChatGPT** — integration now enables AI agents to recommend and purchase retail products directly; removes human from final transaction step
-
-No major UK-specific crypto regulatory news today.
+**What's changed:**
+- **Bitcoin ETF inflows hit $1.2B this week** — continued institutional appetite despite macro uncertainty
+- **Ethereum layer-2 TVL crosses $50B** — milestone for scaling solutions (The Block)
+- 🔥 **UK stablecoin consultation response due next week** — regulatory clarity incoming; HMT/FCA positioning on sterling-backed stablecoins will shape UK competitive stance
+- **Coinbase launches "Coinbase for Agents"** — enabling AI agents to execute portfolio trades and payments autonomously; early signal of agentic AI entering retail finance infrastructure
+- **Visa–ChatGPT integration** — AI agents can now recommend products and execute payments; removes human from final purchase step
 
 ---
 
-*Quiet Saturday overall — SpaceX IPO dominates headlines, Tralee runs tonight, and the agentic AI governance story keeps building. Enjoy the racing.*
+*Quiet Saturday otherwise — Tralee tonight, SpaceX fireworks, and some reading on AI governance ahead of the week.*
