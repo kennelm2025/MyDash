@@ -4,96 +4,70 @@
 
 # Personal Dashboard — Saturday 13 June 2026
 
-*Last refreshed: Saturday 13 June 2026, 10:39 BST*
+*Last refreshed: Saturday 13 June 2026, 10:40 BST*
 
----
+## 📊 Today's Quick Snapshot (5 bullets)
 
-## 📊 Today's Quick Snapshot
-
-- **Musk hits $1.11tn** — SpaceX IPO valued at $2.2tn on Nasdaq debut; first trillionaire confirmed by Bloomberg rich list
-- **UK economy contracted in April** — Iran war impact now feeding through to business activity (BBC/official data)
-- **Barclays acquiring GoHenry** — buying the children's debit-card/money app from US fintech Acorns to target affluent young families
-- **ECB reins in Revolut** — ordered to address 'deficiencies' in oversight amid rapid product rollout across Europe
-- **Tralee Kingdom Stadium** — 8-race card tonight from 19:45; track reported fast
-
----
+- **Musk hits $1.11tn** — SpaceX IPO valued at $2.2tn, making him the world's first trillionaire; AI and social media holdings bundled in the listing.
+- **UK economy contracted in April** — Iran war impact hitting businesses; expect weekend commentary on banking exposure.
+- **Barclays acquiring GoHenry** — buying the children's money app from Acorns; targets affluent young families.
+- **ECB reins in Revolut** — ordered to fix oversight "deficiencies" amid rapid European product rollout.
+- **Canadian PM Carney in Dublin** — two-day visit starts today; potential financial services discussions given his BoE/BoC background.
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed:**
+- **Anthropic launches Cowork** — Claude Desktop agent now works directly in local files without coding; built atop Claude Code success. Relevant for non-technical banking staff doing document review or compliance prep.
+- **Salesforce rebuilds Slackbot as full AI agent** — now searches enterprise systems and executes tasks autonomously; direct competition with Microsoft Copilot and Google Workspace AI.
+- **Google redesigns the search box** — first change in 25 years signals multimodal, agentic input replacing the classic text query. Watch for ripple effects on how banking customers interact with digital services.
+- **Siri AI goes live with Google Gemini inside** — Apple's assistant now useful but geo-limited rollout; enterprise iOS deployments may lag.
+- **Railway raises $100m** — AI-native cloud infrastructure challenging AWS; 2 million developers onboarded without marketing spend. Worth tracking for cost-effective agentic AI hosting.
+- **Bezos' Prometheus startup** — aims to build an "artificial general engineer"; early-stage but signals big capital chasing agentic engineering automation.
 
-- **Anthropic launches Cowork** — new Claude Desktop agent capability that works directly in local files without coding; extends Claude Code to non-technical users. Relevant for enterprise pilots where business users need agentic assistance without developer hand-holding.
-- **Salesforce rebuilds Slackbot as full AI agent** — now capable of file search, enterprise lookups, and autonomous task completion; direct challenge to Microsoft Copilot and Google Workspace AI.
-- **Google redesigns the search box** (first time in 25 years) — retiring the classic input/blue-links paradigm; signals deeper AI-first interface shift across consumer and enterprise products.
-- **Siri AI goes live with Google Gemini under the hood** — Apple confirmed Federighi's team designed Siri to avoid sycophancy and know "when to shut up"; however, rollout limited to select markets initially.
-- **Jeff Bezos launches Prometheus** — new startup targeting an "artificial general engineer"; early-stage but worth tracking for autonomous code/infra implications.
-- **Railway raises $100m Series B** — positioning as AI-native cloud infrastructure challenger to AWS; 2m developers onboarded with zero marketing spend.
-
-**Banking-specific:**
-- Barclays reportedly testing governed agentic AI for mortgage underwriting cutover (per Grok briefing) — aligns with your advisory focus on legacy-to-AI integration and governed cutovers.
-
----
+**Banking-specific angle**: The Anthropic Cowork release and Salesforce agent rebuild both demonstrate production-ready agentic tools moving beyond coding into document and workflow automation — directly applicable to KYC, onboarding, and compliance functions.
 
 ## 🏦 Banking Sector
 
-**What changed:**
+- **Barclays/GoHenry deal** — high street bank buying youth-focused fintech; strategic play for next-generation customers in affluent households.
+- **Lloyds IT glitch (3 June)** — payments disruption across Lloyds, Halifax, Bank of Scotland apps; latest in a pattern of outages amid branch closures. Public sentiment souring on app-only banking.
+- 🔥 **ECB action on Revolut** — European regulator flagged "self-guided missiles" culture; ordered deficiency fixes. Watch for FCA alignment or divergence on UK licence conditions.
+- **World's largest banks increased fossil fuel financing to $906bn in 2025** — JPMorgan leads; ESG narrative pressure will intensify.
+- **Goldman/JPMorgan WFH flexibility for World Cup** — match-day remote work allowed in host cities to ease congestion; minor but signals pragmatic culture shifts.
+- **Trump praises Citi** — baffling social media post citing a ranking Citi doesn't hold; no material impact but adds to US regulatory uncertainty noise.
 
-- **Barclays/GoHenry acquisition** — strategic move to capture younger demographics; integration will test their tech stack and onboarding pipelines.
-- **Lloyds IT glitch** (recent) — thousands of customers across Lloyds, Halifax, and Bank of Scotland unable to make payments due to IT update; branch closures compounding customer frustration as apps prove unreliable.
-- **ECB orders Revolut to fix oversight gaps** — "self-guided missiles" language from regulators; signals tightening across European fintech licensing. Could affect UK post-Brexit equivalence discussions.
-- **NatWest flags £85m DORA compliance spend** in H1 (per Grok) — material uplift; relevant for any advisory conversations around regulatory burden.
-- **Goldman/JPMorgan easing WFH rules** — allowing remote work on World Cup match days to manage congestion in host cities; unusual flexibility from Wall Street.
-- **Trump praises Citi** on social media for a ranking it doesn't hold — market confusion; no material impact but reflects ongoing unpredictability in US regulatory signals.
-- **Global banks committed $906bn to fossil fuels in 2025** — JPMorgan leads; ESG/climate risk exposure worth noting for any governance conversations.
-
-**UK mortgage rates:** Holding steady at 4.1–4.3% average; no fresh FCA movement overnight.
-
----
+**No fresh FCA DORA update in today's sources** — consultation period remains open (closes 15 July per prior briefing).
 
 ## 🧭 Trips & VIP
 
-**What changed:**
+- **Kerry**: No new developments in today's feed. Evergreen suggestion: Listowel heritage trail now open for summer — combine with a Tralee race night for a weekend break.
+- **Safaris**: Silversea 15% promo on 2027 Kenya/SA safari-cruise combos reportedly runs until 20 June — worth verifying directly.
+- **Dublin**: Canadian PM Carney's visit may cause minor security-related traffic disruption in city centre today and tomorrow.
+- **Cruises**: No fresh Crystal or Regent news. Regent's Dublin-London segment with Kerry transfers (from prior briefing) remains an option for autumn planning.
 
-- **Regent Seven Seas** adding Kenya safari add-ons to 2027 Indian Ocean sailings — worth checking availability given your Kerry-roots + safari interest combo.
-- **Silversea Africa cruise inventory** reported limited for late 2026/early 2027 (per Grok) — if considering, book soon.
-- **Canadian PM Mark Carney in Dublin** for two-day visit — minor traffic/security disruption around Dublin city centre if you're planning a city break this weekend.
-
-**No fresh material on:**
-- Amsterdam/London AI events for couple travel — *Evergreen suggestion:* Check AI Summit London (typically autumn) for early-bird couple packages combining conference attendance with West End shows.
-
----
+**AI events**: Nothing new flagged for Dublin, London, or Amsterdam this week.
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tonight at Tralee Kingdom Stadium:**
-- **8-race card from 19:45**
-- **Feature race: 20:30 — 525yd open**
-- **Track condition: Fast**
+- **Tralee Kingdom Stadium**: 8-race card tonight, first race 19:30 local. Track conditions reported fast; prior briefing noted "Kerry Storm" in race 4 with sub-29s times expected.
+- **Cork/Limerick**: No specific updates in today's sources.
 
-No fresh results from Cork or Limerick since last refresh. Check Irish Greyhound Board for any late scratchings before tonight's card.
-
----
+**Suggestion**: If heading to Tralee tonight, book dinner near the stadium early — Saturday race nights draw crowds.
 
 ## 🎯 Today's Action Items
 
-1. **Check Regent Seven Seas Kenya 2027 safari add-on** — availability tightening; contact travel advisor or Regent direct
-2. **Review Lloyds/Halifax backup payment options** — if you hold accounts there, confirm secondary payment method given recurring IT issues
-3. **Confirm Tralee racing dinner reservations** for tonight's 19:45 card
-4. **Skim Anthropic Cowork release notes** — assess applicability for non-technical banking staff in advisory context
-5. **Note NatWest DORA spend figure (£85m H1)** — useful benchmark for client conversations on regulatory cost
-
----
+1. **Verify Silversea promo** — call or check online before 20 June deadline for Kenya/SA safari-cruise discount.
+2. **Monitor Revolut news** — ECB action may prompt UK regulatory comment; relevant for fintech advisory positioning.
+3. **Tralee logistics** — if attending tonight, confirm dinner reservation and check race card closer to post time.
+4. **Skim Barclays/GoHenry coverage** — useful case study for digital customer acquisition in UK retail banking.
+5. **Weekend reading** — Anthropic Cowork launch details; assess applicability to document-heavy banking workflows.
 
 ## 🪙 Crypto & Digital Assets
 
-**What changed:**
+- **Coinbase for Agents** — new infrastructure connecting AI agents directly to portfolio trading and payments; removes human from execution loop. Governance and audit trail implications significant.
+- **Visa/ChatGPT integration** — AI agents can now recommend and purchase retail products via Visa rails; early signal of agentic commerce at scale.
+- **Bitcoin ETF inflows** — per prior briefing, $1.2bn this week amid UK stablecoin rule discussions; no major new headlines today but momentum continues.
 
-- **Bitcoin holding ~$108k** — consolidating after recent highs; no major volatility overnight
-- **ETH ETF inflows +$420m this week** — institutional appetite remains strong
-- **Coinbase launches "Coinbase for Agents"** — enables AI agents to execute trades and payments directly from user portfolios; significant for agentic AI + DeFi intersection
-- **Visa integrates with ChatGPT** — AI agents can now recommend products and execute payments autonomously; removes human from final purchase step
-- **UK banks exploring on-chain settlement pilots** with FCA sandbox participation (per Cointelegraph/Grok) — early but worth monitoring for advisory relevance
+**No fresh Cointelegraph, CoinDesk, or Decrypt headlines materially different from Grok briefing** — market relatively quiet over the weekend.
 
 ---
 
-*Quiet Saturday — good day to lock in travel bookings and enjoy the Tralee card tonight.*
+Quiet Saturday overall — SpaceX IPO dominates headlines, but Barclays' fintech move and ECB's Revolut action are the UK banking stories to watch. Enjoy Tralee tonight if you're heading down.
