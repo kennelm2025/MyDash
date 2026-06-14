@@ -4,104 +4,109 @@
 
 # Personal Dashboard — Sunday 14 June 2026
 
-*Last refreshed: Sunday 14 June 2026, 11:01 BST*
+*Last refreshed: Sunday 14 June 2026, 18:50 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **Musk hits $1.11tn** — SpaceX's Nasdaq debut (valued at $2.2tn) pushed him to first trillionaire status; markets watching ripple effects on tech valuations.
-- **Anthropic Fable 5 suspended** — US government ordered access blocked (including for Anthropic employees) on national security grounds; Amazon research reportedly triggered the directive.
-- **UK mortgage rates steady** — Average holds at 4.1%; FCA flagged three new digital bank applications this week.
-- **Barclays acquiring GoHenry** — High street bank buying the children's fintech app from Acorns, targeting affluent young families.
-- **Bitcoin steady at $108k** — UK stablecoin regulatory draft expected this week.
+- **Anthropic Fable 5 blocked:** US government ordered access cut to Fable 5 and Mythos 5 over national security concerns — affects all foreign nations, even Anthropic employees
+- **Elon Musk hits $1.11 trillion:** SpaceX's Nasdaq debut at $2.2tn valuation made him the world's first trillionaire
+- **Barclays buying GoHenry:** High street bank acquiring the kids' debit card app from US fintech Acorns
+- **Tralee racing tonight:** 8-race card from 19:30, track conditions good
+- **Bitcoin steady at $102k:** Low weekend volume, no significant moves
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed since last refresh:**
+**What changed since Friday:**
 
-- 🔥 **Anthropic national security lockout** — Government directive forced Anthropic to cut off Fable 5 and Mythos 5 access for all foreign nations (inside and outside US). Amazon's cybersecurity research and Jassy-White House discussions reportedly precipitated the order. Significant for any UK banking client evaluating Anthropic for production deployment — vendor access risk now materially higher.
+- 🔥 **Anthropic national security lockout:** US government issued an export control directive Friday evening forcing Anthropic to block all foreign access to its latest models (Fable 5, Mythos 5). Amazon security research reportedly triggered the White House order — CEO Andy Jassy had direct conversations with administration officials. This is a significant escalation in AI export controls.
 
-- **Lloyds KYC agent trial** — Lloyds is piloting governed AI agents for Know Your Customer processes, with DORA compliance (2027 deadline) as the governance framework. This is exactly the agentic-with-guardrails pattern worth tracking.
+- **Barclays pilots agentic AI for mortgages:** Internal tests show 40% faster processing in underwriting. This is one of the first UK high street banks to move agentic AI into mortgage operations — directly relevant to your advisory work on production rollout.
 
-- **Barclays ops wins** — Q1 agentic AI pilots reportedly cut operational costs 12%, per Banking Dive. Early production evidence for UK-specific banking AI ROI.
+- **Anthropic launches Cowork:** New Claude Desktop agent that works directly in local files without coding. Built in approximately a week by extending Claude Code capabilities to non-technical users. Worth watching for enterprise adoption patterns.
 
-- **Anthropic Cowork launched** — New Claude Desktop agent capability allows non-technical users to work directly in files. Built quickly; positions against Microsoft Copilot in enterprise workflows.
+- **Railway raises $100M:** Cloud platform positioning as AI-native AWS challenger; 2 million developers onboarded without marketing spend. Infrastructure layer maturing for AI workloads.
 
-- **Google redesigns search box** — First change in 25 years; signals deeper AI integration into the interface layer. Relevant for any client thinking about customer-facing AI touchpoints.
+- **Google redesigns search box:** First change in 25 years, reflecting shift toward AI-first interaction patterns. Symbolic end of the blue-link era.
 
-**Governance note:** The Anthropic suspension underscores the export-control and access-continuity risks of relying on US-headquartered AI vendors for regulated UK banking workloads.
+**No fresh agentic AI production case studies from UK banking this weekend** beyond the Barclays mortgage pilot.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK-specific:**
+**UK priority updates:**
 
-- **Barclays/GoHenry acquisition** — Buying the children's debit card and money app from US fintech Acorns. Strategic move to lock in younger customers; watch for integration approach given Barclays' AI push.
+- 🔥 **FCA model risk rules:** No weekend updates; next consultation window opens 20 June — calendar it.
 
-- **Lloyds IT outage (3 June)** — Another glitch hit Lloyds, Halifax, and Bank of Scotland apps, blocking payments. Apology issued. Branch closures compounding customer frustration — poll shows most Britons still want high street access.
+- **Lloyds IT glitch aftermath:** Recent outage affected Lloyds, Halifax and Bank of Scotland apps — payments frozen for thousands. Pattern of resilience issues continues across UK retail banking.
 
-- **NatWest legacy-to-AI exploration** — Reuters notes NatWest examining cutover lessons from ABSA carve-out for its own legacy modernisation. Directly relevant to your advisory angle.
+- **DORA preparation accelerating:** Lloyds and NatWest leading UK banks on Digital Operational Resilience Act compliance as EU equivalence talks remain stalled. Expect this to be a consulting theme through H2.
 
-- **FCA activity** — Three new digital bank applications flagged; AI sandbox update expected (worth checking Monday).
+- **Barclays GoHenry acquisition:** Targeting affluent families' children — strategic play for next-generation customer acquisition. Deal terms not disclosed.
+
+- **Branch closures frustrating customers:** Guardian reporting shows continued friction as apps intended to replace branches suffer outages. "I'm down to one option" sentiment prevalent.
 
 **International:**
 
-- **China cross-border payments system** — Beijing launching digital currency platform backed by Hong Kong, Thailand, UAE, and Saudi central banks. Competitive pressure on dollar infrastructure.
-
-- **Fossil fuel financing up** — World's largest banks committed $906bn to fossil fuels in 2025 (JPMorgan leads). ESG/transition risk remains material for UK lenders with global exposure.
+- China advancing cross-border digital payments platform backed by Hong Kong, Thailand, UAE and Saudi Arabia central banks — dollar competition play worth monitoring.
+- World's largest banks pledged $906bn to fossil fuels in 2025 — JPMorgan leads. ESG pressure likely to resurface.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Deals live now:**
+**Kerry:**
+- Irish Times reports 12% rise in luxury short-break bookings from London for July. If you're planning a summer Kerry visit, book soon — capacity tightening.
 
-- 🔥 **Silversea Kenya safari add-ons** — 15% off for 2027 bookings; specifically marketed to London couples. If the African trip is on the horizon, this is worth locking in before expiry (check deadline).
+**Safari-Cruise:**
+- 🔥 **Silversea offer:** 15% off select 2027 Kenya/SA safari-cruise combos if booked by 30 June. Deadline in two weeks.
 
-- **Regent Seven Seas / Crystal Ireland coastal cruises** — September bookings reported strong via Cruise Critic. If a Dublin departure appeals, availability may tighten.
+**AI Events:**
+- No new London/Dublin/Amsterdam AI conference announcements this weekend. Dublin Tech Summit typically announces autumn dates in July — watch for couple-trip combo opportunities.
 
-- **Kerry short-break packages** — Live now, per Silversea sources. Good for a quick Listowel-adjacent getaway.
-
-**Events to consider:**
-
-- No fresh AI conference announcements for Dublin/London/Amsterdam this week. Standing suggestion: watch for autumn AI Summit London dates (typically announced mid-summer).
+**Canada connection:**
+- PM Mark Carney in Ireland this weekend retracing family roots to the west. Kerry not explicitly mentioned but west of Ireland focus.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
 **Tralee Kingdom Stadium:**
+- 🔥 **Tonight:** 8-race card, first race 19:30, track conditions good. If you're watching remotely, Irish Greyhound Board has live streaming.
 
-- 🔥 **Tonight: 8-race card featuring the Kingdom Cup** — Prime Sunday evening fixture. Worth tuning in or checking results if you can't attend.
+- No Cork or Limerick fixtures flagged for today.
 
-**Cork / Limerick:**
-
-- Fixtures unchanged; no major upsets reported yesterday per Racing Post. Steady week ahead.
+- No major open race or derby news this weekend.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Check FCA AI sandbox update** — Expected Monday; get ahead on any new regulatory signals for agentic AI in banking.
-2. **Review Silversea Kenya safari deal** — 15% off may have an expiry; confirm deadline and book if the 2027 window works.
-3. **Watch Kingdom Cup tonight** — 8-race card at Tralee; feature race is the headline.
-4. **Note Anthropic access risk** — If any client discussions involve Claude for production, flag the US government suspension as a vendor continuity concern.
-5. **Monitor UK stablecoin draft** — Expected this week; relevant for crypto/digital assets advisory angle.
+1. **Watch Tralee 19:30** — 8-race card, good conditions; check IGB stream
+2. **Diary 20 June** — FCA model risk consultation window opens; prepare any client briefing notes
+3. **Review Silversea 2027 safari-cruise** — 15% discount expires 30 June; shortlist itineraries this week
+4. **Note Barclays agentic AI pilot** — 40% mortgage processing improvement; potential case study for banking AI advisory
+5. **Monitor Anthropic fallout** — Export controls affecting Fable/Mythos access could reshape enterprise AI procurement landscape
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-- **Bitcoin holding $108k** — Stable over the weekend; no major volatility.
-- 🔥 **UK stablecoin rules draft due this week** — HM Treasury expected to release; significant for UK-regulated crypto exposure.
-- **China digital currency platform** — Cross-border system backed by multiple central banks positions as dollar alternative; long-term structural shift to watch.
+**Market snapshot:**
+- Bitcoin holding at $102k amid low weekend volume — no significant moves.
+- No major regulatory news or UK banking crypto developments this weekend.
 
-No major altcoin or DeFi disruptions in weekend feeds.
+**AI-crypto intersection:**
+- Coinbase for Agents now connects AI to financial execution channels for automated portfolio trading. Early-stage but signals direction of agentic finance.
+- Visa-ChatGPT integration enables AI agents to recommend products and execute transactions — removing human from final purchase step.
+
+**China digital currency:**
+- Cross-border payment platform backed by Hong Kong, Thailand, UAE and Saudi Arabia central banks being positioned as dollar alternative. Not crypto per se, but same digital rails.
 
 ---
 
-*Quiet Sunday — good day to lock in the safari deal and enjoy the dogs tonight.*
+*Quiet Sunday — Tralee tonight, then prep for FCA window opening Thursday.*
