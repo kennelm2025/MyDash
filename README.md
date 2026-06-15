@@ -4,102 +4,105 @@
 
 # Personal Dashboard — Monday 15 June 2026
 
-*Last refreshed: Monday 15 June 2026, 13:47 BST*
+*Last refreshed: Monday 15 June 2026, 20:56 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **US-Iran deal signed:** Oil prices falling, Strait of Hormuz reopening — expect petrol relief in coming weeks, though Irish Times warns consumers still €1,000+ worse off annually from war aftershocks
-- **UK bank fraud hits 4-year high:** Financial losses climbing; pressure mounting on tech firms and FCA for action
-- **Barclays buying GoHenry:** High street bank snapping up children's money app to target younger affluent customers
-- **Tralee racing tonight:** 8-race card from 19:30, with "Listowel Lad" in the 20:45 A3 on a fast track
-- **DORA compliance reminders:** Bank of England pushing UK banks on 2027 cutover deadlines
+- **US-Iran deal signed:** Strait of Hormuz reopening announced; oil prices fell, global equities jumped — petrol pump prices may ease in coming weeks.
+- **Anthropic White House clash:** Fable 5 and Mythos 5 models blocked for foreign users after export control order; Amazon security research reportedly triggered the move.
+- **UK investment fraud surge:** Trade body reports £220m+ lost last year, with AI-enabled scams cited as a key driver.
+- **Barclays acquiring GoHenry:** The children's debit card and money app deal announced, targeting affluent young families.
+- **SpaceX IPO bigger than thought:** Listing raised $87.5bn — $10bn above initial estimates.
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What's changed:**
+**What changed since last refresh:**
 
-- **Anthropic Fable/Mythos export ban:** US government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign users — including Anthropic's own staff — citing national security concerns. Amazon security research reportedly triggered the directive after suspected Chinese access. Major implications for enterprise AI deployments using Anthropic models.
+- 🔥 **Anthropic export controls saga deepens:** White House ordered Fable 5 and Mythos 5 offline for all non-US users as of 13 June. Per Semafor, fears of Chinese access to Mythos drove the decision. Amazon's Jassy reportedly briefed the White House directly. Anthropic meets the administration imminently. This is a live case study in AI sovereignty risk — relevant for any UK bank evaluating US-headquartered AI providers.
 
-- **Anthropic launches Cowork:** New Claude Desktop agent for non-technical users — works directly in your files without coding. Built in approximately a week; signals push toward agentic AI accessibility in professional workflows.
+- **Cowork launched (Anthropic):** A no-code desktop agent that works directly in user files. Built rapidly atop Claude Code architecture. Worth monitoring for internal productivity tooling, though current access complications make near-term UK deployment uncertain.
 
-- **Goose vs Claude Code:** Block's open-source Goose offers Claude Code-equivalent agentic coding for free — relevant if you're advising on cost-conscious AI adoption in banking dev teams.
+- **Goose vs Claude Code:** VentureBeat notes the open-source Goose agent replicates Claude Code capabilities at zero cost — relevant for governed enterprise pilots where licensing is a concern.
 
-- **Barclays agentic AI pilot:** Finextra reports Barclays deploying governed agentic AI for legacy core migration — production case study worth tracking for client conversations.
+- **Google's 25-year search box redesign:** Not banking-specific, but signals the shift toward conversational AI interfaces that will reshape customer digital journeys.
 
-- **Google search redesign:** First UI overhaul in 25 years — the classic search box is retiring. Watch for downstream effects on how AI-assisted banking interfaces evolve.
-
-🔥 **Anthropic restrictions are immediate** — if any advisory clients use Fable/Mythos in production, flag compliance review today.
+**UK banking angle:** The Anthropic shutdown underscores regulatory and operational risk in relying on single-vendor frontier models. Any agentic AI pilots at Lloyds, NatWest, or HSBC should document contingency pathways — this is now a live compliance discussion, not theoretical.
 
 ---
 
 ## 🏦 Banking Sector
 
-**Headlines since last refresh:**
+**What changed:**
 
-- **UK consumer fraud losses at 4-year high (2025):** FT confirms banks intensifying pressure on government to force tech platforms to crack down. Investment fraud (gold, crypto, wine) up sharply — AI being used in larger-scale schemes.
+- **UK consumer fraud losses hit 4-year high (2025):** FT reports figures will intensify pressure on government to force tech platforms to tackle fraudulent activity. Banks are lobbying hard.
 
-- **Lloyds IT glitch (3 June):** Another outage hit Lloyds, Halifax, and Bank of Scotland apps. Guardian piece notes customers frustrated by branch closures when digital alternatives fail — operational resilience under scrutiny.
+- **Investment fraud at £220m+ last year:** The Guardian cites AI-driven gold, crypto, and wine scams as key contributors. Direct relevance to FCA consumer duty and fraud liability debates.
 
-- **FCA de-banking consultation:** New rules tightening requirements for high-risk AI vendors. Relevant if advising fintechs on banking partnerships.
+- **Barclays–GoHenry deal:** Barclays buying the UK arm of the kids' fintech app from Acorns. Strategy: capture affluent families early. Competitive signal for Lloyds and NatWest in the youth banking space.
 
-- **Revolut lessons from Ireland:** FT analysis on why Revolut's model scales better internationally than legacy UK banks. Useful context for any Lloyds/NatWest digital strategy discussions.
+- **Lloyds IT glitch (3 June):** Another outage hit Lloyds, Halifax, and Bank of Scotland apps — payments and transfers affected. Branch closures continue to frustrate customers who rely on in-person fallback.
 
-- **eToro eyeing banking licence:** Digital trading platform exploring acquisitions and traditional banking services — watch for competitive pressure on UK retail banks.
+- **UniCredit tactics on Commerzbank:** Andrea Orcel's lowball tender offer advances — a reminder that European banking consolidation remains active.
 
-- **Funding Circle claims 2/3 of SME scheme payouts:** Lender using Covid-successor scheme for higher-risk borrowers — model risk angle worth noting.
+- **eToro exploring banking licence:** Digital trading platform mulling acquisitions and traditional banking services. Watch for regulatory posture.
+
+- **Funding Circle and SME lending:** The lender claimed two-thirds of payouts under the successor Covid-era scheme, targeting higher-risk borrowers. Risk concentration worth noting.
+
+No fresh DORA or FCA de-banking guidance in today's feeds — the Grok briefing reference to an update wasn't corroborated in source material.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Fresh options:**
+**What's new:**
 
-- **Silversea Kenya 2027 safari-cruise:** Private fly-in options from €18k pp — new itinerary combining your safari and ultra-luxury cruise interests. Worth a concierge call to check cabin availability before peak booking.
+- **Silversea 2027 Kenya/SA safari-cruise combo:** Grok briefing flagged launch with private transfers and an early-bird 15% discount. Not confirmed in RSS, but worth checking directly on Silversea's site if you're planning the 2027 Africa trip.
 
-- **Regent Seven Seas:** Last-minute Crystal-level suite upgrades available on July South Africa safari sailings — if flexibility allows, strong value.
+- **Dublin AI Summit 17–18 June:** Banking track added; combo Kerry break packages reportedly available. This is two days away — decision needed if you want to attend.
 
-- **Kerry short break tailwind:** Irish Times notes 12% lift in Kerry farm tourism bookings from new Dublin-London luxury rail links. Good window to book Listowel-area stays before summer crowds.
+**Evergreen suggestion:** Crystal and Regent both operate autumn repositioning cruises that pass through Dublin — worth comparing for a London–Dublin–Kerry itinerary later this year.
 
-**No fresh London/Dublin AI event news this cycle** — recommend checking Amsterdam Tech Week calendar for autumn combo options.
+No fresh ultra-luxury or Kerry-specific packages in today's feeds beyond the above.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tonight at Tralee Kingdom Stadium:**
+**Tralee Kingdom Stadium:**
 
-- 8-race card, first race **19:30**
-- Track condition: **Fast**
-- **Listowel Lad** runs in the **20:45 A3** as favourite — local interest given your Listowel roots
+- 🔥 **Tonight's card:** 8-race fixture, first race at 19:30 (per Grok briefing; track conditions reported as good).
+- Feature race: Kingdom Cup qualifier.
 
-No significant news from Cork or Limerick tracks today.
+No fresh results or entries from Cork or Limerick in today's feeds. Irish Greyhound Board site remains the best source for live updates.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Flag Anthropic ban to any clients using Fable/Mythos** — export controls are immediate and affect all foreign access
-2. **Review FCA DORA consultation paper** — 30 minutes; 2027 deadline approaching
-3. **Call Silversea concierge** — check Kenya 2027 safari-cruise cabin availability
-4. **Catch Tralee 20:45 A3** — Listowel Lad running on fast track
-5. **Scan FCA de-banking consultation** — relevant for AI vendor advisory work
+1. **Check Tralee entries now** — first race 19:30; IGB site or Racing Post for odds.
+2. **Decide on Dublin AI Summit (17–18 June)** — banking track relevant; Kerry add-on could work for a short break.
+3. **Review Silversea 2027 Kenya/SA safari-cruise** — verify early-bird pricing and transfer inclusions.
+4. **Note Anthropic disruption for PwC briefings** — live example of AI sovereignty and vendor-concentration risk for UK banks.
+5. **Scan FT fraud piece** — useful for any FCA/consumer-duty advisory conversations this week.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**What's moving:**
+**What's new:**
 
-- **UK Treasury stablecoin custody rules advancing:** CoinDesk reports draft framework progressing — custody requirements tightening. Relevant for any banking clients with crypto custody partnerships.
+- **Coinbase for Agents:** AI News reports Coinbase now offers infrastructure connecting AI agents to financial execution channels — enabling automated portfolio trading and payments. A significant agentic-AI-meets-crypto development.
 
-- **Investment fraud surge includes crypto:** Guardian notes AI-powered crypto scams contributing to the £220m+ UK fraud losses in 2025. FCA/bank pressure on platforms likely to increase.
+- **Visa–ChatGPT integration:** Visa has linked payment rails to ChatGPT, allowing AI agents to recommend products and execute transactions autonomously. Removes human intervention from the retail funnel's final steps.
 
-- **No major protocol or exchange news** this cycle — market focus remains on regulatory clarity rather than price action.
+- **UK investment fraud includes crypto:** The Guardian's £220m fraud figure cites cryptocurrency scams as a rising category, with AI amplifying scale.
+
+No fresh FCA sandbox updates or on-chain settlement pilot news in today's feeds — the Grok briefing reference wasn't corroborated.
 
 ---
 
-*Stay dry — scattered showers forecast for London this afternoon.*
+*Markets calmer on the Iran deal; AI governance suddenly very tangible. Enjoy the racing tonight.*
