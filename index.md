@@ -1,112 +1,95 @@
-**Previous days:** [Mon 15 Jun](dashboards/2026-06-15.md) · [Sun 14 Jun](dashboards/2026-06-14.md) · [Sat 13 Jun](dashboards/2026-06-13.md) · [Fri 12 Jun](dashboards/2026-06-12.md)
+**Previous days:** [Tue 16 Jun](dashboards/2026-06-16.md) · [Mon 15 Jun](dashboards/2026-06-15.md) · [Sun 14 Jun](dashboards/2026-06-14.md) · [Sat 13 Jun](dashboards/2026-06-13.md)
 
 ---
 
-# Personal Dashboard — Tuesday 16 June 2026
+# Personal Dashboard — Wednesday 17 June 2026
 
-*Last refreshed: Tuesday 16 June 2026, 20:55 BST*
+*Last refreshed: Wednesday 17 June 2026, 12:18 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- 🔥 **FCA releases DORA implementation guidance** for UK banks, effective July 2026 — directly relevant to your advisory work
-- **Barclays pilots agentic AI** for mortgage underwriting, claiming 40% faster processing — concrete UK banking/AI crossover
-- **SpaceX acquires Cursor** for $60bn post-IPO, signalling enterprise AI coding consolidation
-- **Tralee Kingdom Stadium** running 8 races tonight including Kerry Cup qualifier
-- **Dublin AI event 22 June** now offers luxury couple packages with London extension
+- 🔥 **FCA AI governance guidelines** published — effective July 2026, model risk focus; directly relevant to your advisory work
+- **UK inflation steady** at latest read; food prices easing offset by petrol costs (BBC)
+- **Barclays** acquiring GoHenry children's app; separately trialling agentic AI for mortgages with 40% efficiency gains reported
+- **Tralee Kingdom Stadium** racing tonight — 8-race card from 19:45, track good
+- **Bitcoin ETF inflows** hit record $2.1bn this week as regulatory clarity builds
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed since last refresh:**
+**What changed:**
 
-- 🔥 **Barclays agentic AI pilot** (Finextra): Mortgage underwriting using agentic AI now in production pilot — 40% reduction in processing time reported. This is the governed, production-grade deployment you track; worth monitoring for Q3 results.
+- 🔥 **FCA AI governance guidelines** now live, effective July 2026. Heavy emphasis on model risk management — aligns squarely with your DORA and governed cutover advisory positioning. Worth a detailed read before Friday's call.
+- **Lloyds production case study** published (Computer Weekly) on agentic AI for legacy system cutover — real-world validation of the integration patterns you've been advising on.
+- **Anthropic launched Cowork** — a no-code Claude Desktop agent for file-based work. Also of note: Goose, an open alternative to Claude Code, flagged as cost-free competitor (VentureBeat).
+- **Salesforce rebuilt Slackbot** as a full AI agent capable of search, summarisation, and action — signals accelerating enterprise agent adoption.
+- **SpaceX acquiring Cursor** for $60bn post-IPO, signalling big tech appetite for AI coding infrastructure.
 
-- **Lloyds governed AI cutover** (Computer Weekly): Testing legacy-to-AI integration using frameworks aligned with Imperial College principles. Directly in your advisory wheelhouse — potential case study for client conversations.
-
-- **RBS autonomous compliance agents** (Cointelegraph): Deployed in UAE operations. Real-world agentic AI in regulatory compliance context; relevant given your FAB merger background.
-
-- **Anthropic launches Cowork**: Claude Desktop agent for non-technical users — file-level autonomy without coding. The "no-code agentic" trend is accelerating.
-
-- **SpaceX-Cursor acquisition**: $60bn deal for AI coding tooling signals enterprise AI infrastructure remains red-hot despite market volatility.
-
-**Governance note:** EU published its AI content labelling Code of Practice ahead of August 2 AI Act deadline — voluntary now, mandatory soon.
+**Banking-specific:**
+- Barclays' agentic AI mortgage processing trial (Finextra) claims 40% efficiency uplift — worth tracking as a case study for client conversations.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK priority developments:**
+**What changed:**
 
-- 🔥 **FCA DORA guidance** (FCA.gov.uk): New implementation guidance for UK banks effective July 2026. Review for client advisory — operational resilience requirements will drive IT spending.
-
-- **HSBC de-banking scrutiny** (Reuters): FCA examining HSBC's approach to de-banking high-net-worth clients under new rules. Watch for broader sector guidance.
-
-- **NatWest fraud detection** (BankingTech): 15% improvement in AI-driven fraud detection accuracy Q1 2026 — production AI delivering measurable outcomes.
-
-- **Lloyds IT glitch aftermath** (Guardian): Ongoing reliability concerns after last refresh's payment outage. Branch closure backlash continues — 'most Britons want high street service' per polling.
-
-- **JPMorgan Chase Europe push** (FT): Planning digital bank expansion into France, Spain, Italy — competitive pressure on UK high street banks intensifying.
-
-**European/deal flow:**
-- UniCredit-Commerzbank tender offer tactics delivered shareholder support for lowball bid. Orcel's playbook worth noting.
-- Revolut's Ireland success cited as model for fintech international scaling vs legacy systems.
+- 🔥 **FCA AI model risk focus** — see above; banks will need to demonstrate tighter governance by July.
+- **Barclays** doubling down on youth market — acquiring GoHenry debit card app from Acorns (Guardian).
+- **UK base rate holds at 4.25%** — mortgage rate volatility expected through summer (BoE).
+- **Lloyds IT glitch** last week hit payments across Lloyds, Halifax, Bank of Scotland apps — another operational resilience flag for regulators.
+- **Investment fraud** in UK topped £220m last year; AI-enabled scams rising (Guardian) — potential advisory angle on detection tooling.
+- **JPMorgan** planning Chase digital bank expansion into France, Spain, Italy — European retail competition heating up.
+- **UniCredit/Commerzbank** saga continues — lowball tender offer tactics gaining traction; 21-month battle latest twist.
+- **FT opinion piece** argues against weakening UK bank leverage rules — regulatory debate ongoing.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Fresh material:**
+**What changed:**
 
-- **Dublin AI event 22 June** (Eventbrite): Now offering luxury couple packages with London extension — combines your interests neatly. Worth booking this week if attending.
+- **Silversea** offering limited Kerry-to-Kenya cruise-safari packages for September 2026 departures — fits your safari and luxury cruise interests; worth checking cabin availability.
+- **Dublin AI Summit 2026** added a banking track; combo packages with London extension now available — potential for a work-plus-travel trip together.
+- **Kerry weather alert**: Met Éireann status-yellow rain warning for Kerry and Cork today — heavy rain and potential spot flooding. Factor in if planning a Listowel visit.
 
-- **Silversea Kenya/SA cruises** (Silversea.com): 20% off all-suite Crystal-level sailings departing September. Safari fly-in options available.
-
-- **Regent Seven Seas** (Regent.com): New romantic private-transfer add-ons specifically for Kerry short breaks — aligns with your Listowel connection.
-
-- **Kerry VIP fly-in packages** (Irish Times): Tourism board launching new Dublin-London linked safari-style VIP experiences.
-
-**Evergreen suggestion:** If September works, the Silversea Kenya offer plus Kerry short break either side would make a strong autumn itinerary.
+**Evergreen suggestion:** If September Silversea doesn't suit, start scoping 2027 windows for East Africa or a Crystal repositioning cruise.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
 **Tonight at Tralee Kingdom Stadium:**
-- **8 races scheduled** including **Kerry Cup qualifier** — if you're catching any racing this evening, the qualifier is the one to watch.
+- **8-race card** from **19:45**, track rated **good**
+- No standout graded races flagged, but worth checking the Tralee fixtures app for trap draws and recent form.
 
-No fresh news from Cork or Limerick fixtures today.
+Cork and Limerick: No fresh fixtures flagged for today.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review FCA DORA guidance** (published today) — brief yourself before July effective date; potential client advisory angle.
-
-2. **Check Dublin 22 June AI event couple packages** — book this week if attending; London extension available.
-
-3. **Watch Tralee Kerry Cup qualifier** tonight if time permits — 8 races on card.
-
-4. **Flag Barclays agentic AI pilot** for your banking/AI advisory notes — concrete UK production case emerging.
-
-5. **Consider Silversea September Kenya cruise** — 20% discount won't last; pairs well with Kerry short break.
+1. **Review FCA AI governance paper summary** (link in email) before Friday call — model risk section is core
+2. **Check Tralee fixtures app** for tonight's selections; first race 19:45
+3. **Scan Silversea September 2026 Kenya packages** — availability may be limited
+4. **Skim Lloyds agentic AI case study** on Computer Weekly — useful client conversation material
+5. **Note Dublin AI Summit banking track** — assess dates for combo London trip
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**What's moving:**
+**What changed:**
 
-- **Investment fraud surge** (Guardian): UK losses exceeded £220m last year, with crypto-related scams rising as criminals leverage AI for larger-scale operations. FCA attention likely to intensify.
+- 🔥 **Bitcoin ETF inflows hit record $2.1bn** this week — institutional demand surging amid regulatory clarity hopes (CoinDesk).
+- **Investment fraud alert**: UK losses topped £220m last year, with crypto scams prominent and increasingly AI-enhanced (Guardian).
+- No major protocol-level news or altcoin moves flagged today.
 
-- **eToro exploring banking licence** (FT): Digital trading platform considering acquisitions and traditional banking services push — blurring lines between crypto platforms and regulated banking.
-
-- **RBS UAE compliance agents** (Cointelegraph): Autonomous AI agents deployed for compliance — crypto-adjacent in the sense of blockchain/DeFi regulatory frameworks increasingly borrowing these approaches.
-
-No major price action or regulatory bombs today. Market relatively quiet ahead of US Fed commentary later this week.
+**Watching:** Continued ETF flow momentum and any SEC/FCA commentary on custody rules.
 
 ---
 
-*Bloomsday in Dublin — Joyce would have appreciated the chaos of AI agents and Irish greyhounds in the same evening.*
+*Quiet mid-week; FCA paper is the priority read. Enjoy the racing tonight.*
