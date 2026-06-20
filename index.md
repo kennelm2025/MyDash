@@ -1,111 +1,85 @@
-**Previous days:** [Thu 18 Jun](dashboards/2026-06-18.md) · [Wed 17 Jun](dashboards/2026-06-17.md) · [Tue 16 Jun](dashboards/2026-06-16.md) · [Mon 15 Jun](dashboards/2026-06-15.md)
+**Previous days:** [Fri 19 Jun](dashboards/2026-06-19.md) · [Thu 18 Jun](dashboards/2026-06-18.md) · [Wed 17 Jun](dashboards/2026-06-17.md) · [Tue 16 Jun](dashboards/2026-06-16.md)
 
 ---
 
-# Personal Dashboard — Friday 19 June 2026
+# Personal Dashboard — Saturday 20 June 2026
 
-*Last refreshed: Friday 19 June 2026, 19:17 BST*
+*Last refreshed: Saturday 20 June 2026, 10:45 BST*
 
 ---
 
-## 📊 Today's Quick Snapshot
+## 📊 Today's Quick Snapshot (5 bullets)
 
-- 🔥 **FCA consultation opened** on AI model risk rules for UK banks — deadline September 2026; directly relevant to your governance advisory work
-- **UK borrowing hit £23.3bn in May**, up nearly a third year-on-year — Chancellor facing "fragile" public finances narrative ahead of summer statement
-- **Tralee Kingdom Stadium tonight** — 8 races from 19:30, featuring the Kingdom Cup
-- **Lloyds piloting agentic AI** for mortgage underwriting, reporting 15% efficiency gains — potential case study for client conversations
-- **Brexit cost estimate revised** — Bank of England data suggests 6% GDP loss; expect renewed commentary in banking circles
+- **UK borrowing jumped** — May figures show £23.3bn borrowed, up nearly a third year-on-year; Treasury calling finances "fragile" (BBC).
+- **Brexit drag quantified** — Bank of England company data suggests 6% GDP loss versus a remain scenario (BBC).
+- **BoE eyes investment-bank capital relief** — Regulator plans to dilute rules on trading activities, plus new stress tests for private credit (FT).
+- **Tralee Kingdom Stadium tonight** — 8-race card from 19:30; track conditions reported good (IGB).
+- **Warm spell incoming for Ireland** — Met Éireann forecasts 25-26°C early next week; ideal for a Kerry short break.
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed:**
+**What's new since yesterday:**
 
-- 🔥 **FCA AI model risk consultation** now live — sets out proposed governance requirements for UK banks deploying AI in decision-making. September deadline gives you a window to position advisory services around compliance readiness.
-- **Lloyds' agentic AI mortgage pilot** marks the first major UK high street deployment at scale. The 15% efficiency figure is modest but credible for early-stage rollout; worth tracking whether they extend to decisioning or keep humans in the loop.
-- **Barclays expanding governed AI cutover** to legacy systems — explicitly citing academic frameworks. This aligns with your Imperial College background; could be a door-opener for direct engagement.
-- **NatWest launched a DORA compliance dashboard** with agentic AI governance features — signals UK banks are taking operational resilience AI integration seriously.
+- **Anthropic launched "Cowork"** — a Claude Desktop agent for non-technical users that works directly in local files, no coding required. Built in roughly a week by the Claude Code team (VentureBeat). Could be useful for compliance document prep without engineering overhead.
+- **Google redesigned the search box** — first change in 25 years, signalling deeper AI-mode integration; not banking-specific but watch for enterprise search knock-ons (VentureBeat).
+- **Goose, an open-source Claude Code alternative**, now offers comparable agentic coding at zero cost; worth flagging for PwC clients evaluating build-vs-buy on AI dev tools (VentureBeat).
+- **Adobe rolled out AI assistants in Photoshop/Premiere** — not directly banking, but signals mainstream agentic UI patterns migrating into professional tools.
+- **Podcast worth a listen:** *Decoder* episode on "Who decides when AI is too dangerous?" covers Anthropic's recent Claude safety incident and Pentagon AI regulation (The Verge).
 
-**Wider AI moves:**
-
-- **Anthropic launched Cowork** — a Claude Desktop agent for non-technical users, built in a week. Indicates accelerating pace of agentic tooling for enterprise; relevant for client conversations about workforce readiness.
-- **Salesforce rebuilt Slackbot** as a full AI agent — competitive pressure on Microsoft Copilot intensifying; enterprise AI assistant market fragmenting rapidly.
-- **Google redesigned its search box** for the first time in 25 years, shifting toward conversational AI input — signals mainstream interface evolution.
+**Governance/enterprise watch:** FCA sandbox pilots continue to show ~25% efficiency gains in compliance workflows using agentic AI (per Grok briefing); no fresh public paper this week, but DORA deadline reminders are circulating (see Banking section).
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK focus:**
+**UK-focused headlines:**
 
-- **Lloyds IT glitch** earlier this month left thousands unable to make payments via Lloyds, Halifax, and Bank of Scotland apps — another operational resilience black eye as DORA compliance looms.
-- **Bank of England proposing diluted capital rules** for investment banks' trading activities; also announced stress-testing parameters for private credit markets.
-- **FT opinion piece argues against weakening UK bank leverage rules** — the regulatory pendulum may swing back; worth monitoring for advisory positioning.
-- **No mortgage rate movement this week** — trackers stable at 4.1-4.3%.
+- 🔥 **BoE to dilute investment-bank capital rules** — Parameters published for stress-testing private credit exposure; may ease pressure on UK trading desks (FT). Relevant for legacy-to-AI integration work where capital buffers affect transformation budgets.
+- **HSBC fined in Australia** over spoofing-scam protection failures — A$10.4m penalty; highlights continued regulatory heat on fraud controls globally (FT).
+- **Lloyds IT glitch earlier this month** left customers unable to pay via app — another reminder of legacy-system fragility (Guardian).
+- **Barclays to acquire GoHenry** — the children's money-management app, signalling push into younger demographics (Guardian).
+- **Investment fraud losses topped £220m in the UK last year**, with AI-enabled scams on the rise (Guardian) — potential advisory angle for AI-governance engagements.
+- **EU set to ease cross-border capital-flow barriers** for banks — draft Commission report aims to close gap with US rivals (FT).
+- **Rathbones dropped 17%** after internal review found compliance shortcomings; opens door for UK banks to compete harder for wealth clients (FT).
 
-**International:**
-
-- **HSBC fined in Australia** over inadequate scam protections ("spoofing" failures); also announced major multi-year Google Cloud AI partnership covering wealth management and financial crime.
-- **Wall Street lobbying** for further Basel capital rule easing after securing largest post-2008 victory.
-- **EU moving to remove cross-border capital barriers** for banks — draft Commission report aims to boost European lender competitiveness.
-
-**Fraud note:**
-
-- UK investment fraud losses exceeded £220m last year — AI-powered scams involving crypto, gold, and wine increasingly sophisticated.
+**Rates/mortgage note:** No weekend movement; 2-year fixes remain around 4.1-4.3% average.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry:**
-
-- **Dublin AI Summit (September)** now offers combo packages with Kerry short breaks — could combine conference attendance with a Listowel visit. Banking track added to agenda.
-
-**Safaris & cruises:**
-
-- **Silversea** has 10% early-bird deals on Kenya/SA ultra-luxury cruises departing September — booking window likely closing soon.
-- **Crystal Cruises** added romantic all-suite Africa itineraries with private transfers from €8,900 — worth comparing against Silversea for autumn plans.
-- **Kerry tourism board** promoting new VIP fly-in packages via Dublin-London links for summer 2026 — could simplify logistics for a quick farm visit.
-
-**Evergreen reminder:**
-
-- Regent Seven Seas typically releases 2027 itineraries in autumn — if planning a major anniversary cruise, early access may be available through your travel agent by August.
+- **Kerry weather looking ideal** — highs of 25-26°C forecast for Monday-Tuesday; farm-stay packages near Listowel reportedly selling fast.
+- **Silversea 2027 Kenya safari-cruise combos** now bookable with 15% early-bird discount; deadline not stated but typically closes within first month.
+- **Regent Seven Seas** reportedly adding a Dublin-London luxury segment with private Kerry transfers — worth checking availability if pairing with a summer break.
+- **No fresh Tralee-area VIP hotel deals** surfaced overnight; the Ballygarry Estate remains a reliable dinner option near the stadium.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-🔥 **Tonight at Tralee Kingdom Stadium:**
-
-- **8 races from 19:30**
-- **Feature race: The Kingdom Cup**
-- Friday night atmosphere; if you're nearby, ideal evening fixture
-
-No fresh Cork or Limerick fixtures flagged for this weekend. Check Irish Greyhound Board for Saturday updates.
+- **Tralee Kingdom Stadium tonight** — 8-race card, first race 19:30, concluding ~22:00. Feature race is a Kingdom Cup qualifier. Track conditions: good.
+- **Cork & Limerick:** No major open events this weekend flagged; check IGB closer to midweek for next fixtures.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review FCA AI model risk consultation** document (FCA.gov.uk) — note key provisions relevant to agentic AI and governed cutovers for client briefing
-2. **Book Silversea or Crystal Africa cruise** before early-bird window closes — compare September departures and romantic package inclusions
-3. **Check Dublin AI Summit combo packages** — assess whether Kerry short-break add-on works for September dates
-4. **Tune into Tralee Kingdom Cup results** tonight (19:30 start) if not attending in person
-5. **Flag Lloyds agentic AI pilot** for next client conversation — concrete UK banking AI production example
+1. **Book dinner near Tralee stadium** for tonight's card (Ballygarry Estate or similar).
+2. **Check Silversea Kenya 2027 early-bird rates** before they expire — aim to decide by Monday.
+3. **Skim BoE private-credit stress-test parameters** for relevance to PwC banking-AI deck.
+4. **Save Decoder podcast** on AI safety/regulation for commute listening.
+5. **Note Lloyds IT-glitch case** as potential example for legacy-system risk section in client materials.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**No major market-moving developments today.**
-
-- UK investment fraud losses (noted above) include crypto scams — AI-generated deepfakes increasingly used to impersonate advisers.
-- No significant regulatory updates from FCA on crypto this week; stablecoin consultation remains open.
-- Bitcoin and ETH trading sideways; no fresh institutional moves from UK banks flagged.
-
-**Evergreen:** If tracking crypto exposure, consider setting up a price alert threshold rather than daily monitoring — reduces noise without missing material moves.
+- **UK Treasury stablecoin regulatory update** expected next week (per CoinDesk); could clarify licensing pathway for sterling-backed coins — watch for implications on UK bank custody offerings.
+- **Investment-fraud data** (Guardian) shows crypto scams remain a significant portion of UK losses; reinforces need for robust customer-protection disclosures.
+- No major token-price swings or protocol incidents overnight.
 
 ---
 
-*Kingdom Cup night, FCA consultation open, and autumn safari deals to book — a productive Friday ahead.*
+*Enjoy the racing tonight — and the warm spell ahead.*
