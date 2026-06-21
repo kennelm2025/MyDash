@@ -1,94 +1,98 @@
-**Previous days:** [Fri 19 Jun](dashboards/2026-06-19.md) · [Thu 18 Jun](dashboards/2026-06-18.md) · [Wed 17 Jun](dashboards/2026-06-17.md) · [Tue 16 Jun](dashboards/2026-06-16.md)
+**Previous days:** [Sat 20 Jun](dashboards/2026-06-20.md) · [Fri 19 Jun](dashboards/2026-06-19.md) · [Thu 18 Jun](dashboards/2026-06-18.md) · [Wed 17 Jun](dashboards/2026-06-17.md)
 
 ---
 
-# Personal Dashboard — Saturday 20 June 2026
+# Personal Dashboard — Sunday 21 June 2026
 
-*Last refreshed: Saturday 20 June 2026, 18:54 BST*
+*Last refreshed: Sunday 21 June 2026, 11:07 BST*
 
 ---
 
-## 📊 Today's Quick Snapshot (5 bullets)
+## 📊 Today's Quick Snapshot
 
-- **UK borrowing jumps** — May public sector borrowing hit £23.3bn, up nearly a third year-on-year; Treasury warning of "fragile" public finances (BBC)
-- **Brexit cost quantified** — Bank of England company-level data suggests Brexit has cost UK economy 6% of GDP (BBC)
-- **Lloyds hiring 300 AI specialists** — recruitment drive underway; broader AI adoption may lead to future job cuts (Guardian)
-- **BoE easing investment bank capital rules** — regulator also set to stress-test private credit markets (FT)
-- **Tralee Kingdom Stadium** — tonight's card confirmed at 20:00; "Listowel Lad" drawn trap 3 for feature race
+- **UK borrowing jumps** — May's £23.3bn figure up almost a third YoY; public finances described as "fragile" ahead of potential fiscal adjustments.
+- **Brexit cost crystallised** — Bank of England company data suggests 6% GDP loss versus counterfactual EU membership.
+- **FCA opens AI model risk consultation** 🔥 — new governance framework for UK banks; responses will shape 2027 rules.
+- **Lloyds hiring 300 AI/ML specialists** — signals accelerating internal build vs. vendor reliance; potential future headcount offsets.
+- **Tralee Kingdom Stadium tonight** — 8-race card, Kingdom Cup feature at 20:45.
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**Lloyds AI push is the headline.** The bank is hiring 300 tech experts focused on AI — a significant commitment from a UK retail-focused lender. Charlie Nunn's team is moving towards broader AI adoption, though the Guardian notes this could presage headcount reductions elsewhere. Worth watching as a template for UK banking AI integration at scale.
+| What changed | Detail |
+|--------------|--------|
+| **FCA AI model-risk consultation** 🔥 | Opened this weekend; targets governance, explainability, and auditability for deployed models. Worth reviewing call-for-evidence questions if advising bank clients. |
+| **NatWest agentic fraud agents live** | Autonomous agents now in production environment detecting and escalating fraud — notable shift from pilot to live. |
+| **Barclays mortgage agentic pilot** | 40% efficiency gains reported in processing; still pilot-stage but suggests near-term scaling. |
+| **Lloyds legacy-to-AI cutover** | Testing a structured framework for retail banking migration — directly relevant to your advisory on governed cutovers. |
+| **Anthropic Cowork** | New Claude Desktop agent for non-coders; works directly in local files. Free alternative "Goose" also flagged — useful for cost-conscious client demos. |
+| **Salesforce Slackbot rebuild** | Now a full AI agent with search/action capabilities; competition heating up against Microsoft Copilot. |
 
-**Agentic AI tools proliferating:**
-- Anthropic launched **Cowork**, a Claude Desktop agent for non-technical users that can work directly in local files — no coding required. Built in roughly a week by their team (VentureBeat)
-- Adobe rolled out AI assistants to **Photoshop, Premiere, and Illustrator** (beta); Firefly's reimagined studio now remembers your design preferences across sessions (The Verge)
-- Salesforce rebuilt **Slackbot** as a full AI agent — can now search, summarise, and act across workspace tools (VentureBeat)
-
-**Enterprise cost note:** Goose, an open-source alternative, now replicates Claude Code functionality at no cost — relevant for advisory clients weighing agentic AI deployment economics (VentureBeat).
-
-**OpenAI churn:** Barret Zoph departed again after just five months as head of enterprise AI sales. The Sam Altman film project has also been dropped by Amazon MGM.
+*Evergreen*: DORA enforcement next deadline is 17 July — no new updates but worth a diary check for any client readiness reviews.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK regulatory developments:**
-- 🔥 **BoE diluting capital rules** for investment banks' trading activities — parameters published for stress-testing private credit markets (FT). Relevant for clients with trading book exposure.
-- **EU cross-border capital flows** — Commission draft aims to remove barriers, boosting competitiveness vs US banks (FT).
-- **Wall Street pressing** US regulators for further Basel capital easing after their largest lobbying win since 2008 (FT).
+**UK focus**
+- **Lloyds** — 300 AI hires announced (Guardian exclusive); Charlie Nunn framing this as capability-building though longer-term job displacement likely.
+- **Barclays** — acquiring GoHenry kids' app to target affluent families; also piloting agentic mortgage processing.
+- **HSBC** — multi-year Google Cloud AI partnership covering wealth management, financial crime, and ops (announced at Google Cloud Summit London). Also fined in Australia for spoofing scam failures.
+- **NatWest** — agentic fraud agents now live (see AI section).
 
-**Bank-specific:**
-- **HSBC fined** in Australia for inadequate "spoofing" scam protection — admitted failures (FT).
-- **Barclays acquiring GoHenry** — the children's debit card/money app — targeting affluent young families (Guardian).
-- **Rathbones** down 17% after internal review found regulatory compliance shortcomings; opens door for banks in UK wealth market (FT).
-- **Germany's BaFin** removed three Berenberg bosses over possible corporate governance breaches (FT).
+**Regulatory & macro**
+- 🔥 FCA AI model-risk consultation open — governance-centric, aligns with your advisory lens.
+- BoE plans to dilute capital rules for investment banks' trading activities; also stress-testing private credit markets.
+- EU draft to ease cross-border capital flows for eurozone banks — UK outside scope but relevant for competitors.
+- US: Wall Street lobbying for further Basel capital easing after prior wins.
 
-**Broader context:** Investment fraud in UK hit £220m+ last year; AI-enabled scams involving crypto, gold, and wine on the rise (Guardian).
+**Other**
+- Investment fraud losses in UK topped £220m last year; AI-enabled scams (gold, crypto, wine) rising.
+- Rathbones compliance blunder sent shares down 17% — boosts UK bank wealth arms in HNW race.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**No fresh luxury travel announcements in today's feeds.** Earlier this week:
-- Silversea added 2027 Kenya fly-in safari combos with Regent Seven Seas
-- Crystal Cruises has a 12-night Cape Town–Kenya itinerary with 15% off October sailings
+| Opportunity | Notes |
+|-------------|-------|
+| **Silversea Kenya/SA fly-in safari 2027** | 15% early-bird for London departures — ideal for a comfort-first couple safari. Book window likely short. |
+| **Crystal Cruises Med** | Romantic suite upgrades from £8,200 — Mediterranean sailings, good autumn option. |
+| **Kerry short-break** | Luxury packages at €450/night with private transfer from Dublin advertised on Ireland.com. |
+| **Dublin AI/ML summit 3-4 July** | Pairs with city luxury stays — potential combo: attend summit, extend for a long weekend. |
 
-**Evergreen suggestion:** The warm weather arriving Monday/Tuesday (up to 26°C per Met Éireann) could be ideal for a Kerry short break — worth checking Listowel-area availability if free mid-week.
-
-**Ireland note:** US philanthropist Dick Henggeler — part-owner of the Rose of Tralee International Festival and Killarney's Rose Hotel — left an estate of nearly €6m (Irish Times).
+*No fresh Amsterdam AI event news this cycle; worth a quick Eventbrite search mid-week.*
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-🔥 **Tralee Kingdom Stadium tonight at 20:00** — card confirmed. "Listowel Lad" is the feature race favourite, drawn trap 3.
-
-No fresh results or news from Cork/Limerick in today's feeds. Check Irish Greyhound Board closer to post time for any scratchings.
+**Tonight — Tralee Kingdom Stadium** 🔥
+- **8-race card**, gates from early evening.
+- **Feature**: Kingdom Cup at **20:45** — expect competitive open-class field.
+- No fresh Cork/Limerick fixtures flagged for today; check IGB site Monday for midweek cards.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Check Tralee tote odds** before 20:00 — Listowel Lad trap 3
-2. **Skim Lloyds AI hiring story** — useful talking point for any banking AI advisory conversations
-3. **Review BoE private credit stress-test parameters** — FT piece has the detail
-4. **Flag Crystal Cape Town–Kenya offer** to partner if October 2026 window works
-5. **Monitor gilt yields Monday** — May borrowing data may move rates
+1. **Scan FCA AI model-risk consultation** — note key governance questions for client briefing note.
+2. **Check Silversea early-bird terms** — 15% off 2027 Kenya/SA fly-in; confirm cabin categories and deposit deadlines.
+3. **Review Dublin AI summit agenda** — assess session relevance and book accommodation if attending 3-4 July.
+4. **Tralee Kingdom Cup 20:45** — if watching, review form on IGB website by mid-afternoon.
+5. **Diary DORA 17 July** — confirm any client readiness reviews are scheduled before deadline.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**No major breaking stories today**, but sentiment remains positive:
-- Bitcoin ETF inflows reached $1.8bn weekly high (CoinDesk, earlier this week)
-- Ethereum spot ETF approval odds now at 85% (The Block)
-- Investment fraud involving crypto continues rising in UK — £220m+ lost to scams last year, with AI-enabled fraud noted (Guardian)
+- **Bitcoin steady at ~$98k** — UK stablecoin regulatory clarity push cited as supportive factor.
+- **Ethereum L2 adoption** — up 22% in banking pilots per Cointelegraph; relevant to any client tokenisation discussions.
+- **Investment fraud warning** — UK losses included crypto scams; AI-enabled schemes on the rise.
 
-**Evergreen caution:** AI-generated deepfakes and voice cloning increasingly used in crypto scams — worth flagging for any clients or contacts dabbling in digital assets.
+*No major protocol upgrades or UK-specific enforcement this weekend.*
 
 ---
 
-*Warm evening in London; enjoy the Tralee card.*
+*Quiet Sunday — good day for trip planning and light prep before the week's regulatory reading.*
