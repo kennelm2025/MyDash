@@ -1,92 +1,94 @@
-**Previous days:** [Sun 21 Jun](dashboards/2026-06-21.md) · [Sat 20 Jun](dashboards/2026-06-20.md) · [Fri 19 Jun](dashboards/2026-06-19.md) · [Thu 18 Jun](dashboards/2026-06-18.md)
+**Previous days:** [Mon 22 Jun](dashboards/2026-06-22.md) · [Sun 21 Jun](dashboards/2026-06-21.md) · [Sat 20 Jun](dashboards/2026-06-20.md) · [Fri 19 Jun](dashboards/2026-06-19.md)
 
 ---
 
-# Personal Dashboard — Monday 22 June 2026
+# Personal Dashboard — Tuesday 23 June 2026
 
-*Last refreshed: Monday 22 June 2026, 20:54 BST*
+*Last refreshed: Tuesday 23 June 2026, 11:06 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **Alan Greenspan dies aged 100** — the longest-serving Fed Chair and architect of 1990s US expansion; legacy reassessed post-2008 crash (BBC, Guardian)
-- **Bank of England dilutes capital rules** — investment banks' trading activities get lighter treatment; private credit stress-test framework also published (FT)
-- **Lloyds hiring 300 AI/tech specialists** — recruitment drive announced ahead of Charlie Nunn's next update; broader AI adoption may trigger future job cuts (Guardian)
-- **Status Yellow heat warning for Ireland** — Met Éireann forecasts 27°C+ this week; relevant for any Kerry trip planning
-- **EasyJet rejects £4.7bn Castlelake bid** — calls approach "highly opportunistic"; no direct banking impact but watch aviation credit exposure
+- **Oracle cuts 21,000 jobs** as AI spend reshapes tech workforce — relevant signal for banking sector AI headcount decisions
+- **Lloyds hiring 300 AI/tech specialists** — major UK bank recruitment drive, broader job impacts likely later
+- **BoE diluting capital rules** for investment banks' trading activities; private credit stress-testing parameters published
+- **EU moving to ease cross-border capital flows** for banks — draft Commission report aims to close US competitiveness gap
+- **Heatwave red alerts across Europe** — travel disruption possible; Met Éireann yellow warning from noon Tuesday to Friday
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
 **What changed:**
-- **Anthropic launched Cowork** — a Claude Desktop agent that works directly in local files without coding. Built in roughly a week; extends Claude Code's success to non-technical enterprise users. Worth evaluating for consultant workflows and document-heavy banking advisory. (VentureBeat)
-- **Salesforce rebuilt Slackbot into a full AI agent** — now handles enterprise search, actions, and multi-step tasks inside Slack. Direct competition to Microsoft Copilot and Google Duet. Relevant to any bank considering Slack-based collaboration tools. (VentureBeat)
-- **Vibe-coding security risks surfacing** — The Verge reports on security oversights when AI-generated apps go live without proper review. Timely for governance discussions around rapid AI deployment in banking.
-- **Barret Zoph leaves OpenAI again** — five months after returning; departed his enterprise AI sales role. Signals continued executive churn at OpenAI.
+- **Lloyds Banking Group confirms 300 AI/tech hires** — Charlie Nunn's pre-announcement recruitment push. While headcount rises now, the explicit acknowledgment that "broader adoption of AI could lead to job cuts in future" signals the governed cutover trajectory you advise on.
+- **Anthropic launches "Cowork"** — Claude Desktop agent for non-technical users; built in approximately a week. Relevant for enterprise agentic deployment: this extends Claude Code's autonomous capabilities to file-level tasks without coding, lowering barriers but raising governance questions.
+- **Barret Zoph exits OpenAI again** (5 months after return) — leadership churn continues; enterprise buyers should note stability risks when locking into single-vendor agentic stacks.
+- **Five Eyes intelligence warning** — top spy agencies say AI cyber threats will hit organisations "within months." UK banks under DORA should prioritise AI-specific incident response.
+- **e2e-assure launches "Cumulo"** — UK-sovereign, AI-driven zero-day SOC platform using digital twin technology. Addresses GCHQ's AI Cyber Shield call. Worth flagging to banking clients evaluating sovereign AI security options.
 
-**UK banking lens:** Lloyds' 300-hire AI push (Guardian) remains the week's headline. The recruitment scope suggests production-scale ambitions — not just pilots. FCA sandbox agentic pilots reportedly moving to production per Grok briefing; no primary source yet to verify.
+**Governance note:** Anthropic's rapid Cowork build (~1 week) illustrates agentic AI's speed-to-deployment. For legacy-to-AI integration advisory, this reinforces the case for pre-deployment governance frameworks rather than post-hoc controls.
 
 ---
 
 ## 🏦 Banking Sector
 
-**Regulatory:**
-- 🔥 **BoE publishes lighter Basel capital rules** for investment bank trading books, plus new stress-test parameters for private credit markets. UK divergence from US/EU Basel endgame continues. (FT)
-- **EU draft to ease cross-border capital flows** — European Commission aims to help bloc's banks compete with US rivals. Could affect HSBC, Barclays continental ops. (FT)
-- **Wall Street pushing US regulators further** on Basel relief after largest lobbying win since 2008. (FT)
-
 **UK banks:**
-- **Lloyds:** 300 AI hires (see above).
-- **Barclays:** acquiring GoHenry kids' finance app from Acorns — targeting young, affluent families. (Guardian)
-- **Monzo:** Paris taxi scam chargeback refusal making consumer press; APP fraud rules may tighten scrutiny on challenger banks' dispute processes. (Guardian)
+- **Lloyds** — 300-person AI recruitment drive (see above). Signals serious production commitment.
+- **Barclays** — acquiring GoHenry (children's debit card/money app) from US fintech Acorns. Targeting affluent young families — brand positioning play.
+- **BoE capital rules** — regulator publishing diluted requirements for investment banks' trading activities, plus stress-test parameters for private credit markets. Worth monitoring for risk model implications.
+
+**Regulatory:**
+- **EU cross-border capital flows** — draft Commission report aims to remove barriers, boosting bloc's banks versus US rivals. Indirect pressure on UK competitiveness post-Brexit.
+- **DORA compliance** — reminders issued; model risk audits ramping across UK banks. Five Eyes AI cyber warning adds urgency.
+
+**Fraud/scams:**
+- UK investment fraud losses exceeded **£220m last year** — criminals using AI for larger-scale scams involving crypto, gold, wine. FCA will likely tighten requirements.
 
 **Other:**
-- German regulator BaFin removed three Berenberg bosses over governance concerns. (FT)
-- UK investment fraud hit £220m+ last year; AI-enabled scams involving crypto, gold, wine on the rise. (Guardian)
-- Global banks pledged $906bn to fossil fuels in 2025 — reputational and transition-risk watch. (Guardian)
+- **Monzo chargeback refusal** — Paris taxi scam case in Guardian highlights limits of fintech customer protection. Reputational risk for challenger banks.
+- **Alan Greenspan obituary** — Fed chair whose reputation was re-evaluated after 2008. Historical context for current monetary policy debates.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Fresh material limited today — mostly pricing intel from Grok briefing (unverified primary sources):**
-- **Silversea 2027 Kenya safari-cruise combo** reportedly available with private transfers from €18k pp — aligns with your Kenya/SA safari interest and comfort-first preferences.
-- **Regent Seven Seas** reportedly cutting 12-night Cape Town–Dublin cruise fares 15% for Sept 2026 — worth checking direct if South Africa remains on the list.
-- **Status Yellow heat for Ireland this week** — if considering a short Kerry break, conditions look favourable through midweek.
+**No fresh Kerry/safari/cruise deals in today's feeds.** The Grok briefing mentioned Silversea 15% off 2027 Kenya/SA safari-cruises and Regent adding Kerry stopovers — worth verifying directly if booking windows are opening.
 
-**Evergreen:** London–Dublin AI events calendar quiet for June/July; Amsterdam typically picks up in September. Worth setting a calendar check for early August announcements.
+**Disruption alert:** 🔥 **European heatwave in progress** — red alerts across continent, Met Éireann yellow warning (noon Tuesday to Friday, temperatures up to 30°C). If travelling to Kerry or Dublin this week, expect transport delays and check accommodation cooling.
+
+**Evergreen suggestion:** Crystal Cruises' fly-in safari add-ons from London remain a strong fit for your comfort-first preference — worth requesting 2027 brochure if Kenya/SA timing aligns with autumn availability.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-- **Tralee Kingdom Stadium:** Monday 23 June card features 8 races from 19:30, focusing on A1/A2 grades per Grok briefing. No headline track record changes from yesterday's 11-race card.
-- **No fresh Cork or Limerick news** in today's feeds.
+**Tralee Kingdom Stadium** — 8-race card tonight, 19:30–22:15. Track conditions reported good. Focus on A1/A2 grades.
 
-**Suggestion:** Pull form guide tonight for tomorrow's Tralee card if planning to follow live.
+**No fresh Cork or Limerick fixtures in today's feeds.** Check Irish Greyhound Board app for midweek updates.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Read BoE capital rules release** — investment bank trading and private credit stress-test details relevant to advisory work
-2. **Scan Anthropic Cowork demo** — assess for document-heavy consulting use cases; low-code angle may appeal to banking clients
-3. **Check Silversea/Regent direct** for Kenya combo and Cape Town–Dublin pricing verification
-4. **Pull Tralee form guide** for Tuesday 23 June card
-5. **Note Lloyds AI hiring scope** — potential advisory angle on governed rollout if 300 hires signal production push
+1. **Read BoE capital rules announcement** — trading activity dilution and private credit stress-test parameters (relevant for banking advisory)
+2. **Note Lloyds AI hiring news** for client conversations — 300 roles, explicit future job-cut acknowledgment
+3. **Verify Silversea/Regent 2027 offers** — call or check portals for Kenya/SA safari-cruise and Kerry stopover availability
+4. **Check Tralee entries** via Irish Greyhound Board app before tonight's 19:30 card
+5. **Review Five Eyes AI cyber warning** — brief summary useful for DORA/governance advisory positioning
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-- **Investment fraud surge includes crypto** — UK losses exceeded £220m last year, with AI-enabled scams increasingly sophisticated. (Guardian)
-- **Bitcoin ETF inflows reportedly hit $420m last week** amid UK bank custody discussions (Grok briefing; CoinDesk cited but not in today's RSS).
-- No major protocol or regulatory news in today's CoinTelegraph, CoinDesk, Decrypt, or The Block feeds.
+**From feeds:**
+- **Investment fraud surge** — Guardian reports £220m+ lost in UK last year, with crypto scams prominent. AI-enabled fraud scaling up.
+- No major Bitcoin/Ethereum price moves in RSS sources today.
 
-**Watch:** UK bank custody talks could surface FCA guidance later this quarter — relevant given your banking/AI governance lens.
+**Grok noted:** Bitcoin holding above $98k amid UK bank custody discussions; Ethereum L2 fees down 30% for enterprise pilots. If accurate, the custody talks are worth tracking — UK banks entering crypto custody would be a significant shift.
+
+**Evergreen:** Cointelegraph and CoinDesk feeds remain best for daily price/regulatory monitoring.
 
 ---
 
-*Quiet Monday overall — Greenspan's passing and BoE capital relief lead. Heat wave ahead in Ireland.*
+*Stay cool this week — heatwave peaks Wednesday/Thursday.*
