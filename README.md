@@ -4,104 +4,108 @@
 
 # Personal Dashboard — Tuesday 23 June 2026
 
-*Last refreshed: Tuesday 23 June 2026, 19:15 BST*
+*Last refreshed: Tuesday 23 June 2026, 19:17 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **Tech stocks tumbled** on AI spending sustainability concerns — broad market jitters, though UK banks holding steady
-- **Lloyds hiring 300 tech experts** for AI push; separately testing model-risk tools under new FCA sandbox
-- 🔥 **FCA publishes updated DORA implementation rules** for UK banks, effective September 2026
-- **Barclays acquires GoHenry** kids' money app; also running agentic AI pilot for mortgage underwriting (25% faster processing reported)
-- **Heatwave gripping Europe and UK** — Met Éireann forecasting up to 31°C in Ireland by Thursday; advisories out for Dublin bathing spots
+- **Tech stocks tumble** on AI spending concerns — sudden wave of selling triggers doubt over sustainability of the AI boom (BBC)
+- **Meta halts worker tracking** for AI training after just two months, citing privacy fears (BBC)
+- **Lloyds Banking Group hiring 300 tech experts** for AI push; broader adoption could lead to future job cuts (Guardian)
+- **Bank of England diluting capital rules** for investment banks' trading activities; also stress-testing private credit markets (FT)
+- 🔥 **EU Entry/Exit System (EES)** causing sleepless nights for airports chief ahead of summer — travel disruption risk for Kerry/Dublin trips
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed:**
+**What changed since last refresh:**
 
-- **Meta halts worker-tracking for AI training** after just two months, citing privacy fears — a governance cautionary tale for any firm hoovering internal data to train models.
-- **Anthropic launched Cowork**, a Claude Desktop agent for non-technical users to work in local files without coding. Built in roughly a week — signals accelerating agentic deployment outside developer circles.
-- **Railway raised $100M** to challenge AWS with "AI-native" cloud infrastructure; now 2M developers on platform with zero marketing spend. Worth watching as an alternative deployment layer.
-- **Barret Zoph out at OpenAI again** after five months heading enterprise AI sales — churn at that level suggests internal strategic shifts around commercialisation.
+- **Meta privacy pivot**: Halted employee computer-usage tracking programme for AI training data after just two months — governance and consent issues forced the pause. Relevant signal for any bank considering similar internal data harvesting for model training.
 
-**UK Banking-specific:**
+- **Anthropic's Cowork launch**: New Claude Desktop agent works directly in local files without coding — built in ~2 weeks. Extends agentic capability to non-technical users; watch for enterprise compliance implications.
 
-- 🔥 **Lloyds launching 300-role AI recruitment drive** — Charlie Nunn's team building internal capability ahead of broader adoption. The Guardian notes longer-term job-cut implications.
-- **NatWest reports 18% cost reduction** from governed AI cutovers in retail banking — concrete production ROI figure for your advisory conversations.
-- **Lloyds also piloting model-risk AI tools** under a new FCA sandbox — aligns with DORA readiness and your governed-cutover positioning.
+- **Railway raises $100M**: Positioning as AI-native cloud alternative to AWS with 2M developers onboarded organically. Could disrupt legacy cloud contracts in banking if proven resilient.
 
-**Agentic AI watch:**
+- **Salesforce rebuilds Slackbot** as full AI agent — search, workflow automation, agentic actions. Direct competitor to Microsoft Copilot in workplace AI.
 
-- Salesforce rebuilt Slackbot as a full AI agent (search, summarise, act across workspace) — enterprise agentic race heating up against Microsoft/Google.
-- SAP and Google Cloud deploying "agentic commerce architecture" for automated multi-agent marketing/retail ops.
+- **Five Eyes warning**: Top spy agencies say AI cyber threats will impact organisations "within months" — specific concern around adversarial AI in financial services.
+
+- **e2e-assure's Cumulo**: UK-sovereign, AI-driven zero-day SOC platform announced — aligns with GCHQ's AI Cyber Shield initiative. Worth tracking for banking OT/IT security.
+
+**Agentic AI note**: The Anthropic Cowork and Salesforce Slackbot developments show agentic AI moving rapidly from developer tools into general business operations — precisely the governed cutover territory where your advisory work sits.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK focus:**
+**UK Banks:**
 
-- 🔥 **FCA publishes updated DORA implementation rules**, effective September 2026 — essential reading; sets operational resilience requirements for third-party tech dependencies.
-- **Bank of England plans to dilute capital rules** for investment banks' trading activities; also publishing parameters for stress-testing private credit markets.
-- **Barclays buying GoHenry** from Acorns — targeting affluent families' young people; strategic play for lifetime banking relationships.
-- **Rathbones stock down 17%** after internal review found regulatory compliance shortcomings — creates opportunity for Lloyds/Barclays wealth arms to compete harder for HNW clients.
+- **Lloyds Banking Group** launching major AI recruitment drive for 300 tech specialists — exclusive from Guardian. Charlie Nunn positioning for AI-led transformation, though the piece notes broader adoption could eventually reduce headcount. Direct relevance to your Lloyds contacts.
 
-**Wider:**
+- **Bank of England** publishing diluted capital rules for investment banks' trading books, plus new stress-test parameters for private credit markets (FT). Worth reviewing for any advisory work touching Basel III.1 implementation.
 
-- **EU set to remove barriers to cross-border capital flows** for banks — draft Commission report aims to boost bloc lenders vs US rivals.
-- Germany's **BaFin removes three Berenberg bosses** over possible governance breaches at the country's oldest lender.
-- Global banks committed **$906bn to fossil fuels in 2025** — ESG pressure continues; JPMorgan leads the pack.
+- **EU cross-border capital flows**: Commission draft aims to remove barriers for banks operating across member states — competitive pressure on UK lenders post-Brexit.
 
-**Fraud alert:** UK investment fraud topped £220m last year; AI increasingly used for larger-scale scams involving crypto, gold, wine.
+**Regulatory/Risk:**
+
+- **BaFin removes three Berenberg bosses** over corporate governance breaches — Germany's oldest private bank under scrutiny. Cross-border governance lessons for UK operations.
+
+- **Investment fraud up significantly**: UK lost £220M+ last year to increasingly sophisticated scams using AI — gold, crypto, wine schemes. Criminals deploying AI for larger-scale fraud (Guardian).
+
+- **Rathbones compliance blunder** sent stock down 17% after internal review found regulatory shortcomings — benefits high-street banks competing for UK wealth clients.
+
+**Rates/Markets:**
+
+- No fresh mortgage rate movement in today's feeds. Tech stock selloff on AI spending concerns may create secondary pressure on bank valuations if sentiment spreads.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry:**
-- **Kerry short-break luxury packages** via private transfer from Dublin now bookable for July (Fáilte Ireland). Heatwave makes this week ideal for scouting dates.
-- **Dublin AI event 2–3 July** pairs with a Kerry farm-stay extension — could combine professional development with a Listowel-area visit.
+**Kerry/Ireland:**
 
-**Safari & cruise:**
-- **Silversea adds Regent Seven Seas combo cruise-safari itinerary** from Cape Town for 2027 sailings — worth early booking for best suite selection.
+- **Heatwave sweeping Europe and UK** this week — Met Éireann expects Thursday to reach 31°C with thunderstorm risk. Dublin recorded 28.3°C today. If planning a Listowel trip, factor in heat and potential storm disruption.
 
-**EES warning:**
-- Europe's airports chief says the EU's new Entry/Exit System border tech is "not working" and he doesn't know how airports will cope this summer. If planning any EU fly-ins, allow extra buffer at immigration.
+- **Dublin bathing advisory**: Avoid Forty Foot, Dún Laoghaire Baths, Sandycove, Coliemore Harbour due to rainfall impact on water quality.
 
-**Weather note:** Heatwave across UK and Ireland through Thursday — pack accordingly if travelling.
+**Travel disruption watch:**
+
+- 🔥 **EU Entry/Exit System (EES)**: Europe's airports chief says system isn't working and he doesn't know how airports will cope this summer. If Kerry trips involve EU transits, build in extra time or consider direct routing.
+
+**No fresh ultra-luxury cruise or safari deals in today's feeds.** Evergreen suggestion: Silversea's autumn Mediterranean repositioning cruises typically release in late June — worth a check this week.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-- **Tralee Kingdom Stadium card confirmed for tomorrow (24 June)** — 8 races scheduled. Book tonight if attending.
-- No fresh updates from Cork or Limerick in today's feeds. Check Irish Greyhound Board for weekend fixtures.
+No fresh Tralee Kingdom Stadium, Cork, or Limerick racing news in today's feeds. 
+
+**Evergreen**: Irish Greyhound Board typically confirms midweek cards by Tuesday evening — check their fixtures page for any Thursday/Friday Tralee meetings.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review FCA DORA implementation summary** — September deadline approaching; note client implications
-2. **Book Tralee Kingdom Stadium** for tomorrow's 8-race card if available
-3. **Scan Silversea July deals** and 2027 Cape Town cruise-safari combo — early suite inventory moves fast
-4. **Diarise Dublin AI event (2–3 July)** and check Kerry farm-stay extension options
-5. **Flag Lloyds AI hiring/sandbox news** for advisory discussion — concrete UK agentic AI production example
+1. **Read the Lloyds AI hiring story** (Guardian) — potential talking point for any upcoming Lloyds conversations on AI governance
+2. **Review BoE capital rules paper** (FT link) for private credit stress-test parameters — relevant to advisory positioning
+3. **Check EES status** before booking any EU-transit Kerry trips this summer — disruption risk is real
+4. **Monitor Thursday weather** — 31°C forecast with thunderstorms if travelling to Ireland
+5. **Scan Irish Greyhound Board fixtures** for Tralee cards later this week
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**Quiet day for major UK regulatory moves.** Key context:
+**What changed:**
 
-- **Investment fraud involving crypto topped £220m in UK last year** — criminals increasingly using AI for elaborate scams.
-- No fresh DORA-adjacent crypto guidance in today's FCA materials.
-- Feeds from CoinDesk, Cointelegraph, Decrypt show no breaking UK banking/crypto crossover stories.
+- **Investment fraud surge** (Guardian): UK scams involving cryptocurrencies contributed to £220M+ losses last year, with criminals increasingly using AI for sophisticated schemes. Regulatory pressure likely to intensify.
 
-**Standing suggestion:** Monitor FCA cryptoasset financial promotions regime enforcement — next round of actions expected Q3 2026.
+- No fresh stablecoin or UK Treasury consultation news in today's feeds beyond the general fraud context.
+
+**Evergreen note**: The Block and CoinDesk continue tracking EU MiCA implementation — relevant if UK-EU regulatory divergence affects banking clients' digital asset strategies.
 
 ---
 
-*Markets nervous on AI spend; UK banks pressing ahead with production deployments. Good evening for reviewing DORA and booking Tralee.*
+*Markets jittery on AI spending, Lloyds doubling down on AI talent, and Europe's heatwave building — stay cool.*
