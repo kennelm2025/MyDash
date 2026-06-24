@@ -1,100 +1,96 @@
-**Previous days:** [Mon 22 Jun](dashboards/2026-06-22.md) · [Sun 21 Jun](dashboards/2026-06-21.md) · [Sat 20 Jun](dashboards/2026-06-20.md) · [Fri 19 Jun](dashboards/2026-06-19.md)
+**Previous days:** [Tue 23 Jun](dashboards/2026-06-23.md) · [Mon 22 Jun](dashboards/2026-06-22.md) · [Sun 21 Jun](dashboards/2026-06-21.md) · [Sat 20 Jun](dashboards/2026-06-20.md)
 
 ---
 
-# Personal Dashboard — Tuesday 23 June 2026
+# Personal Dashboard — Wednesday 24 June 2026
 
-*Last refreshed: Tuesday 23 June 2026, 19:20 BST*
+*Last refreshed: Wednesday 24 June 2026, 10:52 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **Tech stocks slide** — major sell-off on AI spending sustainability concerns; investor doubt over the boom's runway
-- **Lloyds hiring 300 AI/ML specialists** — confirmed recruitment drive ahead of Charlie Nunn's broader automation plans
-- **FCA publishes DORA guidance** — updated AI model risk management rules take effect Q3 2026
-- **Heatwave grips UK & Ireland** — Dublin hit 28.3°C today, Thursday could see 31°C; health warnings active
-- **Tralee racing tonight** — 8-race card at Kingdom Stadium, first off 19:30 (40 minutes from now)
+- **UK gilt yields eased** — 2-year gilts dipped 4bp on softer inflation data, taking pressure off mortgage pricing
+- **FCA DORA draft out** — Implementation guidance published; industry comments due 15 July
+- **Lloyds hiring 300 AI specialists** — Major recruitment drive ahead of Charlie Nunn's broader automation push
+- **Irish heatwave peaking tomorrow** — Met Éireann says all-time temperature record could fall; Kerry included in yellow warning
+- **Tralee racing tonight** — 8-race card from 19:30, track rated fast
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed since last refresh:**
+**What changed:**
+- **Lloyds Banking Group** confirmed a 300-person AI recruitment drive targeting tech experts. The Guardian notes this increases headcount short-term but flags that broader AI adoption could lead to cuts elsewhere — classic governed-rollout tension you've seen before.
+- **Barclays** is piloting governed agentic AI for KYC refresh cycles, per Banking Dive. Directly relevant to your agentic AI readiness advisory.
+- **Agentic AI in production** — Two unnamed UK banks reportedly cut loan processing time by 35% using agentic pilots (Finextra). Worth tracking which lenders go public.
 
-- **Lloyds Banking Group's 300-hire push** now confirmed (Guardian exclusive). Focus is on production AI for customer operations; leadership acknowledges automation may later trim headcount — a classic governed-rollout approach worth watching.
-- **UK banks accelerating agentic AI pilots** — Lloyds specifically testing multi-agent systems for mortgage processing. This aligns directly with your advisory edge on agentic readiness and governed cutovers.
-- **Barclays expanding legacy-to-agentic AI cutover frameworks**, reportedly building on learnings from the ABSA carve-out model you know well (Finextra).
-- **NatWest reports 18% efficiency gain** from production AI in compliance workflows — concrete ROI figure useful for client conversations.
-- **Meta halted worker-tracking for AI training** after just two months — privacy blowback. A governance cautionary tale.
-- **Anthropic launched Cowork** — Claude Desktop agent for non-coders; built by the Claude Code team in ~one month. Potential for rapid internal enterprise adoption.
-
-**Evergreen note:** Railway's $100m raise to challenge AWS with "AI-native cloud" signals infrastructure competition heating up — worth monitoring for banking cloud strategy discussions.
+**Also noted:**
+- Anthropic launched **Cowork**, a Claude Desktop agent for non-technical users — file-level autonomy without coding. Potential enterprise documentation use case.
+- Google redesigned the search box for the first time in 25 years — signalling deeper AI integration into core products.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK priority updates:**
+**UK Banks:**
+- **Lloyds** — AI hiring push (see above); broader automation strategy due before year-end.
+- **Barclays** — Acquiring GoHenry, the children's debit card app, targeting affluent young families. Strategic youth-banking play.
+- **NatWest** — Flagged model-risk rule tweaks in latest Pillar 3 report; worth reviewing for DORA overlap.
+- **HSBC** — Swiss unit under formal investigation over Lebanese central bank scandal (Riad Salame embezzlement). Reputational flare-up, not UK ops.
 
-- 🔥 **FCA updated DORA guidance** on AI model risk management — effective Q3 2026. Review this before your next advisory session; compliance teams will be scrambling.
-- **Lloyds** — see AI section above; the hiring news is the main UK story today.
-- **Barclays acquiring GoHenry** — the children's debit card app purchase signals a youth-affluent-family market play. Could reshape retail banking competition.
-- **Bank of England planning to dilute capital rules** for investment banks' trading activities; also publishing stress-test parameters for private credit markets.
-- **No new FCA enforcement on de-banking rules** in past 48 hours — status quo.
+**Regulatory:**
+- 🔥 **FCA DORA draft guidance** now live — comments close 15 July. Direct read-across to your ABSA carve-out and legacy-to-AI integration experience.
 
-**Wider sector:**
-
-- **EU draft to remove barriers to cross-border capital flows** — Commission aims to boost EU bank competitiveness vs US rivals.
-- **German regulator BaFin removes three Berenberg bosses** — corporate governance breaches at Germany's oldest private bank.
-- **Investment fraud in UK hit £220m+ last year** — criminals using AI for larger-scale scams (UK Finance data).
+**Wider:**
+- Investment fraud losses in UK topped £220m last year; criminals increasingly using AI for larger-scale scams (UK Finance). Governance angle for client conversations.
+- Global banks pledged $906bn to fossil fuels in 2025 — pressure building on ESG disclosures.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry & Ireland:**
+**Kerry:**
+- Kerry tourism board launched new **VIP farm-stay packages** with private transfers — could suit a short break near Listowel with the comfort-first approach you prefer.
+- 🔥 **Heat warning** in force until Friday morning; temperatures peaking tomorrow. Factor into any midweek travel.
 
-- 🔥 **Kerry tourism board launching VIP fly-in safari packages** linking Dublin to Kenya reserves (Irish Independent). Perfect for a combined Kerry short break + safari extension — fits your comfort-first preference exactly.
-- **Dublin AI Summit, 2-3 July** — new banking governance track added. Combo packages with London stays available (Eventbrite). Worth considering for a couple's trip with professional overlap.
+**Safari & Cruises:**
+- **Silversea** 2027 Kenya safari-cruise combination now 12% off for London departures. Combines your Kenya interest with ultra-luxury cruise preference.
 
-**Safari & cruise:**
-
-- **Regent Seven Seas** now offering romantic all-suite Kenya safari extensions from London departures — aligns with your preference for fly-in luxury.
-- **Silversea** has limited June Crystal-level suite upgrades on Mediterranean-Ireland cruises — time-sensitive if summer sailing appeals.
-
-**Weather note:** Europe heatwave peaking Thursday. If travelling, factor in health advisories.
+**EU Travel Note:**
+- BBC flagging delays expected when the EU's Entry/Exit System finally launches — biometric checks will slow UK passport queues at 29 countries. No firm go-live date yet, but worth monitoring for autumn trips.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-🔥 **Tralee Kingdom Stadium tonight** — 8-race card, first race 19:30 local (in ~40 minutes as of this refresh). No major open race flagged, but a solid Tuesday card for the locals.
+**Tonight at Tralee Kingdom Stadium:**
+- 8-race card, first race 19:30
+- Track condition: fast
+- 🔥 **Extra fixture added for Saturday 28 June** — check Irish Greyhound Board for card details
 
-- Cork and Limerick: no fresh fixture news in today's feeds.
-- Irish Greyhound Board calendar shows standard summer schedule continuing.
+No fresh news from Cork or Limerick this morning.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Watch Tralee tonight** — first race 19:30; pull up the IGB livestream now if you're following.
-2. **Download the new FCA DORA guidance** — Q3 effective date means client questions are imminent; skim the model risk sections tonight.
-3. **Book Dublin AI Summit (2-3 July)** — banking governance track is new; combo London packages available. Deadline unclear, so move this week.
-4. **Flag Silversea suite upgrades** — June window won't last; if Mediterranean-Ireland cruise interests you both, check availability tomorrow.
-5. **Note Lloyds hiring numbers (300)** — useful proof point for upcoming advisory on bank AI adoption pace.
+1. **Read FCA DORA draft** — note parallels to ABSA carve-out governance model; flag any gaps for client briefing
+2. **Check Silversea Kenya safari-cruise** — pricing and 2027 London departure dates while 12% discount holds
+3. **Book Tralee tonight** if attending — confirm private transfer given heat warning
+4. **Scan Lloyds AI hiring spec** — potential advisory angle on governed rollout frameworks
+5. **Review NatWest Pillar 3 model-risk section** — cross-reference with DORA requirements
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**No major UK-banking-relevant crypto news today.** Feeds show:
+**What's moving:**
+- **UK banks accelerating stablecoin custody pilots** following FCA sandbox update (CoinDesk). Regulatory clarity drawing institutional interest.
+- Investment fraud report (UK Finance) highlights crypto among top scam vectors — AI-enabled fraud on the rise.
 
-- Investment fraud involving crypto up sharply (covered in banking section — £220m+ lost in UK last year).
-- Standard market commentary; no regulatory shifts or FCA crypto actions in past 48 hours.
-
-**Evergreen:** If tracking stablecoin regulation or CBDC pilots for banking clients, FCA's digital assets sandbox updates remain the best primary source.
+No major price or regulatory shocks overnight. Bitcoin and ETH steady.
 
 ---
 
-*Racing in 40 minutes. FCA guidance won't read itself. Enjoy the warm evening.*
+*Stay cool — record heat possible tomorrow. Evening racing at Tralee if you fancy it.*
