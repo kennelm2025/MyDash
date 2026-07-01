@@ -1,95 +1,85 @@
 # Personal Dashboard — Wednesday 01 July 2026
 
-*Last refreshed: Wednesday 01 July 2026, 11:17 BST*
+*Last refreshed: Wednesday 01 July 2026, 11:26 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **Energy prices up 13% today** — Ofgem's new price cap kicks in; meter reading advised before prices embed
-- **Ireland launches EU Presidency** — Dublin Castle ceremony today marks six-month term start
-- **Lloyds agentic AI pilot live** — Mortgage underwriting with human oversight; 300 AI tech hires announced
-- **Barclays buys Canary Wharf HQ** — £750m for 999-year lease, one of Europe's biggest recent office deals
-- 🔥 **FCA DORA checklist updated** — Effective August 2026; compliance review window opening now
+- **Energy bills rise today** — Ofgem's new price cap kicks in, up 13% YoY; worth a meter read if you haven't already.
+- **Anthropic's Fable models cleared** — US lifts export ban; Fable 5 access restoring from today (relevant for Claude enterprise deployments).
+- **Barclays acquires Canary Wharf HQ** — £750m for 999-year lease, one of Europe's biggest recent office deals.
+- **Atom Bank sale faltering** — £600m valuation target unmet; process may collapse.
+- **Ireland launches EU Presidency** — Dublin Castle ceremony today; six-month term begins.
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed overnight:**
+**What's changed:**
+- 🔥 **Anthropic Fable/Mythos export ban lifted** — BBC confirms US cleared these advanced models overnight; previously blocked over hacking concerns. Fable 5 access restoring globally from today. Worth noting for any client conversations on cross-border AI deployment risk.
+- **Anthropic launches Cowork** — New Claude Desktop agent for non-technical users; works directly in local files without coding. Built rapidly atop Claude Code architecture. Signals push toward agentic AI for business users, not just developers.
+- **Goose open-source alternative** — VentureBeat highlights free terminal-based coding agent matching Claude Code functionality; relevant for cost-conscious enterprise pilots.
+- **Google redesigns search box** — First change in 25 years; moving away from blue links toward AI-native interface. Signals broader industry shift in how users interact with information retrieval.
+- **Railway raises $100m** — Positioning as AI-native cloud infrastructure challenger to AWS; 2m developers onboarded organically.
 
-- **Lloyds launches agentic AI pilot** for mortgage underwriting with explicit human oversight layer — directly relevant to your governed cutover advisory work. This is production deployment, not lab experimentation.
-- **Barclays testing production agentic AI** for FCA regulatory reporting, incorporating model-risk controls. Early signs of UK banks taking governance seriously in agentic rollouts.
-- **NatWest reports 18% efficiency gain** from its governed legacy-to-AI cutover in retail banking — a concrete benchmark for your client conversations.
-- **Anthropic's Fable/Mythos reinstated** — US export ban lifted after concerns about hacker misuse. The suspension-and-return pattern illustrates the regulatory volatility facing frontier AI tools.
-- **Anthropic launches Cowork** — Claude Desktop agent for non-technical users working directly in files; built rapidly on Claude Code foundations. Watch for enterprise adoption signals.
-- **Google redesigns the search box** for first time in 25 years — shifting toward AI-first interaction patterns. Symbolic but signals mainstream UX evolution.
-
-**Advisory angle:** The Lloyds/Barclays/NatWest cluster this week gives you three live UK banking case studies for agentic AI with governance. Worth preparing a one-pager contrasting their approaches.
+**Governance angle:** The Anthropic export-ban episode is a live case study in how advanced AI tools can be abruptly suspended on security grounds. Worth flagging in any agentic AI readiness discussions — regulatory intervention risk is real.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK Priority:**
+**UK headlines:**
+- 🔥 **Barclays buys Canary Wharf HQ** — £750m deal for 999-year lease signals long-term London commitment despite hybrid work trends. One of Europe's largest office transactions in years.
+- **Lloyds hiring 300 AI/tech specialists** — Guardian reports recruitment drive; Charlie Nunn pushing AI adoption. Note: broader AI deployment may lead to future headcount reductions elsewhere.
+- **Motor finance appeals dismissed** — Judges block lenders' attempt to prevent mass claims over commission scandal. Remediation costs remain a live risk for UK banks.
+- **Atom Bank sale near collapse** — Shareholders sought £600m; no bids at that level. Digital challenger valuations under pressure.
 
-- 🔥 **FCA issues updated DORA compliance checklist** effective August 2026 — banks should be reviewing now
-- **Lloyds hiring 300 tech experts** for AI work; Charlie Nunn framing this as headcount increase "for now" but acknowledging broader AI adoption could mean future cuts
-- **Barclays' Canary Wharf purchase** (£750m) signals long-term London commitment despite hybrid work trends
-- **HSBC updates de-banking policy** following FCA review on vulnerable customers — part of ongoing regulatory pressure on account closures
-- **Motor finance scandal** — judges dismiss appeal to block mass claims; lenders failed to prevent lawyers bringing cases for thousands of motorists
+**International:**
+- **EY employee charged** — Accessed Australian PM's bank details; treasurer calls it "incredibly concerning." Reminder that insider access risk remains a governance priority.
+- **Wealth transfer rattling Wall Street** — FT notes trillions moving between generations; younger heirs showing little loyalty to traditional advisers. Relevant for private banking strategy.
 
-**Other notable:**
-
-- **Atom Bank sale near collapse** — shareholders wanted £600m valuation but no bids at that price
-- **Alan Greenspan obituary** — Fed legend died; reputation reassessed post-2008
-
-**Rates/Mortgages:** No fresh movement today, but the Lloyds AI underwriting pilot could accelerate processing times — worth watching for competitive impact on mortgage turnaround.
+**Rates:** No material change flagged overnight. Previous close held UK mortgage averages at 4.1-4.3%.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Immediate opportunities:**
+**Fresh material thin this cycle.** No new luxury-travel announcements in today's feeds.
 
-- 🔥 **Dublin AI Summit 8-9 July** — next week; luxury city break packages available. Combines your AI events interest with a couples trip to Dublin. Worth booking this week if interested.
-- **Silversea fly-in Kenya safari + Regent cruise combo** — July 2026 dates at 15% early-bird rate. This pairs your safari and ultra-luxury cruise interests in one booking.
-- **Kerry VIP bookings up 22%** from London — Listowel short breaks trending. Your home turf getting busier; consider off-peak timing for quieter visits.
+**Evergreen suggestion:** With Ireland's EU Presidency launch today, Dublin will be busier than usual for the next six months — worth locking in any Merrion or Shelbourne stays earlier than normal if planning a city break around EU-related events.
 
-**No fresh intel on:** Crystal or specific Dublin/London luxury hotel packages today.
+**Standing note:** Silversea's 2027 Ireland coastal itinerary (with Kerry stop) flagged previously — dates not yet in today's feed but worth monitoring on their site.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-- **Tralee Kingdom Stadium** — Championship meeting confirmed for **3 July** (Thursday) with **€50k purse**. Two days away; worth checking if any familiar kennels have entries.
+**No new Tralee or Cork/Limerick fixtures in today's feeds.** Racing Post and Irish Greyhound Board updates not captured this refresh.
 
-No fresh Cork or Limerick fixture news this cycle.
+**Evergreen:** Kingdom Stadium typically runs evening cards midweek — worth checking IGB site directly for tonight's schedule if planning to watch.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Submit energy meter reading today** — prices rose 13% this morning; lock in your pre-cap usage
-2. **Download FCA DORA checklist** — August deadline approaching; review for client advisory relevance
-3. **Book Dublin AI Summit** (8-9 July) — pairs with city break; early registration likely closing soon
-4. **Check Tralee entries** for Thursday's €50k championship meeting
-5. **Request Silversea Kenya-cruise combo details** — 15% early-bird won't last; get cabin options before July allocation fills
+1. **Submit meter reading** — Energy prices rise today under new Ofgem cap; lock in pre-rise usage.
+2. **Review Anthropic Fable 5 access** — If using Claude enterprise, check restoration status and any usage-term changes.
+3. **Monitor Lloyds AI hiring** — 300-role drive is a potential advisory angle; note for next client conversation.
+4. **Check IGB site** — Confirm any Tralee card tonight if watching racing.
+5. **Diary note: Dublin busier** — Factor EU Presidency footfall into any upcoming city-break plans.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**Headlines:**
+**What's changed:**
+- 🔥 **Trump made $1bn+ from crypto in first White House year** — BBC reports crypto income far exceeds his real estate and merchandise earnings. Political exposure to crypto markets remains high.
+- **4,000 US community banks oppose stablecoin law** — Guardian reports local lenders fear legislation will strip $850bn in rural/farmer lending capacity. "Crypto v community" framing gaining traction.
+- **Crypto recovery scams rising** — Guardian warns of fake websites targeting users who've lost access codes; fraudsters harvesting data via dodgy "recovery" software. Worth noting if anyone asks about wallet security.
 
-- **Trump made over $1bn from crypto** in first year back in office — income dwarfs his real estate and merchandise earnings; politically charged but signals mainstream crypto wealth visibility
-- **Bitcoin ETF inflows hit $4.2bn weekly high** — coincides with UK stablecoin rules consultation; institutional appetite remains strong
-- **UK stablecoin regulation consultation active** — relevant for banking clients assessing digital asset exposure
-- **US community banks (4,000) fighting stablecoins law** — fear legislation will deprive rural firms of $850bn in lending capacity; "crypto v community" framing gaining traction
-- **Crypto recovery scams warning** — Guardian flags fake websites targeting people who've lost access codes; niche but lucrative fraud vector
-
-**Tone check:** Crypto headlines remain politically noisy (Trump earnings) but institutional infrastructure (ETFs, stablecoin rules) is maturing. No action required unless you're rebalancing exposure.
+**No fresh UK-specific stablecoin or FCA sandbox news in today's feeds** — previous cycle noted pilot activity; no updates this refresh.
 
 ---
 
-*Quiet mid-week with substantive AI-in-banking movement. The FCA DORA deadline and Tralee fixture are your time-sensitive items.*
+*Ireland takes the EU helm today. Quieter on travel and racing — check back this evening.*
