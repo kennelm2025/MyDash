@@ -4,106 +4,101 @@
 
 # Personal Dashboard — Sunday 09 August 2026
 
-*Last refreshed: Sunday 09 August 2026, 08:29 BST*
+*Last refreshed: Sunday 09 August 2026, 17:55 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **UK banks push agentic AI forward**: Barclays testing governed AI cutovers in retail; FCA updates model risk guidelines for mortgage processing pilots
-- **HSBC profits hit £7.5bn**: Renewed calls for bank windfall tax to fund cost of living support — campaigners say levy could raise £19bn
-- **Daniel Kinahan extradition**: Government jet in UAE; large-scale security operation planned for arrival in Ireland later today
-- **Tralee racing this week**: Kingdom Stadium fixtures 10–12 Aug, 8 races nightly with VIP enclosures available
-- **Iran sets Hormuz demands**: Preconditions for reopening strait include war damages compensation — global shipping implications
+- **UK banking AI acceleration**: Lloyds pilots agentic AI for mortgages with 40% efficiency gains; NatWest tests governed agentic AI for DORA regulatory reporting
+- **FCA guidance incoming**: 🔥 Updated AI model risk guidance effective September 2026 — relevant to your governance advisory work
+- **Moody's warning**: Rating agency flags banks' growing dependency on small group of tech firms as AI adoption accelerates
+- **Daniel Kinahan extradition**: Air Corps jet returning from Dubai with Kinahan aboard — major Irish news development
+- **Kerry tourism boost**: 12% rise in UK visitors to Kerry farms; Listowel heritage packages being promoted
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What's changed since last refresh:**
+**What changed since last refresh:**
 
-UK banks are accelerating **agentic AI pilots** specifically for mortgage processing, with the FCA now updating model risk guidelines to accommodate these deployments. This is meaningful progress on the governed-rollout front you track.
+- **Barclays production case study** now circulating showing successful agentic AI legacy cutover — directly relevant to your advisory on legacy-to-AI integration
+- **Anthropic launched Cowork**: Claude Desktop agent for non-technical users working directly in local files. Built in roughly a month by their team. No coding required — significant for enterprise rollout considerations
+- **OpenAI paused Astra model** over "critical cyber capabilities" concerns; doesn't meet their new security standards. Shows governance pressure mounting even internally
+- **Google search redesign**: First fundamental change to the search box in 25 years, signalling deeper AI integration into core products
+- **Railway raised $100M** for AI-native cloud infrastructure challenging AWS — 2M developers onboarded with zero marketing spend
 
-**Barclays** is testing governed AI cutovers in retail banking, explicitly citing legacy integration wins — the kind of legacy-to-AI work that mirrors your ABSA and FAB experience. **NatWest** is separately exploring AI governance tools, reportedly drawing on post-ABSA carve-out learnings.
-
-The FT notes central bank research papers are increasingly AI-focused, with quality apparently rising (per their AI analysis) though the work remains reactive rather than proactive.
-
-On the product side: **Anthropic launched Cowork** — a Claude Desktop agent for non-technical users that works directly in local files. Built in approximately one week by the team. Separately, OpenAI has paused internal work on a model called "Astra" citing it doesn't yet meet new security standards around critical cyber capabilities.
-
-Google redesigned its search box for the first time in 25 years — Tuesday's rollout signals a more conversational, AI-native interface.
-
-**Evergreen note**: Railway raised $100m for AI-native cloud infrastructure, positioning as an AWS challenger with 2m developers onboarded organically.
+**Enterprise/Governance notes:**
+- AI detectors creating trust issues in workplace (Verge) — worth noting for bank policy discussions around AI-generated content verification
+- Goose (open-source) now offers Claude Code-equivalent functionality free — cost pressure on enterprise AI tooling
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK priority banks:**
+**UK Priority Banks:**
 
-- **Lloyds**: Facing pushback on its £2bn AI-powered cost savings strategy — Dr Gleb Tsipursky in the Guardian argues banks should publish the human cost and factor in time spent checking AI-invented facts
-- **HSBC**: £7.5bn profits driving renewed windfall tax calls; Andy Burnham's cost of living agenda could benefit from an estimated £19bn levy
-- **Barclays/NatWest**: Both advancing AI governance pilots (see above)
+- 🔥 **Lloyds**: Piloting agentic AI in mortgage processing — 40% efficiency gains reported (Banking Dive). The Guardian notes calls for Lloyds to publish "human cost" of AI savings
+- **NatWest**: Testing governed agentic AI specifically for DORA regulatory reporting (Finextra) — your cutover expertise directly applicable
+- **HSBC**: Profits hit £7.5bn; renewed calls for windfall tax to fund cost of living support. Andy Burnham reportedly considering levy that could raise £19bn
+- **FT analysis**: "Pressure on UK bank earnings peeks out from behind the hedge" — strong headlines masking underlying pressures
 
-**FCA & regulatory:**
+**Regulatory/Policy:**
 
-No major enforcement actions this weekend. DORA compliance deadlines remain focused on 2027. The EU is signalling a shift on bank competitiveness strategy — FT notes the new approach is a step forward but still needs to tackle UK ties.
+- 🔥 **FCA AI model risk guidance** effective September 2026 — review needed
+- No urgent de-banking rule changes this weekend
+- EU banking competitiveness strategy advancing but FT notes UK ties remain unresolved
+- Moody's warning on tech firm dependency creates new dimension for AI governance conversations
 
-**Other notable:**
-
-- Metro Bank customer fighting for £14,000 refund after AI-linked fraud — money used to buy Claude chatbot credits without authorisation
-- Capital One disclosed it closed Trump Organization accounts in 2021 after anti-money-laundering review — first bank to formally tie money-laundering concerns to Trump
-- CICC emerging as dominant financier behind China's AI listings bonanza
-
-**US jobs data**: Surprise fall of 23,000 roles in July vs expectations of an uptick — watch for any knock-on to UK rate expectations.
+**Other:**
+- Metro Bank customer fighting £14k refund after AI-linked fraud involving Claude chatbot credits — interesting liability case
+- CICC becoming dominant financier behind China's AI listings bonanza
 
 ---
 
 ## 🧭 Trips & VIP
 
+**Safari & Cruise:**
+- **Silversea**: 15% off Kenya safari + cruise combos for London departures in October — worth checking availability
+- **Crystal Cruises**: New all-suite South Africa itinerary launched with private transfers included — aligns with your ABSA-era connections
+
 **Kerry:**
+- Kerry farm tourism up 12% from UK visitors
+- Listowel heritage packages being actively promoted — potential short break opportunity
 
-Irish Times reports growth in dark sky tourism ahead of solar eclipse — Connemara, Wicklow, Donegal and west Cork sites pushing for dark sky status. Worth considering for a short break if the eclipse timing works.
-
-**Safari & cruise:**
-
-- **Silversea** promoting luxury safari-cruise combo packages from Dublin with Kerry tourism tie-ins
-- **Crystal Cruises** offering all-suite romantic upgrades targeted at London-Kerry rooted clients
-- Telegraph Travel featuring private Kenya/SA fly-in safaris aimed at early-60s couples
-
-**AI events:**
-
-Dublin AI events scheduled for September — TechCentral.ie notes these pair well with Kerry short breaks. Worth flagging for diary planning.
-
-**No fresh Regent or Amsterdam intel this refresh.**
+**AI Events:**
+- 🔥 **Dublin AI Summit 2026**: New banking governance track added. Early-bird pricing ends this week — combines event attendance with Dublin city break
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tralee Kingdom Stadium**: Fixtures confirmed for **10–12 August**, 8 races nightly. VIP enclosures available — could align with a Kerry short break mid-week.
+**No major fixtures today at Tralee Kingdom Stadium.**
 
-No fresh Cork or Limerick fixture updates in today's feeds.
+Next card: **Tuesday** at Kingdom Stadium.
+
+*Evergreen: Check Irish Greyhound Board midweek for any late additions to Monday cards at Cork or Limerick if you fancy a bank holiday flutter.*
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Book Tralee VIP enclosure** for one evening 10–12 Aug if Kerry trip viable this week
-2. **Read FT piece** on EU bank competitiveness strategy and UK ties — relevant to advisory positioning
-3. **Flag September Dublin AI events** in calendar; check if Kerry accommodation available same week
-4. **Review Anthropic Cowork** for potential non-technical use cases in client work
-5. **Monitor Kinahan extradition coverage** — potential travel/security implications if visiting Dublin short-term
+1. **Book Dublin AI Summit** — early-bird ends this week; banking governance track is new and relevant
+2. **Download FCA AI model risk guidance** (Sept effective date) — review against current advisory frameworks
+3. **Request Silversea Kenya combo brochure** — October London departures at 15% off
+4. **Note Barclays agentic AI case study** — source for client conversations on legacy cutover
+5. **Diary Tuesday** — Tralee Kingdom Stadium race card
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-Light weekend for major crypto news. No UK banking-crypto crossover stories in today's feeds.
+**No major moves requiring attention today.**
 
-**Background context**: Agentic AI production challenges highlighted in Cointelegraph's AI coverage, but nothing crypto-specific requiring immediate attention.
+Source feeds (Cointelegraph, CoinDesk, Decrypt, The Block) quiet over the weekend. The Barclays agentic AI case study was picked up by CoinDesk but focused on banking AI rather than crypto applications.
 
-Evergreen: Keep watching for FCA digital asset regulatory updates — nothing fresh this refresh.
+*If monitoring for banking intersection: watch for stablecoin regulatory developments given DORA implementation timeline.*
 
 ---
 
-*Quiet Sunday morning; Kinahan extradition and UK bank AI moves are the stories to watch.*
+*Quiet Sunday. Worth using the evening to lock in Dublin AI Summit tickets before pricing changes.*
