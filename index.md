@@ -4,17 +4,17 @@
 
 # Personal Dashboard — Sunday 09 August 2026
 
-*Last refreshed: Sunday 09 August 2026, 08:25 BST*
+*Last refreshed: Sunday 09 August 2026, 08:29 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **UK banks push agentic AI hard**: Lloyds testing governed multi-agent mortgage systems; Barclays claims 40% cut in regulatory reporting via autonomous compliance agents.
-- **FCA model risk guidance incoming**: New AI model risk management rules effective Q4 2026, specifically targeting legacy-to-AI integration — directly in your advisory wheelhouse.
-- **🔥 Tralee races tonight**: Kingdom Stadium evening card at 19:45, 8 races including Kerry Cup qualifier.
-- **Kerry tourism surge**: Luxury farm-stay packages now available near Listowel, aimed at UK senior couples.
-- **Daniel Kinahan extradition imminent**: Government jet in UAE — expect significant Garda operation on arrival (major Irish news story today).
+- **UK banks push agentic AI forward**: Barclays testing governed AI cutovers in retail; FCA updates model risk guidelines for mortgage processing pilots
+- **HSBC profits hit £7.5bn**: Renewed calls for bank windfall tax to fund cost of living support — campaigners say levy could raise £19bn
+- **Daniel Kinahan extradition**: Government jet in UAE; large-scale security operation planned for arrival in Ireland later today
+- **Tralee racing this week**: Kingdom Stadium fixtures 10–12 Aug, 8 races nightly with VIP enclosures available
+- **Iran sets Hormuz demands**: Preconditions for reopening strait include war damages compensation — global shipping implications
 
 ---
 
@@ -22,84 +22,88 @@
 
 **What's changed since last refresh:**
 
-- **Lloyds' multi-agent mortgage pilot** now explicitly described as "governed" — suggesting structured oversight layers. This aligns with FCA's Q4 guidance push on model risk. Worth noting for advisory conversations: banks are moving from single-model to agentic orchestration faster than expected.
+UK banks are accelerating **agentic AI pilots** specifically for mortgage processing, with the FCA now updating model risk guidelines to accommodate these deployments. This is meaningful progress on the governed-rollout front you track.
 
-- **Barclays compliance agents in production**: Autonomous agents reportedly cutting regulatory reporting time by 40%. Real production deployment, not a pilot. This is the kind of case study to reference when discussing agentic readiness with clients.
+**Barclays** is testing governed AI cutovers in retail banking, explicitly citing legacy integration wins — the kind of legacy-to-AI work that mirrors your ABSA and FAB experience. **NatWest** is separately exploring AI governance tools, reportedly drawing on post-ABSA carve-out learnings.
 
-- **FCA Q4 guidance** focuses on legacy integration — exactly the governed cutover space you've built expertise in. Document landing soon; worth flagging to PwC colleagues.
+The FT notes central bank research papers are increasingly AI-focused, with quality apparently rising (per their AI analysis) though the work remains reactive rather than proactive.
 
-- **OpenAI paused "Astra" model** citing cyber capability concerns — first time they've publicly delayed a model for security reasons. Relevant for governance discussions around frontier model deployment in regulated sectors.
+On the product side: **Anthropic launched Cowork** — a Claude Desktop agent for non-technical users that works directly in local files. Built in approximately one week by the team. Separately, OpenAI has paused internal work on a model called "Astra" citing it doesn't yet meet new security standards around critical cyber capabilities.
 
-- **Anthropic's "Cowork" agent** now live in Claude Desktop — non-technical users can run file-based agents without code. Potential productivity tool, but raises questions about audit trails in banking contexts.
+Google redesigned its search box for the first time in 25 years — Tuesday's rollout signals a more conversational, AI-native interface.
 
-- **Google redesigned the search box** (first time in 25 years) — subtle but signals deeper AI integration into core products. Watch for similar UX shifts in banking apps.
+**Evergreen note**: Railway raised $100m for AI-native cloud infrastructure, positioning as an AWS challenger with 2m developers onboarded organically.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK Priority:**
+**UK priority banks:**
 
-- **Lloyds** generating headlines over AI cost-cutting strategy (Guardian letter urges transparency on job impacts from £2bn AI savings plan). Sentiment turning — expect union and media scrutiny to intensify.
+- **Lloyds**: Facing pushback on its £2bn AI-powered cost savings strategy — Dr Gleb Tsipursky in the Guardian argues banks should publish the human cost and factor in time spent checking AI-invented facts
+- **HSBC**: £7.5bn profits driving renewed windfall tax calls; Andy Burnham's cost of living agenda could benefit from an estimated £19bn levy
+- **Barclays/NatWest**: Both advancing AI governance pilots (see above)
 
-- **HSBC UK** holding steady on mortgage rates; FCA de-banking rule reviews ongoing. No immediate rate moves expected.
+**FCA & regulatory:**
 
-- **NatWest** exploring DORA-compliant AI cutovers for retail banking — reports note advisory input from ex-RBS consultants. Your background directly relevant here.
+No major enforcement actions this weekend. DORA compliance deadlines remain focused on 2027. The EU is signalling a shift on bank competitiveness strategy — FT notes the new approach is a step forward but still needs to tackle UK ties.
 
-- **FT analysis**: UK bank earnings strong on surface but "pressure peeks out from behind the hedge" — structural pressures beneath headline figures.
+**Other notable:**
 
-**Wider:**
+- Metro Bank customer fighting for £14,000 refund after AI-linked fraud — money used to buy Claude chatbot credits without authorisation
+- Capital One disclosed it closed Trump Organization accounts in 2021 after anti-money-laundering review — first bank to formally tie money-laundering concerns to Trump
+- CICC emerging as dominant financier behind China's AI listings bonanza
 
-- **EU shifting stance on banks**: FT reports new competitiveness strategy is "big step forward" but calls out need to address UK ties. Post-Brexit banking relationship still unresolved.
-
-- **Capital One/Trump Organization**: Bank confirmed anti-money-laundering concerns drove account closures. First formal bank acknowledgment linking money-laundering reviews to Trump entities.
-
-- **Metro Bank AI-fraud case**: Customer fighting for £14k refund after AI-linked fraud (funds used to buy Claude chatbot credits). Interesting intersection of AI tools and fraud vectors.
+**US jobs data**: Surprise fall of 23,000 roles in July vs expectations of an uptick — watch for any knock-on to UK rate expectations.
 
 ---
 
 ## 🧭 Trips & VIP
 
 **Kerry:**
-- New **luxury farm-stay packages near Listowel** now available, specifically marketed to UK senior couples. Worth investigating for a short autumn break — combines your roots with comfort-first accommodation.
 
-**Safari-Cruise:**
-- **Silversea offering 15% off** select 2027 Kenya/SA safari-cruise combos. Includes private transfers — ticks your VIP boxes. London departures available. Deal active now; no deadline given but early booking likely wise.
+Irish Times reports growth in dark sky tourism ahead of solar eclipse — Connemara, Wicklow, Donegal and west Cork sites pushing for dark sky status. Worth considering for a short break if the eclipse timing works.
 
-**Cruises:**
-- Regent Seven Seas holding steady pricing on Dublin-London itineraries. No fresh deals this week.
+**Safari & cruise:**
 
-**AI Events:**
-- **Dublin AI Summit 2026** early-bird registration now open. Could pair with a Kerry extension for a combined work-leisure trip. Check dates against your autumn calendar.
+- **Silversea** promoting luxury safari-cruise combo packages from Dublin with Kerry tourism tie-ins
+- **Crystal Cruises** offering all-suite romantic upgrades targeted at London-Kerry rooted clients
+- Telegraph Travel featuring private Kenya/SA fly-in safaris aimed at early-60s couples
+
+**AI events:**
+
+Dublin AI events scheduled for September — TechCentral.ie notes these pair well with Kerry short breaks. Worth flagging for diary planning.
+
+**No fresh Regent or Amsterdam intel this refresh.**
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**🔥 Tonight at Tralee Kingdom Stadium:**
-- Evening card at **19:45**, featuring **8 races** including the **Kerry Cup qualifier**.
-- Proper Sunday evening entertainment if you're near the homeplace or fancy the stream.
+**Tralee Kingdom Stadium**: Fixtures confirmed for **10–12 August**, 8 races nightly. VIP enclosures available — could align with a Kerry short break mid-week.
 
-No fresh Cork or Limerick cards flagged for today.
+No fresh Cork or Limerick fixture updates in today's feeds.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Check Silversea 2027 safari-cruise offer** — 15% off with private transfers may not last; review itineraries and cabin availability today.
-2. **Set calendar reminder for FCA Q4 AI model risk guidance** — document expected soon; position yourself for PwC client conversations.
-3. **Watch Tralee 19:45 card** — Kerry Cup qualifier worth following; stream or check results tonight.
-4. **Review Dublin AI Summit 2026 dates** — assess pairing with Kerry farm-stay for autumn trip.
-5. **Flag NatWest DORA cutover story to PwC team** — your RBS background makes you the obvious advisory lead.
+1. **Book Tralee VIP enclosure** for one evening 10–12 Aug if Kerry trip viable this week
+2. **Read FT piece** on EU bank competitiveness strategy and UK ties — relevant to advisory positioning
+3. **Flag September Dublin AI events** in calendar; check if Kerry accommodation available same week
+4. **Review Anthropic Cowork** for potential non-technical use cases in client work
+5. **Monitor Kinahan extradition coverage** — potential travel/security implications if visiting Dublin short-term
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-No major moves directly relevant to your profile this refresh. General market activity steady; no UK regulatory announcements or banking-crypto intersection stories today.
+Light weekend for major crypto news. No UK banking-crypto crossover stories in today's feeds.
 
-**Evergreen note:** CoinDesk and Cointelegraph remain useful for tracking where AI agents intersect with crypto infrastructure — relevant as banks explore blockchain-based compliance automation.
+**Background context**: Agentic AI production challenges highlighted in Cointelegraph's AI coverage, but nothing crypto-specific requiring immediate attention.
+
+Evergreen: Keep watching for FCA digital asset regulatory updates — nothing fresh this refresh.
 
 ---
 
-*Quiet Sunday morning — enjoy the Tralee card tonight.*
+*Quiet Sunday morning; Kinahan extradition and UK bank AI moves are the stories to watch.*
