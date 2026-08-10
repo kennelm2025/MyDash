@@ -4,99 +4,100 @@
 
 # Personal Dashboard — Monday 10 August 2026
 
-*Last refreshed: Monday 10 August 2026, 09:08 BST*
+*Last refreshed: Monday 10 August 2026, 09:10 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **🔥 FCA launches AI model risk consultation** — directly relevant to your governance advisory work; response deadline likely 8–12 weeks out
-- **Barclays agentic AI mortgage pilot** claims 40% efficiency gains — first major UK bank production deployment of multi-agent systems
-- **UK mortgage rates ease to 3.8% average** — Lloyds leading cuts following BoE signals
-- **Daniel Kinahan charged** in Dublin — dominating Irish news; Special Criminal Court proceedings underway
-- **Tralee Kingdom Stadium tonight** — 8 races including Kingdom Cup qualifier
+- 🔥 **FCA AI consultation live** — New model risk rules for UK banks proposed, effective Q1 2027; comment period open now
+- **Lloyds pilots agentic AI** in mortgage underwriting, reporting 40% faster processing times (Finextra)
+- **HSBC profits hit £7.5bn** — renewed calls for bank windfall tax to fund cost-of-living support under Burnham
+- **Bitcoin ETF inflows** at $1.2B weekly high; crypto markets firm
+- **Kerry luxury tourism up 12%** — UK short-break bookings to the region growing strongly
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed since Friday:**
+**What changed:**
 
-🔥 **FCA AI model risk consultation opened** — The regulator is targeting governance gaps in how UK banks deploy AI models. This sits squarely in your advisory wheelhouse: expect questions on validation frameworks, explainability requirements, and board-level accountability. Worth a detailed read today.
+- 🔥 **FCA AI model risk consultation** — The regulator has opened formal consultation on governance requirements for AI models in UK banking, targeting Q1 2027 implementation. This directly touches your advisory work on agentic AI readiness and governed cutovers.
 
-**NatWest governed multi-agent deployment** — Computer Weekly reports NatWest has deployed a multi-agent system for compliance checks with full governance wrapper. This is the first UK bank example I've seen of agentic AI in production with proper guardrails — useful reference case for your client conversations.
+- **Lloyds goes agentic** — The bank's mortgage underwriting pilot uses agentic AI to cut processing time by 40%. Worth watching: The Guardian reports pushback from staff and Dr Gleb Tsipursky's call for Lloyds to publish the human cost alongside efficiency gains.
 
-**Barclays mortgage processing pilot** — Finextra reports 40% efficiency gains from agentic AI in mortgage workflows. Combined with the Lloyds £2bn AI cost-cutting strategy from last week, UK banks are now firmly in the production phase you've been anticipating.
+- **Gartner: 28% enterprise agentic AI adoption in banking** — A new research note confirms momentum in production deployments, not just pilots.
 
-**OpenAI pauses "Astra" model** — Citing new internal security standards around "critical cyber capabilities." Signals the frontier labs are getting more cautious about release cadence — relevant context for enterprise governance discussions.
+- **Moody's warning** — The rating agency flagged that AI adoption is concentrating risk with a small group of tech vendors, creating dependency issues for major banks.
 
-**BBC reality check on AI workloads** — Tech leaders claiming AI means less work while their staff report 90-hour weeks. Useful counterpoint for implementation realism in advisory work.
+- **OpenAI pauses "Astra" model** — Internal hold on a model deemed too powerful, citing new security standards. Signals tightening self-governance ahead of regulatory pressure.
+
+- **Anthropic launches Cowork** — Claude Desktop agent now works in local files without coding; built in approximately a week. Potential for rapid internal tooling in advisory contexts.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK Big Four:**
+**UK focus:**
 
-- **Lloyds** — Facing pressure to disclose human costs of AI savings (Guardian letters coverage); rate cuts leading the mortgage market
-- **Barclays** — Agentic AI mortgage pilot in production (see above)
-- **NatWest** — Multi-agent compliance system deployed with governance framework
-- **HSBC** — £7.5bn profits fuelling renewed windfall tax calls; campaigners suggest £19bn levy could fund cost-of-living measures
+- 🔥 **HSBC** — £7.5bn profits spark fresh windfall tax calls; campaigners say £19bn could be raised to support Burnham's cost-of-living agenda.
+
+- **Lloyds** — Beyond the agentic AI pilot, the bank's £2bn AI-powered cost-cutting strategy (announced 30 July) continues to draw scrutiny over job impacts.
+
+- **NatWest** — Mortgage rates stable; bank under FCA de-banking scrutiny following recent regulatory attention.
+
+- **FT analysis** — "Pressure on UK bank earnings peeks out from behind the hedge" — headline figures strong, but hedging benefits masking underlying pressures.
 
 **Regulatory:**
 
-🔥 **FCA AI model risk consultation** — Opens today; will define UK approach to algorithmic accountability in banking
+- **EU banking strategy shift** — FT reports Brussels finally moving on competitiveness, but UK ties remain a sticking point. Relevant for cross-border advisory work.
 
-**DORA compliance** — Central Bank of Ireland issuing deadline reminders; your ABSA carve-out experience being cited as reference for Irish banks preparing submissions
-
-**Moody's warning** — Rating agency notes AI adoption is increasing bank dependency on small group of tech providers; concentration risk flagged
-
-**FT analysis** — "Pressure on UK bank earnings peeks out from behind the hedge" — strong headlines masking underlying margin pressures worth monitoring
+- **Metro Bank AI-fraud case** — Customer fighting for £14k refund after fraud involving Claude chatbot credits; highlights emerging AI-adjacent fraud vectors.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry:**
-New VIP farm-stay packages launched near Listowel by Kerry tourism board — specifically targeting London couples. Given your farm roots, could be worth a look for an autumn long weekend.
+- **Silversea** — 15% off 2027 Kenya/SA safari-cruise combinations departing London. Offer likely time-limited; fits your fly-in safari + all-suite cruise preference.
 
-**Safari-Cruise:**
-🔥 **Silversea 15% off 2027 Kenya/SA combos** — Bookable this week only. These fly-in safari + cruise packages fit your preferred style. Decision window is narrow.
+- **Kerry short breaks** — Irish Times reports 12% rise in luxury UK bookings to Kerry farm tourism. Good sign for availability if planning a Listowel-area visit.
 
-**Dublin-London Luxury:**
-Crystal Cruises now offering private jet transfers on Dublin-London itineraries — ultra-premium positioning that matches your travel preferences.
+- **Dublin AI/ML Summit** — Now offering VIP couple packages with London-Kerry extensions. Could combine professional interest with a couple break.
 
-**No fresh AI event announcements** for Dublin/London/Amsterdam this week. Suggest monitoring Web Summit (November) and London AI Summit schedules as autumn approaches.
+- No fresh luxury cruise news from Crystal or Regent this refresh.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tonight at Tralee Kingdom Stadium:**
-- 8 races scheduled
-- **Feature: Kingdom Cup qualifier** — worth following for form lines heading into the main event
-- First race typically 7:45pm
+- **Tralee Kingdom Stadium** — No fixtures today. Next card is **Wednesday**; keep an eye on the Irish Greyhound Board site for the draw.
 
-Cork and Limerick cards not yet published for this week — check Irish Greyhound Board mid-week.
+- Cork and Limerick cards not flagged in today's sources. Quiet start to the week.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Read FCA AI model risk consultation** — download from FCA.gov.uk; note response deadline and flag key governance provisions for client briefing note
-2. **Review Silversea 2027 Kenya/SA offer** — 15% discount expires this week; check September 2027 availability and cabin options
-3. **Check Tralee stream/results** for Kingdom Cup qualifier tonight — useful if planning a Kerry visit around later rounds
-4. **Skim NatWest multi-agent case study** (Computer Weekly) — concrete UK production example for your agentic AI readiness positioning
-5. **Diarise Barclays H2 update** — track whether mortgage pilot efficiency gains translate to broader rollout announcements
+1. 🔥 **Review the FCA AI model risk consultation paper** — Directly relevant to your governance and agentic AI advisory work; comment period open.
+
+2. **Check Silversea 2027 safari-cruise deals** — 15% off expires (likely by Friday); London departures to Kenya/SA fit your profile.
+
+3. **Scan Lloyds agentic AI pilot coverage** — Useful case study for client conversations; note both efficiency claims and staff pushback.
+
+4. **Calendar: Tralee Kingdom Stadium** — Wednesday card coming up; check entries Tuesday evening.
+
+5. **Flag Dublin AI Summit couple packages** — If dates align, could combine conference attendance with Kerry extension.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**Bitcoin ETF inflows hit $2.1B weekly** — driven by UK institutional demand according to CoinDesk. This is the highest weekly figure this year; suggests pension and asset manager allocations continuing despite regulatory uncertainty.
+- **Bitcoin ETF inflows** hit a $1.2B weekly high — strongest week in months, signalling renewed institutional appetite.
 
-No major altcoin or stablecoin developments in feeds this morning. Crypto market relatively quiet ahead of US inflation data later this week.
+- No major altcoin or regulatory headlines in today's feeds. Markets relatively calm ahead of US trading week.
+
+- Evergreen note: CoinDesk and The Block remain reliable for breaking regulatory news if SEC or FCA developments surface.
 
 ---
 
-*Clear skies for the week ahead — FCA consultation and the Silversea deadline are your two time-sensitive items.*
+*Solid start to the week. FCA consultation is the headline — worth carving out 30 minutes today.*
