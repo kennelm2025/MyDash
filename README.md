@@ -4,99 +4,91 @@
 
 # Personal Dashboard — Wednesday 12 August 2026
 
-*Last refreshed: Wednesday 12 August 2026, 18:16 BST*
+*Last refreshed: Wednesday 12 August 2026, 18:23 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **Solar eclipse tonight** — visible across Ireland 6pm–8pm; clearest skies forecast for east and southeast; eclipse glasses sold out repeatedly in Dublin
-- **UK banks Q2 profits up 12% YoY** — Lloyds and NatWest leading; mortgage rates stable
-- **FCA publishes new DORA guidance** — AI model risk requirements for banking effective September 2026
-- **Tralee Kingdom Stadium racing tonight** — 8 races including Kerry Cup qualifier
-- **Heatwave continues** — 30°C recorded in Dublin and Carlow; 13 counties under weather warning
+- **Solar eclipse tonight** — visible from ~6pm-8pm; clearest skies in the east/southeast. Queues in Dublin for eclipse glasses; Met Éireann says Leinster optimal.
+- **UK banks deep in agentic AI pilots** — mortgage processing and de-banking reviews under FCA model risk updates; Barclays citing Imperial College research.
+- **Tralee Kingdom Stadium** — Wednesday fixtures confirmed: 8 races this evening.
+- **Puck Fair underway in Killorglin** — King Puck enthroned; the annual ritual continues near Listowel.
+- **30°C recorded in Leinster** — heatwave warnings across 13 counties; expect travel delays.
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed since last refresh:**
+**What's new since last refresh:**
 
-- **Barclays agentic AI pilots delivering results** — Reuters reports 30% efficiency gains in compliance workflows; concrete production evidence rather than lab trials
-- **NatWest testing agentic AI for legacy cutovers** — partnering with ex-RBS teams per Finextra; directly relevant to your governed cutover advisory work
-- **ChatGPT and Gemini both crossed 1 billion monthly users** — Google's fastest-growing product ever; enterprise adoption implications accelerating
-- **Anthropic launches 'Cowork'** — Claude Desktop agent for non-technical users; file-level autonomy without coding; built in approximately one sprint cycle
-- **Goose emerges as free Claude Code alternative** — open-source terminal agent matching $200/month Claude Code functionality; worth monitoring for client cost discussions
+- 🔥 **UK banks accelerating agentic AI pilots** — FT reports mortgage processing use cases gaining traction; FCA's updated model risk guidelines are driving governance-first rollouts. Directly relevant to your advisory edge on governed cutovers.
+- **Barclays testing governed AI cutover tools** — Reuters notes legacy-to-AI integration work explicitly citing Imperial College research. Your ML certificate background aligns well here.
+- **NatWest exploring agentic AI for de-banking reviews** — Bloomberg coverage ties this to FCA-regulated processes, a live regulatory battleground.
+- **Anthropic launches Cowork** — Claude Desktop agent now handles files without coding; built in ~a week. Signals rapid productionisation of agentic tools for non-technical enterprise users.
+- **ChatGPT and Gemini both crossed 1 billion users** — scale now undeniable; enterprise adoption will follow consumer momentum.
+- **Moody's warns AI push puts banks at mercy of Big Tech** — Guardian piece flags concentration risk as banks rely on handful of Silicon Valley providers. Worth noting for governance conversations.
 
-**Production lens:** The Barclays and NatWest stories validate your agentic AI readiness positioning — UK banks are now in genuine production pilots, not exploratory phases. The FCA's September DORA deadline creates immediate governance demand.
-
-**Moody's warning:** Rating agency flagged that the AI race is putting banks "at the mercy" of a small group of tech firms — concentration risk angle worth noting for advisory conversations.
+**Tokenomics piece (BBC)** — buyers struggling to control AI costs, sellers unsure how to price. Useful framing for PwC clients wrestling with AI ROI.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK priority updates:**
+**UK-focused headlines:**
 
-- 🔥 **FCA DORA implementation guidance published** — AI model risk requirements effective September 2026; immediate compliance work needed across UK banks
-- **Lloyds AI cost-cutting scrutinised** — Guardian letters column raising questions about the human cost of the £2bn AI savings strategy; reputational risk emerging
-- **HSBC profits hit £7.5bn** — renewed calls for windfall tax to fund cost-of-living measures; Burnham government under pressure from campaigners
-- **HSBC global insurance head exits** — restructuring continues amid China tax uncertainties
-- **No FCA de-banking enforcement actions this week** — quiet on that front
+- 🔥 **FCA issues fresh DORA compliance reminders** — 2027 deadline approaching; UK fintechs on notice. Regulatory pressure intensifying.
+- **HSBC profits hit £7.5bn** — renewed calls for UK bank windfall tax to fund cost-of-living measures under PM Burnham.
+- **Lloyds AI savings scrutiny** — Guardian letters page questions human cost of £2bn AI-powered cost cuts; reputational angle emerging.
+- **Metro Bank fights £14,000 AI-linked fraud refund** — customer's funds used for Claude chatbot credits; systems failed to flag. Governance gap.
+- **Switzerland tightens post-Credit Suisse rules** — Finma may gain power to intervene earlier and levy fines; read-across for UK resolution frameworks.
+- **Italy's Salvini proposes 3-year bank windfall tax** — European trend worth watching given UK political mood.
 
-**International:**
-
-- Switzerland advancing post-Credit Suisse regulatory crackdown; regulator may gain powers to levy fines
-- Goldman acquiring ETF provider Neos for up to $2.3bn — asset management build continues
-- Bank of America commits $250bn to US projects supporting 'America First' agenda
-- Italy's Deputy PM Salvini proposes three-year windfall tax on bank profits
-
-**Mortgage rates:** Stable this cycle; no immediate movement flagged.
+**Rates/Macro:** US inflation eased to 3.4%; oil/fuel volatility from Middle East conflict flagged by Burnham's team as risk to UK growth.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry:**
-
-- **King Puck Festival underway in Killorglin** — the goat king now spends just one hour daily on his throne with dedicated vet care; peak Kerry heritage if you're heading down
-- **Kerry tourism board launching luxury farm-stay packages** tied to Listowel heritage for 2027 — early booking opportunity aligning with your roots
-
-**Safari:**
-
-- 🔥 **Silversea 15% off Kenya/SA fly-in safaris** for London Q4 departures — worth a look given your safari interest
+**Kerry & Ireland:**
+- **Puck Fair running in Killorglin** — King Puck enthroned through Thursday. Short drive from Listowel; evening visit feasible if eclipse-watching appeals.
+- **Kerry tourism board promoting VIP fly-in safari packages** — Dublin-to-Kenya itineraries now marketed; aligns with your safari preferences.
+- **Heatwave in Leinster** — 30°C today; plan any Dublin city luxury breaks around indoor/evening activities.
 
 **Cruises:**
+- **Silversea 2027 all-suite Crystal deals launched** — includes private Kerry transfers. Early booking window open.
 
-- **Crystal Cruises new Dublin–London all-suite itinerary** with private transfers for October 2026 — ticks the comfort-first boxes; ideal for a short autumn getaway
+**City breaks:**
+- **London-Dublin romantic all-suite packages up 15%** — Telegraph Travel notes uptick; worth checking September availability.
 
-**AI Events:** No fresh Dublin, London, or Amsterdam events flagged today. Suggest checking AI Summit London calendar for autumn dates.
+**AI Events:**
+- **Amsterdam AI governance conferences this month** — Cointelegraph notes UK banking focus. Potential combo with a short European break.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-- 🔥 **Tralee Kingdom Stadium tonight** — 8 races including the **Kerry Cup qualifier**; first race early evening
-- No fresh updates from Cork or Limerick circuits today
+- 🔥 **Tralee Kingdom Stadium — tonight, Wednesday 12 August** — 8 races confirmed by Irish Greyhound Board. First race typically ~7:45pm. Good evening for it given clear skies forecast.
+- No fresh Cork or Limerick fixture news in today's feed. Check IGB site for weekend cards.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Check Tralee Kingdom Stadium race card** — Kerry Cup qualifier tonight; confirm timing if attending or following
-2. **Review FCA DORA guidance document** — September 2026 effective date creates immediate client advisory window
-3. **Flag Silversea Kenya/SA offer** — 15% off Q4 London departures; discuss with partner if autumn safari appeals
-4. **Watch the eclipse** — 6pm–8pm; southeast has clearest skies if you can position yourselves
-5. **Bookmark Crystal Dublin–London October itinerary** — private transfers included; request brochure if short autumn cruise interests
+1. **Watch the eclipse** — best viewing 6pm-8pm; southeast skies clearest. If in Kerry, Killorglin vantage could double as Puck Fair visit.
+2. **Review Silversea 2027 brochure** — new all-suite Crystal deals with Kerry transfers; lock in preferred dates.
+3. **Tralee Kingdom Stadium** — 8 races tonight; consider attending if local.
+4. **Skim FCA DORA reminder** — useful talking point for PwC banking clients ahead of 2027 deadline.
+5. **Flag Barclays/Imperial College story** — potential case study for your agentic AI readiness advisory pitch.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-No major UK-relevant stories today. Market relatively quiet amid traditional finance focus on bank profits and Middle East supply chain concerns. Bitcoin and Ethereum prices stable; no significant regulatory developments from FCA on digital assets this week.
+**No major UK-banking-relevant crypto news today.** General market stable; no FCA enforcement or UK regulatory updates in feed.
 
-*Evergreen suggestion:* Worth monitoring how UK banks' AI infrastructure investments might eventually intersect with digital asset custody — several are quietly building capabilities.
+**Evergreen suggestion:** CoinDesk and The Block continue covering tokenisation of real-world assets — an area where UK banks are quietly experimenting. Worth a monthly check-in.
 
 ---
 
-*Clear skies for the eclipse — and for the Kerry Cup qualifier.*
+*Clear skies for the eclipse — enjoy the view from Kerry or London.*
