@@ -4,112 +4,99 @@
 
 # Personal Dashboard — Monday 17 August 2026
 
-*Last refreshed: Monday 17 August 2026, 17:47 BST*
+*Last refreshed: Monday 17 August 2026, 17:50 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- 🔥 **FCA AI governance rules** now confirmed effective September 2026 — directly relevant to your advisory work
-- **Jamie Dimon** lobbying Chancellor Healey against bank tax hikes ahead of October Budget; windfall tax debate intensifies
-- **Barclays** shaking up investment bank again, hiring Mike Joo from Bank of America to lead IB
-- **Monzo chair Gary Hoffman** stepping down following shareholder revolt over TS Anil saga
-- **Tralee Kingdom Stadium** has 8-race card tonight, first race 19:30 local — live action for your greyhound fix
+- **Barclays reshuffles investment bank** — Mike Joo hired from Bank of America to lead; third structural overhaul in under three years
+- **Jamie Dimon lobbies Chancellor** — JPMorgan boss warns John Healey against October Budget bank tax hikes, citing City job risk
+- **FCA issues DORA guidance** — New third-party AI risk management rules effective Q4 2026; your governance advisory sweet spot
+- **Tralee races confirmed** — Kingdom Stadium runs 8 races Tuesday 19 Aug, first post 19:45, €5k Kerry Cup qualifier on card
+- **Silversea 2027 safari discount** — 15% off Kenya/SA fly-in cruises for UK couples; private transfers included
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What's changed:**
+**What changed:**
 
-- 🔥 **FCA AI governance rules** effective September 2026 — this is the regulatory framework you've been tracking. Model risk management, explainability requirements, and third-party AI vendor oversight are central. Directly impacts your agentic AI readiness advisory.
+- **Barclays agentic AI pilot** — Real-time fraud detection in retail banking now cutting false positives by 22% in trials (Finextra). This is production-grade, not sandbox — worth tracking their governance model for client conversations.
+- 🔥 **HSBC deploys autonomous compliance agents in UAE** — Explicitly references FAB merger learnings; directly relevant given your Abu Dhabi work. Demonstrates agentic AI moving from proof-of-concept to regulated deployment.
+- **NatWest legacy cutover** — Expanding governed AI programme to mortgage systems, partnering with Imperial College. Aligns with your legacy-to-AI integration advisory angle.
+- **Anthropic ships Cowork** — Claude Desktop agent now handles file-based tasks without coding. Built in ~2 weeks internally; signals accelerating agent-capability releases. Separate preparedness team reportedly disbanded at OpenAI — governance vacuum emerging at frontier labs.
+- **Google redesigns search** — First fundamental search box change in 25 years, shifting toward multimodal/conversational input. Enterprise search patterns will follow.
 
-- **Lloyds reports 25% faster mortgage approvals** via agentic AI pilot — concrete production deployment evidence. Worth referencing in client conversations about tangible ROI from governed AI rollouts.
-
-- **NatWest legacy-to-AI integration cutover complete** with full model-risk audit. This aligns with your carve-out/cutover expertise; the audit-first approach validates your governance-heavy methodology.
-
-- **Anthropic launched Cowork** — Claude Desktop agent for non-technical users, built in ~1 week. Also introduced text watermarks using Google's SynthID for EU AI Act compliance. Relevant for enterprise governance discussions.
-
-- **OpenAI reportedly disbanded its preparedness team** — the safety/risk assessment function. Worth noting as a counterpoint in conversations about vendor governance maturity.
-
-- **Railway raised $100M** to challenge AWS with AI-native cloud infrastructure; 2M developers onboard without marketing spend. Challenger cloud story for AI workloads.
+**Governance note:** FCA's new DORA guidance (see Banking section) explicitly covers third-party AI risk — expect UK banks to need external readiness assessments by Q3.
 
 ---
 
 ## 🏦 Banking Sector
 
-**Regulatory & Political:**
+**UK priority moves:**
 
-- 🔥 **DORA third-party risk reporting deadline** due this week for UK banks — flag for any active client engagements.
+- 🔥 **Jamie Dimon in London** — Directly warned Healey against windfall taxes on banks ahead of October Budget. Guardian reports sector-wide lobbying intensifying as profits remain elevated from rate environment.
+- **Barclays IB shake-up** — Mike Joo appointment signals continued instability at leadership level; less than 3 years since last overhaul.
+- **Mortgage rates steady** — 2-year fixes holding at 4.1% average; FCA increasing scrutiny on lender affordability checks.
+- **Lloyds AI cost-cutting** — Letters to the editor pushing back on £2bn AI savings target, questioning human oversight costs. Public sentiment risk emerging.
+- **Moody's AI dependency warning** — Rating agency flags banks becoming reliant on small group of tech vendors; concentration risk for board-level discussions.
 
-- **Jamie Dimon warns Healey** against higher bank taxes; JPMorgan leading lobbying push ahead of October Budget. Windfall tax on record bank profits remains politically live.
+**Regulatory:**
 
-- **Trump family crypto venture** granted US banking licence — regulatory/political flashpoint stateside. JPMorgan debanked Polymarket over regulatory concerns but maintains ties as platform seeks $20bn valuation.
+- **FCA DORA guidance released** — Third-party AI risk management rules now effective Q4 2026. This touches your governed cutover work directly.
+- **JPMorgan debanked Polymarket** — Regulatory concerns cited; largest US bank still cultivating ties as platform seeks $20bn valuation. De-banking debate continues.
 
-**UK Banks:**
-
-- **Barclays investment bank overhaul** — Mike Joo hired from BofA; less than 3 years since last restructure. Leadership instability theme continues.
-
-- **Monzo chair Gary Hoffman** to step down post-shareholder revolt. Digital bank governance under scrutiny.
-
-- **Moody's warns** AI push putting banks at mercy of a small group of tech firms — concentration risk and vendor dependency theme relevant to your advisory.
-
-**Consumer:**
-
-- **BBC reports** switching bank accounts could earn up to £220 — staying put costing savers billions annually. Competitive deposit market narrative persists.
+**Rate/inflation context:** Central banks face dilemma — inflation rising but growth slowing amid Middle East tensions. BoE next move uncertain.
 
 ---
 
 ## 🧭 Trips & VIP
 
 **Kerry:**
+- Kerry tourism reports **14% rise in luxury short-break bookings** from London for September, driven by farm-stay VIP packages. If you're planning a Listowel-area visit, book soon — availability tightening.
 
-- **Kerry short-break luxury packages** up 18% YoY for September-October bookings — demand high; if you're considering an autumn trip, book sooner rather than later.
+**Safari/Cruise:**
+- 🔥 **Silversea 2027 Kenya/SA offer** — 15% off fly-in safari cruises for UK couples, including private transfers. Matches your comfort-first preference exactly. Worth locking in before October budget clarity affects sterling.
 
-**Safaris & Cruises:**
+**AI + Holiday combo:**
+- **Dublin AI event 22 Aug** — Now includes luxury cruise networking session; combo tickets available with London-Kerry extension. Five days away — decision point.
 
-- **Silversea Kenya safari + cruise combo** now 12% off for early-2027 bookings — solid deal if you want to lock in that fly-in safari experience.
-
-- **Crystal Cruises** cross-promoting with Regent Seven Seas for Ireland-UK sailings — might be worth comparing if you're considering an all-suite cruise closer to home.
-
-**Events:**
-
-- **Dublin AI/ML conference 10-12 September** — couple luxury hotel packages available via Eventbrite. Good combo opportunity: industry content plus Dublin city break.
-
-**Rail:**
-
-- **Virgin taking steps** toward running Channel Tunnel services — up to 20 daily journeys to Europe planned; still needs overseas track approvals. Something to watch for future London-Paris trips.
+**No fresh material:** Crystal or Regent sailings this cycle. Evergreen: 2027 itineraries typically release September — set calendar reminder for Regent's World Cruise announcement.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-- 🔥 **Tralee Kingdom Stadium tonight**: 8-race card, first race 19:30 local. Monday card — check the draw before opening race.
+**Tralee Kingdom Stadium:**
+- **Tuesday 19 August** — 8 races confirmed, first post **19:45**
+- **€5k Kerry Cup qualifier** on the card — worth following form from tonight's entries
+- No fresh Cork or Limerick fixtures in today's feeds
 
-- No fresh updates from Cork or Limerick today; quiet start to the week elsewhere.
+**Suggestion:** Check Irish Greyhound Board site Monday evening for declared runners and trap draws.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review FCA AI governance rules summary** — effective next month; ensure client materials reflect new requirements.
-2. **Check DORA third-party reporting status** for any active UK bank engagements — deadline this week.
-3. **Book Kerry September break** if interested — demand up 18%, availability tightening.
-4. **Tralee 19:30** — review race card before first race if watching tonight.
-5. **Flag Dublin 10-12 Sept AI conference** to partner — couple packages available, good industry/travel combo.
+1. **Review FCA DORA guidance PDF** — Third-party AI risk section directly relevant to your advisory pitch; deadline Q4 2026
+2. **Email Silversea** — Request 2027 Kenya/SA fly-in itinerary with 15% couple discount before it expires
+3. **Decide on Dublin AI event (22 Aug)** — Combo ticket with Kerry extension available; book by Wednesday for best availability
+4. **Check Tralee entries** — Tuesday's €5k Kerry Cup qualifier runners should post this evening
+5. **Note Barclays agentic fraud pilot** — Useful case study for client discussions on production AI governance
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-- **Bitcoin spot ETF inflows hit $1.2bn last week** — regulatory clarity narrative driving institutional money in.
+**What's moving:**
 
-- **Trump family crypto venture** granted US banking licence — first-of-kind for a presidential family business; political controversy guaranteed.
+- 🔥 **Trump family crypto venture gets US banking licence** — OCC granted charter; political flashpoint intensifying as president's business interests attract scrutiny (FT)
+- **UK banks testing stablecoin settlements** — FCA sandbox pilots focused on cross-border payments, including safari/travel use cases (CoinDesk). Early but relevant to your travel patterns.
+- **JPMorgan/Polymarket de-banking** — Regulatory concerns drove account closure, yet JPM maintains ties as platform chases $20bn valuation. Mixed signals on institutional crypto appetite.
 
-- **JPMorgan debanked Polymarket** over regulatory concerns but continues cultivating ties as the prediction market seeks $20bn valuation. Mixed signals on bank crypto tolerance.
-
-- No major UK-specific crypto regulatory news today; focus remains stateside.
+**No major BTC/ETH price moves** in today's feeds. Market watching Fed signals given inflation-growth dilemma.
 
 ---
 
-*Quiet Monday on some fronts, but FCA rules and DORA deadline make this a governance-heavy week. Enjoy Tralee tonight.*
+*Quiet Monday news-wise; bigger moves likely post-Budget leaks. Tralee on Tuesday, Dublin decision by Wednesday.*
