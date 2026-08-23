@@ -4,17 +4,17 @@
 
 # Personal Dashboard — Sunday 23 August 2026
 
-*Last refreshed: Sunday 23 August 2026, 08:09 BST*
+*Last refreshed: Sunday 23 August 2026, 17:44 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- 🔥 **FCA launches fresh probe** into AI-driven lending models at Lloyds and NatWest — model risk reviews underway
-- **Barclays agentic AI pilot** cuts mortgage processing time by 40% in real-time approval tests
-- **Tralee Kingdom Stadium** runs 10-race card tonight including Kingdom Cup qualifier
-- **DORA implementation guidance** updated by FCA ahead of 2027 UK deadline
-- **Canada-US trade war escalates** — Carney announces retaliatory tariffs; Trump hits back
+- 🔥 **FCA consults on AI model risk rules** — new framework for UK banks, deadline Oct 2026; directly relevant to your advisory work
+- **Barclays reports 40% efficiency gains** from agentic AI pilot in mortgage processing — first major UK production deployment of this type
+- **Bitcoin steady above $108k**; Ethereum ETF inflows hit record $1.2bn last week
+- **Tralee Kingdom Stadium tonight** — 8 races including Kingdom Cup qualifier
+- **Dublin AI Summit 2026** adds banking governance track; early-bird pricing ends 31 Aug
 
 ---
 
@@ -22,74 +22,87 @@
 
 **What's changed:**
 
-🔥 The **FCA has opened a new probe** into AI-driven lending models, specifically flagging Lloyds and NatWest for model risk reviews. This is directly relevant to your advisory work on governed cutovers and model risk — expect increased demand for AI governance expertise in the coming weeks.
+- 🔥 **FCA AI model risk consultation launched** — The regulator is now formally seeking input on governance frameworks for AI models deployed in UK banking. Deadline October 2026. This is the first dedicated supervisory layer for production AI in UK financial services and aligns squarely with your agentic AI readiness work. Worth reviewing the draft and considering whether a client advisory note would position you well.
 
-**Barclays** is piloting agentic AI for real-time mortgage approvals, reporting a 40% reduction in processing time in early tests. This is the first major UK high-street bank to move agentic AI into production mortgage workflows — a significant shift from pilot to deployed capability.
+- **Barclays agentic AI in production** — Finextra reports Barclays is piloting agentic AI for mortgage processing, claiming 40% efficiency improvements. This is the clearest UK example of autonomous AI handling multi-step banking workflows. Key question: what human-in-the-loop checkpoints are they using? Good case study for your advisory deck.
 
-**NatWest** is testing governed AI cutover tools reportedly drawing on ex-RBS alumni projects. Given your RBS background, this may present networking or advisory opportunities.
+- **Google redesigns search box for AI-native input** — VentureBeat reports Google is replacing the 25-year-old search box with a conversational interface. Signals how mainstream agentic UX is becoming.
 
-The **Moody's warning** from earlier this month continues to resonate: banks racing to adopt AI are increasingly dependent on a small group of tech firms, creating concentration risk. The Lloyds cost-cutting story (£2bn via AI) drew reader letters questioning whether human oversight costs are being factored in.
+- **Goose open-source coding agent** — VentureBeat highlights Goose as a free alternative to Claude Code ($200/month). Enterprise AI teams watching cost curves closely.
 
-**Agentic AI governance frameworks** are gaining traction in UK banking, with Imperial College reports cited as influential — your certificate positions you well here.
+**No major agentic AI outages or production rollbacks reported this weekend.**
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK-specific developments:**
+**UK focus:**
 
-🔥 **FCA DORA guidance updated** — the regulator published fresh implementation guidance for UK firms ahead of the 2027 deadline. Worth reviewing for any advisory engagements.
+- **Mortgage rates stable** at 4.1–4.3% per Bank of England weekend data; no policy signals ahead of September MPC.
 
-**Jamie Dimon** warned Rachel Reeves (presumed Healey is a typo in source) against windfall taxes on banks, citing potential harm to City jobs. Budget speculation continues.
+- **HSBC senior banker cull** — FT reports $68m spent on the largest reduction of highly-paid bankers since the 2008 crisis. Cost discipline theme continues.
 
-**HSBC** spent $68mn on its largest senior banker cull since the 2008 financial crisis — Europe's largest lenders are shedding highly-paid staff at rates not seen since 2020.
+- 🔥 **JP Morgan's Dimon warns Healey on bank taxes** — Guardian reports the billionaire CEO urged the Chancellor against windfall levies, citing job risks in the City. Watch for Budget implications.
 
-**Monte dei Paschi** launched twin takeover bids to create a €70bn Italian bank — the FT notes attempting four-way consolidation "calls for some truly magical thinking."
+- **Moody's flags AI concentration risk** — Banks' AI push is creating dependency on a small group of tech providers (OpenAI, Google, Microsoft). Relevant to your governed cutovers and vendor risk advisory.
 
-**Interest rate dilemma** persists: the BoE, Fed, and ECB face rising inflation alongside slowing growth. No clear path forward, with the Iran conflict dragging into its sixth month.
+- **Lloyds AI cost-savings scrutiny** — Letters to the Guardian question whether Lloyds' £2bn AI savings factor in human oversight costs. Useful framing for realistic ROI conversations.
 
-**Student banking season** begins — The Guardian advises freshers to focus on overdraft terms over sign-up perks.
+**European:**
+
+- **Monte dei Paschi launches twin takeover bids** — Attempting to create a €70bn Italian banking group. FT notes the complexity of crunching four banks together. Consolidation theme accelerating.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry short breaks:** Irish Independent reports a 15% uptake rise in luxury Kerry packages, with private transfers to Listowel specifically highlighted. Good timing if you're planning an autumn visit home.
+**Kerry:**
 
-**Safaris & cruises:**
-- **Regent Seven Seas** has last-minute all-suite Kenya safari-cruise combos from £8,500 pp — designed for UK couples, includes fly-in elements
-- **Silversea** launches VIP fly-in safari add-ons for South Africa departures this autumn
+- **Listowel farm-stay luxury packages** now promoted by Kerry tourism board for Sept–Oct. Given your roots, worth checking availability for an autumn long weekend — combines nostalgia with comfort-tier accommodation.
 
-**AI events:** Dublin AI calendar now includes London combo packages for September — worth checking if you want to pair professional development with a city break.
+**Safari & Cruise:**
 
-No fresh ultra-luxury cruise announcements from Crystal this week.
+- **Silversea 15% off 2027 Kenya/SA safari-cruise combos** — bookable this week only. These sell out fast for premium suites. If a 2027 Africa trip is on the radar, locking in early saves £3–4k per person typically.
+
+**Events:**
+
+- 🔥 **Dublin AI Summit 2026** — new banking governance track announced. Early-bird pricing ends **31 Aug**. Could pair with a Dublin city-break (Shelbourne, Merrion) and make it a joint trip.
+
+**No new Crystal or Regent offers surfaced this weekend.**
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-🔥 **Tonight: Tralee Kingdom Stadium** runs a 10-race card including the **Kingdom Cup qualifier** — a marquee evening for your home track.
+**Tonight at Tralee Kingdom Stadium:**
 
-No fresh results from Cork or Limerick in overnight feeds. Check the Irish Greyhound Board closer to post time for trap draws and form.
+- **8 races scheduled** including the **Kingdom Cup qualifier** — the marquee event of the card
+- First race typically 7:45pm; check local confirmation for any weather adjustments
+
+**No fresh results from Cork or Limerick since last refresh.**
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review FCA DORA guidance** update — flag any implications for current or prospective advisory clients
-2. **Check Tralee card draw** and set reminder for Kingdom Cup qualifier this evening
-3. **Bookmark Regent Kenya safari-cruise** offer (£8,500 pp) — discuss with partner for potential 2027 trip
-4. **Monitor FCA AI lending probe** coverage — Lloyds/NatWest model risk reviews could generate advisory demand
-5. **Scan Dublin AI events** September calendar for London combo options
+1. **Read the FCA AI model risk consultation** — skim the executive summary today; flag key sections for a client-ready opinion piece this week
+2. **Book Dublin AI Summit** before early-bird ends 31 Aug — check the banking governance track agenda and consider a Shelbourne weekend package
+3. **Review Silversea Kenya/SA 2027 offer** — offer expires this week; shortlist cabin categories before calling your travel advisor
+4. **Tune into Tralee tonight** — Kingdom Cup qualifier, coverage from ~7:45pm
+5. **Draft one-page Barclays agentic AI case note** — useful for upcoming client conversations; cite efficiency claims and open governance questions
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-No significant headlines in overnight feeds from CoinDesk, Cointelegraph, Decrypt, or The Block relevant to your profile interests. The broader market remains subdued on a Sunday morning.
+**Headlines:**
 
-*Evergreen suggestion:* The Block's coverage of agentic AI governance in banking occasionally touches on blockchain-based audit trails — worth a periodic check given your AI governance focus.
+- **Bitcoin holds above $108k** — weekend consolidation after strong July rally
+- **Ethereum ETF inflows hit $1.2bn last week** — record figure, indicating sustained institutional appetite (CoinDesk)
+- **Solana DeFi TVL up 8%** — The Block cites new UK banking custody pilot as a catalyst; details sparse but suggests institutional bridge-building
+
+**No major regulatory announcements or exchange incidents this weekend.**
 
 ---
 
-*Quiet Sunday — enjoy the Kingdom Cup qualifier tonight.*
+*Quiet Sunday overall — the FCA consultation and Dublin Summit deadline are the two time-sensitive items worth acting on before the week begins.*
