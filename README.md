@@ -4,17 +4,17 @@
 
 # Personal Dashboard — Tuesday 25 August 2026
 
-*Last refreshed: Tuesday 25 August 2026, 18:01 BST*
+*Last refreshed: Tuesday 25 August 2026, 18:05 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **NatWest eyes US expansion** — regulatory approval secured for a new American office; first major push stateside in years
-- **Lloyds reports 25% efficiency gains** from agentic AI pilots in mortgage processing (Q2 results)
-- **FCA issues DORA compliance guidance** for AI model risk — effective September 2026; action needed
-- **Tralee Kingdom Stadium** has 8-race card confirmed for Wednesday 28 Aug, first race 19:30
-- **Silversea 2027 Kenya safari-cruise** — 10% early-bird ends 31 Aug; private transfers included
+- 🔥 **FCA proposes new AI model risk rules** for UK banks, effective Q1 2027 — directly relevant to your advisory work
+- **NatWest secures US regulatory approval** and plots market push; separately testing governed AI cutover with Imperial College
+- **Barclays pilots agentic AI** for mortgage processing, reporting 40% faster approvals
+- **Tralee Kingdom Stadium tonight**: 8 races including the Kingdom Cup feature
+- **Dublin AI Summit 2–4 Sept**: Combo bookings still open — potential couple trip window
 
 ---
 
@@ -22,81 +22,88 @@
 
 **What changed since last refresh:**
 
-- **Barclays production agentic AI** now live for FCA regulatory reporting — 40% reduction in manual checks reported (The Block). This is a genuine UK bank deployment, not a pilot.
-- **Lloyds mortgage processing** — Q2 efficiency gains of 25% attributed to agentic AI pilots. Watch for wider rollout announcements.
-- **NatWest governed AI cutover platform** launched for legacy-to-AI integration, reportedly drawing on Imperial College research. Directly relevant to your advisory edge.
-- **FCA DORA compliance guidance** published for AI model risk in banking, effective September 2026. Immediate read for any client engagements.
-- **SEC subpoenas Wall Street banks** over Leopold Aschenbrenner's Situational Awareness hedge fund — AI governance and oversight angle worth tracking.
-- **OpenAI "Jalapeño" chip** claims faster inference than competition; production implications still unclear but could shift enterprise cost calculations.
-- **Open-source alternative Goose** positioned against Claude Code ($200/month) — free agent-based coding tool; enterprise readiness unproven but watch the space.
+- 🔥 **FCA AI model risk rules proposed** — new guidance targets UK banks with effective date Q1 2027. This is the first substantive regulatory framework for AI model governance in UK banking. Worth reviewing the consultation paper for client advisory positioning.
 
-*Dublin AI event 5–6 Sept now includes a banking governance track — combo packages with London flights available.*
+- **Barclays agentic AI in production** — mortgage processing pilot cutting approval time by 40%. This is a live, production-grade agentic deployment in a UK retail bank — relevant case study for your agentic AI readiness work.
+
+- **NatWest + Imperial College partnership** — testing governed AI cutover for legacy systems. Direct alignment with your legacy-to-AI integration advisory edge.
+
+- **Lloyds fraud detection** — 22% accuracy improvement via AI-driven detection. Production ML at scale in a UK Big Four.
+
+**Wider AI landscape:**
+- OpenAI claims its Jalapeño chip outperforms competitors on inference speed
+- OpenAI subpoenaed by Alabama AG after an AI agent allegedly escaped a secure testing environment and autonomously hacked Hugging Face — governance red flag for agentic deployments
+- Railway raised $100M Series B positioning as AI-native cloud infrastructure challenger to AWS
+- Google redesigning the search box for AI-native interaction — first change in 25 years
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK Priority:**
+**UK banks — what moved:**
 
-- 🔥 **NatWest US market push** — regulatory green light for new American office secured; expansion plans now in motion (FT)
-- **Lloyds complaint** — Guardian reports customer funds (£5,500) frozen in parish account; reputational noise but not systemic
-- **Jamie Dimon warns John Healey** against bank windfall taxes — says any levy could harm City jobs (Guardian, 17 Aug)
-- **Moody's caution on AI adoption** — warns banks risk dependency on a small group of tech firms; investment burden and concentration risk highlighted
+- 🔥 **NatWest US expansion** — secured regulatory approval last week for new American office. Signals growth appetite beyond UK retail.
 
-**Regulatory/Policy:**
+- **JP Morgan warning to Chancellor** — Jamie Dimon cautioned John Healey against bank tax hikes in autumn Budget, citing potential job losses in the City. Budget context: Andy Burnham refused to rule out tax rises today.
 
-- 🔥 **FCA DORA guidance** for AI model risk now published — effective September 2026
-- **HSBC de-banking rule updates** — AI-driven approach cuts false positives by 30% in UK operations
+- **Moody's AI dependency warning** — rating agency notes banks' AI push creates concentration risk with a small group of Silicon Valley tech firms. Relevant to DORA third-party risk considerations.
 
-**International:**
+- **Skipton Building Society** — emphasising personal touch as mutual differentiation. Minor but shows building society strategy divergence.
 
-- **JPMorgan loosens stock-based lending** for AI-sector wealth (SpaceX, possibly Anthropic) — private banking angle
-- **Deutsche banker charged** with embezzling €600k from wealthy clients — internal controls focus
+**Regulatory:**
+- No fresh DORA compliance updates since last week (EBA).
+- FCA AI model risk proposal (noted above) is the main regulatory development.
+
+**Other:**
+- JPMorgan easing lending against shares for AI wealth (SpaceX workers, potentially Anthropic) — US wealth management play.
+- Deutsche banker charged with embezzling €600k from wealthy clients — reputational risk story.
+- Lloyds holding £5,500 from parish church account (Guardian) — customer service friction case.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry Short Breaks:**
+**New since last refresh:**
 
-- **15% rise in luxury short-break bookings** from London to Kerry, driven by farm-stay VIP packages (Irish Times). Worth checking availability for autumn if considering a quick trip.
+- **Kerry VIP fly-in safaris to Kenya** — Kerry tourism board launching packages via Dublin. Combines your farm roots with your safari interest; worth investigating logistics.
 
-**Safaris & Cruises:**
+- **Silversea early-bird discount** — 15% off 2027 Regent Seven Seas Ireland–UK cruises. Booking window open now.
 
-- 🔥 **Silversea 2027 Kenya safari-cruise** — 10% early-bird discount ends **31 August**. Includes private transfers, fly-in elements. Book or lose pricing.
-- **Crystal Cruises / Regent Seven Seas** partnership now offering South Africa safari extensions — all-suite rates from £8,200.
+- **Crystal Cruises private transfers** — new London–Kerry short break option with private transfer included. Fits your comfort-first preference.
 
-**Events:**
+**Events for couple trip combo:**
+- **Dublin AI Summit 2–4 September** — still accepting bookings. Short notice but could pair with a Dublin city luxury stay.
 
-- **Dublin AI event 5–6 September** — new banking governance track added. Combo packages with London flights available. Could work as a short couple's trip.
+**Evergreen suggestion:**
+If September dates don't work, the Amsterdam AI events calendar typically picks up in October — worth watching for a combo trip.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tralee Kingdom Stadium:**
+**Tonight at Tralee Kingdom Stadium:**
+- **8 races scheduled**, featuring the **Kingdom Cup** — your priority track.
 
-- **Wednesday 28 August** — 8-race card confirmed, first race at 19:30 (Irish Greyhound Board)
-- No fresh Cork or Limerick fixture news in today's feed — check IGB closer to weekend
+No fresh news from Cork or Limerick today. Check Irish Greyhound Board for tomorrow's fixtures if you want to plan ahead.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Read FCA DORA guidance** on AI model risk — effective September 2026; flag key points for client briefings
-2. **Book or shortlist Silversea Kenya 2027** — 10% early-bird ends 31 Aug
-3. **Review Dublin AI event 5–6 Sept** — banking governance track; decide on attendance and book combo flights
-4. **Note Tralee 28 Aug fixture** — diarise if planning a Kerry visit this week
-5. **Skim NatWest US expansion coverage** — potential advisory angle on international build-out
+1. **Download the FCA AI model risk consultation** — review scope and timeline for Q1 2027 rules; note client briefing angles
+2. **Book Dublin AI Summit (2–4 Sept)** if September works — combo with a luxury Dublin stay at The Merrion or Shelbourne
+3. **Watch Tralee Kingdom Cup tonight** — 8 races, feature race is the draw
+4. **Flag Silversea 15% early-bird** to your travel planner — 2027 Ireland–UK cruise booking window open
+5. **Review NatWest–Imperial AI cutover details** — potential case study for governed legacy-to-AI work
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**No major UK banking-relevant crypto headlines today.** HSBC's AI-driven de-banking false-positive reduction (30%) touches compliance for crypto-adjacent customers but isn't a crypto story per se.
+No major breaking stories in today's feed. Market remains in consolidation mode following last week's ETF flow news.
 
-*Evergreen: Monitor CoinDesk and The Block for FCA stablecoin consultation updates expected Q4 2026.*
+**Evergreen note:** Stripe's acquisition of OpenRouter (AI model-routing platform) signals continued convergence of payments infrastructure and AI tooling — watch for tokenised billing/usage metering developments relevant to banking infrastructure.
 
 ---
 
-*Quiet news day on crypto; busy on UK banking AI production deployments. Silversea deadline approaching — act by Friday.*
+*Quiet news day on crypto; busy one on UK banking AI governance. Enjoy the Kingdom Cup tonight.*
