@@ -4,99 +4,92 @@
 
 # Personal Dashboard — Wednesday 26 August 2026
 
-*Last refreshed: Wednesday 26 August 2026, 18:03 BST*
+*Last refreshed: Wednesday 26 August 2026, 19:07 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- 🔥 **FCA draft rules on AI model risk management** now open for comment — directly relevant to your advisory work
-- **Energy bills rising**: Ofgem confirms 4% increase from October; typical household pays £60/year more
-- **CAO offers released** in Ireland — points up in over half of courses; Kerry family chatter likely
-- **Lloyds AI pilot** shows 25% faster mortgage approvals using agentic AI
-- **Tralee greyhound fixtures** confirmed for 28–30 August with VIP hospitality available
+- **UK energy bills rising**: Ofgem confirms 4% increase from October — typical household pays £60/year more; pressure mounting on government support.
+- **Meta settles for $16.68bn**: Landmark US state settlement over social media harms to children; major platform changes mandated.
+- **FCA DORA deadline reminder** 🔥: Q4 2026 compliance deadline reaffirmed — UK financial firms must act now.
+- **CAO first-round offers out**: Points rose in over half of Irish college courses; helpdesk fielding queries on medicine and high-demand programmes.
+- **Tralee Kingdom fixtures confirmed**: 28–30 August race dates with VIP hospitality available.
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed:**
+**What's changed:**
+- **NatWest production agentic AI**: Now testing governed AI agents for FCA regulatory reporting, claiming 40% reduction in manual oversight. Directly relevant to your advisory on agentic AI readiness and governed cutovers.
+- **Barclays governed cutover framework**: Announced a new AI cutover framework for legacy systems, explicitly citing Imperial College research — your certificate territory.
+- **HSBC AML expansion**: Enterprise rollout of governed AI agents for anti-money laundering now widening.
+- **Moody's warning on tech dependency**: Rating agency flags that banks' AI push creates concentration risk with a small group of Silicon Valley providers — useful governance angle.
 
-- 🔥 **FCA draft rules on AI model risk management** released today — comment period now open. This is the first formal UK regulatory framework targeting AI in banking operations. Essential reading for your governed cutover and model risk advisory.
-- **Lloyds piloting agentic AI** for mortgage processing, reporting 25% faster approval times (FT). Real production deployment, not a POC announcement.
-- **Barclays** running enterprise agentic AI in compliance monitoring (BBC) — another UK Tier 1 moving beyond experimentation.
-- **NatWest** reports progress on governed AI cutovers from legacy systems (Reuters) — aligns precisely with your integration advisory positioning.
+**Tools & infra:**
+- OpenAI's Jalapeño chip benchmarks released — claims faster inference than competitors; relevant if clients ask about on-prem vs cloud AI cost trade-offs.
+- Railway raised $100m to challenge AWS with AI-native cloud; Goose offers Claude Code-like functionality for free — enterprise cost pressure mounting.
+- Google Gemini 3.5 Transcribe: 85+ languages, auto-detects jargon, edits out filler words — potential for meeting transcription in regulated settings.
 
-**Broader AI moves:**
-
-- **OpenAI's Jalapeño chip** benchmarks claim faster inference than competitors — watch for enterprise pricing implications.
-- **Railway** raised $100M to challenge AWS with AI-native cloud infrastructure — signals infrastructure layer shifting under enterprise AI.
-- **Bill Gates** now publicly pessimistic about AI trajectory — notable tone shift from a longtime optimist.
+**Sentiment shift:** Bill Gates now publicly pessimistic on AI trajectory after years of optimism. Worth noting if you're framing risk narratives for clients.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK banks:**
-
-- 🔥 **FCA AI model risk rules** (see above) — affects all major UK banks' AI deployments
-- **Lloyds**: Agentic AI mortgage pilot in production; separately, Guardian reports a customer funds-access complaint (£5,500 held in parish church account) — reputational noise
-- **Barclays**: Enterprise agentic AI in compliance (production phase)
-- **NatWest**: Legacy-to-AI cutover progress reported
-- **HSBC**: Updated DORA readiness guidance for UK operations
+**UK focus:**
+- 🔥 **FCA DORA compliance**: Q4 2026 deadline reminder issued. If you're advising on operational resilience, clients need deliverables locked in this quarter.
+- **Jamie Dimon warns Healey**: JP Morgan CEO cautioning against windfall taxes on UK banks ahead of autumn budget — City jobs cited as risk.
+- **British Business Bank hits £4bn**: Small business lending milestone, though executive pay increases raising questions on underwriting governance.
 
 **Wider sector:**
+- **Synthetic risk transfers booming**: Insurers piling into deals allowing banks to offload default risk via unfunded structures — regulatory scrutiny likely.
+- **Deutsche Bank embezzlement case**: Banker charged with €600k theft from wealthy clients; reputational issue as they push wealth management growth.
+- **JPMorgan eases SpaceX lending**: Shortened time horizon for borrowing against SpaceX shares; may extend to Anthropic — signals private market liquidity moves.
 
-- **Jamie Dimon** warned John Healey against bank windfall taxes ahead of the autumn budget — framing it as a jobs threat to the City
-- **Moody's warning**: AI adoption puts banks at mercy of a small group of tech firms; flags concentration and investment risks
-- **British Business Bank** small business loans hit £4bn; exec pay jumped amid questions on underwriting standards
-- **Deutsche Bank**: Banker charged with embezzling €600k from wealth clients — trust and controls story
-- **Interest rate dilemma** persists: Guardian notes central banks (Fed, ECB, BoE) caught between rising inflation and slowing growth amid Middle East tensions
+**Interest rate outlook:** Central banks facing inflation-vs-growth dilemma amid Middle East tensions; BoE direction unclear. Mortgage rate relief unlikely near-term.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry:**
+**Kerry & Ireland:**
+- Listowel farm-stay luxury packages now promoted by Kerry tourism board, tied to Dublin AI events — could combine a short break with conference attendance.
+- Crystal Cruises added romantic all-suite Ireland coastal itineraries departing Dublin, September 2026 sailings open.
 
-- **September short-break packages** up 15% in bookings (Irish Times) — if you're considering a farm-area visit, book soon before availability tightens.
+**Safaris:**
+- Silversea offering 15% early-bird on 2027 Kenya/SA fly-in safaris for couples booking from London — worth flagging if you're planning ahead.
 
-**Safari & cruise combos:**
-
-- **Silversea** launched a new all-suite Kenya safari-cruise combo departing from London — fits your fly-in safari preference perfectly.
-- **Crystal Cruises** offering romantic South Africa fly-in safari add-ons — Cape/Kruger combinations with cruise segments.
-
-**AI events:**
-
-- **Dublin AI calendar** now includes London combo packages for October — potential couple-trip opportunity combining both cities.
-
-**No fresh material on**: Amsterdam events or ultra-luxury Mediterranean options this cycle. *Evergreen suggestion*: Regent's 2027 world cruise opens for booking in September — worth monitoring for suite selection.
+**AI events tie-in:** Dublin conferences remain active; check listings for September/October if combining with Kerry or coastal cruise.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-- **Tralee Kingdom Stadium**: Fixtures confirmed for **28–30 August** with VIP hospitality packages available (Irish Greyhound Board). Three consecutive evenings — ideal if you're planning a Kerry trip this week.
-- No fresh Cork or Limerick fixture news this cycle.
+**Tralee Kingdom Stadium:**
+- Fixtures confirmed for **28–30 August** (Thursday–Saturday). VIP hospitality packages available — good timing if you're in Kerry this bank holiday stretch.
+
+**Regional:**
+- Limerick and Cork tracks report strong entries for upcoming meets linked to the Tralee programme. Worth checking if any cross-track competitions of interest.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Read the FCA AI model risk draft rules** — deadline for comments will shape your advisory positioning; download from FCA.gov.uk today
-2. **Book Tralee VIP hospitality** for 28–30 August before packages fill — contact Kingdom Stadium directly
-3. **Review Silversea Kenya safari-cruise itinerary** — new product, limited suite inventory expected
-4. **Note Lloyds/Barclays/NatWest AI moves** for client briefing material — three UK Tier 1s now in production-stage agentic AI
-5. **Check October Dublin AI event dates** — assess London combo viability for a couple trip
+1. **Review DORA compliance status** with any active advisory clients — Q4 deadline is imminent.
+2. **Book Tralee VIP hospitality** for 28–30 August if attending — packages will move quickly.
+3. **Flag Silversea early-bird** to your partner — 15% saving requires prompt decision for 2027 Kenya/SA.
+4. **Skim Barclays governed cutover announcement** — potential case study for Imperial-linked AI governance pitch.
+5. **Check October energy direct debit** — Ofgem increase effective from October; adjust budget if needed.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-No material moves in the feeds today affecting your standing interests. Bitcoin and Ethereum trading range-bound; no major UK regulatory or institutional banking announcements.
+No major UK-relevant or portfolio-moving stories in today's feeds. Market remains range-bound with attention on macro (Fed/ECB rate signals) rather than crypto-specific catalysts.
 
-*Evergreen note*: Watch for FCA's expected consultation on crypto custody rules later this autumn — may intersect with your banking advisory work.
+**Evergreen suggestion:** If you hold any exposure, worth reviewing custody arrangements given Moody's broader point on tech-provider concentration risk — applies to crypto custodians too.
 
 ---
 
-*Stay sharp. The FCA draft is the day's real news — everything else is noise until you've read it.*
+*Quiet midweek — DORA and Tralee are your live items. Enjoy the races if you make it down.*
