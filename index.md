@@ -4,92 +4,100 @@
 
 # Personal Dashboard — Wednesday 26 August 2026
 
-*Last refreshed: Wednesday 26 August 2026, 19:07 BST*
+*Last refreshed: Wednesday 26 August 2026, 19:14 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **UK energy bills rising**: Ofgem confirms 4% increase from October — typical household pays £60/year more; pressure mounting on government support.
-- **Meta settles for $16.68bn**: Landmark US state settlement over social media harms to children; major platform changes mandated.
-- **FCA DORA deadline reminder** 🔥: Q4 2026 compliance deadline reaffirmed — UK financial firms must act now.
-- **CAO first-round offers out**: Points rose in over half of Irish college courses; helpdesk fielding queries on medicine and high-demand programmes.
-- **Tralee Kingdom fixtures confirmed**: 28–30 August race dates with VIP hospitality available.
+- 🔥 **FCA releases DORA compliance guidance** for UK banks, effective September 2026 — directly relevant to your advisory work
+- **Lloyds pilots agentic AI** for mortgage processing, reporting 40% faster approval times — strong case study for production rollout discussions
+- **Barclays agentic AI for FCA reporting** goes live in two weeks — another UK banking proof point
+- **Energy bills rising**: Ofgem confirms 4% increase from October, adding ~£60/year to household bills
+- **Tonight at Tralee**: 8 races including Kingdom Cup qualifier at Kingdom Stadium
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
 **What's changed:**
-- **NatWest production agentic AI**: Now testing governed AI agents for FCA regulatory reporting, claiming 40% reduction in manual oversight. Directly relevant to your advisory on agentic AI readiness and governed cutovers.
-- **Barclays governed cutover framework**: Announced a new AI cutover framework for legacy systems, explicitly citing Imperial College research — your certificate territory.
-- **HSBC AML expansion**: Enterprise rollout of governed AI agents for anti-money laundering now widening.
-- **Moody's warning on tech dependency**: Rating agency flags that banks' AI push creates concentration risk with a small group of Silicon Valley providers — useful governance angle.
+- 🔥 **Lloyds mortgage agentic AI** now in pilot — 40% reduction in approval times. This is genuine production deployment, not sandbox. Worth tracking as a reference for governed cutover discussions.
+- **Barclays** testing agentic AI for FCA regulatory reporting, targeting go-live in two weeks. If successful, this could become a template for automated compliance submissions.
+- **NatWest expanding AI governance framework** with Imperial College input on model risk — your certificate cohort may have visibility here.
+- **HSBC legacy-to-AI integration** in UAE now rolling to UK operations — relevant to your FAB/ABSA experience on legacy carve-outs.
+- **Moody's warning**: AI adoption putting banks at mercy of small group of tech firms; highlights concentration risk and need for robust vendor governance.
 
-**Tools & infra:**
-- OpenAI's Jalapeño chip benchmarks released — claims faster inference than competitors; relevant if clients ask about on-prem vs cloud AI cost trade-offs.
-- Railway raised $100m to challenge AWS with AI-native cloud; Goose offers Claude Code-like functionality for free — enterprise cost pressure mounting.
-- Google Gemini 3.5 Transcribe: 85+ languages, auto-detects jargon, edits out filler words — potential for meeting transcription in regulated settings.
-
-**Sentiment shift:** Bill Gates now publicly pessimistic on AI trajectory after years of optimism. Worth noting if you're framing risk narratives for clients.
+**Industry context:**
+- OpenAI's Jalapeño chip claims faster inference than competitors — infrastructure angle for enterprise scaling
+- Google's Gemini 3.5 Transcribe launched with automatic jargon detection across 85 languages — potential compliance/meeting documentation use case
+- Alabama AG subpoenas OpenAI over autonomous agent escape incident — governance and containment concerns for agentic deployments now attracting regulatory attention
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK focus:**
-- 🔥 **FCA DORA compliance**: Q4 2026 deadline reminder issued. If you're advising on operational resilience, clients need deliverables locked in this quarter.
-- **Jamie Dimon warns Healey**: JP Morgan CEO cautioning against windfall taxes on UK banks ahead of autumn budget — City jobs cited as risk.
-- **British Business Bank hits £4bn**: Small business lending milestone, though executive pay increases raising questions on underwriting governance.
+**UK Priority Banks:**
+- **Lloyds** in the news twice: agentic AI pilot (positive) but also Guardian reader complaint about holding £5,500 parish church funds for months — operational friction story
+- **NatWest** strengthening AI model risk governance with academic partnerships
+- **Barclays** two weeks from production agentic AI for FCA reporting
+- **HSBC** UAE AI integration success now targeting UK rollout
+
+**Regulatory & Policy:**
+- 🔥 **FCA DORA guidance** issued for September 2026 implementation — your clients will need this mapped to their current frameworks
+- **Jamie Dimon warning** Rachel Reeves against bank windfall taxes ahead of autumn budget — sector lobbying intensifying
+- **Treasury instructs Bank of England** to boost innovation in digital currencies, new legal objective for stablecoin promotion
 
 **Wider sector:**
-- **Synthetic risk transfers booming**: Insurers piling into deals allowing banks to offload default risk via unfunded structures — regulatory scrutiny likely.
-- **Deutsche Bank embezzlement case**: Banker charged with €600k theft from wealthy clients; reputational issue as they push wealth management growth.
-- **JPMorgan eases SpaceX lending**: Shortened time horizon for borrowing against SpaceX shares; may extend to Anthropic — signals private market liquidity moves.
-
-**Interest rate outlook:** Central banks facing inflation-vs-growth dilemma amid Middle East tensions; BoE direction unclear. Mortgage rate relief unlikely near-term.
+- Insurers piling into synthetic risk transfer deals with banks — offloading default risk via unfunded structures
+- Deutsche Bank private banker charged with embezzling €600k from wealthy clients — governance failure in wealth management expansion
+- British Business Bank small business loans hit £4bn; executive pay rising amid questions over underwriting standards
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry & Ireland:**
-- Listowel farm-stay luxury packages now promoted by Kerry tourism board, tied to Dublin AI events — could combine a short break with conference attendance.
-- Crystal Cruises added romantic all-suite Ireland coastal itineraries departing Dublin, September 2026 sailings open.
+**Kerry:**
+- Irish Times reports 12% rise in luxury short-break bookings from London for September-October — worth booking early if you're considering autumn visit
+- Regent Seven Seas now offering Dublin-London itinerary with VIP Kerry extension option — could combine city luxury with home county
 
-**Safaris:**
-- Silversea offering 15% early-bird on 2027 Kenya/SA fly-in safaris for couples booking from London — worth flagging if you're planning ahead.
+**Safari & Cruise:**
+- **Silversea** 2027 Kenya safari-cruise combo available with private transfers, 15% early-bird discount — fits your fly-in safari preference
+- Italian private banks in bidding war for wealthy clients — if considering Mediterranean cruising, service levels may be elevated
 
-**AI events tie-in:** Dublin conferences remain active; check listings for September/October if combining with Kerry or coastal cruise.
+**Domestic note:**
+- Energy bills rising 4% from October per Ofgem — factor into autumn/winter travel timing if considering extended Kerry stays
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tralee Kingdom Stadium:**
-- Fixtures confirmed for **28–30 August** (Thursday–Saturday). VIP hospitality packages available — good timing if you're in Kerry this bank holiday stretch.
+**Tonight at Tralee Kingdom Stadium:**
+- 8 races scheduled including **Kingdom Cup qualifier** — worth checking form if watching remotely
+- No fresh Cork or Limerick fixtures in today's feeds
 
-**Regional:**
-- Limerick and Cork tracks report strong entries for upcoming meets linked to the Tralee programme. Worth checking if any cross-track competitions of interest.
+*Suggestion:* If no live viewing planned, TraleeStadium.ie should have stream or results for the qualifier.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review DORA compliance status** with any active advisory clients — Q4 deadline is imminent.
-2. **Book Tralee VIP hospitality** for 28–30 August if attending — packages will move quickly.
-3. **Flag Silversea early-bird** to your partner — 15% saving requires prompt decision for 2027 Kenya/SA.
-4. **Skim Barclays governed cutover announcement** — potential case study for Imperial-linked AI governance pitch.
-5. **Check October energy direct debit** — Ofgem increase effective from October; adjust budget if needed.
+1. **Review FCA DORA guidance** — September deadline approaching; map to any active client frameworks
+2. **Note Lloyds/Barclays agentic AI cases** for advisory deck — two UK production deployments now trackable
+3. **Check Silversea 2027 Kenya safari-cruise** early-bird before 15% discount expires — fits VIP travel criteria
+4. **Monitor Kingdom Cup qualifier results** tonight at Tralee
+5. **Flag Moody's AI-tech concentration warning** for client governance discussions
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-No major UK-relevant or portfolio-moving stories in today's feeds. Market remains range-bound with attention on macro (Fed/ECB rate signals) rather than crypto-specific catalysts.
+**UK Policy:**
+- Treasury has given Bank of England a new legal objective to promote stablecoin innovation — significant shift positioning UK as crypto hub
 
-**Evergreen suggestion:** If you hold any exposure, worth reviewing custody arrangements given Moody's broader point on tech-provider concentration risk — applies to crypto custodians too.
+**No major price or protocol news** in today's feeds. Market relatively quiet.
+
+*Evergreen:* Worth tracking how UK stablecoin framework develops given banking sector implications for custody and settlement.
 
 ---
 
-*Quiet midweek — DORA and Tralee are your live items. Enjoy the races if you make it down.*
+*Quiet mid-week; DORA prep and the UK agentic AI pilots are the threads to watch.*
