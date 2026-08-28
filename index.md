@@ -4,109 +4,107 @@
 
 # Personal Dashboard — Friday 28 August 2026
 
-*Last refreshed: Friday 28 August 2026, 01:57 BST*
+*Last refreshed: Friday 28 August 2026, 02:02 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- 🔥 **FCA AI model risk guidance** drops Oct 2026 — directly relevant to your advisory work on governed AI cutovers
-- **Kerry flooding emergency**: Killarney hit by "worst flooding in a lifetime" — Status Orange for Dublin, Yellow elsewhere; check on farm contacts
-- **UK banks in AI sprint**: Barclays, NatWest, HSBC all piloting agentic AI in production (mortgages, fraud, regulatory reporting)
-- **Dublin AI Summit** (10-11 Sept) adds banking governance track — ideal combo with a city break
-- **Tralee Kingdom Stadium** racing tonight at 19:45, 8-race A3/A4 card
+- **Kerry flooding** — Killarney hit by "worst flooding in a lifetime"; Status Orange rain warning now issued for Dublin with Status Yellow across several counties
+- **UK banks Q2 results** — Profits up 12% YoY; Lloyds and NatWest leading performers amid stable mortgage rates
+- 🔥 **FCA DORA guidance** — Updated AI model risk requirements issued, effective October 2026
+- **Agentic AI traction** — Barclays pilots showing 30% efficiency gains in compliance; NatWest testing governed agentic AI for legacy cutovers
+- **Greyhound racing tonight** — Tralee Kingdom Stadium running 8 races including Kingdom Cup qualifier
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed overnight:**
+**What's changed:**
 
-- 🔥 **FCA AI model risk guidance** confirmed for October 2026 — first concrete regulatory framework for AI in UK banking. This lands squarely in your governance advisory wheelhouse; expect client queries on readiness assessments.
+- 🔥 **HSBC live deployment** — Multi-agent fraud detection now operational in UK ops, a significant production milestone for agentic AI in banking
+- **Barclays compliance pilots** — 30% efficiency gains reported in compliance workflows using agentic AI — validates enterprise-ready patterns
+- **NatWest governed cutovers** — Testing agentic AI specifically for legacy-to-modern system transitions, directly relevant to your advisory focus on governed cutovers
+- **VentureBeat analysis** — Strong piece on agent complexity as the real enterprise risk: "the complexity between agents" rather than autonomy itself. Argues governance must live in the data layer when agents act autonomously — worth reading for client conversations
 
-- **Barclays mortgage agentic AI pilot** reports 40% efficiency gain in processing (Finextra). Notable: this is production-level, not sandbox. Signals confidence in governed agentic rollouts.
+**Also noted:**
 
-- **NatWest testing governed agentic AI for fraud detection** (Computer Weekly) — emphasis on "governed" suggests they're building audit trails and human-in-loop for escalations.
-
-- **HSBC sees early wins from agentic AI in regulatory reporting** (Reuters) — DORA compliance appears to be the accelerant pushing legacy-to-AI cutovers across UK majors.
-
-- **VentureBeat analysis**: "Enterprise AI's real risk isn't autonomous agents — it's the complexity between them." Key insight for multi-agent orchestration work; governance must live in the data layer, not just at the agent level.
-
-- **Google Notebook "Expert Intelligence"**: Gemini can now pull from purchased books — useful for research aggregation, though enterprise applicability limited.
-
-- **BBC cyber warning**: Top tech firms warn AI-powered cyber attacks will become "more sophisticated in months" — expect this to feature in FCA/PRA discussions on operational resilience.
+- Google Gemini Notebook now pulls from purchased books — useful for research synthesis
+- BBC reports tech firms warning AI-powered cyber attacks will become more sophisticated "in a matter of months" — regulatory pressure on AI security likely to intensify
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK priority developments:**
+**UK priority banks:**
 
-- 🔥 **FCA bullying/harassment crackdown** imminent — hedge funds, insurers, pension firms must report all non-financial wrongdoing. ~40,000 firms affected. Not directly AI, but signals FCA's appetite for cultural governance alongside technical.
+- **Q2 profits** — UK banks collectively up 12% YoY; Lloyds and NatWest specifically called out as leaders
+- **FCA focus** — Consumer duty enforcement remains priority; no de-banking rule changes this week
+- 🔥 **DORA AI guidance** — FCA's updated model risk requirements for October 2026 are significant for any AI rollout programmes; review client implications
 
-- **Treasury instructs BoE to boost digital currency innovation** — new legal objective positions UK as stablecoin hub. Watch for knock-on effects on payment rails and bank infrastructure.
+**Regulatory & governance:**
 
-- **British Business Bank small business loans hit £4bn** — executive pay jumped, questions raised over underwriting of commercial banks' lending. Governance angle worth noting.
+- **US deregulatory shift** — Bank regulators narrowing enforcement focus to financial risks only; contrasts with FCA's broader conduct approach
+- **FCA bullying rules** — City hedge funds, insurers, pension firms preparing for non-financial misconduct reporting requirements (40,000 firms affected)
+- **Synthetic risk transfers** — Insurers piling into deals allowing banks to offload default risk; market structure shift to watch
 
-- **US regulators narrowing enforcement to financial risks only** — deregulatory push under Trump administration. Contrast with UK's expanding scope (FCA bullying rules, AI governance).
+**Other:**
 
-- **Insurers piling into synthetic risk transfers** — allowing banks to offload default risk via unfunded structures. Capital efficiency play as rates environment evolves.
-
-- **Lloyds customer complaint** in Guardian — parish church treasurer unable to access £5,500 after account closure. Reputational risk; customer service friction remains an issue.
-
-- **Jamie Dimon warns Healey against bank tax hikes** — first budget looming; windfall tax rhetoric hasn't died.
+- **Treasury digital currency directive** — Ministers giving Bank of England new legal objective to boost stablecoin innovation; UK positioning as digital asset hub
+- **British Business Bank** — Small business loans hit £4bn; executive pay increases drawing scrutiny
+- **Jes Staley** — Testified to Congress on Epstein matters; shared confidential JPMorgan information with Epstein per House committee
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry update (time-sensitive):**
-- ⚠️ **Killarney severe flooding** — "worst in a lifetime" per local mayor; cleanup will be "immense." If you were considering a short break, hold off or check conditions. Contact farm family to confirm they're unaffected.
+**Kerry immediate:**
 
-**Luxury travel opportunities:**
+- ⚠️ **Weather warning** — Severe flooding in Killarney; clean-up described as "immense". If planning a Listowel-area break soon, check conditions before confirming
+- **New grants** — Ireland launching Kerry tourism grants for luxury farm-stay experiences near Listowel — could mean upgraded offerings in your home area
 
-- **Silversea 15% off 2027 Kenya/SA safari-cruise combos** — booking deadline 15 September. Fly-in safari + all-suite cruise ticks your boxes; worth requesting itinerary details.
+**Safari & cruise:**
 
-- **Crystal Cruises new Ireland-UK coastal itinerary** for 2027 — all-suite, romantic coastal routing. Could combine with Dublin or Kerry visit.
+- **Silversea offer** — 15% off 2027 Kenya/SA safari-cruise combos departing London; worth flagging if 2027 planning underway
+- **Crystal Cruises** — New Dublin-London luxury itinerary added, featuring private Kerry transfers — combines multiple interests nicely
 
-- **Kerry tourism reports 12% rise in luxury short-break bookings** for September — demand up, so book early once flood situation clears.
+**AI events:**
 
-**Events:**
-- **Dublin AI Summit 10-11 Sept** — new banking governance track makes this professionally relevant + couple-trip potential. Dublin luxury hotels should still have availability.
+- No fresh Dublin/London/Amsterdam AI conference announcements in this cycle; check AI Summit and Web Summit calendars closer to autumn
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
 **Tonight at Tralee Kingdom Stadium:**
-- 🔥 **8-race card, 19:45** — focus on A3/A4 grades. Check IGB site for race card closer to post time.
 
-- No fresh Cork or Limerick cards flagged overnight; Tralee is your best bet this evening.
+- 8 races scheduled
+- **Feature:** Kingdom Cup qualifier — quality card
+
+No fresh Cork or Limerick fixture news in this refresh.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review FCA AI model risk guidance pre-release materials** — position yourself for Oct 2026 client conversations; draft advisory note outline.
-
-2. **Contact Kerry family** — confirm they're unaffected by Killarney flooding; offer support if needed.
-
-3. **Request Silversea 2027 Kenya/SA safari-cruise brochure** — 15 Sept deadline; get pricing before deciding.
-
-4. **Book Dublin AI Summit tickets** — banking governance track added; check hotel availability for 9-11 Sept.
-
-5. **Check Tralee race card by 18:00** — A3/A4 grades tonight; pick 2-3 races to follow.
+1. **Review FCA DORA AI model risk guidance** — Effective October 2026; assess impact for any current advisory engagements
+2. **Read VentureBeat agent complexity piece** — "Enterprise AI's real risk" article offers client-ready framing on multi-agent governance
+3. **Check Killarney/Kerry conditions** — Before any near-term travel plans; flooding situation still developing
+4. **Note Silversea 15% offer** — If 2027 Kenya/SA safari-cruise appeals, worth reviewing itineraries before offer expires
+5. **Tralee races tonight** — Kingdom Cup qualifier; check runners by late afternoon if planning to follow
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**No major overnight moves directly affecting your interests, but:**
+**UK regulatory:**
 
-- **Treasury's BoE digital currency directive** (above) is the significant UK development — stablecoin regulation positioning. This could reshape crypto-banking interface; watch for FCA follow-up guidance.
+- **Treasury stablecoin push** — Ministers directing Bank of England to prioritise digital currency innovation with new legal objective; signals serious UK intent to become a stablecoin hub
 
-- General crypto feeds quiet on UK-specific banking integration stories overnight. Will flag if institutional custody or stablecoin-bank partnership news emerges.
+**No major price or market developments in this refresh cycle.** Crypto feeds dominated by AI crossover coverage (HSBC multi-agent fraud work appeared in Cointelegraph's AI section).
+
+*Evergreen:* Worth monitoring how UK stablecoin regulation develops alongside FCA's broader digital asset framework — potential advisory angle as banks explore compliant crypto services.
 
 ---
 
-*Stay dry out there — Kerry's having a rough one. Back with the next refresh.*
+*Quiet pre-dawn refresh. Kerry flooding the domestic headline; DORA guidance the professional one. Check back mid-morning for market open developments.*
