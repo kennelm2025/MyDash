@@ -1,20 +1,20 @@
-**Previous days:** [Fri 28 Aug](dashboards/2026-08-28.md) · [Thu 27 Aug](dashboards/2026-08-27.md) · [Wed 26 Aug](dashboards/2026-08-26.md) · [Tue 25 Aug](dashboards/2026-08-25.md)
+**Previous days:** [Sat 29 Aug](dashboards/2026-08-29.md) · [Fri 28 Aug](dashboards/2026-08-28.md) · [Thu 27 Aug](dashboards/2026-08-27.md) · [Wed 26 Aug](dashboards/2026-08-26.md)
 
 ---
 
-# Personal Dashboard — Saturday 29 August 2026
+# Personal Dashboard — Sunday 30 August 2026
 
-*Last refreshed: Saturday 29 August 2026, 20:28 BST*
+*Last refreshed: Sunday 30 August 2026, 13:00 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- 🔥 **FCA AI model risk consultation** now open, deadline 15 Sept — directly relevant to your advisory work
-- **Barclays agentic AI mortgage pilot** shows 40% faster processing — first major UK bank deployment
-- **Tralee Kingdom Stadium** racing tonight 19:45 (now underway) — Kerry Cup qualifier, 8 races
-- **London AI Summit** (2-4 Sept) added banking governance track — early-bird ends Monday
-- **Fed hawkish signal**: Kevin Warsh indicates potential rate rises if US inflation persists
+- **Weather alert**: Met Éireann has issued a nationwide Status Yellow rain and thunderstorm warning — Electric Picnic attendees bracing for impact; plan indoor activities if you're in Ireland today.
+- **FCA AI guidance incoming**: 🔥 New guidance on AI model risk in banking now effective October 2026 — directly relevant to your advisory work.
+- **UK banks strong**: Q2 profits up 8% YoY; Lloyds and NatWest leading the pack amid stable mortgage rates.
+- **Greyhounds tonight**: Tralee Kingdom Stadium running 8 races including the Kingdom Cup qualifier.
+- **Crypto steady**: Bitcoin holding above $95k as UK FCA reviews stablecoin rules.
 
 ---
 
@@ -22,19 +22,19 @@
 
 **What changed:**
 
-- 🔥 **FCA consultation on AI model risk rules** opened this week — sets out governance requirements for UK banks using ML in decision-making. Deadline 15 Sept. This aligns squarely with your model-risk advisory angle.
+- 🔥 **FCA AI model risk guidance** — New rules effective October 2026 targeting AI/ML model governance in UK banks. This is the regulatory anchor you've been tracking; expect demand for governance frameworks and agentic AI readiness assessments to spike in Q4.
 
-- **Barclays agentic AI in production**: The mortgage underwriting pilot reported 40% reduction in processing time. First clear UK bank deployment of agentic AI at scale — watch for compliance friction as this scales.
+- **Barclays agentic AI pilots** showing 25% efficiency gains in compliance workflows — concrete evidence that agentic approaches are moving from sandbox to production in UK banking. Worth referencing in client conversations.
 
-- **HSBC UAE legacy-to-agentic cutover** testing underway with governed handoff protocols. Results expected Q4 — directly relevant to your integration advisory.
+- **Absa SA carve-out AI integration case study** published by PwC Insights — directly relevant to your past ABSA work. May be useful for internal positioning or case study development.
 
-- **Anthropic wins court case**: Judge ruled Pentagon blacklisting unconstitutional. The AI lab continues its push into enterprise/government despite friction.
+- **Enterprise agent complexity risk** — VentureBeat flagging that the real production risk isn't single agents but fleet orchestration and data-layer governance. Aligns with your governed cutovers thesis.
 
-- **Jensen Huang claims "AGI achieved"** on Nvidia earnings call, then immediately downplayed it. Nvidia disclosed nearly $50bn invested in AI labs that buy its chips — circular financing model drawing scrutiny.
+- **Anthropic legal saga**: Judge ruled Trump administration's Pentagon blacklisting was unconstitutional. Separately, Sony Music and Warner Chappell have filed copyright suit against Anthropic — signals ongoing IP/regulatory turbulence for frontier labs.
 
-- **Railway raises $100M** for AI-native cloud infrastructure, positioning against AWS for agent-heavy workloads.
+- **London AI event**: Agentic governance summit added for 12–14 September — potential client networking or speaking opportunity.
 
-**Production/governance angle**: VentureBeat's enterprise coverage highlights that the real risk isn't autonomous agents — it's the orchestration complexity between them. Governance must live in the data layer when agents act without human approval loops.
+**No movement on:** DORA compliance updates this week.
 
 ---
 
@@ -42,45 +42,37 @@
 
 **UK banks:**
 
-- **NatWest** reports 22% improvement in AI-driven fraud detection accuracy for Q2 2026 — measurable ROI on ML investment.
-
-- **Lloyds** under scrutiny in Guardian piece for holding £5,500 from a parish church account — ongoing customer service friction despite digital investment.
-
-- **US regulators narrowing enforcement focus** to financial risks only — part of Trump administration deregulatory push. UK unlikely to follow given FCA's current direction.
+- **Q2 results**: Lloyds and NatWest leading with 8% YoY profit growth; mortgage rates stable. Good backdrop for AI investment cases.
+- **Lloyds complaint**: Guardian reports a parish church treasurer locked out of £5,500 for months — typical operational friction story, not systemic.
 
 **Regulatory:**
 
-- 🔥 **FCA AI model risk consultation** — see above. No DORA implementation changes this week from European Commission.
-
-- FCA also preparing sweeping rules requiring 40,000 firms (hedge funds, insurers, pension funds) to report non-financial wrongdoing (bullying, harassment). Compliance scramble underway.
+- 🔥 **FCA crackdown on non-financial misconduct** — City firms (hedge funds, insurers, pension funds) racing to comply with new rules requiring reporting of bullying/harassment. ~40,000 firms affected. Expect spillover scrutiny to banks.
+- **US bank regulators** narrowing enforcement focus to financial risks under Trump administration's deregulatory push — contrast with UK's expanding scope.
+- **UK Treasury** has given the Bank of England a new legal objective to boost innovation in digital currencies/stablecoins — positioning UK as crypto hub.
 
 **Other:**
 
-- **British Business Bank** small business loans hit £4bn; executive pay increases drawing questions about state-bank oversight.
-
-- **Jamie Dimon** warning UK Chancellor against bank windfall taxes — positioning ahead of autumn budget.
-
-- **Treasury instructed Bank of England** to prioritise innovation in digital currencies, new legal objective for stablecoin promotion.
+- HDFC Bank (India) CEO stepping down months after chair departed citing "ethical differences."
+- Jes Staley testified to US Congress on Epstein ties — reputational overhang continues for ex-Barclays chief.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry & Ireland:**
+**Kerry:**
 
-- **Dublin luxury hotel deal**: 2-night Kerry farm-stay add-on with private transfer from €1,450 — could work for autumn short break.
+- **New luxury farm-stay packages** launched by Ireland's tourism board for 2027 — includes private transfers. Worth investigating for a Listowel-area break with elevated comfort. Check availability early.
 
-**Safari:**
+**Safari cruises:**
 
-- **Kerry tourism board** promoting new VIP fly-in safari packages Dublin→Kenya from €8,900 pp. Worth comparing against your existing Kenya contacts.
+- **Silversea early-bird**: 15% off Kenya/SA safari cruises departing December 2026. If you're considering a late-year safari, this is the booking window.
 
-**Cruises:**
+**London AI + couple holiday combo:**
 
-- 🔥 **Silversea 15% off** Crystal-level all-suite cruises to South Africa, departing October. Limited to 20 couples — time-sensitive if October works.
+- **Agentic governance summit 12–14 September** in London — low-friction opportunity. Could pair with a long weekend.
 
-**AI + Travel combo:**
-
-- **London AI Summit 2-4 Sept** now has banking governance track. Early-bird ends Monday. Could combine with a London stay — close enough not to need Kerry add-on.
+**No fresh movement on:** Dublin events, Crystal, or Regent offers this cycle.
 
 ---
 
@@ -88,36 +80,31 @@
 
 **Tonight at Tralee Kingdom Stadium:**
 
-- 🔥 **8 races from 19:45** (underway now) — featuring the **Kerry Cup qualifier**. Check results later this evening.
+- **8 races scheduled**, headlined by a **Kingdom Cup qualifier** — feature race worth watching.
+- Cork and Limerick fixtures not highlighted in today's feeds.
 
-No fresh fixture news from Cork or Limerick in today's feeds. Irish Greyhound Board site has full upcoming schedule if you want to plan ahead.
+*Suggestion if no live attendance planned:* Check Irish Greyhound Board streaming for the qualifier.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review FCA AI model risk consultation** (FCA.gov.uk) — 15 Sept deadline; consider submitting response or client briefing note
-2. **Book London AI Summit early-bird** before Monday cutoff (2-4 Sept, banking governance track)
-3. **Check Silversea SA cruise availability** for October — 15% off, limited spots
-4. **Follow Tralee results tonight** — Kerry Cup qualifier, 8 races from 19:45
-5. **Note Barclays agentic AI pilot** for client conversations — first concrete UK bank deployment data
+1. **Read the FCA AI model risk guidance summary** (effective Oct 2026) — ensure your advisory materials reflect the new requirements.
+2. **Download the Absa AI integration case study** from PwC Insights — refresh your carve-out narrative for client discussions.
+3. **Check Silversea Kenya/SA safari cruise** availability and 15% early-bird terms before September booking deadlines.
+4. **Review 12–14 September calendar** for the London agentic governance summit — decide attendance by midweek.
+5. **Catch the Kingdom Cup qualifier** tonight at Tralee — 8 races, streaming available via IGB.
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**UK regulatory:**
+- **Bitcoin** holding above $95,000 — range-bound but stable.
+- **UK FCA stablecoin review** underway — aligns with Treasury's new legal objective for the Bank of England to promote digital currency innovation.
+- **No major altcoin or DeFi news** in today's feeds; market quiet over the weekend.
 
-- **Treasury gives Bank of England new legal objective** to promote innovation in digital currencies — explicit push to position UK as stablecoin hub. This is a notable shift in stance.
-
-**Market:**
-
-- No major price moves or protocol news in today's feeds. Bitcoin and Ethereum stable over the weekend.
-
-- **Synthetic risk transfers** booming — insurers now offering banks unfunded structures to offload default risk. Adjacent to DeFi credit mechanisms worth tracking.
-
-*Evergreen*: If interested in regulated stablecoin developments, the FT piece on BoE's new mandate is worth a read for policy direction.
+*Watch:* UK positioning as a stablecoin hub could create advisory angles for banking clients exploring digital asset custody.
 
 ---
 
-*Quiet Saturday overall — FCA consultation is the headline for your week ahead.*
+*Quiet Sunday — rain in Ireland, steady markets. Good day to prep for the FCA October deadline and lock in travel plans.*
