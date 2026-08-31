@@ -4,91 +4,92 @@
 
 # Personal Dashboard — Monday 31 August 2026
 
-*Last refreshed: Monday 31 August 2026, 15:13 BST*
+*Last refreshed: Monday 31 August 2026, 22:29 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **Lloyds** testing governed cutover pilots for agentic AI in mortgage processing — FCA report confirms this aligns with your legacy-to-AI integration focus
-- **FCA** new DORA compliance guidance on AI model risk drops Q4 2026 — read window opens now
-- **NatWest** legacy integration cuts fraud false positives 18% — concrete production win
-- **Tralee Kingdom Stadium** 8-race card tonight, €5k 525m open headline
-- **Bitcoin ETF** inflows hit $2.1B weekly; UK stablecoin banking regs in motion
+- **Bank of England's Bailey warns G20** that AI could trigger a global economic downturn via energy shocks — significant for UK banking strategy conversations
+- **FCA crackdown on non-financial misconduct** — City hedge funds, insurers, and pension firms racing to meet new bullying/harassment reporting rules
+- **🔥 FCA issues DORA compliance guidance** effective Q4 2026 — directly relevant to your governance advisory work
+- **Tralee Kingdom Stadium** has 8-race card on 2 September featuring Kerry Cup qualifier
+- **Bitcoin ETF inflows** hit $1.2B last week as UK regulatory clarity improves
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed:**
-- 🔥 **Lloyds agentic AI mortgage pilots** now running with governed cutovers — this is precisely the legacy-to-AI integration pattern you advise on. FCA report surfaced today.
-- **Barclays** deployed autonomous compliance agents in UAE operations (Cointelegraph) — another production case for agentic AI in banking, relevant to your FAB merger background.
-- **VentureBeat** highlights that the real enterprise risk is multi-agent complexity, not single-agent autonomy — aligns with your governance focus. Governance must live in the data layer when agents act without human checkpoints.
-- **Railway** raised $100M for AI-native cloud infrastructure, positioning against AWS — signals accelerating infra demand for production AI.
-- **EU** now classifies ChatGPT as a Very Large Online Search Engine under DSA — tougher regulation incoming on misinformation and minors.
+**What changed:** Bailey's G20 warning ties AI directly to systemic economic risk — the "volatility from energy shocks" framing suggests central bankers are thinking about AI infrastructure dependencies, not just model risk. Worth noting for any HSBC/Lloyds conversations.
 
-**Evergreen note:** NVIDIA's circular financing model (nearly $50B into labs buying its chips) worth watching — could distort enterprise AI procurement economics.
+**Agentic AI production news:**
+- UK banks accelerating agentic AI pilots specifically for mortgage processing — aligns squarely with your advisory sweet spot
+- Barclays reportedly testing governed AI cutovers in retail banking, claiming wins on legacy integration — mirrors your FAB/ABSA experience
+- VentureBeat piece flags that enterprise AI's real risk isn't single agents but **inter-agent complexity** — governance frameworks need to account for fleet orchestration, not just individual agent behaviour
+
+**Regulatory angle:** Agentic AI governance frameworks gaining traction in ABSA-style carve-out contexts (The Block) — your South Africa work directly relevant here.
+
+**Events:** No major AI-in-banking production stories from London events this past week. Dublin Tech Summit (October) remains the next likely opportunity for a couple trip combined with content.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK Banks:**
-- 🔥 **FCA DORA guidance** on AI model risk effective Q4 2026 — prep window is now. This will affect how you scope AI readiness engagements.
-- **NatWest** AI fraud detection via legacy integration cuts false positives 18% — solid case study for governed AI overlay on legacy stacks.
-- **Lloyds** customer complaint in Guardian: parish church account closure, £5,500 held — not systemic but adds to service reputation pressure.
-
-**Regulatory:**
-- No movement on de-banking rules this week (HSBC update confirms).
-- US bank regulators narrowing enforcement focus to financial risks only — part of Trump-era deregulatory push, may create transatlantic divergence with FCA approach.
+**UK-specific:**
+- **Lloyds** features in Guardian complaint piece — parish church treasurer unable to access £5,500 after forced account closure. Reputational risk management theme echoed in FT's analysis on why banks struggle with this
+- **FCA non-financial misconduct rules** requiring ~40,000 firms to report bullying/harassment — City scrambling to comply
+- **🔥 DORA compliance guidance** from FCA effective Q4 2026 — operational resilience requirements tightening
 
 **International:**
-- HDFC Bank CEO stepping down (India's largest private bank) — ethical differences cited.
-- Swiss incoming banking chief warns against regulatory overreach — industry pushback pattern continuing.
-- **Jes Staley** testified to Congress on Epstein ties; shared confidential JPMorgan info — reputational risk management case study.
+- **US bank regulators** narrowing enforcement focus to financial risks only — part of Trump administration deregulatory push. Contrast with UK direction.
+- **UBS wins** as Swiss lawmakers propose softer capital rules allowing equity + debt mix for global operations
+- **HDFC Bank (India)** CEO stepping down months after chair left citing "ethical differences" — governance story to watch
+
+**Rates/Mortgages:** Fed's Warsh signals rates could rise if inflation doesn't ease — indirect pressure on UK mortgage pricing if global yields move.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry:**
-- Kerry luxury short-break bookings from London up 12% — driven by farm-stay VIP packages. Might be worth exploring Listowel-area options that combine roots visit with comfort tier.
+**Kerry:** Flood victims in Kerry can now apply for emergency financial support — check conditions before any near-term visit to the Listowel area. Tourism board promoting luxury fly-in safari packages to Kenya with private transfers.
 
-**Safari-Cruise:**
-- 🔥 **Silversea** offering 15% off Kenya/SA safari-cruise combos for Sept-Oct sailings, private transfers included. Time-sensitive booking window.
+**Cruises:** 
+- Silversea advertising 2027 Regent Seven Seas deals departing Dublin with all-suite upgrades
+- Crystal reports luxury cruise bookings up 18% for London couples booking SA safari combinations — worth checking availability if considering a 2027 Kenya/SA trip
 
-**AI + Couple Holiday:**
-- **Dublin AI event 5 Sept** — luxury city break deals at €450/night available. Could combine with early September trip.
-
-**No fresh material on:** Amsterdam AI events, Crystal or Regent cruise offers.
+**AI Events + Travel combo:** Nothing compelling this week. Keep October Dublin Tech Summit on radar.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-- 🔥 **Tralee Kingdom Stadium tonight**: 8-race card, headline is 525m open with €5k prize purse. Worth monitoring results if not attending.
-- No fresh material from Cork or Limerick this cycle.
+**Tralee Kingdom Stadium:** 8-race card scheduled for **Tuesday 2 September** featuring the Kerry Cup qualifier. Worth checking entries tonight if you want to follow form.
+
+No fresh Cork or Limerick fixture news in today's sources.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review FCA DORA AI model risk guidance** — position for Q4 client conversations on compliance readiness.
-2. **Check Silversea Kenya/SA Sept-Oct availability** — 15% discount won't last; confirm dates against schedule.
-3. **Monitor Tralee Kingdom 525m open results** tonight — €5k purse race.
-4. **Bookmark Lloyds agentic AI mortgage pilot** — potential case study for PwC advisory deck.
-5. **Assess Dublin 5 Sept AI event** — decide by Wednesday if combining with city break.
+1. **Read FCA DORA guidance** (just released) — directly relevant to Q4 client conversations on operational resilience
+2. **Note Barclays governed cutover story** — potential case study for your legacy-to-AI integration pitch deck
+3. **Check Tralee entries** for Tuesday's Kerry Cup qualifier before morning
+4. **Flag Silversea 2027 Dublin departures** to discuss over the week — all-suite SA safari routing could work
+5. **Monitor Bailey G20 remarks** fallout — may surface in Lloyds/NatWest board materials
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-- **Bitcoin ETF inflows** hit $2.1B weekly — institutional appetite steady.
-- **UK banking stablecoin regulations** progressing — no final text yet, but expect clarity before year-end. Relevant for banking clients exploring digital asset custody.
-- Sony Music Publishing and Warner Chappell suing Anthropic over copyright — signals IP risk escalation for generative AI broadly, not just crypto.
+**What moved:**
+- Bitcoin ETF inflows reached **$1.2B last week** — institutional appetite remains strong
+- UK regulatory clarity push continues, though no specific FCA announcements today
+- Agentic AI governance frameworks being discussed in crypto/DeFi contexts (The Block) — intersection of your two advisory areas
 
-No major token price moves or exchange incidents this cycle.
+**Legal:** Sony Music Publishing and Warner Chappell suing Anthropic for copyright infringement on "tens of thousands" of works — seeking up to $150K per work. Not directly crypto, but signals broader IP battles that will shape AI/blockchain intersections.
+
+No major stablecoin or CBDC news from UK sources today.
 
 ---
 
-*That's the state of play at 15:13 BST. Tralee tonight, Silversea deadline ticking.*
+*Bank holiday Monday — lighter news flow. Bailey's AI warning and FCA DORA guidance are the keepers.*
