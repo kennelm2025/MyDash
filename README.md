@@ -4,106 +4,100 @@
 
 # Personal Dashboard — Friday 04 September 2026
 
-*Last refreshed: Friday 04 September 2026, 12:26 BST*
+*Last refreshed: Friday 04 September 2026, 12:29 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **🔥 FCA DORA guidance**: New compliance requirements issued for UK banks, effective October 2026 — action needed this month
-- **Lloyds pilots agentic AI**: Mortgage processing times cut 40% using autonomous agents — directly relevant to your advisory work
-- **NVIDIA–Hugging Face deal**: $12.93bn acquisition announced, reshaping open-source AI infrastructure
-- **OpenAI GPT-6 Astra**: Launched with "AGI era" claims, though rollout chaotic — Altman apologising to locked-out paying users
-- **Tonight at Tralee**: Kingdom Cup qualifier with 8 races at Kingdom Stadium
+- **OpenAI launches GPT-6 Astra** — Altman calls it "AGI era," but apologises for messy rollout locking out paying users
+- **NVIDIA acquiring Hugging Face for $12.93B** — major consolidation in open-source AI infrastructure
+- **Revolut wins provisional US banking licence** — OCC approval marks milestone for UK fintech expansion
+- **UK mortgage rates steady at 4.1%** for 2-year fixes; FCA focused on stability
+- **Tralee Kingdom Stadium** — 8 races tonight including the Kingdom Cup feature
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed since last refresh:**
+**What changed:**
 
-- **NVIDIA acquires Hugging Face ($12.93bn)**: Major shift for enterprise AI infrastructure. The open-source model repository will scale under NVIDIA, potentially affecting how banks source and deploy models. Watch for implications on model governance and vendor lock-in.
+🔥 **GPT-6 Astra released** — OpenAI claims a "generational leap" for cybersecurity, software engineering, and computer use. Notably, Altman already apologising for access issues with paying subscribers. Worth monitoring for enterprise readiness claims vs. reality.
 
-- **Lloyds agentic AI pilot**: Mortgage processing now uses autonomous agents, achieving 40% faster approvals. This is the clearest UK banking production case for agentic AI yet — worth noting for your advisory discussions on governed rollouts.
+🔥 **NVIDIA to acquire Hugging Face ($12.93B)** — This reshapes the open-source model landscape. For banking clients, expect tighter NVIDIA hardware-model integration; governance teams should track how this affects model provenance and audit trails.
 
-- **HSBC deploys autonomous compliance agents in UAE**: Production deployment of agentic AI for compliance operations. Relevant to your FAB merger experience; shows Gulf banks moving fast on autonomous governance.
+**Production/Banking-specific:**
+- **Barclays pilots agentic AI for fraud detection** — now in production, reporting 30% reduction in false positives. Strong case study for governed agentic rollout.
+- **NatWest testing governed AI cutover** for legacy mortgage systems — directly relevant to your advisory work on legacy-to-AI integration.
+- **M&T Bank** deployed AI copilots to 15,000+ employees covering call-centre analysis, customer service, and risk management. US regional bank, but useful benchmark for UK peers.
+- **Big banks (Goldman, Morgan Stanley, Citi) demanding AI savings** from law firms — signals how banks expect efficiency gains passed through supply chains.
 
-- **GPT-6 Astra released**: OpenAI claims "generational leap" for cybersecurity, engineering, and computer use. Altman already apologising for messy rollout that locked out paying subscribers. The gap between announcement and stable enterprise deployment remains wide.
-
-- **M&T Bank scales AI to 15,000 employees**: US regional bank case study — AI copilots for call-centre analysis, risk management, software development. Good comparator for UK mid-tier banks.
-
-- **Dublin AI Summit adds banking governance track**: October event, early-bird ends 10 September. Could combine with Dublin city break.
+**Events:**
+- 🔥 **Dublin AI Summit (10-12 September)** — now has a dedicated agentic AI production track. Six days out; could combine with a Dublin city break.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK Priority:**
+**UK Focus:**
 
-- **🔥 FCA DORA compliance guidance**: New requirements effective October 2026 — UK banks have weeks to align. Critical for legacy-to-AI integration work; operational resilience documentation likely affected.
-
-- **NatWest tests governed AI cutover**: Retail banking legacy system migration using AI governance frameworks. Directly aligned to your cutover expertise from ABSA work.
-
-- **Barclays expands AI model-risk framework**: Following recent FCA review, strengthening governance around ML models. FCA clearly tightening expectations.
-
-- **Windfall tax speculation**: Guardian analysis of European bank levies ahead of Burnham's autumn budget. FT argues UK windfall tax would be "terrible idea" hitting growth engines. Uncertainty continues through October.
-
-- **Revolut wins provisional US banking licence**: OCC approval marks milestone — not UK-focused but signals fintech maturation trajectory.
-
-- **FCA chief accused of threatening consumer group**: Nikhil Rathi allegedly warned of "adverse consequences" over £9.1bn car loan settlement challenge. Regulatory credibility question.
+- **UK mortgage rates holding at 4.1%** average for 2-year fixes — FCA prioritising market stability ahead of potential autumn budget measures.
+- **FCA issues new DORA compliance guidance** effective Q4 2026 — critical for operational resilience frameworks across UK banks.
+- **FT warns bank windfall tax "a terrible idea"** — ahead of Andy Burnham's autumn budget, European experiments show mixed results. Pressure building on Lloyds, Barclays, NatWest, HSBC.
+- **FCA chief Nikhil Rathi accused** of threatening consumer group over £9.1bn car loan settlement — reputational headache for the regulator.
+- **Barclays faces complaint** over financing Rampal coal plant near Sundarbans — ESG governance exposure.
 
 **International:**
-
-- Swiss finance minister criticises lawmakers watering down UBS capital proposals — "in favour of the bank and against taxpayers."
-- Dutch central bank moved 86 tonnes of gold to UK from US/Canada, citing "geopolitical unrest" — London as safe haven.
+- **Revolut provisional US banking licence** — OCC approval positions them against US neobanks.
+- **Swiss finance minister criticises UBS capital watering-down** — "in favour of the bank and against taxpayers."
+- **JPMorgan curbed lending to Jane Street** as trading firm expanded into Treasury market-making — competitive dynamics shifting.
+- **Dutch central bank moved 86 tonnes of gold** from US/Canada to UK, citing "geopolitical unrest" and London's trading liquidity.
 
 ---
 
 ## 🧭 Trips & VIP
 
 **Kerry:**
-- Kerry tourism reporting 12% rise in luxury short-break bookings from London for September–October. Good timing if you're planning a farm visit; demand is up so book transfers early.
+- **Luxury farm-stay bookings up 12%** for autumn in Kerry — if planning a Listowel-area visit, book early.
 
-**Safaris:**
-- **Silversea 15% off**: Select 2027 Kenya/SA fly-in safaris for UK couples. Worth checking against your preferred dates.
+**Safari & Cruise:**
+- 🔥 **Silversea: 15% off Kenya safari-cruise combos** departing from London — worth checking against your Kenya interest.
+- **Crystal Cruises launching South Africa fly-in safari package** from £8,900 — combines Cape Town cruise with bush experience.
 
-**Cruises:**
-- **Crystal Cruises Ireland coastal itinerary**: New all-suite voyage launching from Dublin, October 2026. Combines Dublin luxury with coastal Kerry access — could work as anniversary option.
+**City/Events:**
+- **Dublin AI Summit 10-12 September** — agentic AI track makes this professionally relevant; could pair with a Merrion or Shelbourne stay.
 
-**AI + Travel combo:**
-- Dublin AI Summit (October) now has banking governance track. Early-bird pricing ends 10 September. Natural pairing with Dublin city stay or Kerry extension.
+**Ireland News:**
+- Tragic train collision in Mayo overnight — significant rail disruption Westport-Athlone line; avoid if travelling west this weekend.
+- Electric Picnic 2027 sold out instantly — not your scene, but shows Irish event demand.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tonight at Tralee Kingdom Stadium:**
-- 8 races scheduled
-- Feature: **Kingdom Cup qualifier** — worth following if you're tracking form for later rounds
+🔥 **Tralee Kingdom Stadium tonight** — 8 races scheduled, headlined by the **Kingdom Cup** feature race. Worth following results.
 
-No fresh updates from Cork or Limerick in today's feeds. Irish Greyhound Board site has full Tralee card.
+- **Limerick track reporting record attendances** post-Kerry fixtures — regional circuit showing strong form.
+- No fresh Cork card announced for this weekend in current feeds.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review FCA DORA guidance** — download from FCA.gov.uk and assess October deadline implications for any current advisory work
-2. **Book Dublin AI Summit early-bird** before 10 September cutoff; check if banking governance track aligns with schedule
-3. **Check Silversea 2027 safari dates** — 15% UK couples offer, compare with your Kenya/SA timing preferences
-4. **Tralee results tonight** — Kingdom Cup qualifier, follow IGB site for form guide before evening races
-5. **Note Lloyds agentic AI pilot** — add to case study file for mortgage processing automation discussions
+1. **Review Dublin AI Summit agenda** — agentic AI production track directly relevant; book tickets + hotel if attending 10-12 Sept
+2. **Check Silversea Kenya safari-cruise offer** — 15% discount, London departures; request detailed itinerary
+3. **Flag DORA Q4 guidance to advisory clients** — new FCA operational resilience requirements now published
+4. **Watch Tralee Kingdom Cup results tonight** — feature race at Kingdom Stadium
+5. **Monitor GPT-6 Astra access** — if you use ChatGPT Plus, check whether access has stabilised
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-- **Bitcoin holds above $58k**: UK stablecoin regulatory draft providing some stability signal; no major volatility this week.
-- **Ethereum L2 upgrades**: DeFi volumes up 22% this week following layer-2 improvements. Infrastructure maturing.
-- **ChatGPT Ads hits $1bn run rate**: OpenAI's ad platform reached milestone in under 200 days — not crypto-native but signals AI platform monetisation speed.
-- **HSBC UAE compliance agents**: Cointelegraph coverage of autonomous AI in banking compliance — crossover between crypto reporting and traditional finance.
+No major market-moving headlines in today's feeds. Bitcoin and Ethereum stable; no new UK regulatory announcements.
 
-No major UK regulatory crypto news today. FCA stablecoin draft remains the key watch item.
+**Evergreen note:** Given FCA's fintech focus (see Revolut licence news), worth tracking whether UK crypto custody guidance updates accompany autumn budget preparations.
 
 ---
 
-*Quiet Friday on markets. FCA DORA deadline is the time-sensitive item; everything else can wait till Monday.*
+*Quiet Friday on crypto; busy weekend ahead if you fancy Tralee tonight or planning that Dublin trip.*
