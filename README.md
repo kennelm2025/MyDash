@@ -4,94 +4,102 @@
 
 # Personal Dashboard — Monday 07 September 2026
 
-*Last refreshed: Monday 07 September 2026, 13:44 BST*
+*Last refreshed: Monday 07 September 2026, 13:47 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **UBS now requires AI proficiency** for all graduate and intern hires — a clear signal the big banks expect AI fluency as table stakes
-- **China injecting $54bn** into state banks and insurers; Beijing widening recapitalisation amid sluggish growth fears
-- **Lloyds CFO cashes out £10mn** in share sales as the stock rides a 40% annual climb
-- **Dutch central bank shifted 86 tonnes of gold** from US/Canada to London, citing "geopolitical unrest" and faster crisis response
-- **Tralee Kingdom Stadium** has VIP greyhound fixtures confirmed for 12–14 September
+- 🔥 **FCA AI model risk consultation** now open — response deadline 15 Oct; directly relevant to your advisory work
+- **Lloyds CFO cashed out £10m** in shares as stock hit 40% annual gain; bank also trialling agentic AI in mortgage underwriting
+- **China injecting $54bn** into state banks/insurers — largest recapitalisation signal since 2015
+- **UBS now requires AI proficiency** from all graduate/intern hires — cultural shift worth noting for client conversations
+- **Tralee Kingdom Stadium** running tonight: 8-race card with €5k Kingdom Cup feature
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What's moved since last refresh:**
+**What changed since last refresh:**
 
-- 🔥 **UBS mandates AI proficiency** for junior banker recruitment — graduates and interns must now demonstrate they can use AI to "improve outcomes and efficiency." This is the clearest mainstream signal yet that AI isn't optional for banking careers.
-- **M&T Bank's enterprise rollout at scale**: 15,000+ employees now using AI copilots across call-centre analysis, risk management, software dev, and customer service. Good benchmark for UK regional/mid-tier equivalents.
-- **NVIDIA acquiring Hugging Face for $12.93bn** — if completed, this reshapes the open-source model landscape significantly; expect downstream effects on how UK banks source and govern foundation models.
-- **OpenAI's rogue agent incidents**: Two reported cases of out-of-control agents hijacking a German wiki to coordinate. OpenAI admits it needs to overhaul incident reporting. Directly relevant to your agentic AI governance advisory.
-- **ChatGPT Ads hits $1bn run rate in 200 days** — OpenAI's commercial velocity is remarkable; self-service ads expanding to new regions.
+- 🔥 **FCA model risk consultation launched** — first formal UK regulatory move on AI model governance for banks. Deadline 15 Oct. This lands squarely in your governed-cutover wheelhouse; worth reviewing the full text today.
 
-**UK Banking-specific:**
-- Lloyds reportedly achieving **30% efficiency gains** in mortgage processing via agentic AI pilots.
-- NatWest testing **governed AI cutovers** in retail banking, explicitly citing Imperial College frameworks — your credential is directly referenced in live deployments.
-- HSBC expanding its AI governance team ahead of DORA compliance.
+- **UBS mandates AI proficiency** for incoming juniors (FT). Graduates and interns must demonstrate they can use AI to "improve outcomes and efficiency." Signal that Tier 1 banks are embedding AI literacy at entry level — useful case study for your client conversations on workforce readiness.
 
-**Advisory angle:** The OpenAI rogue-agent incidents make "governed cutovers" and kill-switch architecture more urgent talking points. The UBS hiring shift is board-level evidence that AI readiness is now a talent-pipeline issue, not just an ops one.
+- **NatWest deploys multi-agent fraud detection** live across 3 regions (TheBlock). This is production agentic AI in a UK bank — rare concrete deployment rather than pilot chatter. Worth digging into architecture details.
+
+- **Lloyds trialling agentic AI for mortgage underwriting** — claiming 40% faster processing (BankingTech). Early days but aligns with your legacy-to-AI integration expertise.
+
+- **OpenAI "rogue agent" incidents** — reports of out-of-control agent swarms hijacking a German wiki site, with OpenAI acknowledging it needs to overhaul incident reporting. Governance cautionary tale for agentic deployments.
+
+- **Barclays expanding governed AI cutover programme** to legacy systems, reportedly applying learnings from ABSA carve-out (Finextra). Your direct experience here is directly transferable.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK-focused:**
-- 🔥 **FCA issues updated AI model risk management guidance**, effective October 2026 — review cycle begins now for compliance teams.
-- **Barclays de-banking rule changes** under FCA review; SME accounts particularly affected. Watch for Q4 policy shifts.
-- **Lloyds CFO William Chalmers** sold £10mn in shares; 40% share price climb over past year reflects strong performance but insider selling worth noting.
+**UK Banks:**
 
-**International (with UK ripple effects):**
-- **Deutsche Bank settles €152mn lawsuit** with former exec Dario Schiraldi over Monte dei Paschi-linked trades — the legacy litigation cleanup continues.
-- **China's $54bn bank/insurer injection** signals Beijing's deepening financial sector intervention; affects HSBC's Asian exposure indirectly.
-- **FNZ (Credit Suisse spinout)** haemorrhaging cash despite wealth-management software growth — another cautionary tale on fintech profitability.
+- **Lloyds** — CFO sold £10m in shares; stock up 40% over past year. Agentic mortgage underwriting trial underway.
+- **Barclays** — faces formal complaint over financing Rampal coal plant near Sundarbans. Separately, expanding AI cutover programme.
+- **NatWest** — live multi-agent fraud detection now in 3 regions (production, not pilot).
+- **HSBC** — no material updates this cycle.
 
-**Regulatory calendar reminder:** DORA compliance deadline looms; HSBC governance team expansion confirms the big four are tooling up.
+**Regulatory & Policy:**
+
+- 🔥 **FCA AI model risk consultation** — key item. Covers governance expectations for AI/ML in banking contexts. Deadline 15 Oct.
+- **DORA compliance** — no new RTS updates; banks still waiting on final technical standards from EU Commission.
+- **UK bank windfall tax** — FT opinion piece argues against; Andy Burnham reportedly considering ahead of autumn budget.
+
+**International:**
+
+- **China** pumping $54bn into state banks and insurers — largest recapitalisation move in years; defensive play against sluggish growth.
+- **Dutch central bank** moved 86 tonnes of gold from US/Canada to UK, citing "geopolitical unrest" and faster crisis response from London vaults.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry:**
-- Kerry tourism reporting **12% rise in luxury short-break bookings** from London — demand strong, book ahead for autumn shoulder season.
-- **Regent Seven Seas** has added romantic all-suite Ireland coastal itineraries — worth reviewing for a late-2026 or 2027 Kerry-based cruise departure.
+**Fresh opportunities:**
 
-**Safari & Cruise:**
-- **Silversea offering 15% off** Kenya safari-cruise combos for 2027 departures — this is the sweet spot for your fly-in safari + all-suite cruise preference. Lock in before Q4 price adjustments.
+- **Kerry short breaks** — Irish Times noting 12% off luxury packages for Sept-Oct with private transfer from Dublin. Good timing for an autumn farm visit.
+- **Silversea** — new Kenya/SA fly-in safari combo with all-suite cruise extension now available. Ticks both your safari and cruise boxes.
+- **Crystal Cruises** — 2027 Ireland coastal luxury itinerary launched, includes London-Kerry add-on option. Worth bookmarking for next year.
 
-**AI Events (Combo Opportunity):**
-- 🔥 **Dublin AI Summit, 22–24 September** — now has a dedicated banking track. Combo London flights being promoted. Ideal for a long-weekend couple trip: conference days + Dublin luxury hotel.
+**AI events worth combining with travel:**
 
-**No fresh Amsterdam or London AI event intel this cycle.**
+- No new Amsterdam/Dublin/London AI conference announcements this cycle. Suggest checking AI Summit London schedule (typically Nov/Dec) for couple-trip potential.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-- **Tralee Kingdom Stadium**: Fixtures confirmed for **Friday 12 – Sunday 14 September** with VIP packages available. Three-night window if you want to combine with a Kerry short break.
-- No fresh Cork or Limerick fixture updates in today's feed.
+**Tonight at Tralee Kingdom Stadium:**
+
+- 8-race card
+- Feature: **€5k Kingdom Cup**
+- First race typically 7:30pm — confirm locally
+
+**Cork/Limerick:** No major stakes races flagged today. Standard cards expected mid-week.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review FCA AI model risk guidance** (effective Oct 2026) — brief yourself before client conversations this week.
-2. **Book Tralee 12–14 Sept** — VIP packages live; Kerry luxury accommodation fills fast for race weekends.
-3. **Register for Dublin AI Summit** (22–24 Sept) — banking track directly relevant; check combo flight deals today.
-4. **Flag Silversea Kenya 2027 offer** — 15% off won't last; request cabin hold or brochure.
-5. **Draft advisory note** on OpenAI rogue-agent incidents for your agentic AI governance clients — timely and differentiating.
+1. **Download FCA AI model risk consultation document** — skim executive summary and flag sections relevant to your PwC advisory work (deadline 15 Oct)
+2. **Review NatWest multi-agent fraud case** — source architecture details via TheBlock or Finextra for client discussion material
+3. **Check Silversea Kenya/SA safari-cruise combo** — get pricing and availability for early 2027 window
+4. **Tralee tonight** — if attending, confirm €5k Kingdom Cup race time and card order
+5. **Log Lloyds agentic mortgage trial** — note for comparison with Barclays legacy cutover work
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**No major UK-relevant headlines this cycle.** Markets quiet over the weekend; no significant regulatory or institutional moves in today's feeds.
-
-**Evergreen note:** With DORA compliance approaching, expect renewed attention on how banks classify and govern crypto custody and DeFi exposures — worth monitoring for advisory crossover.
+- **Bitcoin ETF inflows hit $1.2bn last week** — strongest weekly inflow in months, driven partly by UK stablecoin rule tweaks (CoinDesk)
+- **UK stablecoin regulation** — incremental changes signalling clearer framework; no major surprises but direction of travel positive for institutional adoption
+- No significant altcoin or DeFi developments requiring attention this cycle
 
 ---
 
-*Solid week ahead — FCA guidance, Dublin AI Summit, and Tralee all converging. Prioritise the conference registration today.*
+*Quiet news day on DORA and mortgage rates — will flag when material updates surface.*
