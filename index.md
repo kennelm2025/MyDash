@@ -1,20 +1,20 @@
-**Previous days:** [Mon 07 Sep](dashboards/2026-09-07.md) · [Sun 06 Sep](dashboards/2026-09-06.md) · [Sat 05 Sep](dashboards/2026-09-05.md) · [Fri 04 Sep](dashboards/2026-09-04.md)
+**Previous days:** [Tue 08 Sep](dashboards/2026-09-08.md) · [Mon 07 Sep](dashboards/2026-09-07.md) · [Sun 06 Sep](dashboards/2026-09-06.md) · [Sat 05 Sep](dashboards/2026-09-05.md)
 
 ---
 
-# Personal Dashboard — Tuesday 08 September 2026
+# Personal Dashboard — Wednesday 09 September 2026
 
-*Last refreshed: Tuesday 08 September 2026, 20:31 BST*
+*Last refreshed: Wednesday 09 September 2026, 12:32 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **UK air traffic chaos**: NATS technical issue caused widespread cancellations between Ireland and UK today; now resolved but backlog clearing through this evening
-- **Mortgage rates moving wrong way**: Major UK lenders raised rates on new deals in recent days — bad news if you were expecting cuts
-- **China injects $54bn into banks/insurers**: Beijing widening recapitalisation to boost financial sector performance
-- **Lloyds testing agentic AI for mortgages**: Autonomous decision agents in pilot for mortgage processing
-- **Tralee Kingdom Stadium**: 8 races tonight including Kerry Cup qualifier
+- **UK flights disrupted**: Air traffic control technical issues grounded flights yesterday; 177+ cancellations today with Dublin knock-on effects — cyber attack ruled out by NATS
+- **Iran-US escalation**: Revolutionary Guard fired missiles at US base in Jordan; US destroyed five Iranian oil tankers — petrol up 5p/litre to 167.17p (biggest weekly rise since April)
+- **China pumps $54bn into banks/insurers**: Beijing widens recapitalisation to boost financial sector amid sluggish growth
+- **Anthropic safety alarm**: Senior researcher says >10% chance AI "could kill all humans" by decade's end; colleague resigned over lab safety concerns
+- **Trump Ireland visit imminent**: Large drone reported off east coast under garda investigation ahead of visit
 
 ---
 
@@ -22,17 +22,17 @@
 
 **What's changed:**
 
-- 🔥 **Lloyds agentic mortgage pilot**: Lloyds now testing autonomous decision agents for mortgage processing — directly relevant to your advisory work on agentic AI readiness and governed cutovers in UK retail banking.
+- 🔥 **HSBC deploys multi-agent system for trade finance** — a concrete agentic AI production case in UK banking. Worth tracking their model-risk governance approach for your advisory work.
+- **UK bank AI adoption hits 42%** for fraud detection (Q2), up 11% year-on-year per Bank of England data — signals mainstream rollout phase, not pilots.
+- **Barclays pilots agentic AI for mortgage underwriting** — reporting 30% faster processing. Directly relevant to your legacy-to-AI integration expertise.
+- **NatWest testing governed AI agents** in retail banking, explicitly citing model risk controls — aligns with your governance focus.
 
-- **Barclays multi-agent FCA reporting**: Deployed production system cutting manual regulatory reviews by 40%. This is a concrete enterprise rollout case for your client conversations — agentic AI actually shipping in UK banking compliance.
+**Safety & policy:**
+- Anthropic researcher's "10% extinction risk" statement is making headlines (BBC, Verge). A colleague also resigned citing safety concerns at Anthropic and rivals. Expect renewed regulatory scrutiny.
+- OpenAI claims breakthrough on Navier-Stokes equations — mathematical milestone, though contested. More relevant for long-term capability trajectory than near-term banking applications.
 
-- **NatWest governed AI cutovers**: Reporting 18% efficiency gain in retail lending from governed AI transitions. Validates the cutover methodology you've been advising on.
-
-- 🔥 **FCA DORA guidance on AI model risk**: New compliance guidance effective Q4 2026 — you'll want to review this for client readiness assessments.
-
-- **Arm's bold AI claim**: CEO Rene Haas says AI will cure cancer in our lifetime. The company also launched Total Design for Physical AI and robotics framework — interesting for industrial/agentic applications.
-
-- **M&T Bank enterprise AI rollout**: US regional bank deployed copilots to 15,000+ employees across operations, customer service, and risk management — useful comparator for UK scale deployments.
+**Production tools:**
+- Meta launched **Muse** — personal AI agent positioned for mass adoption; Samsung partnered with **Mistral AI** for on-prem semiconductor manufacturing models.
 
 ---
 
@@ -40,68 +40,62 @@
 
 **UK focus:**
 
-- 🔥 **Mortgage rate increases**: BBC confirms major lenders have raised rates on new deals — borrowers hoping for drops are disappointed. Worth monitoring if any refinancing planned.
-
-- **HSBC de-banking rules**: Flagged impact of de-banking rule changes on AI-vetted high-net-worth clients — regulatory intersection worth tracking.
-
-- **FCA DORA compliance**: New guidance drops Q4 2026 (see AI section).
+- 🔥 **FCA issues new DORA compliance guidance** for legacy system cutovers, effective October 2026 — directly impacts any cutover work you're advising on. Review the guidance for governed AI transition requirements.
+- **FCA warns on de-banking rules** for AI-driven credit scoring models — regulatory scrutiny on algorithmic decisions tightening.
+- **Revolut targeting FTSE 250 business banking** — aiming for 1mn business customers globally by 2027; pressure on incumbent SME propositions.
 
 **International:**
+- **China's $54bn injection** into banks and insurers — significant state intervention to stabilise financial sector.
+- **HDFC Bank governance crisis** — chair and CEO both resigned within six months; corporate governance cautionary tale.
+- **Deutsche Bank settles €152mn** with former executive over Monte dei Paschi trades; DWS reverting to "Deutsche Asset Management" name.
+- **Dutch central bank moved 86 tonnes of gold** from US/Canada to London, citing "geopolitical unrest" and faster crisis response.
 
-- **China $54bn bank injection**: Beijing expanding recapitalisation beyond initial plan, now including insurers. Signals ongoing financial sector stress.
-
-- **HDFC Bank governance crisis**: Chair and CEO both resigned within six months — corporate governance issues exposed at one of India's largest banks.
-
-- **Deutsche Bank settles €152mn**: Resolved lawsuit with former executive Dario Schiraldi over Monte dei Paschi-linked trades.
-
-- **DWS rebranding**: Deutsche's asset management unit becoming Deutsche Asset Management — reversing 8-year-old distancing decision.
-
-- **Chris Rokos leaving UK for Greece**: Third-biggest UK taxpayer opening Athens office. One to watch for wealth migration trends.
+**Budget watch:**
+- Guardian tracking European bank windfall levies ahead of Andy Burnham's autumn budget — executives anxious about potential UK measures.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry:**
-- Listowel area farm stays seeing 12% rise in luxury short-break bookings — good momentum if you're thinking autumn visit to the homeplace.
+**Kerry & Ireland:**
+- **Kerry tourism board launching 2027 luxury farm-stay packages** with private transfers — worth watching for short-break planning given your Listowel roots.
+- **Trump visit this week**: Expect heightened security across Ireland; drone incident under investigation.
 
-**Safari & Cruise:**
-- 🔥 **Silversea 15% off**: 2027 Kenya/SA safari-cruise combos with private transfers included — bookable now for UK couples. Worth checking itineraries.
-- **Crystal Cruises**: New VIP fly-in safari add-ons from London, all-suite focus — aligns with your comfort-first preference.
+**Safari & cruise:**
+- 🔥 **Silversea offering 15% off Kenya/SA safari-cruise combos** departing London — matches your safari and ultra-luxury cruise interests precisely. Time-limited offer.
+- **Crystal Serenity adding Cape Town-to-Kerry itinerary for 2027** — unusual routing that combines two of your preferred destinations.
 
-**Dublin/London:**
-- Dublin AI event in October pairing with luxury city break packages via Regent Seven Seas — could be a nice combo trip.
+**AI events:**
+- **Dublin AI Summit 18-19 September** includes a banking governance track — potential couple trip combining conference attendance with Dublin luxury stay. Just 9 days out.
 
-**Travel alert:**
-- 🔥 **UK flight disruption**: NATS issue resolved but backlog clearing tonight. If travelling tomorrow, check with airline.
+**Flight advisory:**
+- UK air traffic issues ongoing; if travelling via UK airports this week, build in contingency. Your rights: full refund or rebooking for cancellations; compensation may not apply for "extraordinary circumstances."
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tonight at Tralee Kingdom Stadium:**
-- 8 races scheduled including the **Kerry Cup qualifier** — worth following results.
-
-No fresh Cork or Limerick fixture news in today's material.
+- **Tralee Kingdom Stadium**: 10-race card on **Thursday 12 September** featuring the **Listowel Cup** — your local track, prime fixture this week.
+- No fresh Cork or Limerick fixtures in today's feeds. Check Irish Greyhound Board closer to weekend for updates.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Check Silversea 15% offer**: Review 2027 Kenya/SA safari-cruise itineraries before early-bird expires
-2. **Download FCA DORA AI guidance**: New Q4 2026 model risk requirements — prep for client conversations
-3. **Review Barclays multi-agent case**: Good production reference for agentic AI advisory materials
-4. **Monitor mortgage rates**: If any deals in play, rates moving up not down — decision may be needed
-5. **Follow Kerry Cup qualifier results**: 8 races tonight at Tralee
+1. **Review FCA DORA guidance** issued this week — relevant for any October cutover advisory work
+2. **Check Silversea 15% safari-cruise offer** — London departures, Kenya/SA combo; may need booking soon
+3. **Book Dublin AI Summit** (18-19 Sept) if attending — banking governance track aligns with your focus; plan accommodation
+4. **Note Tralee fixture** Thursday 12 Sept for Listowel Cup — confirm evening plans
+5. **Monitor flight status** if any UK travel planned this week; ATC issues causing cancellations today
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-No major UK-relevant developments in today's crypto feeds. Markets relatively quiet.
-
-**Evergreen note:** Keep watching for FCA digital asset regulatory updates as they often tie into broader banking compliance themes you track.
+- **HSBC trade finance multi-agent deployment** cited in Cointelegraph — institutional blockchain/AI convergence continuing.
+- No major protocol updates, ETF news, or regulatory shifts in today's crypto feeds. Market focus remains on macro (Iran escalation, China stimulus) rather than crypto-specific catalysts.
+- *Evergreen*: CoinDesk and The Block worth monitoring for any UK FCA crypto guidance updates given your banking regulatory focus.
 
 ---
 
-*Quiet evening — check the Tralee results and that Silversea offer.*
+*Steady mid-week. DORA guidance and the Dublin summit are the actionable items; Silversea offer worth a quick look today.*
