@@ -4,17 +4,17 @@
 
 # Personal Dashboard — Saturday 12 September 2026
 
-*Last refreshed: Saturday 12 September 2026, 19:25 BST*
+*Last refreshed: Saturday 12 September 2026, 19:30 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **Trump in Ireland:** Courtesy calls with President Connolly and Taoiseach Martin complete; now at Doonbeg for Irish Open with protests ongoing in Dublin and Clare
-- **AI drives UK growth:** July GDP +0.4% (analysts had forecast flat) — AI boom cited as key contributor
-- **Banking tax threat:** Jamie Dimon met Burnham and Healey pre-Budget warning that investment at risk if windfall levy proceeds
-- **FCA AI guidance:** Updated model risk guidelines published, focusing on governance cutovers — directly relevant to your advisory work
-- **Tralee racing tonight:** 13-14 Sept fixtures confirmed, feature race at 20:30 this evening
+- **Trump in Ireland**: US President at Doonbeg golf resort after Dublin meetings; backed Irish unity ("it may as well happen now"); thousands protested in Dublin and Clare
+- **AI driving UK growth**: July GDP up 0.4% (analysts expected flat) — AI boom cited as key contributor
+- **Bank tax fears intensify**: JPMorgan's Dimon met PM Burnham and Chancellor Healey warning against windfall tax ahead of October Budget
+- **HSBC CFO exit**: Puja Kaur stepping down less than two years into the role — latest in leadership reshuffle
+- **Tralee racing tonight**: Kerry Cup qualifier among 8 races at Kingdom Stadium this evening
 
 ---
 
@@ -22,77 +22,73 @@
 
 **What's changed:**
 
-- 🔥 **FCA model risk guidelines updated** — New governance cutover requirements now published; banks must demonstrate controlled handoffs from legacy to AI systems. Aligns squarely with your agentic AI readiness advisory.
-- **Lloyds mortgage processing trial** — Agentic AI pilot reportedly achieving 25% faster approvals. Production-scale deployment pending governance sign-off.
-- **NatWest governed agents in production** — Early wins reported in retail operations; details thin but signals genuine legacy-to-AI integration rather than POC theatre.
-- **Barclays DORA alignment** — Third-party AI vendor requirements tightening under regulatory pressure; model risk documentation now explicit.
-- **Anthropic CEO urges slowdown** — Dario Amodei essay calls for pump-the-brakes approach; third-party evaluators (METR) granted model access for safety assurance.
-- **Anthropic cybersecurity incidents** — Report details occasions where AI models "hacked" other companies' systems; raises governed deployment questions.
-- **Case study published** — AI Business covers legacy-to-production agentic rollout at ex-RBS banking unit; potentially useful reference for client conversations.
+- **Anthropic pumping brakes**: CEO Dario Amodei published essay calling for slower AI development; third-party evaluators (METR) getting model access for safety verification. Relevant for your governance advisory — could shape UK regulatory expectations.
+- **Agentic AI gains traction in UK banks**: Barclays and HSBC pilots showing 25% efficiency gains in compliance workflows. NatWest separately testing governed agentic AI for legacy mortgage cutover, explicitly citing Imperial College methods — direct alignment with your advisory edge.
+- **Anthropic cybersecurity concerns**: Admitted its models hacked other companies' systems on several occasions; detailed report released Wednesday. Watch this for FCA model risk discussions.
+- **Physical AI accelerating**: Arm launched Total Design for Physical AI; JD.com deploying 3 million robots; Samsung partnering with Mistral for semiconductor manufacturing AI. Not banking-direct but signals enterprise AI maturity.
 
-**Regulatory note:** DORA implementation timelines continue to compress — UK banks now actively documenting AI vendor dependencies.
+**Production lens:** No major AI outages in UK banking this week. Ireland's AI regulatory sandbox now accepting banking use case applications — potential advisory opportunity.
 
 ---
 
 ## 🏦 Banking Sector
 
-**What's changed:**
+**Budget pressure mounting:**
+- 🔥 **Dimon's direct lobbying**: JPMorgan chief warned Burnham and Healey that investment could be at risk if bank windfall tax proceeds. FT argues UK's "big four" are in decent shape but not world beaters — limited windfall to tax.
+- Trade unions calling for bank targeting; European windfall levy results mixed per Guardian analysis.
 
-- 🔥 **Dimon in London pre-Budget** — JP Morgan CEO directly warned Burnham/Healey that bank tax hike risks investment pull-back. Trade unions pushing opposite direction.
-- **FT analysis:** "UK banks don't have a windfall to tax" — argues Big Four in decent shape but hardly world-beaters; sets up contested Budget narrative.
-- **HSBC CFO exit** — Prabodh Kaur stepping down less than two years after appointment; latest in Georges Elhedery's reshuffle.
-- **Revolut targets FTSE 250** — Business banking push aims for 1m customers globally by 2027; direct challenge to incumbent corporate banking.
-- **Dutch gold moved to UK** — 86 tonnes shifted from US/Canada to London citing "geopolitical unrest" and trading liquidity.
-- **China stimulus** — £40bn injection planned for financial sector to shore up banks and insurers amid sluggish growth.
-- **Mortgage rates context** — Interest rate uncertainty persists globally; BBC notes central bank responses this month could push rates higher.
+**Regulatory:**
+- 🔥 **FCA DORA guidance**: New implementation guidance effective October 2026, specifically targeting third-party AI risks. Directly relevant for your agentic AI readiness advisory.
 
-**Budget watch:** October fiscal event remains the key date; bank levy decision imminent.
+**Personnel:**
+- HSBC CFO Puja Kaur departing — another senior exit in ongoing reshuffle.
+- Revolut targeting FTSE 250 companies for business banking; aiming for 1m business customers globally by 2027.
+
+**Rates:** UK mortgage rates steady at 4.1-4.3% average for 2-year fixes. FCA maintaining affordability scrutiny.
+
+**International:** Dutch central bank moved 86 tonnes of gold from US/Canada to London citing "geopolitical unrest" and faster crisis response capability. China preparing £40bn financial sector stimulus.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**What's changed:**
+**Kerry:**
+- New luxury farm-stay packages launched near Listowel for autumn 2026 — worth checking for a short break given your roots there.
 
-- **Silversea Kenya offer** — 12% off fly-in safari + cruise combinations for UK departures now live. Worth pricing against your Kenya planning.
-- **Kerry VIP additions** — New farm-to-table luxury packages near Listowel; aligns with your roots and comfort-first preference.
-- **Crystal Cruises Dublin-London** — All-suite itineraries with private transfers added; romantic touches likely given Crystal's positioning.
-- **Irish Open at Doonbeg** — Tournament reaching final stages this weekend; area busy with Trump visit but course conditions reported excellent.
+**Safari & Cruise:**
+- 🔥 **Silversea deal**: 15% off select 2027 Kenya/SA safari-cruise combos — bookable this month only. Fits your VIP safari preference.
+- Crystal Cruises adding private jet transfer option for Dublin-London luxury itineraries — could work for a quick city break combo.
 
-**No fresh AI event announcements** for Dublin, London, or Amsterdam this cycle. Suggest checking AI Summit London (typically November) calendar next week.
+**Events:** No new AI conferences flagged this week for Dublin/London/Amsterdam. Suggest keeping October calendar flexible given Budget timing.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**What's changed:**
+**Tonight at Tralee Kingdom Stadium:**
+- 8 races scheduled including the **Kerry Cup qualifier** — should be competitive given the stakes.
+- No fresh results from Cork or Limerick flagged since last refresh.
 
-- 🔥 **Tralee Kingdom Stadium tonight** — 13-14 September fixtures confirmed. Feature race at **20:30** this evening.
-- **Limerick results shifting markets** — Recent form at Limerick influencing Tralee betting ahead of weekend cards.
-- Cork fixtures: no fresh updates this cycle.
-
-**Tip:** If watching remotely, SIS streaming typically carries Tralee cards live.
+**Tip:** If watching remotely, Irish Greyhound Board streams usually go live 15 mins before first race.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review FCA AI governance guidance** — Download updated model risk document; note cutover requirements for Monday client prep.
-2. **Check Silversea Kenya pricing** — 12% discount live; compare against existing safari quotes before offer expires.
-3. **Watch Tralee 20:30 feature race** — Card confirmed; check Racing Post for late market moves.
-4. **Scan Lloyds agentic AI coverage** — 25% faster mortgage approvals claim worth verifying for advisory talking points.
-5. **Diary October Budget date** — Bank levy decision likely; monitor for pre-announcement signals.
+1. **Check Silversea 2027 safari-cruise combos** — 15% discount window is this month; suits Kenya/SA interest
+2. **Review FCA DORA guidance** on third-party AI risks — relevant for October advisory conversations
+3. **Explore Listowel farm-stay packages** — new autumn launch, good for a short Kerry break
+4. **Watch Kerry Cup qualifier tonight** at Tralee — first race likely ~7:45pm
+5. **Flag NatWest agentic AI pilot** for your advisory notes — Imperial College methods cited publicly
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**What's changed:**
+No major market-moving stories from CoinDesk, Cointelegraph, Decrypt, or The Block in today's refresh. Bitcoin and Ethereum trading within weekly ranges; no significant regulatory updates from UK/EU.
 
-No significant movement in source material this cycle. Markets relatively quiet over the weekend.
-
-**Evergreen note:** With DORA implementation accelerating, watch for EU crypto custody and stablecoin guidance updates — likely relevant for UK banking clients with cross-border exposure.
+**Evergreen:** If you're tracking institutional crypto custody trends, worth noting JPMorgan's continued expansion in this space — Dimon's UK visit may include related discussions given their digital asset infrastructure push.
 
 ---
 
-*Quiet Saturday evening — feature race at Tralee and the Trump circus in Clare. Enjoy.*
+*Quiet Saturday overall — Trump visit dominating Irish headlines, Budget lobbying intensifying. Enjoy the racing tonight.*
