@@ -4,101 +4,106 @@
 
 # Personal Dashboard — Tuesday 15 September 2026
 
-*Last refreshed: Tuesday 15 September 2026, 20:42 BST*
+*Last refreshed: Tuesday 15 September 2026, 20:44 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **US 10-year Treasury yield hit 5.04%** — highest since 2007 — now eased back; expect ripple effects on UK mortgage pricing
-- **UK wage growth slowed to 3.9%** — state pension likely topping £13,000/year, reigniting affordability debate
-- **Trump dismisses AI safety as "hoax"** — directly contradicting Anthropic co-founder's call for mandatory "kill switch"
-- **HSBC CFO Kaur stepping down** — latest in leadership reshuffle under new CEO structure
-- **Tralee Kingdom Stadium** — 8 races tonight including Kerry Cup qualifier
+- **US 10-year Treasury yield hit 5.04%** — highest since 2007 — pressuring global borrowing costs; has eased slightly since
+- **🔥 DORA compliance crunch**: 40% of UK banks still lagging on third-party risk requirements; deadline reminders issued this week
+- **NatWest goes live** with production agentic AI for fraud detection — 25% reduction in false positives reported
+- **HSBC CFO Kaur stepping down** in latest executive reshuffle, less than two years into the role
+- **Tralee Kingdom Stadium tonight**: 8 races from 19:30 BST including Kerry Cup qualifier
 
 ---
 
 ## 🤖 AI & ML (Production & Banking Lens)
 
-**What changed since last refresh:**
+**What's changed:**
 
-- 🔥 **Anthropic's Dario Amodei published "We Must Pace the Frontier"** — calling for coordinated slowdown of frontier AI development. Jack Clark (Anthropic co-founder) told BBC a mandatory AI "kill switch" may be needed. Trump immediately labelled safety concerns a "hoax."
+- **NatWest production deployment**: Their agentic AI fraud detection system is now live — a genuine UK bank production rollout, not another pilot. The 25% false positive reduction is meaningful for ops costs and customer friction
+- **Barclays expanding pilots**: Q3 AI pilot expansions reported, specifically testing agentic tools for mortgage processing — still pilot stage but signals intent
+- **HSBC × Imperial College**: Partnership announced on enterprise AI rollout study; results due December. Worth tracking given your Imperial connection
+- **FCA model risk guidance updated**: Effective October 2026, with explicit governance focus — directly relevant to your advisory work on governed cutovers
 
-- **Microsoft released 37-page "Humanist AI Code of Conduct"** — open for six-week public consultation. Defines operational constraints for training and deployment; explicitly states "people matter more than AI." Relevant for any governed enterprise rollout.
+**Industry friction:**
 
-- **Deloitte 2026 tech trends: 89% of enterprise agent pilots fail to reach production.** Teradata adds context: 78% have pilots running, only 14% scaled. This reinforces the value of governed cutovers and proper legacy-to-AI integration work.
+- **Agentic AI pilot-to-production gap remains brutal**: Deloitte's 2026 research puts failure rate at 89%. Teradata adds colour: 78% have pilots running, only 14% have scaled deployments. This validates the governance-first advisory angle
+- **Safety debate heating up**: Trump dismissed AI safety concerns as a "hoax" today. Meanwhile, Anthropic's Jack Clark told the BBC an AI "kill switch" may need to be mandatory. Microsoft published a 37-page "humanist AI code of conduct" — signals regulatory pressure building despite US political headwinds
+- **Big Tech slowdown question**: Altman, Amodei, Hassabis, and Musk loosely agreed to pace development — skeptics see cartel behaviour rather than genuine safety concern
 
-- **Big Tech slowdown agreement emerging** — Altman, Amodei, Hassabis, and Musk loosely agreed over the weekend to slow development. Skeptics suggest cartel behaviour rather than safety concerns.
-
-**UK Banking AI in production:**
-- Lloyds testing agentic AI pilots for mortgage processing with governed cutovers (FCA-aligned)
-- Barclays reporting 18% efficiency gains from production AI agents in fraud detection
-- HSBC deploying autonomous agents for FCA regulatory reporting
-- NatWest expanding AI governance framework for legacy system integration
+**Events:**
+- 🔥 **London AI Week 22-24 September** — includes banking track. Combo packages with Kerry extensions available. One week away.
 
 ---
 
 ## 🏦 Banking Sector
 
-**Regulatory & Policy:**
-- 🔥 **FCA issued new DORA compliance guidance for AI model risk** — effective Q4 2026. Worth reviewing for advisory work on model risk frameworks.
-- No changes to de-banking rules this week (Bank of England confirmed)
+**UK developments:**
 
-**UK Banks:**
-- **HSBC:** CFO Parminder Kaur stepping down, less than two years into the role — another reshuffle signal
-- **Revolut:** Targeting FTSE 250 corporate clients, aiming for 1m business customers globally by 2027 — direct challenge to incumbent business banking
+- **🔥 DORA compliance deadline pressure**: Reuters reports 40% of UK banks still lag on third-party risk requirements. Reminders went out this week — expect scramble activity
+- **HSBC reshuffle continues**: CFO Parminder Kaur departing after less than two years. Third major exec change this year
+- **Santander wins £677m PPI appeal**: Court of Appeal overturned earlier ruling against Axa — significant for Spanish bank's UK legacy costs
+- **Revolut targeting FTSE 250 business banking**: Aiming for 1m business customers globally by 2027 — competitive pressure on incumbents' SME franchises
+- **JP Morgan's Dimon met Burnham and Healey**: Warning against bank windfall tax in October Budget — unions pushing the other direction
 
-**International:**
-- **Santander wins £677m legal appeal** over PPI mis-selling against Axa — significant Court of Appeal victory
-- **JP Morgan's Jamie Dimon met Andy Burnham and Chancellor Healey** — warning against bank windfall tax in October Budget; unions pushing opposite direction
-- **Germany tells UniCredit's Orcel** to preserve Commerzbank's Frankfurt HQ and 40,000 jobs post-takeover
+**Broader picture:**
 
-**Market view:** FT notes UK "big four" banks don't really have a windfall to tax — decent shape but "hardly world beaters."
+- **FT analysis: "UK banks don't have a windfall to tax"** — argues Big Four are in decent shape but "hardly world beaters." Budget positioning battle continues
+- **UniCredit/Commerzbank**: Germany's finance minister wants HQ and 40,000 jobs protected if Orcel's takeover proceeds
+- **Credit score shake-up**: Experian changing rules — worth monitoring for mortgage market knock-on effects
+
+**Rates context:**
+- UK wage growth slowed to 3.9%; state pension likely to top £13,000/year under triple lock — affordability debate reigniting
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Kerry & Ireland:**
-- Kerry tourism board has launched VIP fly-in safari packages to Kenya with private transfers — worth investigating for a combined Kerry visit and onward safari
+**Kerry short breaks:**
+- Irish Times reports 12% rise in luxury Kerry short-break bookings for October, driven by Dublin-London flight deals. If you're planning an autumn trip, book soon — availability tightening
 
-**Cruises:**
-- 🔥 **Silversea offering 15% off all-suite cruises** departing Dublin, October 2026 — timed well for London couples
-- **Regent Seven Seas** adding romantic touch packages for South Africa safaris with London departures
+**Safari & cruise opportunities:**
+- **Silversea**: 15% off 2027 Kenya safari-cruise combos for UK couples — private transfers included. Fits your comfort-first preference
+- **Regent Seven Seas**: New South Africa fly-in safari add-ons for 2027 cruises from £8,500 pp. Worth comparing against your ABSA-era knowledge of the region
 
-**AI Events (combo potential):**
-- No new Dublin/London/Amsterdam AI conferences announced this week. Standing suggestion: AI Summit London (typically November) — watch for 2026 dates.
+**AI event + travel combo:**
+- **London AI Week (22-24 Sept)** has combo packages with Kerry extensions — could merge professional interest with a long weekend west
+
+**No fresh intel on:** Crystal sailings or Dublin luxury hotels this cycle.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
 **Tonight at Tralee Kingdom Stadium:**
-- 🔥 **8 races scheduled** — feature race is the **Kerry Cup qualifier**
-- Racing underway this evening; check Irish Greyhound Board for card and results
+- 🔥 **8 races from 19:30 BST**
+- **Feature: Kerry Cup qualifier** — decent card for a Tuesday
 
-No fresh news from Cork or Limerick circuits today.
+No fresh results from Cork or Limerick since last refresh. IGB site has full Tralee card if you want form.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Review FCA's new DORA guidance for AI model risk** — relevant for current advisory positioning on governed AI cutovers
-2. **Check Silversea Dublin departure dates** — 15% discount won't last; October suits autumn travel
-3. **Tune into Tralee tonight** — Kerry Cup qualifier worth following
-4. **Scan Microsoft's Humanist AI Code of Conduct draft** — consultation window open; useful framing for enterprise AI governance conversations
-5. **Monitor UK mortgage rate commentary** — US Treasury spike at 5.04% may translate to pricing pressure
+1. **Review FCA's October 2026 AI model risk guidance** — directly relevant to your governance advisory; download from FCA site tonight
+2. **Book London AI Week banking track** (22-24 Sept) — one week away; Kerry extension packages available
+3. **Check Silversea 2027 Kenya combo** — 15% discount, private transfers; compare with Regent SA option
+4. **Monitor DORA progress with any active clients** — 40% lag rate suggests advisory opportunity
+5. **Tralee races tonight 19:30** — Kerry Cup qualifier if you fancy catching the stream
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-- **Bitcoin holding above $58,000** — steady amid broader UK banking AI adoption news; no dramatic moves
-- No major regulatory announcements from FCA on digital assets this week
-- Coindesk and Cointelegraph quiet on UK-specific developments
+No major UK-banking-relevant crypto developments in today's feeds. Bitcoin and major tokens trading within recent ranges. Worth noting:
 
-*Evergreen note:* FCA's crypto marketing rules remain in force — any new exposure should still account for promotion restrictions.
+- US Treasury yield spike (5.04%) typically creates headwinds for risk assets including crypto
+- No fresh FCA crypto guidance this cycle
+
+*Evergreen suggestion:* If following institutional crypto adoption, Coindesk's institutional desk coverage remains solid for tracking UK bank stablecoin pilots.
 
 ---
 
-*That's the state of play. Quiet week for crypto; busy week for AI governance debates and UK banking manoeuvres.*
+*Markets volatile, DORA clock ticking, greyhounds running in Tralee. Solid Tuesday.*
