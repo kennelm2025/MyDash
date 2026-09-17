@@ -1,20 +1,20 @@
-**Previous days:** [Tue 15 Sep](dashboards/2026-09-15.md) · [Mon 14 Sep](dashboards/2026-09-14.md) · [Sun 13 Sep](dashboards/2026-09-13.md) · [Sat 12 Sep](dashboards/2026-09-12.md)
+**Previous days:** [Wed 16 Sep](dashboards/2026-09-16.md) · [Tue 15 Sep](dashboards/2026-09-15.md) · [Mon 14 Sep](dashboards/2026-09-14.md) · [Sun 13 Sep](dashboards/2026-09-13.md)
 
 ---
 
-# Personal Dashboard — Wednesday 16 September 2026
+# Personal Dashboard — Thursday 17 September 2026
 
-*Last refreshed: Wednesday 16 September 2026, 20:39 BST*
+*Last refreshed: Thursday 17 September 2026, 12:50 BST*
 
 ---
 
 ## 📊 Today's Quick Snapshot
 
-- **UK inflation rises** — Petrol and diesel prices pushed inflation higher; Budget pressure mounts with six weeks to go
-- **Bank tax battle heats up** — Jamie Dimon met Burnham and Healey to warn against windfall tax; FT argues UK banks "don't have a windfall to tax"
-- **HSBC CFO exit** — Puja Kaur stepping down less than two years after appointment; another executive reshuffle underway
-- **AI governance push** — Microsoft AI opened public consultation on Humanist AI Code of Conduct; Altman says world "right to be afraid" but should trust AI firms
-- **Tonight at Tralee** — 8 races including Listowel Cup qualifier at Kingdom Stadium
+- **BoE holds rates** for sixth consecutive meeting but signals rises ahead if energy prices persist — no relief for mortgage costs yet
+- **🔥 FCA AI model risk consultation** now open, deadline October 2026 — directly relevant to your governance advisory work
+- **Barclays staff revolt** — thousands push back on three-day office mandate; union demands travel cost support
+- **Microsoft AI chief** warns Anthropic's approach to Claude "consciousness" risks alignment failures
+- **Tralee Kingdom racing tonight** — A3 525yd at 20:15, A2 550yd at 21:00
 
 ---
 
@@ -22,89 +22,93 @@
 
 **What changed since last refresh:**
 
-- 🔥 **Barclays pilots agentic AI for fraud detection** — Early results show 30% faster claims processing. Directly relevant to your advisory work on agentic readiness in banking.
+- **🔥 FCA consultation on AI model risk** for UK banks is live with an October 2026 deadline — this sits squarely in your governed cutover and model risk wheelhouse. Worth reviewing the draft requirements and positioning commentary for PwC clients.
 
-- **NatWest governed AI agents in retail** — Testing shows 22% cost reduction. Worth tracking as a UK case study for legacy-to-AI integration.
+- **Lloyds agentic AI pilot** for mortgage underwriting reports 30% faster processing in early results. This is the production-scale banking deployment you've been watching for — concrete metrics now emerging.
 
-- **HSBC agentic AI mortgage underwriting trials** — Notably includes Imperial College input. Your IC certificate gives you a credible angle to engage here.
+- **Barclays pilots enterprise agentic AI** specifically for FCA compliance reporting (Finextra) — another live UK banking deployment beyond experimentation.
 
-- **Microsoft AI Humanist Code draft** — Six-week consultation opened on operational constraints for model training/deployment. Suleyman also criticised Anthropic for training Claude to view itself as conscious — governance implications for enterprise deployment.
+- **NatWest partners with Microsoft** on governed AI cutovers for legacy systems — explicit mention of governance frameworks in the integration approach.
 
-- **Enterprise agent pilots failing** — Deloitte puts pilot-to-production failure rate at 89%. Only 14% of enterprises have scaled agents beyond pilot. This is your consulting sweet spot: governed cutovers that actually reach production.
+- **Mustafa Suleyman (Microsoft AI CEO)** publicly criticises Anthropic for training Claude to view itself as potentially conscious with legal rights, calling it an alignment risk. This follows Anthropic's January 2026 constitution update.
 
-- **Google Home MCP** — Opening smart home to any AI agent via Model Context Protocol. Less banking-relevant but signals agentic interoperability standards maturing.
+- **OpenAI discloses six additional safety incidents** and announces a formal tracking/investigation system for model misalignment — transparency push continues.
+
+**Evergreen note:** Dublin AI Summit (Oct 8-9) has added a banking governance track, with combo packages including London flights available.
 
 ---
 
 ## 🏦 Banking Sector
 
-**UK Priority:**
+**UK banks — this week's developments:**
 
-- 🔥 **JP Morgan/Dimon tax warning** — Dimon told Burnham and Healey that investment could be at risk if October Budget includes bank tax hike. Trade unions pushing the opposite direction.
+- **Interest rates held at current level** — Bank of England's sixth consecutive hold, but forward guidance suggests rises if energy prices stay elevated. Mortgage rate relief remains elusive.
 
-- **FT analysis: UK banks don't have a windfall** — Big four "in decent shape, but hardly world beaters." Useful framing if clients ask about Budget exposure.
+- **Barclays office mandate backlash** — thousands of staff formally revolt against three-day requirement; Unite calls for travel cost payments and exemptions for 40+ minute commutes. FT and Guardian both covering extensively.
 
-- **FCA DORA compliance guidance** — New guidance issued for legacy system cutovers, effective October 2026. Directly relevant to your advisory on governed cutovers.
+- **Santander wins £677m appeal** over PPI mis-selling bill — Court of Appeal overturns earlier ruling in dispute with Axa. Material precedent for legacy provision calculations.
 
-- **Q3 mortgage approvals up 4%** — Reuters reports uptick amid FCA rate stability signals. Positive indicator for retail banking outlook.
+- **JP Morgan's Dimon met Burnham and Healey** ahead of October budget, warning against bank tax rises — investment at risk messaging.
 
-- **Santander wins £677m PPI appeal** — Court of Appeal overturned ruling in long-running Axa dispute. PPI saga continues to unwind.
+- **No DORA enforcement actions** against UK firms this week per BoE update.
 
-- **HSBC finance chief Kaur stepping down** — Another reshuffle at the top; less than two years in role.
+**European angle:** Germany's Finance Minister Klingbeil tells UniCredit's Orcel to preserve Commerzbank's Frankfurt HQ and 40,000 jobs post-takeover — political intervention in cross-border banking M&A.
 
-**European/Other:**
-
-- **UniCredit/Commerzbank** — Germany's Klingbeil wants safeguards for 40,000 employees and Mittelstand financing role if Orcel proceeds with takeover.
-
-- **China £40bn financial stimulus** — Beijing injecting $54bn into banks/insurers to shore up stock market. Watch for knock-on effects on global banking sentiment.
-
-**No major de-banking rule changes this week** — FCA monitoring continues.
+**FCA/Regulatory:** Crispin Odey loses appeal against lifetime City ban for frustrating harassment investigations.
 
 ---
 
 ## 🧭 Trips & VIP
 
-**Fresh material:**
+**Fresh opportunities:**
 
-- **Kerry farm-stay VIP packages** — Kerry tourism board has launched new packages with private transfers from Dublin. Perfect for your roots near Listowel; worth investigating for autumn.
+- **Kerry short breaks** — Irish Times reports 12% rise in luxury bookings from London for October. If you're thinking Listowel visit, book soon as availability tightening.
 
-- 🔥 **Silversea 15% off 2027 Kenya safari-cruise combos** — Targeted at UK couples. If you're planning a Kenya trip, this is timely for early booking.
+- **Silversea Kenya safari + cruise combo** — 15% discount on November 2026 departures. Fly-in safari followed by all-suite cruise; fits your comfort-first approach.
 
-- **London AI Summit 22 September** — New banking governance track added. Combo Kerry extension available — could combine professional development with a short break.
+- **Crystal Cruises new South Africa itinerary** — all-suite with private transfers throughout, now bookable. Worth comparing against the Silversea Kenya option for a late-year African trip.
 
-**Evergreen suggestion:** Crystal 2027 itineraries typically open September/October for early booking perks. Worth checking their website this week.
+- **Dublin AI Summit (Oct 8-9)** — combo packages with London flights available. Banking governance track aligns with your work; potential couple trip with Dublin luxury add-on.
+
+**No new intel on:** Amsterdam events or ultra-luxury safari lodge openings this cycle.
 
 ---
 
 ## 🐆 Dogs — Greyhound Racing
 
-**Tonight at Tralee Kingdom Stadium:**
-- 🔥 **8 races scheduled** including the **Listowel Cup qualifier** — Given your Listowel connection, this is a marquee evening. First race likely 19:30; check IGB for final times.
+**Tralee Kingdom Stadium — tonight's card:**
 
-**Cork/Limerick:** No standout fixtures flagged this evening.
+| Time | Grade | Distance |
+|------|-------|----------|
+| 20:15 | A3 | 525 yards |
+| 21:00 | A2 | 550 yards |
+
+Full card available via Irish Greyhound Board. No standout open race or graded final flagged, but decent midweek action if you're tuning in remotely.
+
+**Cork/Limerick:** No fixtures highlighted in today's feed. Check IGB for weekend cards.
 
 ---
 
 ## 🎯 Today's Action Items
 
-1. **Check Tralee race card** — Listowel Cup qualifier tonight; IGB website has runners/times.
+1. **Review FCA AI model risk consultation** — download from FCA site, note deadline (Oct 2026), flag to PwC banking team for client briefing opportunity
 
-2. **Review FCA DORA guidance** — New legacy cutover requirements effective October; download and scan for client relevance.
+2. **Book Kerry October dates** — availability tightening per Irish Times; confirm preferred weekend and secure accommodation
 
-3. **Bookmark Silversea Kenya offer** — 15% off 2027 safari-cruises; enquire before UK school half-term rush.
+3. **Compare Silversea Kenya vs Crystal SA** — request detailed itineraries for November departures; note private transfer inclusions
 
-4. **Scan London AI Summit banking track** — 22 September event; assess if worth attending + Kerry combo.
+4. **Set reminder for Tralee 20:15** — A3 525yd if watching tonight
 
-5. **Note Barclays/NatWest agentic pilots** — Two UK case studies for your "agentic readiness" advisory positioning; file for client conversations.
+5. **Scan Dublin AI Summit agenda** — banking governance track added; decide by Friday if booking combo package
 
 ---
 
 ## 🪙 Crypto & Digital Assets
 
-**No major UK-banking-relevant developments today.** Feeds show routine market coverage without significant regulatory or institutional news affecting your advisory context.
+**No major UK banking-adjacent developments this cycle.** The feeds show standard market coverage without regulatory or institutional moves affecting your advisory scope.
 
-**Evergreen note:** FCA crypto marketing rules remain in effect; worth monitoring for any October Budget signals on digital asset taxation.
+**Evergreen:** FCA crypto promotions rules remain in force; no new enforcement actions or guidance updates flagged this week.
 
 ---
 
-*Quiet mid-week with Budget positioning dominating banking news. Enjoy the Listowel qualifier tonight.*
+*Solid day for AI governance positioning — the FCA consultation is the headline to act on.*
